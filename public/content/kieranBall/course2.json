@@ -1,0 +1,3434 @@
+[
+  {
+    "eng": "The bill",
+    "fre": "L'addition"
+  },
+  {
+    "eng": "I would like the bill.",
+    "fre": "Je voudrais l'addition."
+  },
+  {
+    "eng": "My",
+    "fre": "Mon ma mes"
+  },
+  {
+    "eng": "My bill",
+    "fre": "Mon addition"
+  },
+  {
+    "eng": "I would like my bill.",
+    "fre": "Je voudrais mon addition."
+  },
+  {
+    "eng": "My bill is here.",
+    "fre": "Mon addition est ici."
+  },
+  {
+    "eng": "The bill is for him.",
+    "fre": "L'addition est pour lui."
+  },
+  {
+    "eng": "A bottle of...",
+    "fre": "Une bouteille de..."
+  },
+  {
+    "eng": "I would like a bottle of wine.",
+    "fre": "Je voudrais une bouteille de vin."
+  },
+  {
+    "eng": "I would like two bottles of wine, please.",
+    "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+  },
+  {
+    "eng": "The bottle.",
+    "fre": "La bouteille."
+  },
+  {
+    "eng": "The bottle of wine.",
+    "fre": "La bouteille de vin."
+  },
+  {
+    "eng": "The wine",
+    "fre": "Le vin"
+  },
+  {
+    "eng": "I would like the wine.",
+    "fre": "Je voudrais le vin."
+  },
+  {
+    "eng": "The wine is delicious.",
+    "fre": "Le vin est délicieux."
+  },
+  {
+    "eng": "The wine is very good.",
+    "fre": "Le vin est très bon."
+  },
+  {
+    "eng": "The wine is for me.",
+    "fre": "Le vin est pour moi."
+  },
+  {
+    "eng": "I think the wine is always very good here.",
+    "fre": "Pour moi, le vin est toujours très bon ici."
+  },
+  {
+    "eng": "My wine is terrible.",
+    "fre": "Mon vin est terrible."
+  },
+  {
+    "eng": "A bottle of water",
+    "fre": "Une bouteille d'eau"
+  },
+  {
+    "eng": "The bottle of water.",
+    "fre": "La bouteille d'eau."
+  },
+  {
+    "eng": "I would like a bottle of water, please.",
+    "fre": "Je voudrais une bouteille d'eau, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a bottle of water for the table,",
+    "fre": "Je voudrais une bouteille d'eau pour la table,"
+  },
+  {
+    "eng": "The bottle of water for me, please.",
+    "fre": "La bouteille d'eau pour moi, s'il vous plait."
+  },
+  {
+    "eng": "How much is It?",
+    "fre": "C'est combien?"
+  },
+  {
+    "eng": "How much is the chicken?",
+    "fre": "C'est combien le poulet?"
+  },
+  {
+    "eng": "How much is a bottle?",
+    "fre": "C'est combien une bouteille?"
+  },
+  {
+    "eng": "The bill",
+    "fre": "'l'addition"
+  },
+  {
+    "eng": "A bottle of wine",
+    "fre": "Une bouteille de vin"
+  },
+  {
+    "eng": "The water",
+    "fre": "L'eau"
+  },
+  {
+    "eng": "How much its it?",
+    "fre": "C'est combien?"
+  },
+  {
+    "eng": "How much is the turkey?",
+    "fre": "C'est combien la dinde?"
+  },
+  {
+    "eng": "How much is the wine here?",
+    "fre": "C'est combien le vin ici?"
+  },
+  {
+    "eng": "How much is that?",
+    "fre": "C'est combien ¢a?"
+  },
+  {
+    "eng": "ECeXCUSe Me",
+    "fre": "EXCUSEZ-MOI!"
+  },
+  {
+    "eng": "Excuse me, how much is the wine?",
+    "fre": "Excusez-moi, C'est combien le vin?"
+  },
+  {
+    "eng": "Excuse me, would like the bill, please.",
+    "fre": "EXCUSeZ-Moi, Je voudrais addition, s'il vous plaît."
+  },
+  {
+    "eng": "Excuse me, how much is a bottle of water?",
+    "fre": "Excusez-moi, c'est combien une bouteille"
+  },
+  {
+    "eng": "I'd like two bottles of wine, please.",
+    "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+  },
+  {
+    "eng": "Excuse me, I'd like the bill, please.",
+    "fre": "ExCUSeZ-moi, Je voudrais l'addition, s'il vous plaît."
+  },
+  {
+    "eng": "How much is a bottle of water?",
+    "fre": "C'est combien une bouteille d'eau?"
+  },
+  {
+    "eng": "I'd like a bottle of wine, please.",
+    "fre": "Je voudrais une bouteille de vin, s'il vous plaît."
+  },
+  {
+    "eng": "I would like two bottles of water, please.",
+    "fre": "Je voudrais deux bouteilles d'eau, s'il vous plaît."
+  },
+  {
+    "eng": "How much is a table for three people?",
+    "fre": "C'est combien une table pour trois"
+  },
+  {
+    "eng": "I would like my bill, please.",
+    "fre": "Je voudrais mon addition, s'il vous plaît."
+  },
+  {
+    "eng": "How much is the chicken here?",
+    "fre": "C'est combien le poulet ici?"
+  },
+  {
+    "eng": "The bill is for me.",
+    "fre": "L'addition est pour moi."
+  },
+  {
+    "eng": "The bill, please.",
+    "fre": "Addition, s'il vous plait."
+  },
+  {
+    "eng": "How much is my bill?",
+    "fre": "C'est combien mon addition?"
+  },
+  {
+    "eng": "How much is a table for ten people?",
+    "fre": "C'est combien une table pour dix"
+  },
+  {
+    "eng": "How much is the bill?",
+    "fre": "C'est combien l'addition?"
+  },
+  {
+    "eng": "I'd like the bill, please.",
+    "fre": "Je voudrais l'l'addition, s'il vous plait."
+  },
+  {
+    "eng": "My bill, please.",
+    "fre": "Mon addition, s'il vous plait."
+  },
+  {
+    "eng": "The restaurant is fantastic.",
+    "fre": "Le restaurant est fantastique."
+  },
+  {
+    "eng": "Yes, it's very good.",
+    "fre": "Oui, c'est très bon."
+  },
+  {
+    "eng": "No, that isn't for her.",
+    "fre": "Non, ¢a ce nest pas pour elle."
+  },
+  {
+    "eng": "It isn't very good for her.",
+    "fre": "Ce nest pas très bon pour elle."
+  },
+  {
+    "eng": "It's for him.",
+    "fre": "C'est pour ui."
+  },
+  {
+    "eng": "It's for me.",
+    "fre": "C'est pour moi."
+  },
+  {
+    "eng": "I'd like a reservation for two people, please.",
+    "fre": "Je voudrais une reservation pour deux"
+  },
+  {
+    "eng": "It's absolutely delicious.",
+    "fre": "C'est absolument délicieux."
+  },
+  {
+    "eng": "I think the restaurant is fantastic.",
+    "fre": "Pour moi, le restaurant est fantastique."
+  },
+  {
+    "eng": "My hotel is here.",
+    "fre": "Mon hotel est ici."
+  },
+  {
+    "eng": "Yes, think it's fantastic here.",
+    "fre": "Oui, pour moi, c'est fantastique ici."
+  },
+  {
+    "eng": "It's always fantastic here.",
+    "fre": "C'est toujours fantastique ici."
+  },
+  {
+    "eng": "That is for me.",
+    "fre": "Ca C'est pour moi."
+  },
+  {
+    "eng": "It's absolutely extraordinary here.",
+    "fre": "C'est absolument extraordinaire Ici."
+  },
+  {
+    "eng": "My chicken is terrible.",
+    "fre": "Mon poulet est terrible."
+  },
+  {
+    "eng": "It's fantastic.",
+    "fre": "C'est fantastique."
+  },
+  {
+    "eng": "I think the restaurant is very good.",
+    "fre": "Pour moi, le restaurant est très bon."
+  },
+  {
+    "eng": "Not for me, thank you.",
+    "fre": "Pas pour moi, merci."
+  },
+  {
+    "eng": "It's very beautiful here.",
+    "fre": "C'est très beau Ici."
+  },
+  {
+    "eng": "A reservation",
+    "fre": "Une reservation"
+  },
+  {
+    "eng": "Eoodbye",
+    "fre": "Au revoir"
+  },
+  {
+    "eng": "Absolutely",
+    "fre": "Absolument"
+  },
+  {
+    "eng": "A coffee",
+    "fre": "Un cate"
+  },
+  {
+    "eng": "The restaurant",
+    "fre": "Le restaurant"
+  },
+  {
+    "eng": "IS",
+    "fre": "EST"
+  },
+  {
+    "eng": "Very",
+    "fre": "Très"
+  },
+  {
+    "eng": "That",
+    "fre": "Cd"
+  },
+  {
+    "eng": "Goodnight",
+    "fre": "Bonne nuit"
+  },
+  {
+    "eng": "The hotel",
+    "fre": "'notel"
+  },
+  {
+    "eng": "Nice",
+    "fre": "SYM Da"
+  },
+  {
+    "eng": "Two people",
+    "fre": "Deux personnes"
+  },
+  {
+    "eng": "The food",
+    "fre": "La nourriture"
+  },
+  {
+    "eng": "It isnt",
+    "fre": "Ce nest pas"
+  },
+  {
+    "eng": "Isnt",
+    "fre": "Nest pas"
+  },
+  {
+    "eng": "Nave a good evening",
+    "fre": "Bonne soiree"
+  },
+  {
+    "eng": "But",
+    "fre": "Mals"
+  },
+  {
+    "eng": "Yes",
+    "fre": "OUI"
+  },
+  {
+    "eng": "Perfect",
+    "fre": "Parfait"
+  },
+  {
+    "eng": "Here",
+    "fre": "ICI"
+  },
+  {
+    "eng": "A tea",
+    "fre": "Un the"
+  },
+  {
+    "eng": "The water",
+    "fre": "Eau"
+  },
+  {
+    "eng": "The bill",
+    "fre": "'addition"
+  },
+  {
+    "eng": "A Carrot",
+    "fre": "Une carotte"
+  },
+  {
+    "eng": "AlSo",
+    "fre": "Aussi"
+  },
+  {
+    "eng": "For her",
+    "fre": "Pour elle"
+  },
+  {
+    "eng": "EXCUSEZ-MOI",
+    "fre": "CXCUSe Ne"
+  },
+  {
+    "eng": "A leek",
+    "fre": "UN polreau"
+  },
+  {
+    "eng": "Extraordinary",
+    "fre": "Extraordinaire"
+  },
+  {
+    "eng": "The",
+    "fre": "Le la les"
+  },
+  {
+    "eng": "Are",
+    "fre": "Sont"
+  },
+  {
+    "eng": "E chicken",
+    "fre": "A poulet"
+  },
+  {
+    "eng": "I would like",
+    "fre": "Je vouarais"
+  },
+  {
+    "eng": "Beautiful",
+    "fre": "Beau"
+  },
+  {
+    "eng": "NO",
+    "fre": "Non"
+  },
+  {
+    "eng": "The turkey",
+    "fre": "La dinde"
+  },
+  {
+    "eng": "See you soon",
+    "fre": "A bientot"
+  },
+  {
+    "eng": "Tnat is",
+    "fre": "Ca C'est"
+  },
+  {
+    "eng": "Always",
+    "fre": "Toujours"
+  },
+  {
+    "eng": "Everybody",
+    "fre": "Tout le monde"
+  },
+  {
+    "eng": "For him",
+    "fre": "Pour lui"
+  },
+  {
+    "eng": "For me",
+    "fre": "Dour mol"
+  },
+  {
+    "eng": "Fantastic",
+    "fre": "Fantastique"
+  },
+  {
+    "eng": "Hello",
+    "fre": "Bonjour"
+  },
+  {
+    "eng": "A bottle of wine",
+    "fre": "Une bouteille de"
+  },
+  {
+    "eng": "And",
+    "fre": "ET"
+  },
+  {
+    "eng": "Nave a good day",
+    "fre": "Bonne journée"
+  },
+  {
+    "eng": "Thank you",
+    "fre": "Merc"
+  },
+  {
+    "eng": "Eood evening",
+    "fre": "Ponsoir"
+  },
+  {
+    "eng": "A table",
+    "fre": "Une table"
+  },
+  {
+    "eng": "Hi",
+    "fre": "Salut"
+  },
+  {
+    "eng": "Arent",
+    "fre": "Ne sont pas"
+  },
+  {
+    "eng": "Please",
+    "fre": "S'il vous plait"
+  },
+  {
+    "eng": "I think",
+    "fre": "Pour mol"
+  },
+  {
+    "eng": "A bottle",
+    "fre": "Une bouteille"
+  },
+  {
+    "eng": "EXCUSEZ-MO",
+    "fre": "CxXCUSe Ne"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESSAVePL"
+  },
+  {
+    "eng": "I would like to try the wine.",
+    "fre": "Je voudrais essayer le vin."
+  },
+  {
+    "eng": "I would like to try the cheese.",
+    "fre": "Je voudrais essayer le fromage."
+  },
+  {
+    "eng": "Can",
+    "fre": "DuUIS-je?"
+  },
+  {
+    "eng": "Can try the wine?",
+    "fre": "Puis-je essayer le vin?"
+  },
+  {
+    "eng": "Can try the cheese?",
+    "fre": "Puis-je essayer le fromage?"
+  },
+  {
+    "eng": "I would like to try that, please.",
+    "fre": "Je voudrais essayer ¢a, s'il vous plait."
+  },
+  {
+    "eng": "Can may",
+    "fre": "DUIS-je?"
+  },
+  {
+    "eng": "Puis-je essayer ca?",
+    "fre": "May try that?"
+  },
+  {
+    "eng": "To pay",
+    "fre": "Dayer"
+  },
+  {
+    "eng": "I would like to pay for the wine.",
+    "fre": "Je voudrais payer le vin."
+  },
+  {
+    "eng": "Can pay for the coffees?",
+    "fre": "Puis-je payer les cafés?"
+  },
+  {
+    "eng": "May pay for the wine?",
+    "fre": "Puis-je payer le vin?"
+  },
+  {
+    "eng": "I would like to pay the bill.",
+    "fre": "Je voudrais payer l'addition."
+  },
+  {
+    "eng": "I would like to pay my bill.",
+    "fre": "Je voudrais payer mon addition."
+  },
+  {
+    "eng": "To make",
+    "fre": "Faire"
+  },
+  {
+    "eng": "Can make a reservation?",
+    "fre": "Puis-je faire une reservation?"
+  },
+  {
+    "eng": "I would like to make a reservation.",
+    "fre": "Je voudrais faire une réservation."
+  },
+  {
+    "eng": "May make a reservation for three people,",
+    "fre": "Puis-je faire une reservation pour trois"
+  },
+  {
+    "eng": "I would like to make a reservation for eight",
+    "fre": "Je voudrais faire une reservation pour nuit"
+  },
+  {
+    "eng": "May try the chicken, please?",
+    "fre": "Puis-je essayer le poulet, sil vous plait?"
+  },
+  {
+    "eng": "Can pay here?",
+    "fre": "Puis-je payer ici?"
+  },
+  {
+    "eng": "Can pay the bill, please?",
+    "fre": "Puis-je payer l'addition, s'il vous plait?"
+  },
+  {
+    "eng": "Can try the turkey, please?",
+    "fre": "Puis-je essayer la dinde, s'il vous plait?"
+  },
+  {
+    "eng": "Everything is perfect.",
+    "fre": "Tout est parfait."
+  },
+  {
+    "eng": "Hello, I'd like a table for three people,",
+    "fre": "Bonjour, Je voudrais une table pour trois"
+  },
+  {
+    "eng": "The chicken Is delicious.",
+    "fre": "Le poulet est délicieux."
+  },
+  {
+    "eng": "It's always nere.",
+    "fre": "C'est toujours Ici."
+  },
+  {
+    "eng": "It isn't fantastic.",
+    "fre": "Ce nest pas fantastique."
+  },
+  {
+    "eng": "A table for five, please.",
+    "fre": "Une table pour cing, s'il vous plait."
+  },
+  {
+    "eng": "My turkey is fantastic.",
+    "fre": "Ma dinde est fantastique."
+  },
+  {
+    "eng": "That isn't good for him.",
+    "fre": "Ca ce nest pas bon pour lui."
+  },
+  {
+    "eng": "It isn't for him; it's for her.",
+    "fre": "Ce nest pas pour lui; c'est pour elle."
+  },
+  {
+    "eng": "Excuse me, I'd like a coffee, please.",
+    "fre": "EXCUSeZ-Mmoi, Je voudrais un cafe, s'il vous plaît."
+  },
+  {
+    "eng": "My carrots are perfect.",
+    "fre": "Mes carottes sont parfaites."
+  },
+  {
+    "eng": "Goodbye and have a good evening.",
+    "fre": "Au revoir et bonne soiree."
+  },
+  {
+    "eng": "To hire to rent",
+    "fre": "Jouer"
+  },
+  {
+    "eng": "How much is it to hire that?",
+    "fre": "C'est combien louer ¢a?"
+  },
+  {
+    "eng": "I would like to hire that.",
+    "fre": "Je voudrais louer ¢a."
+  },
+  {
+    "eng": "Can hire that for two people, please?",
+    "fre": "Puis-je louer Ca pour deux personnes, s'il vous plaît."
+  },
+  {
+    "eng": "Dad Cal",
+    "fre": "Une voiture"
+  },
+  {
+    "eng": "I would like to hire a Car.",
+    "fre": "Je voudrais louer une voiture."
+  },
+  {
+    "eng": "Can hire a car?",
+    "fre": "Puis-je louer une voiture?"
+  },
+  {
+    "eng": "I would like a car for five people.",
+    "fre": "Je voudrais une voiture pour cing"
+  },
+  {
+    "eng": "The car is perfect.",
+    "fre": "La voiture est parfaite."
+  },
+  {
+    "eng": "I think the car is very good.",
+    "fre": "Pour moi, la voiture est très bonne."
+  },
+  {
+    "eng": "The car is perfect for five people.",
+    "fre": "La voiture est parfaite pour cing personnes."
+  },
+  {
+    "eng": "A week one week",
+    "fre": "Une semaine"
+  },
+  {
+    "eng": "Can hire a car for one week?",
+    "fre": "Puis-je louer une voiture pour une semaine?"
+  },
+  {
+    "eng": "I would like a car for one week.",
+    "fre": "Je voudrais une voiture pour une semaine."
+  },
+  {
+    "eng": "How much is it for one week?",
+    "fre": "C'est combien pour une semaine?"
+  },
+  {
+    "eng": "It's for one week.",
+    "fre": "C'est pour une semaine."
+  },
+  {
+    "eng": "Everybody is here for one week.",
+    "fre": "Tout le monde est ici pour une semaine."
+  },
+  {
+    "eng": "Two weeks",
+    "fre": "Deux semaines"
+  },
+  {
+    "eng": "To hire to rent",
+    "fre": "Louer"
+  },
+  {
+    "eng": "D Cal",
+    "fre": "Une voiture"
+  },
+  {
+    "eng": "Can hire a car for two weeks?",
+    "fre": "Puis-je louer une voiture pour deux"
+  },
+  {
+    "eng": "How much is it for two weeks?",
+    "fre": "C'est combien pour deux semaines?"
+  },
+  {
+    "eng": "I would like to hire that for two weeks,",
+    "fre": "Je voudrais louer ca pour deux semaines, s'il vous plaît."
+  },
+  {
+    "eng": "It's for two Weeks.",
+    "fre": "C'est pour deux semaines."
+  },
+  {
+    "eng": "A day one day",
+    "fre": "UN jour"
+  },
+  {
+    "eng": "I would like a car for one day, please.",
+    "fre": "Je voudrais une voiture pour un jour, sil"
+  },
+  {
+    "eng": "How much is it for one day?",
+    "fre": "C'est combien pour un jour?"
+  },
+  {
+    "eng": "It's for one day.",
+    "fre": "C'est pour un jour."
+  },
+  {
+    "eng": "Can hire that for one day?",
+    "fre": "Puis-je louer ¢a pour un jour?"
+  },
+  {
+    "eng": "I would like the car for one day, please.",
+    "fre": "Je voudrais la voiture pour un jour, s'il vous plaît."
+  },
+  {
+    "eng": "Two days",
+    "fre": "Deux jours"
+  },
+  {
+    "eng": "I would like to hire a car for two days.",
+    "fre": "Je voudrais louer une voiture pour deux"
+  },
+  {
+    "eng": "How much is it for two days?",
+    "fre": "C'est combien pour deux jours?"
+  },
+  {
+    "eng": "I would like the car for two days.",
+    "fre": "Je voudrais la voiture pour deux jours."
+  },
+  {
+    "eng": "Can hire that for two days?",
+    "fre": "Puis-je louer ¢a pour deux jours?"
+  },
+  {
+    "eng": "A month one month",
+    "fre": "Un mois"
+  },
+  {
+    "eng": "One day a day",
+    "fre": "Un jour"
+  },
+  {
+    "eng": "One month a month",
+    "fre": "UN mois"
+  },
+  {
+    "eng": "It's for one month.",
+    "fre": "C'est pour un mois."
+  },
+  {
+    "eng": "How much is it for one month?",
+    "fre": "C'est combien pour un mois?"
+  },
+  {
+    "eng": "Two months",
+    "fre": "Deux mois"
+  },
+  {
+    "eng": "I would like to hire the car for two months,",
+    "fre": "Je voudrais louer la voiture pour deux mois,"
+  },
+  {
+    "eng": "How much Is it for two months?",
+    "fre": "C'est combien pour deux mois?"
+  },
+  {
+    "eng": "I would like to hire a car. How much is it?",
+    "fre": "Je voudrais louer une voiture. C'est"
+  },
+  {
+    "eng": "How much is it for eight days?",
+    "fre": "C'est combien pour huit jours?"
+  },
+  {
+    "eng": "My car is terrible.",
+    "fre": "Ma voiture est terrible."
+  },
+  {
+    "eng": "Can hire a car for three weeks, please?",
+    "fre": "Puis-je louer une voiture pour trois"
+  },
+  {
+    "eng": "Can hire a car for three days, please?",
+    "fre": "Puis-je louer une voiture pour trois jours, sil"
+  },
+  {
+    "eng": "I would like to hire a car for one week. How",
+    "fre": "Je voudrais louer une voiture pour une"
+  },
+  {
+    "eng": "I'd like to hire a car for two weeks. How",
+    "fre": "Je voudrais louer une voiture pour deux"
+  },
+  {
+    "eng": "How much is it for nine days?",
+    "fre": "C'est combien pour neuf jours?"
+  },
+  {
+    "eng": "I'd like to hire two cars.",
+    "fre": "Je voudrais louer deux voitures."
+  },
+  {
+    "eng": "How much is it for six days?",
+    "fre": "C'est combien pour six jours?"
+  },
+  {
+    "eng": "How much is it for five days?",
+    "fre": "C'est combien pour cing jours?"
+  },
+  {
+    "eng": "Can hire a car here?",
+    "fre": "Puis-je louer une voiture ici?"
+  },
+  {
+    "eng": "I would like to hire two cars.",
+    "fre": "Je voudrais louer deux voitures."
+  },
+  {
+    "eng": "I'd like to hire a car.",
+    "fre": "Je voudrais louer une voiture."
+  },
+  {
+    "eng": "I would like to hire a car for three days,",
+    "fre": "Je voudrais louer une voiture pour trois"
+  },
+  {
+    "eng": "How much is it for three days?",
+    "fre": "C'est combien pour trois jours?"
+  },
+  {
+    "eng": "The restaurant here is fantastic.",
+    "fre": "Le restaurant ici est fantastique."
+  },
+  {
+    "eng": "The turkey is always terrible here.",
+    "fre": "La dinde est toujours terrible ici."
+  },
+  {
+    "eng": "I think it's very good here.",
+    "fre": "Pour moi, c'est très bon ici."
+  },
+  {
+    "eng": "Everyboay is here.",
+    "fre": "Tout le monde est ici."
+  },
+  {
+    "eng": "That isn't very good.",
+    "fre": "Ca ce nest pas très bon."
+  },
+  {
+    "eng": "Have a good evening.",
+    "fre": "Bonne soirée."
+  },
+  {
+    "eng": "Have a good day.",
+    "fre": "Bonne journée."
+  },
+  {
+    "eng": "I'd like to make a reservation.",
+    "fre": "Je voudrais faire une réservation."
+  },
+  {
+    "eng": "The hotel is very good.",
+    "fre": "Hotel est très bon."
+  },
+  {
+    "eng": "It isn't good here.",
+    "fre": "Ce nest pas bon ici."
+  },
+  {
+    "eng": "Everybody here is very nice.",
+    "fre": "Tout le monde ici est très sympa."
+  },
+  {
+    "eng": "The turkey is perfect.",
+    "fre": "La dinde est parfaite."
+  },
+  {
+    "eng": "I'd like a bottle of water, please.",
+    "fre": "Je voudrais une bouteille d'eau s'il vous plait."
+  },
+  {
+    "eng": "I would like my bill, please.",
+    "fre": "Je voudrais mon addition, s'il vous plait."
+  },
+  {
+    "eng": "The chicken is always fantastic here.",
+    "fre": "Le poulet est toujours fantastique ici."
+  },
+  {
+    "eng": "It's for her.",
+    "fre": "C'est pour elle."
+  },
+  {
+    "eng": "The restaurant is very good.",
+    "fre": "Le restaurant est très bon."
+  },
+  {
+    "eng": "Everything",
+    "fre": "Tout"
+  },
+  {
+    "eng": "Pay *",
+    "fre": "Ayer"
+  },
+  {
+    "eng": "Eood evening",
+    "fre": "Bonsoir"
+  },
+  {
+    "eng": "Cy",
+    "fre": "A tea"
+  },
+  {
+    "eng": "For me",
+    "fre": "Pour mol"
+  },
+  {
+    "eng": "To hire",
+    "fre": "Louer"
+  },
+  {
+    "eng": "AlSo",
+    "fre": "Aussl"
+  },
+  {
+    "eng": "A week",
+    "fre": "Une semaine"
+  },
+  {
+    "eng": "Excuse me",
+    "fre": "EXCUSEZ-MO!"
+  },
+  {
+    "eng": "Can I?",
+    "fre": "DUIS- e?"
+  },
+  {
+    "eng": "D Caf",
+    "fre": "Une voiture"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESSAaAVePr"
+  },
+  {
+    "eng": "Isn't",
+    "fre": "Nest pas"
+  },
+  {
+    "eng": "That Is",
+    "fre": "Ca C'est"
+  },
+  {
+    "eng": "One day",
+    "fre": "UN jour"
+  },
+  {
+    "eng": "One week",
+    "fre": "Une semaine"
+  },
+  {
+    "eng": "One month",
+    "fre": "UN mols"
+  },
+  {
+    "eng": "CUFOS",
+    "fre": "Euros"
+  },
+  {
+    "eng": "It's ten euros.",
+    "fre": "C'est dix Euros."
+  },
+  {
+    "eng": "The bill is fifty euros.",
+    "fre": "L'addition est cinquante euros."
+  },
+  {
+    "eng": "It's one euro.",
+    "fre": "C'est Un euro."
+  },
+  {
+    "eng": "The wine is ten euros.",
+    "fre": "Le vin est dix euros."
+  },
+  {
+    "eng": "It's five euros for one day.",
+    "fre": "C'est cing euros pour un jour."
+  },
+  {
+    "eng": "Cents",
+    "fre": "Centimes"
+  },
+  {
+    "eng": "It's fifty cents.",
+    "fre": "C'est cinquante centimes."
+  },
+  {
+    "eng": "The bottle of water is sixty cents.",
+    "fre": "La bouteille d'eau est soixante centimes."
+  },
+  {
+    "eng": "It's fifty cents for a bottle of water.",
+    "fre": "C'est cinquante centimes pour une bouteille"
+  },
+  {
+    "eng": "Der",
+    "fre": "Par"
+  },
+  {
+    "eng": "Per day",
+    "fre": "Par mois"
+  },
+  {
+    "eng": "How much is it per day?",
+    "fre": "C'est combien par jour?"
+  },
+  {
+    "eng": "It's ten euros per week.",
+    "fre": "C'est dix euros par semaine."
+  },
+  {
+    "eng": "It's fifty euros per person.",
+    "fre": "C'est cinquante euros par personne."
+  },
+  {
+    "eng": "How much is the car per week?",
+    "fre": "C'est combien la voiture par semaine?"
+  },
+  {
+    "eng": "It's two euros fifty",
+    "fre": "C'est deux euros cinquante"
+  },
+  {
+    "eng": "It's twenty cents",
+    "fre": "C'est vinet centimes"
+  },
+  {
+    "eng": "It's three euros fifty.",
+    "fre": "C'est trois euros cinquante."
+  },
+  {
+    "eng": "Euros",
+    "fre": "CUlOS"
+  },
+  {
+    "eng": "Per",
+    "fre": "Dal"
+  },
+  {
+    "eng": "Per day",
+    "fre": "Par jour"
+  },
+  {
+    "eng": "Per week",
+    "fre": "Par semaine"
+  },
+  {
+    "eng": "Per montn",
+    "fre": "Par Mois"
+  },
+  {
+    "eng": "Per person",
+    "fre": "Par personne"
+  },
+  {
+    "eng": "It's Sixty EUros.",
+    "fre": "C'est soixante euros."
+  },
+  {
+    "eng": "It's eighty-one euros.",
+    "fre": "C'est quatre-vingt-un euros."
+  },
+  {
+    "eng": "It's Tifty cents.",
+    "fre": "C'est cinquante centimes."
+  },
+  {
+    "eng": "It's twenty euros for two days.",
+    "fre": "C'est vingt euros pour deux jours."
+  },
+  {
+    "eng": "It's fifty-three euros.",
+    "fre": "C'est cinquante-trois euros."
+  },
+  {
+    "eng": "It's eighty-three euros.",
+    "fre": "C'est quatre-vingt-trois euros."
+  },
+  {
+    "eng": "It's ten euros per bottle.",
+    "fre": "C'est dix euros par bouteille."
+  },
+  {
+    "eng": "It's eighty euros.",
+    "fre": "C'est quatre-vingts euros."
+  },
+  {
+    "eng": "It's thirty euros per month.",
+    "fre": "C'est trente euros par Mois."
+  },
+  {
+    "eng": "It's twenty-one euros.",
+    "fre": "C'est vingt-et-UNn euros."
+  },
+  {
+    "eng": "It's fifty-one euros.",
+    "fre": "C'est cinquante-et-un euros."
+  },
+  {
+    "eng": "It's fifty euros.",
+    "fre": "C'est cinquante euros."
+  },
+  {
+    "eng": "It's seventy cents.",
+    "fre": "C'est soixante-dix centimes."
+  },
+  {
+    "eng": "It's fifty-three euros.",
+    "fre": "C'est cinquante-trols euros."
+  },
+  {
+    "eng": "It's twenty-two euros.",
+    "fre": "C'est vingt-deux euros."
+  },
+  {
+    "eng": "It's eignty-two euros.",
+    "fre": "C'est quatre-vingt-deux euros."
+  },
+  {
+    "eng": "It's eighty-one euros.",
+    "fre": "C'est quatre-vingt-Uun euros."
+  },
+  {
+    "eng": "It's sixty euros.",
+    "fre": "C'est solxante euros."
+  },
+  {
+    "eng": "The food here is very good.",
+    "fre": "La nourriture ici est très bonne."
+  },
+  {
+    "eng": "The leeks are very good.",
+    "fre": "Les poireaux sont bons."
+  },
+  {
+    "eng": "The chicken and the turkey are delicious.",
+    "fre": "Le poulet et la dinde sont délicieux."
+  },
+  {
+    "eng": "The turkey is delicious.",
+    "fre": "La dinde est délicieuse."
+  },
+  {
+    "eng": "That is perfect.",
+    "fre": "Ca C'est parfait."
+  },
+  {
+    "eng": "May try the wine?",
+    "fre": "Puis-je essayer le vin?"
+  },
+  {
+    "eng": "I think everybody is very nice.",
+    "fre": "Pour moi, tout le monde est très sympa."
+  },
+  {
+    "eng": "Also, I'd like a coffee, please.",
+    "fre": "Aussi, j¢ voudrais un cafe, s'il vous plait."
+  },
+  {
+    "eng": "Yes, it's for me.",
+    "fre": "Oui, C'est pour moi."
+  },
+  {
+    "eng": "The hotel is terrible.",
+    "fre": "L'hdtel est terrible."
+  },
+  {
+    "eng": "Yes, it's for me.",
+    "fre": "Oui, C'est pour mol."
+  },
+  {
+    "eng": "Can hire a car for two weeks, please?",
+    "fre": "Puis-je louer une voiture pour deux"
+  },
+  {
+    "eng": "A bottle of wine for her and the bill for me.",
+    "fre": "Une bouteille de vin pour elle et 'addition"
+  },
+  {
+    "eng": "Yes, that is very good but it isn't perfect.",
+    "fre": "Oui, ¢a C'est très bon mais ce nest pas"
+  },
+  {
+    "eng": "It isn't very good.",
+    "fre": "Ce nest pas très bon."
+  },
+  {
+    "eng": "The turkey is perfect and, also, my coffee is",
+    "fre": "La dinde est parfaite et, aussi, mon cafe est"
+  },
+  {
+    "eng": "Thank you",
+    "fre": "Merci"
+  },
+  {
+    "eng": "Delicious",
+    "fre": "Délicieux"
+  },
+  {
+    "eng": "For him",
+    "fre": "Pour ul"
+  },
+  {
+    "eng": "The chicken",
+    "fre": "Le poulet"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESsdayel"
+  },
+  {
+    "eng": "A coffee",
+    "fre": "Un cafe"
+  },
+  {
+    "eng": "Nts",
+    "fre": "Un"
+  },
+  {
+    "eng": "Nello",
+    "fre": "Bonjour"
+  },
+  {
+    "eng": "A bottle of water",
+    "fre": "Une boutellle d'eau"
+  },
+  {
+    "eng": "Per person",
+    "fre": "Dal Personne"
+  },
+  {
+    "eng": "Euros",
+    "fre": "CUrOS"
+  },
+  {
+    "eng": "I think everyboyy is very nice.",
+    "fre": "Pour moi, tout le monde est très sympa."
+  },
+  {
+    "eng": "A bottle of wine for her and the bill for me.",
+    "fre": "Une bouteille de vin pour elle et addition"
+  },
+  {
+    "eng": "At what time...?",
+    "fre": "A quelle heure...?"
+  },
+  {
+    "eng": "At what time is the reservation?",
+    "fre": "A quelle heure est la reservation?"
+  },
+  {
+    "eng": "The breakfast",
+    "fre": "Le petit-dejeuner"
+  },
+  {
+    "eng": "The breakfast here is fantastic.",
+    "fre": "Le petit-dejeuner ici est fantastique."
+  },
+  {
+    "eng": "What time is the breakfast?",
+    "fre": "A quelle heure est le petit-dejeuner?"
+  },
+  {
+    "eng": "What time is breakfast?",
+    "fre": "A quelle heure est le petit-déjeuner?"
+  },
+  {
+    "eng": "I think the breakfast is perfect.",
+    "fre": "Pour moi, le petit-dejeuner est parfait."
+  },
+  {
+    "eng": "The breakfast here is always absolutely",
+    "fre": "Le petit-déjeuner ici est toujours"
+  },
+  {
+    "eng": "The breakfast is here.",
+    "fre": "Le petit-dejeuner est ici."
+  },
+  {
+    "eng": "I would like breakfast here.",
+    "fre": "Je voudrais le petit-dejeuner ici."
+  },
+  {
+    "eng": "The lunch",
+    "fre": "Le dejeuner"
+  },
+  {
+    "eng": "What time is lunch?",
+    "fre": "A quelle heure est le déjeuner?"
+  },
+  {
+    "eng": "Can pay for lunch?",
+    "fre": "Puis-je payer le déjeuner?"
+  },
+  {
+    "eng": "The lunch is terrible here.",
+    "fre": "Le déjeuner est terrible ici."
+  },
+  {
+    "eng": "Can make a reservation for lunch?",
+    "fre": "Puis-je faire une reservation pour le"
+  },
+  {
+    "eng": "The dinner",
+    "fre": "Le diner"
+  },
+  {
+    "eng": "What time is dinner?",
+    "fre": "A quelle heure est le diner?"
+  },
+  {
+    "eng": "Can pay for dinner?",
+    "fre": "Puis-je payer le diner?"
+  },
+  {
+    "eng": "Dinner is delicious.",
+    "fre": "Le diner est délicieux."
+  },
+  {
+    "eng": "The dinner here is always fantastic.",
+    "fre": "Le diner ici est toujours fantastique."
+  },
+  {
+    "eng": "How much is the dinner here?",
+    "fre": "C'est combien le diner ici?"
+  },
+  {
+    "eng": "I think the dinner is terrible.",
+    "fre": "Pour moi, le diner est terrible."
+  },
+  {
+    "eng": "The breakfast isn't bad but the dinner is",
+    "fre": "Le petit-dejeuner n'est pas mauvais mais le"
+  },
+  {
+    "eng": "My lunch is absolutely perfect.",
+    "fre": "Mon déjeuner est absolument parfait."
+  },
+  {
+    "eng": "The dinner here is terrible.",
+    "fre": "Le diner ici est terrible."
+  },
+  {
+    "eng": "My breakfast is here.",
+    "fre": "Mon petit-déjeuner est ici."
+  },
+  {
+    "eng": "For breakfast, I'd like an orange juice.",
+    "fre": "Pour le petit-déjeuner, Je voudrais un jus"
+  },
+  {
+    "eng": "For lunch, I'd like a baguette.",
+    "fre": "Pour le dejeuner, Je voudrais une baguette."
+  },
+  {
+    "eng": "The dinner is perfect.",
+    "fre": "Le diner est parfait."
+  },
+  {
+    "eng": "My breakfast is fantastic.",
+    "fre": "Mon petit-dejeuner est fantastique."
+  },
+  {
+    "eng": "The dinner is here.",
+    "fre": "Le diner est ici."
+  },
+  {
+    "eng": "The breakfast isn't bad but the lunch is",
+    "fre": "Le petit-dejeuner n'est pas mauvais mais le"
+  },
+  {
+    "eng": "My lunch is delicious.",
+    "fre": "Mon dejeuner est délicieux."
+  },
+  {
+    "eng": "My dinner is delicious.",
+    "fre": "Mon diner est délicieux."
+  },
+  {
+    "eng": "For breakfast, would like a",
+    "fre": "Pour le petit-dejeuner, Je voudrais un"
+  },
+  {
+    "eng": "My breakfast is terrible.",
+    "fre": "Mon petit-dejeuner est terrible."
+  },
+  {
+    "eng": "The dinner here is delicious.",
+    "fre": "Le diner ici est délicieux."
+  },
+  {
+    "eng": "The breakfast here is absolutely fantastic.",
+    "fre": "Le petit-dejeuner ici est absolument"
+  },
+  {
+    "eng": "How much is lunch?",
+    "fre": "C'est combien le dejeuner?"
+  },
+  {
+    "eng": "My lunch is absolutely perfect.",
+    "fre": "Mon dejeuner est absolument parfait."
+  },
+  {
+    "eng": "My lunch is here.",
+    "fre": "Mon dejeuner est ici."
+  },
+  {
+    "eng": "What time is breakfast?",
+    "fre": "A quelle heure est le petit-dejeuner?"
+  },
+  {
+    "eng": "I would like a table for four, please.",
+    "fre": "Je voudrais une table pour quatre, s'il vous plaît."
+  },
+  {
+    "eng": "How much is it for four days?",
+    "fre": "C'est combien pour quatre jours?"
+  },
+  {
+    "eng": "I think it's fantastic.",
+    "fre": "Pour moi, C'est fantastique."
+  },
+  {
+    "eng": "It isn't good; it's absolutely extraordinary.",
+    "fre": "Ce nest pas bon; c'est absolument"
+  },
+  {
+    "eng": "Everything is here.",
+    "fre": "Tout est Ici."
+  },
+  {
+    "eng": "Excuse me, the bill, please.",
+    "fre": "Excusez-moi, l'addition, s'il vous plait."
+  },
+  {
+    "eng": "It isn't for her; it's for me.",
+    "fre": "Ce nest pas pour elle; c'est pour modi."
+  },
+  {
+    "eng": "I'd like a table for three people, please.",
+    "fre": "Je voudrais une table pour trois personnes,"
+  },
+  {
+    "eng": "Yes, it's for me, thank you.",
+    "fre": "Oul, C'est pour moi, merci."
+  },
+  {
+    "eng": "It isn't fantastic but it's very good.",
+    "fre": "Ce nest pas fantastique mais c'est très bon."
+  },
+  {
+    "eng": "A coffee for me.",
+    "fre": "Un cafe pour modi."
+  },
+  {
+    "eng": "My turkey is perfect.",
+    "fre": "Ma dinde est parfaite."
+  },
+  {
+    "eng": "I would like to try the wine, please.",
+    "fre": "Je voudrais essayer le vin, s'il vous plait."
+  },
+  {
+    "eng": "It's eight hundred euros.",
+    "fre": "C'est huit cents euros."
+  },
+  {
+    "eng": "That is my turkey.",
+    "fre": "Ca C'est ma dinde."
+  },
+  {
+    "eng": "Can try the chicken, please?",
+    "fre": "Puis-je essayer le poulet, s'il vous plait?"
+  },
+  {
+    "eng": "Can may",
+    "fre": "Duls-je"
+  },
+  {
+    "eng": "Also",
+    "fre": "AuSS"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESSaVyer"
+  },
+  {
+    "eng": "The luncn",
+    "fre": "Le dejeuner"
+  },
+  {
+    "eng": "At... o'CIOCK",
+    "fre": "A... heures"
+  },
+  {
+    "eng": "At three o'clock.",
+    "fre": "A trois heures."
+  },
+  {
+    "eng": "It is at five o'clock.",
+    "fre": "C'est a cing heures."
+  },
+  {
+    "eng": "Dinner is at eight o'clock.",
+    "fre": "Le diner est a huit heures."
+  },
+  {
+    "eng": "Breakfast is at seven o'clock.",
+    "fre": "Le petit-déjeuner est a sept heures."
+  },
+  {
+    "eng": "In the morning",
+    "fre": "Le matin"
+  },
+  {
+    "eng": "It's at Sam.",
+    "fre": "C'est a huit heures le matin."
+  },
+  {
+    "eng": "It's at 8pm.",
+    "fre": "C'est a huit heures le soir."
+  },
+  {
+    "eng": "It's at 8pm. 20h",
+    "fre": "C'est a vingt heures."
+  },
+  {
+    "eng": "In the morning am",
+    "fre": "Le matin"
+  },
+  {
+    "eng": "In the evening pm",
+    "fre": "Le soir"
+  },
+  {
+    "eng": "Dinner is at 8 o'clock. 20h",
+    "fre": "Le diner est a vingt heures."
+  },
+  {
+    "eng": "Breakfast is at 7am.",
+    "fre": "Le petit-dejeuner est a sept heures le"
+  },
+  {
+    "eng": "Dinner Is at 5pm.",
+    "fre": "Le diner est a cing heures le soir."
+  },
+  {
+    "eng": "At half past...",
+    "fre": "A... heures et demie"
+  },
+  {
+    "eng": "Lunch is at half past two.",
+    "fre": "Le dejeuner est a deux heures et demie."
+  },
+  {
+    "eng": "It's at half past five.",
+    "fre": "C'est a cing heures et demie."
+  },
+  {
+    "eng": "The reservation is at half past three.",
+    "fre": "Le reservation est a trois heures et demie."
+  },
+  {
+    "eng": "It's at 2:300m. 14h30",
+    "fre": "C'est a quatorze heures et demie."
+  },
+  {
+    "eng": "At quarter past...",
+    "fre": "A... heures et quart"
+  },
+  {
+    "eng": "At... o'clock",
+    "fre": "A... neures"
+  },
+  {
+    "eng": "At quarter past...",
+    "fre": "A... NMeures et quart"
+  },
+  {
+    "eng": "Lunch is at quarter past two.",
+    "fre": "Le dejeuner est a deux heures et quart."
+  },
+  {
+    "eng": "It's at quarter past four.",
+    "fre": "C'est a quatre heures et quart."
+  },
+  {
+    "eng": "I would like to make a reservation at quarter",
+    "fre": "Je voudrais faire une reservation a sept"
+  },
+  {
+    "eng": "It is at 17:15.",
+    "fre": "C'est a dix-sept heures et quart."
+  },
+  {
+    "eng": "My reservation Is at 6:15pm.",
+    "fre": "Ma reservation est a six heures et quart le"
+  },
+  {
+    "eng": "Breakfast is at quarter past eight in the",
+    "fre": "Le petit-déjeuner est a huit heures et quart"
+  },
+  {
+    "eng": "At quarter to...",
+    "fre": "A... heures moins le quart"
+  },
+  {
+    "eng": "My reservation is at quarter to eight.",
+    "fre": "Ma reservation est a huit heures moins le"
+  },
+  {
+    "eng": "Lunch is at quarter to two.",
+    "fre": "Le dejeuner est a deux heures moins le"
+  },
+  {
+    "eng": "It's at quarter to seven.",
+    "fre": "C'est a sept heures moins le quart."
+  },
+  {
+    "eng": "Dinner Is at quarter to seven.",
+    "fre": "Le diner est a dix-neuf heures moins le"
+  },
+  {
+    "eng": "What time is it?",
+    "fre": "Quelle heure est-il?"
+  },
+  {
+    "eng": "Excuse me, what time is it?",
+    "fre": "Excusez-moi, quelle heure est-il?"
+  },
+  {
+    "eng": "At two o'clock",
+    "fre": "A deux heures"
+  },
+  {
+    "eng": "At quarter to five",
+    "fre": "A cing heures moins le quart"
+  },
+  {
+    "eng": "Itis... oclock",
+    "fre": "Il est... Neures"
+  },
+  {
+    "eng": "It is seven o'clock.",
+    "fre": "Il est sept heures."
+  },
+  {
+    "eng": "It is quarter past seven.",
+    "fre": "Il est sept heures et quart."
+  },
+  {
+    "eng": "It is quarter to seven.",
+    "fre": "Il est Sept heures moins le quart."
+  },
+  {
+    "eng": "It is half past seven.",
+    "fre": "Il est sept heures et demie."
+  },
+  {
+    "eng": "At... o'clock",
+    "fre": "A... heures"
+  },
+  {
+    "eng": "It iS... OCIOCK",
+    "fre": "Il est... heures"
+  },
+  {
+    "eng": "It is four o'clock.",
+    "fre": "Il est quatre heures."
+  },
+  {
+    "eng": "It is half past nine.",
+    "fre": "Il est neuf heures et demie."
+  },
+  {
+    "eng": "It is 2pm.",
+    "fre": "Il est deux heures le soir."
+  },
+  {
+    "eng": "Five past seven.",
+    "fre": "Sept heures cing."
+  },
+  {
+    "eng": "Five to seven.",
+    "fre": "Sept heures moins cing."
+  },
+  {
+    "eng": "O7:Q5 sept neures cing",
+    "fre": "07:45 huit heures moins le quart"
+  },
+  {
+    "eng": "In the evening om",
+    "fre": "Le soir"
+  },
+  {
+    "eng": "It is... OClOCK",
+    "fre": "Il est... Neures"
+  },
+  {
+    "eng": "At half past two.",
+    "fre": "A deux heures et demie."
+  },
+  {
+    "eng": "It's at quarter past nine.",
+    "fre": "C'est a neuf heures et quart."
+  },
+  {
+    "eng": "It'S at quarter to eight.",
+    "fre": "C'est a huit heures moins le quart."
+  },
+  {
+    "eng": "It's half past four.",
+    "fre": "Il est quatre heures et demie."
+  },
+  {
+    "eng": "It's quarter to three.",
+    "fre": "Il est trois heures moins le quart."
+  },
+  {
+    "eng": "It's at half past four.",
+    "fre": "C'est a quatre heures et demie."
+  },
+  {
+    "eng": "It's at quarter to SIx.",
+    "fre": "C'est a six heures moins le quart."
+  },
+  {
+    "eng": "It's half past five.",
+    "fre": "Il est cing heures et demie."
+  },
+  {
+    "eng": "It's two O'clock.",
+    "fre": "Il est deux heures."
+  },
+  {
+    "eng": "It's at quarter past six.",
+    "fre": "C'est a six heures et quart."
+  },
+  {
+    "eng": "It's quarter past two.",
+    "fre": "Est deux heures et quart."
+  },
+  {
+    "eng": "Lunch is at three o'clock.",
+    "fre": "Le dejeuner est a trois heures."
+  },
+  {
+    "eng": "It's at nine o'clock.",
+    "fre": "C'est a neuf heures."
+  },
+  {
+    "eng": "It's at half past nine.",
+    "fre": "C'est a neuf heures et demie."
+  },
+  {
+    "eng": "It's twelve o'clock.",
+    "fre": "Il est douze heures."
+  },
+  {
+    "eng": "It's at two o'clock.",
+    "fre": "C'est a deux heures."
+  },
+  {
+    "eng": "It's ten to ten.",
+    "fre": "Il est dix heures moins dix."
+  },
+  {
+    "eng": "It is at half past nine.",
+    "fre": "C'est a neuf heures et demie."
+  },
+  {
+    "eng": "It's at twelve o'clock.",
+    "fre": "C'est a douze heures."
+  },
+  {
+    "eng": "I would like a tea for me and a coffee for",
+    "fre": "Je voudrais un the pour moi et un café pour"
+  },
+  {
+    "eng": "It isn't good.",
+    "fre": "Ce nest pas bon."
+  },
+  {
+    "eng": "The chicken is very good but the turkey is",
+    "fre": "Le poulet est très bon mais la dinde est"
+  },
+  {
+    "eng": "I think my lunch is fantastic.",
+    "fre": "Pour moi, mon déejeuner est fantastique."
+  },
+  {
+    "eng": "My breakfast is here.",
+    "fre": "Mon petit-dejeuner est ici."
+  },
+  {
+    "eng": "I would like a reservation for three people,",
+    "fre": "Je voudrais une reservation pour trois"
+  },
+  {
+    "eng": "My hotel is terrible but the restaurant is",
+    "fre": "Mon hotel est terrible mais le restaurant est"
+  },
+  {
+    "eng": "The breakfast is absolutely fantastic here.",
+    "fre": "Le petit-déjeuner est absolument"
+  },
+  {
+    "eng": "I'd like a bottle of wine. How much is it?",
+    "fre": "Je voudrais une bouteille de vin. C'est"
+  },
+  {
+    "eng": "That isn't my turkey.",
+    "fre": "Ca ce nest pas ma dinde."
+  },
+  {
+    "eng": "The wine is four euros.",
+    "fre": "Le vin est quatre euros."
+  },
+  {
+    "eng": "I would like a table for two, please.",
+    "fre": "Je voudrais une table pour deux, s'il vous plaît."
+  },
+  {
+    "eng": "My chicken is perfect.",
+    "fre": "Mon poulet est parfait."
+  },
+  {
+    "eng": "I would like three coffees and two teas,",
+    "fre": "Je voudrais trois cafés et deux thes, s'il vous plaît."
+  },
+  {
+    "eng": "No, thank you.",
+    "fre": "Non, merci."
+  },
+  {
+    "eng": "Excuse me",
+    "fre": "CXCUSEZ-MOI"
+  },
+  {
+    "eng": "Now mucn is it?",
+    "fre": "C'est combien?"
+  },
+  {
+    "eng": "Can? may I?",
+    "fre": "DuIs-je?"
+  },
+  {
+    "eng": "It IS",
+    "fre": "C'est"
+  },
+  {
+    "eng": "Nice",
+    "fre": "SyMpa"
+  },
+  {
+    "eng": "I would like",
+    "fre": "Je voudrais"
+  },
+  {
+    "eng": "Ve ry",
+    "fre": "Très"
+  },
+  {
+    "eng": "Perfect",
+    "fre": "Partait"
+  },
+  {
+    "eng": "Per montn",
+    "fre": "Daf MOIS"
+  },
+  {
+    "eng": "A month",
+    "fre": "UN MoIls"
+  },
+  {
+    "eng": "Eooadnight",
+    "fre": "Bonne nuit"
+  },
+  {
+    "eng": "Per",
+    "fre": "Dar"
+  },
+  {
+    "eng": "A coffee",
+    "fre": "Cy"
+  },
+  {
+    "eng": "A leek",
+    "fre": "UN D OIFedu"
+  },
+  {
+    "eng": "The hotel",
+    "fre": "'ndtel"
+  },
+  {
+    "eng": "Good evening",
+    "fre": "Bonsoir"
+  },
+  {
+    "eng": "NO",
+    "fre": "Alela"
+  },
+  {
+    "eng": "At wnat time...?",
+    "fre": "A quelle heure...?"
+  },
+  {
+    "eng": "For me",
+    "fre": "D OUr MOI"
+  },
+  {
+    "eng": "It is... o'clock",
+    "fre": "Il est... Neures"
+  },
+  {
+    "eng": "A taxi",
+    "fre": "Un taxl"
+  },
+  {
+    "eng": "I would like a taxi, please.",
+    "fre": "Je voudrais un taxi, s'il vous plait."
+  },
+  {
+    "eng": "I would like a taxi at three o'clock.",
+    "fre": "Je voudrais un taxi a trois heures."
+  },
+  {
+    "eng": "I would like a taxi for two people.",
+    "fre": "Je voudrais un taxi pour deux personnes."
+  },
+  {
+    "eng": "The address",
+    "fre": "'adresse"
+  },
+  {
+    "eng": "The address is 2 Rue de Provence.",
+    "fre": "Uladresse est deux Rue de Provence."
+  },
+  {
+    "eng": "The address is 15 Rue de Marseille.",
+    "fre": "Ladresse est quinze Rue de Marseille."
+  },
+  {
+    "eng": "What Is...?",
+    "fre": "Quelle est...?"
+  },
+  {
+    "eng": "What is the address?",
+    "fre": "Quelle est l'adresse?"
+  },
+  {
+    "eng": "Of",
+    "fre": "De"
+  },
+  {
+    "eng": "AKA Tne Saxon Genitive",
+    "fre": "Tne Apostrope S"
+  },
+  {
+    "eng": "The address of the hotel",
+    "fre": "The hotel's address."
+  },
+  {
+    "eng": "The address of the hotel",
+    "fre": "Vladresse de Ihotel."
+  },
+  {
+    "eng": "The address of Pierre",
+    "fre": "Adresse de Pierre."
+  },
+  {
+    "eng": "Of the",
+    "fre": "De+le=du"
+  },
+  {
+    "eng": "The address of the restaurant",
+    "fre": "Adresse du restaurant."
+  },
+  {
+    "eng": "What is the restaurant's address?",
+    "fre": "Quelle est l'adresse du restaurant?"
+  },
+  {
+    "eng": "What is Marie's address?",
+    "fre": "Quelle est l'adresse de Marie?"
+  },
+  {
+    "eng": "The hotel's address.",
+    "fre": "Vladresse de Ihdtel."
+  },
+  {
+    "eng": "Pierre's chicken is delicious.",
+    "fre": "Le poulet de Pierre est délicieux."
+  },
+  {
+    "eng": "A taxi",
+    "fre": "Un taxI"
+  },
+  {
+    "eng": "The address",
+    "fre": "'aaresse"
+  },
+  {
+    "eng": "What It...?",
+    "fre": "Quelle est...?"
+  },
+  {
+    "eng": "Pierre's address",
+    "fre": "'adresse de Pierre"
+  },
+  {
+    "eng": "The hotel's address",
+    "fre": "'adresse de 'hdtel"
+  },
+  {
+    "eng": "The restaurant's address",
+    "fre": "'agresse du restaurant"
+  },
+  {
+    "eng": "I would like a taxi at quarter to one.",
+    "fre": "Je voudrais un taxi a une heure moins le"
+  },
+  {
+    "eng": "What is the soup?",
+    "fre": "Quelle est la soupe?"
+  },
+  {
+    "eng": "What is the hotel's address?",
+    "fre": "Quelle est l'adresse de I'hdétel?"
+  },
+  {
+    "eng": "I would like a taxi at four o'clock, please.",
+    "fre": "Je voudrais un taxi a quatre heures, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a taxi for eight people at five",
+    "fre": "Cing heures, et l'adresse est dix-huit Rue de"
+  },
+  {
+    "eng": "I would like a taxi for three people at",
+    "fre": "Je voudrais un taxi pour trois personnes a"
+  },
+  {
+    "eng": "I'd like a taxi at half past one.",
+    "fre": "Je voudrais un taxi a une heure et"
+  },
+  {
+    "eng": "I would like a taxi at quarter to two.",
+    "fre": "Je voudrais un taxi a deux heures moins le"
+  },
+  {
+    "eng": "I would like a taxi at half past two.",
+    "fre": "Je voudrais un taxi a deux heures et demie."
+  },
+  {
+    "eng": "What is the hotel's address?",
+    "fre": "Quelle est adresse de 'hotel?"
+  },
+  {
+    "eng": "My address is 15 Rue de Marseille.",
+    "fre": "Mon adresse est quinze Rue de Marseille."
+  },
+  {
+    "eng": "I would like a taxi for three people at quarter",
+    "fre": "Je voudrais un taxi pour trois personnes a"
+  },
+  {
+    "eng": "I'd like a taxi at quarter to one.",
+    "fre": "Je voudrais un taxi a une heure moins le"
+  },
+  {
+    "eng": "The hotel's address is 20 Rue de Charenton.",
+    "fre": "Adresse de I'hotel est vingt Rue de"
+  },
+  {
+    "eng": "The restaurant's address is Route de Lorient",
+    "fre": "'adresse du restaurant est Route de Lorient"
+  },
+  {
+    "eng": "It'S quarter to SIx.",
+    "fre": "Il est six heures moins le quart."
+  },
+  {
+    "eng": "Excuse me, how much is a bottle of wine",
+    "fre": "Excusez-moi, c'est combien une bouteille de"
+  },
+  {
+    "eng": "The lunch is extraordinary.",
+    "fre": "Le déjeuner est extraordinaire."
+  },
+  {
+    "eng": "It's half past eight.",
+    "fre": "Il est huit heures et demie."
+  },
+  {
+    "eng": "It's five hundred and fifty-seven euros.",
+    "fre": "C'est cing cent cinquante-sept euros."
+  },
+  {
+    "eng": "I think everyboay is very nice.",
+    "fre": "Pour moi, tout le monde est très sympa."
+  },
+  {
+    "eng": "It isn't very good here.",
+    "fre": "Ce nest pas très bon ici."
+  },
+  {
+    "eng": "The lunch is extraordinary.",
+    "fre": "Le dejeuner est extraordinaire."
+  },
+  {
+    "eng": "The lunch is perfect.",
+    "fre": "Le dejeuner est parfait."
+  },
+  {
+    "eng": "The turkey is very good.",
+    "fre": "La dinde est très bonne."
+  },
+  {
+    "eng": "I'd like a tea for me and a coffee for her,",
+    "fre": "Je voudrais un the pour moi et un café pour"
+  },
+  {
+    "eng": "It's half past one.",
+    "fre": "Il est une heure et demie."
+  },
+  {
+    "eng": "It's at quarter past five.",
+    "fre": "C'est a cing heures et quart."
+  },
+  {
+    "eng": "It's at quarter past seven.",
+    "fre": "C'est a sept heures et quart."
+  },
+  {
+    "eng": "To try",
+    "fre": "Essayer"
+  },
+  {
+    "eng": "For me",
+    "fre": "Pour moi"
+  },
+  {
+    "eng": "Pierre's address",
+    "fre": "Faaresse de Pierre"
+  },
+  {
+    "eng": "Or",
+    "fre": "'ad"
+  },
+  {
+    "eng": "A day",
+    "fre": "Ul JOU"
+  },
+  {
+    "eng": "Can,",
+    "fre": "DUIS"
+  },
+  {
+    "eng": "A tax",
+    "fre": "UN Tax"
+  },
+  {
+    "eng": "CUrOS",
+    "fre": "Euros"
+  },
+  {
+    "eng": "Per montn",
+    "fre": "Dal MOIS"
+  },
+  {
+    "eng": "A month",
+    "fre": "UN MOIS"
+  },
+  {
+    "eng": "The restaurant's address",
+    "fre": "'adresse du restaurant"
+  },
+  {
+    "eng": "What Is...?",
+    "fre": "Quelle est...'"
+  },
+  {
+    "eng": "TO gO",
+    "fre": "Aller"
+  },
+  {
+    "eng": "Can go?",
+    "fre": "Puis-je aller?"
+  },
+  {
+    "eng": "I would like to go, please.",
+    "fre": "Je voudrais aller, s'il vous plait."
+  },
+  {
+    "eng": "What time can go?",
+    "fre": "A quelle heure puis-je aller?"
+  },
+  {
+    "eng": "To go to",
+    "fre": "Aller a"
+  },
+  {
+    "eng": "I would like to go to the hotel.",
+    "fre": "Je voudrais aller a I'hdtel."
+  },
+  {
+    "eng": "I would like to go to Paris.",
+    "fre": "Je voudrais aller a Paris."
+  },
+  {
+    "eng": "Can go to Paris?",
+    "fre": "Puis-je aller a Paris?"
+  },
+  {
+    "eng": "The beach",
+    "fre": "La plage"
+  },
+  {
+    "eng": "Can go to the beach?",
+    "fre": "Puis-je aller ala plage?"
+  },
+  {
+    "eng": "I would like to go to the beach at ten o'clock.",
+    "fre": "Je voudrais aller a la plage a dix heures."
+  },
+  {
+    "eng": "The beach here is beautiful.",
+    "fre": "La plage ici est belle."
+  },
+  {
+    "eng": "Of the",
+    "fre": "De + jes = des"
+  },
+  {
+    "eng": "Of the from the",
+    "fre": "De+le=du"
+  },
+  {
+    "eng": "It's from the restaurant.",
+    "fre": "C'est du restaurant."
+  },
+  {
+    "eng": "It's from Pierre.",
+    "fre": "C'est de Pierre."
+  },
+  {
+    "eng": "That is from Paris.",
+    "fre": "Ca C'est de Paris."
+  },
+  {
+    "eng": "That isn't from Paris; it's from Marseille.",
+    "fre": "Ca ce nest pas de Paris; C'est de Marseille."
+  },
+  {
+    "eng": "To the at the",
+    "fre": "A+le=au"
+  },
+  {
+    "eng": "To the at the",
+    "fre": "At+les = au"
+  },
+  {
+    "eng": "Qe +r l€ — Qu",
+    "fre": "De + les = des"
+  },
+  {
+    "eng": "It's at the restaurant.",
+    "fre": "C'est au restaurant."
+  },
+  {
+    "eng": "Pierre is at the restaurant.",
+    "fre": "Pierre est au restaurant."
+  },
+  {
+    "eng": "Pierre and Marie are at the restaurant.",
+    "fre": "Pierre et Marie sont au restaurant."
+  },
+  {
+    "eng": "Tomorrow",
+    "fre": "Demain"
+  },
+  {
+    "eng": "To g",
+    "fre": "Aver a"
+  },
+  {
+    "eng": "Can go to the restaurant tomorrow?",
+    "fre": "Puis-je aller au restaurant demain?"
+  },
+  {
+    "eng": "I would like to go tomorrow.",
+    "fre": "Je voudrais aller demain."
+  },
+  {
+    "eng": "I would like to go to the restaurant",
+    "fre": "Je voudrais aller au restaurant demain."
+  },
+  {
+    "eng": "What time is the reservation tomorrow?",
+    "fre": "A quelle heure est la reservation demain?"
+  },
+  {
+    "eng": "The reservation is for tomorrow.",
+    "fre": "La reservation est pour demain."
+  },
+  {
+    "eng": "Tonight this evening",
+    "fre": "Ce soir"
+  },
+  {
+    "eng": "Can go this evening?",
+    "fre": "Puis-je aller ce soir?"
+  },
+  {
+    "eng": "I would like to go to the restaurant tonight.",
+    "fre": "Je voudrais aller au restaurant ce soir."
+  },
+  {
+    "eng": "At the place nouse of",
+    "fre": "CNeZz"
+  },
+  {
+    "eng": "At Pierre's house.",
+    "fre": "Chez Pierre."
+  },
+  {
+    "eng": "At my house.",
+    "fre": "Chez moi."
+  },
+  {
+    "eng": "I would like to go home.",
+    "fre": "Je voudrais aller chez moi."
+  },
+  {
+    "eng": "At the doctor's.",
+    "fre": "Chez le médecin."
+  },
+  {
+    "eng": "At the baker's.",
+    "fre": "Chez le boulanger."
+  },
+  {
+    "eng": "What time can go to Marie's house?",
+    "fre": "A quelle heure puis-je aller chez Marie?"
+  },
+  {
+    "eng": "At the place nhouse of",
+    "fre": "CNeZz"
+  },
+  {
+    "eng": "At George's house.",
+    "fre": "Chez George."
+  },
+  {
+    "eng": "What time can go to the restaurant?",
+    "fre": "A quelle heure puis-je aller au restaurant?"
+  },
+  {
+    "eng": "Can go to the theme park tomorrow?",
+    "fre": "Puis-je aller au parc d'attractions demain?"
+  },
+  {
+    "eng": "At Mathieu's house.",
+    "fre": "Chez Mathieu."
+  },
+  {
+    "eng": "I would like to go to Pierre's house.",
+    "fre": "Je voudrais aller chez Pierre."
+  },
+  {
+    "eng": "I would like to go at half past four.",
+    "fre": "Je voudrais aller a quatre heures et demie."
+  },
+  {
+    "eng": "At Marine's house.",
+    "fre": "Chez Marine."
+  },
+  {
+    "eng": "I'd like to go at quarter to three.",
+    "fre": "Je voudrais aller a trois heures moins le"
+  },
+  {
+    "eng": "I would like a taxi for three people at four",
+    "fre": "Quatre heures, et Je voudrais aller a la plage."
+  },
+  {
+    "eng": "I'd like to go to Marie's house tonight.",
+    "fre": "Je voudrais aller chez Marie ce soir."
+  },
+  {
+    "eng": "I would like to go to the beach at half past",
+    "fre": "Je voudrais aller ala plage a sept heures et"
+  },
+  {
+    "eng": "I would like to go at quarter past four.",
+    "fre": "Je voudrais aller a quatre heures et quart."
+  },
+  {
+    "eng": "At Marie's house.",
+    "fre": "Chez Marie."
+  },
+  {
+    "eng": "I would like to go at quarter to four.",
+    "fre": "Je voudrais aller a quatre heures moins le"
+  },
+  {
+    "eng": "I'd like to go to his house tomorrow.",
+    "fre": "Je voudrais aller chez lui demain."
+  },
+  {
+    "eng": "I'd like to go to the hotel tonight.",
+    "fre": "Je voudrais aller a I'hotel ce soir."
+  },
+  {
+    "eng": "Can go to Marie's house?",
+    "fre": "Puis-je aller chez Marie?"
+  },
+  {
+    "eng": "What time can go to Pierre's house?",
+    "fre": "A quelle heure puis-je aller chez Pierre?"
+  },
+  {
+    "eng": "What time can go to the bank?",
+    "fre": "A quelle heure puis-je aller a la banque?"
+  },
+  {
+    "eng": "At half past seven.",
+    "fre": "A sept heures et demie."
+  },
+  {
+    "eng": "It's good here.",
+    "fre": "C'est bon ici."
+  },
+  {
+    "eng": "It's half past ten.",
+    "fre": "Il est dix heures et demie."
+  },
+  {
+    "eng": "My breakfast is perfect.",
+    "fre": "Mon petit-dejeuner est parfait."
+  },
+  {
+    "eng": "The breakfast here is terrible.",
+    "fre": "Le petit-déjeuner ici est terrible."
+  },
+  {
+    "eng": "It's two Nundred and ten euros.",
+    "fre": "C'est deux cent dix euros."
+  },
+  {
+    "eng": "My turkey is delicious.",
+    "fre": "Ma dinde est délicieuse."
+  },
+  {
+    "eng": "It isn't for me.",
+    "fre": "Ce nest pas pour moi."
+  },
+  {
+    "eng": "I think everything is perfect.",
+    "fre": "Pour moi, tout est parfait."
+  },
+  {
+    "eng": "It's at six o'clock.",
+    "fre": "C'est a six heures."
+  },
+  {
+    "eng": "My lunch is fantastic.",
+    "fre": "Mon dejeuner est fantastique."
+  },
+  {
+    "eng": "Eoodnight",
+    "fre": "Bonne nuit"
+  },
+  {
+    "eng": "AlSoO",
+    "fre": "DUuSSI"
+  },
+  {
+    "eng": "The hotel",
+    "fre": "'note"
+  },
+  {
+    "eng": "A day",
+    "fre": "Ul JOUF"
+  },
+  {
+    "eng": "TO pay",
+    "fre": "Payer"
+  },
+  {
+    "eng": "Can I?",
+    "fre": "DUIS-je?"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESSaVyel"
+  },
+  {
+    "eng": "01 hire *",
+    "fre": "Uer"
+  },
+  {
+    "eng": "At the house of",
+    "fre": "Chez"
+  },
+  {
+    "eng": "D FOO!\"",
+    "fre": "Une chambre"
+  },
+  {
+    "eng": "I would like a room for tonight.",
+    "fre": "Je voudrais une chambre pour ce soir."
+  },
+  {
+    "eng": "How much is a room for one night?",
+    "fre": "C'est combien une chambre pour une nuit?"
+  },
+  {
+    "eng": "The room is here.",
+    "fre": "La chambre est ici."
+  },
+  {
+    "eng": "Can go with Pierre?",
+    "fre": "Puis-je aller avec Pierre?"
+  },
+  {
+    "eng": "Pierre is with me.",
+    "fre": "Pierre est avec mol."
+  },
+  {
+    "eng": "Pierre and Marie are with Jacques and me.",
+    "fre": "Pierre et Marie sont avec Jacques et moi."
+  },
+  {
+    "eng": "A balcony",
+    "fre": "Un balcon"
+  },
+  {
+    "eng": "I would like a room with a balcony.",
+    "fre": "Je voudrais une chambre avec un balcon."
+  },
+  {
+    "eng": "How much is a room with a balcony?",
+    "fre": "C'est combien une chambre avec un"
+  },
+  {
+    "eng": "The balcony is very beautiful.",
+    "fre": "Le balcon est très beau."
+  },
+  {
+    "eng": "A television",
+    "fre": "Une television"
+  },
+  {
+    "eng": "I would like a room with a television.",
+    "fre": "Je voudrais une chambre avec une"
+  },
+  {
+    "eng": "Also, would like a television.",
+    "fre": "Aussi, Je voudrais une television."
+  },
+  {
+    "eng": "My television is terrible.",
+    "fre": "Ma television est terrible."
+  },
+  {
+    "eng": "..doesn't work",
+    "fre": "Ne marche pas"
+  },
+  {
+    "eng": "The television doesn't work.",
+    "fre": "La television ne marche pas."
+  },
+  {
+    "eng": "That doesn't work.",
+    "fre": "Ca ne marche pas."
+  },
+  {
+    "eng": "Excuse me, that doesn't work.",
+    "fre": "EXCUSeZ-moi, Ca Ne marche pas."
+  },
+  {
+    "eng": "A card",
+    "fre": "Une carte"
+  },
+  {
+    "eng": "My card doesn't work.",
+    "fre": "Ma carte ne marche pas."
+  },
+  {
+    "eng": "RENGH",
+    "fre": "Ft"
+  },
+  {
+    "eng": "Can pay with a card?",
+    "fre": "Puis-je payer avec une carte?"
+  },
+  {
+    "eng": "Can pay for the room with a card?",
+    "fre": "Puis-je payer la chambre avec une carte?"
+  },
+  {
+    "eng": "With a card",
+    "fre": "Avec une carte"
+  },
+  {
+    "eng": "By card",
+    "fre": "Dal Cd rte"
+  },
+  {
+    "eng": "Can pay by card?",
+    "fre": "Puis-je payer par carte?"
+  },
+  {
+    "eng": "I would like to pay by card.",
+    "fre": "Je voudrais payer par carte."
+  },
+  {
+    "eng": "I would like to pay for the food by card.",
+    "fre": "Je voudrais payer la nourriture par carte."
+  },
+  {
+    "eng": "D FOOT\"",
+    "fre": "Une chambre"
+  },
+  {
+    "eng": "Av:,",
+    "fre": "CC"
+  },
+  {
+    "eng": "May pay with a card, please?",
+    "fre": "Puis-je payer avec une carte, s'il vous plait?"
+  },
+  {
+    "eng": "Also, with a television, please.",
+    "fre": "Aussi, avec une television, s'il vous plait."
+  },
+  {
+    "eng": "Excuse me, the television doesn't work.",
+    "fre": "Excusez-moi, la television ne marche pas."
+  },
+  {
+    "eng": "I'd like a room with a bathtub, please.",
+    "fre": "Je voudrais une chambre avec une"
+  },
+  {
+    "eng": "I'd like a balcony.",
+    "fre": "Je voudrais un balcon."
+  },
+  {
+    "eng": "Excuse me, the air conditioning doesn't",
+    "fre": "Excusez-moi, la climatisation ne marche pas."
+  },
+  {
+    "eng": "I'd like a room with a balcony, please.",
+    "fre": "Je voudrais une chambre avec un balcon, s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a room for tonight, please.",
+    "fre": "Je voudrais une chambre pour ce soir, sil"
+  },
+  {
+    "eng": "I'd like a room with a television.",
+    "fre": "Je voudrais une chambre avec une"
+  },
+  {
+    "eng": "I would like a room for two people.",
+    "fre": "Je voudrais une chambre pour deux"
+  },
+  {
+    "eng": "Can pay by card, please?",
+    "fre": "Puis-je payer par carte, s'il vous plait?"
+  },
+  {
+    "eng": "I'd like a room for tonight, please.",
+    "fre": "Je voudrais une chambre pour ce soir, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a room with a balcony, please.",
+    "fre": "Je voudrais une chambre avec un balcon, s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a king-sized bed, please.",
+    "fre": "Je voudrais un grand lit, s'il vous plait."
+  },
+  {
+    "eng": "Excuse me, the oven doesn't work.",
+    "fre": "ExCusez-moi, le four ne marche pas."
+  },
+  {
+    "eng": "I would like a room for one week, please.",
+    "fre": "Je voudrais une chambre pour une semaine,"
+  },
+  {
+    "eng": "The balcony is perfect.",
+    "fre": "Le balcon est parfait."
+  },
+  {
+    "eng": "The key doesn't work.",
+    "fre": "La cle ne marche pas."
+  },
+  {
+    "eng": "It's quarter past two.",
+    "fre": "Il est deux heures et quart."
+  },
+  {
+    "eng": "A table for two, please.",
+    "fre": "Une table pour deux, s'il vous plait."
+  },
+  {
+    "eng": "That is for her.",
+    "fre": "Ca C'est pour elle."
+  },
+  {
+    "eng": "At quarter past four.",
+    "fre": "A quatre heures et quart."
+  },
+  {
+    "eng": "Can try the cheese, please?",
+    "fre": "Puis-je essayer le fromage, s'il vous plait?"
+  },
+  {
+    "eng": "It's quarter to one.",
+    "fre": "Il est une heure moins le quart."
+  },
+  {
+    "eng": "The chicken is absolutely terrible.",
+    "fre": "Le poulet est absolument terrible."
+  },
+  {
+    "eng": "What time is the reservation?",
+    "fre": "A quelle heure est la réservation?"
+  },
+  {
+    "eng": "It's at half past one.",
+    "fre": "C'est a une heure et demie."
+  },
+  {
+    "eng": "It's at half past six.",
+    "fre": "C'est a six heures et demie."
+  },
+  {
+    "eng": "The chicken is very good and the carrots are",
+    "fre": "Le poulet est très bon et les carottes sont"
+  },
+  {
+    "eng": "Per mont *",
+    "fre": "Par mals"
+  },
+  {
+    "eng": "Pierre's address",
+    "fre": "'aaresse de Pierre"
+  },
+  {
+    "eng": "To pay",
+    "fre": "Daye"
+  },
+  {
+    "eng": "Of from",
+    "fre": "De"
+  },
+  {
+    "eng": "Itis... o'clock",
+    "fre": "I est... Neures"
+  },
+  {
+    "eng": "..doesn't work",
+    "fre": "..me marche pas"
+  },
+  {
+    "eng": "To ma *",
+    "fre": "Aires"
+  },
+  {
+    "eng": "To try",
+    "fre": "ESSAVeL"
+  },
+  {
+    "eng": "The Ttood",
+    "fre": "La nourriture"
+  },
+  {
+    "eng": "I would like A ROOM...",
+    "fre": "Y Je voudrais UNE CHAMBRE..."
+  },
+  {
+    "eng": "CHAMBRE...",
+    "fre": "Je voudrais UNE Cl"
+  },
+  {
+    "eng": "I would like A ROOM...",
+    "fre": "Une télévision"
+  },
+  {
+    "eng": "A television",
+    "fre": "Une radio"
+  },
+  {
+    "eng": "A radio",
+    "fre": "Un balcon"
+  },
+  {
+    "eng": "A balcony",
+    "fre": "Aemm Aas rha"
+  },
+  {
+    "eng": "A view",
+    "fre": "Une vue"
+  },
+  {
+    "eng": "...of the sea",
+    "fre": "..SUr la mer"
+  },
+  {
+    "eng": "A kettle",
+    "fre": "Une bouilloire"
+  },
+  {
+    "eng": "A cooker",
+    "fre": "Une cuisiniere"
+  },
+  {
+    "eng": "An oven",
+    "fre": "Un four"
+  },
+  {
+    "eng": "A microwave",
+    "fre": "Un four a micro-ondes"
+  },
+  {
+    "eng": "A fridge y",
+    "fre": "Un frigo"
+  },
+  {
+    "eng": "A freezer",
+    "fre": "Un congélateur"
+  },
+  {
+    "eng": "An iron",
+    "fre": "Un fer a repasser"
+  },
+  {
+    "eng": "A single bed",
+    "fre": "Un lit simple"
+  },
+  {
+    "eng": "A double bed",
+    "fre": "Un lit deux personnes"
+  },
+  {
+    "eng": "A kind-sized bed",
+    "fre": "Un grand lit"
+  },
+  {
+    "eng": "Twin beds",
+    "fre": "Lits jumeaux"
+  },
+  {
+    "eng": "The air conditioning",
+    "fre": "La climatisation"
+  },
+  {
+    "eng": "The heating",
+    "fre": "Le chauffage"
+  },
+  {
+    "eng": "The lamp",
+    "fre": "La lampe"
+  },
+  {
+    "eng": "The light",
+    "fre": "La lumieére"
+  },
+  {
+    "eng": "The boiler",
+    "fre": "La chaudiére"
+  },
+  {
+    "eng": "The key",
+    "fre": "La cle"
+  },
+  {
+    "eng": "The Wi-Fi",
+    "fre": "Le Wi-Fi"
+  },
+  {
+    "eng": "The Wi-Fi password",
+    "fre": "Le mot de passe Wi-Fi"
+  },
+  {
+    "eng": "JRISTIQUES",
+    "fre": "ATTRACTIONS TOUR"
+  },
+  {
+    "eng": "TOURIST ATTRACTIONS",
+    "fre": "Le Zoo"
+  },
+  {
+    "eng": "The zoo",
+    "fre": "Aquarium"
+  },
+  {
+    "eng": "The aquarium",
+    "fre": "Le jardin botanique"
+  },
+  {
+    "eng": "The botanical garden",
+    "fre": "Le parc d'attractions"
+  },
+  {
+    "eng": "The art gallery museum",
+    "fre": "Le musée d'art"
+  },
+  {
+    "eng": "The sport stadium",
+    "fre": "Le centre sportif"
+  },
+  {
+    "eng": "The water park",
+    "fre": "Le parc aquatique"
+  },
+  {
+    "eng": "The opera house",
+    "fre": "Lopéra"
+  },
+  {
+    "eng": "The theatre",
+    "fre": "Le théatre"
+  },
+  {
+    "eng": "The cinema",
+    "fre": "Le cinéma"
+  },
+  {
+    "eng": "The bowling alley y",
+    "fre": "Le bowling"
+  },
+  {
+    "eng": "The castle",
+    "fre": "Le chateau"
+  },
+  {
+    "eng": "The library",
+    "fre": "La bibliotheque"
+  },
+  {
+    "eng": "The seaside",
+    "fre": "Le bord de la mer"
+  },
+  {
+    "eng": "The park",
+    "fre": "Le parc"
+  },
+  {
+    "eng": "The forest",
+    "fre": "Le forét"
+  },
+  {
+    "eng": "The woods",
+    "fre": "Le bois"
+  },
+  {
+    "eng": "The river y",
+    "fre": "Le fleuve la riviere"
+  },
+  {
+    "eng": "The canal",
+    "fre": "Le canal"
+  },
+  {
+    "eng": "The bar",
+    "fre": "Le bar"
+  },
+  {
+    "eng": "The hotel",
+    "fre": "I'hdotel"
+  },
+  {
+    "eng": "The cafe",
+    "fre": "Le café"
+  },
+  {
+    "eng": "The internet cafe",
+    "fre": "Le cybercafé"
+  },
+  {
+    "eng": "The youth hostel",
+    "fre": "L'auberge de jeunesse"
+  },
+  {
+    "eng": "The swimming pool",
+    "fre": "La piscine"
+  },
+  {
+    "eng": "The stadium",
+    "fre": "Le stade"
+  },
+  {
+    "eng": "PLACES OF WORSHIP",
+    "fre": "LIEUX DE CULTE"
+  },
+  {
+    "eng": "The cathedral",
+    "fre": "La catheédrale"
+  },
+  {
+    "eng": "The mosque",
+    "fre": "La mosquée"
+  },
+  {
+    "eng": "The synagogue",
+    "fre": "La synagogue"
+  },
+  {
+    "eng": "The temple",
+    "fre": "Le temple"
+  },
+  {
+    "eng": "The convent",
+    "fre": "Le couvent"
+  },
+  {
+    "eng": "The monastery",
+    "fre": "Le monastére"
+  },
+  {
+    "eng": "The church J",
+    "fre": "'eglise"
+  },
+  {
+    "eng": "The basilica",
+    "fre": "La basilique"
+  },
+  {
+    "eng": "The chapel",
+    "fre": "La chapelle"
+  },
+  {
+    "eng": "The oratory",
+    "fre": "Loratoire"
+  },
+  {
+    "eng": "The shrine",
+    "fre": "Le sanctuaire"
+  },
+  {
+    "eng": "The pagoda",
+    "fre": "La pagode"
+  },
+  {
+    "eng": "LES ESSENTIAL PLACES",
+    "fre": "LIEUX INDISPENSABLE"
+  },
+  {
+    "eng": "The town hall",
+    "fre": "La mairie"
+  },
+  {
+    "eng": "The city hall",
+    "fre": "I'hdtel de ville"
+  },
+  {
+    "eng": "Tourist information office",
+    "fre": "Le syndicat d'initiative"
+  },
+  {
+    "eng": "Ce the police station",
+    "fre": "Le commissariat de police"
+  },
+  {
+    "eng": "The town city",
+    "fre": "La ville"
+  },
+  {
+    "eng": "The village >.",
+    "fre": "Le village"
+  },
+  {
+    "eng": "The hospital",
+    "fre": "I'hdpital"
+  },
+  {
+    "eng": "The town city centre",
+    "fre": "Le centre-ville"
+  },
+  {
+    "eng": "The bank",
+    "fre": "La banque"
+  },
+  {
+    "eng": "The post office",
+    "fre": "La poste"
+  },
+  {
+    "eng": "The primary school",
+    "fre": "L'école primaire"
+  },
+  {
+    "eng": "The secondary school",
+    "fre": "Le college"
+  },
+  {
+    "eng": "The university",
+    "fre": "'université"
+  },
+  {
+    "eng": "TRANSPORT",
+    "fre": "LE TRANSPORT"
+  },
+  {
+    "eng": "The train station",
+    "fre": "La gare"
+  },
+  {
+    "eng": "The platform",
+    "fre": "Le quai"
+  },
+  {
+    "eng": "The bus station",
+    "fre": "La gare routiere"
+  },
+  {
+    "eng": "The bus stop",
+    "fre": "'arrét de bus"
+  },
+  {
+    "eng": "The airport",
+    "fre": "'aéroport"
+  },
+  {
+    "eng": "The taxi rank",
+    "fre": "La station de taxis"
+  },
+  {
+    "eng": "The harbour J",
+    "fre": "Le port"
+  },
+  {
+    "eng": "THE SHOPS",
+    "fre": "LES MAGASINS"
+  },
+  {
+    "eng": "The butcher",
+    "fre": "La boucherie"
+  },
+  {
+    "eng": "The delicatessen",
+    "fre": "La charcuterie"
+  },
+  {
+    "eng": "The bakery",
+    "fre": "La boulangerie"
+  },
+  {
+    "eng": "The greengrocer's",
+    "fre": "'€picerie"
+  },
+  {
+    "eng": "The fishmonger's",
+    "fre": "La poissonnerie"
+  },
+  {
+    "eng": "The cake shop y",
+    "fre": "La patisserie"
+  },
+  {
+    "eng": "The department store",
+    "fre": "Le grand magasin"
+  },
+  {
+    "eng": "The supermarket",
+    "fre": "Le supermarche"
+  },
+  {
+    "eng": "The hypermarket",
+    "fre": "I'hypermarché"
+  },
+  {
+    "eng": "The cheese shop",
+    "fre": "La crémerie"
+  },
+  {
+    "eng": "Le the health food shop",
+    "fre": "Le magasin de diététique"
+  },
+  {
+    "eng": "Res the shoe shop",
+    "fre": "Le magasin de chaussures"
+  },
+  {
+    "eng": "The dry cleaner's",
+    "fre": "Le pressing"
+  },
+  {
+    "eng": "The cobbler's",
+    "fre": "La cordonnerie"
+  },
+  {
+    "eng": "The laundrette ad",
+    "fre": "La laverie automatique"
+  },
+  {
+    "eng": "The furniture shop",
+    "fre": "Le magasin de meubles"
+  },
+  {
+    "eng": "The chemist's",
+    "fre": "La pharmacie"
+  },
+  {
+    "eng": "The second-hand book shor",
+    "fre": "La librairie d'occasion"
+  },
+  {
+    "eng": "The antique shop",
+    "fre": "Le magasin d'antiquités"
+  },
+  {
+    "eng": "The market",
+    "fre": "Le marché"
+  },
+  {
+    "eng": "The flea market",
+    "fre": "Le marché aux puces"
+  },
+  {
+    "eng": "The art gallery",
+    "fre": "La galerie d'art"
+  },
+  {
+    "eng": "The hardware shop",
+    "fre": "La quincaillerie"
+  },
+  {
+    "eng": "The beauty parlour",
+    "fre": "'institut de beaute"
+  },
+  {
+    "eng": "The sweet shop",
+    "fre": "Le marchand de bonbons"
+  },
+  {
+    "eng": "The china shop",
+    "fre": "Le magasin de porcelaine"
+  },
+  {
+    "eng": "The electrical goods shop",
+    "fre": "Le magasin d'électroménager;"
+  },
+  {
+    "eng": "The fashion boutique",
+    "fre": "La boutique de vêtements"
+  },
+  {
+    "eng": "The fruit stand",
+    "fre": "L'étal de fruits"
+  },
+  {
+    "eng": "The jewellery shop",
+    "fre": "La bijouterie"
+  },
+  {
+    "eng": "The leather goods shop",
+    "fre": "La maroquinerie"
+  },
+  {
+    "eng": "The wine shop",
+    "fre": "Le marchand de vin"
+  },
+  {
+    "eng": "The newsagent",
+    "fre": "Le marchand de journaux"
+  },
+  {
+    "eng": "The perfume shop",
+    "fre": "La parfumerie"
+  },
+  {
+    "eng": "The animal shop",
+    "fre": "L'animalerie"
+  },
+  {
+    "eng": "The souvenir shop",
+    "fre": "La boutique de souvenirs"
+  },
+  {
+    "eng": "The ice-cream parlour",
+    "fre": "Le café glacier"
+  },
+  {
+    "eng": "The stationery shop",
+    "fre": "La papeterie"
+  },
+  {
+    "eng": "The travel agent's",
+    "fre": "Agence de voyages"
+  },
+  {
+    "eng": "The sport shop",
+    "fre": "Le magasin de sport"
+  },
+  {
+    "eng": "The toy shop",
+    "fre": "Le magasin de jouets"
+  },
+  {
+    "eng": "At to the butcher's",
+    "fre": "Chez le boucher"
+  },
+  {
+    "eng": "At to the delicatessen",
+    "fre": "Chez le charcutier"
+  },
+  {
+    "eng": "At to the baker's",
+    "fre": "Chez le boulanger"
+  },
+  {
+    "eng": "At to the grocer's",
+    "fre": "Chez l'épicier"
+  },
+  {
+    "eng": "At to the fishmonger's",
+    "fre": "Chez le poissonnier"
+  },
+  {
+    "eng": "At to the cheese seller",
+    "fre": "Chez le crémier"
+  },
+  {
+    "eng": "At to the cobbler's",
+    "fre": "Chez le cordonnier"
+  },
+  {
+    "eng": "At to the chemist's",
+    "fre": "Chez le pharmacien"
+  },
+  {
+    "eng": "At to the florist's",
+    "fre": "Chez le fleuriste"
+  },
+  {
+    "eng": "At to the estate agent's",
+    "fre": "Chez l'agent immobilier"
+  },
+  {
+    "eng": "At to the optician's",
+    "fre": "Chez l'opticien"
+  },
+  {
+    "eng": "At to the doctor's",
+    "fre": "Chez le médecin"
+  },
+  {
+    "eng": "At to the lawyer's",
+    "fre": "Chez l'avocat"
+  }
+]

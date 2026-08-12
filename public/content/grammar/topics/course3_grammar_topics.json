@@ -1,0 +1,702 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Je voudrais",
+    "subtitle": "Polite “I would like”",
+    "explanation": "Use je voudrais to ask for something politely or to say what you would like to do.",
+    "examples": [
+      {
+        "eng": "I would like some cheese.",
+        "fre": "Je voudrais du fromage."
+      },
+      {
+        "eng": "I would like a room for two people for two nights, please.",
+        "fre": "Je voudrais une chambre pour deux personnes pour deux nuits, s'il vous plaît."
+      },
+      {
+        "eng": "I would like to go to the restaurant.",
+        "fre": "Je voudrais aller au restaurant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Prendre",
+    "subtitle": "Taking or having food and drink",
+    "explanation": "Prendre means “to take,” and in this course it is also used naturally for having food or drink.",
+    "examples": [
+      {
+        "eng": "Can I have the chicken?",
+        "fre": "Puis-je prendre le poulet?"
+      },
+      {
+        "eng": "May I have some coffee?",
+        "fre": "Puis-je prendre du café?"
+      },
+      {
+        "eng": "Can I take the train?",
+        "fre": "Puis-je prendre le train?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Puis-je / pouvoir",
+    "subtitle": "Asking “can I?” or “may I?”",
+    "explanation": "Use puis-je before a verb to ask politely if you can or may do something.",
+    "examples": [
+      {
+        "eng": "Can I have a room for tonight?",
+        "fre": "Puis-je avoir une chambre pour ce soir?"
+      },
+      {
+        "eng": "Can I pay for the wine?",
+        "fre": "Puis-je payer le vin?"
+      },
+      {
+        "eng": "Can I go to the bank?",
+        "fre": "Puis-je aller à la banque?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Avez-vous / avoir",
+    "subtitle": "Asking “do you have?”",
+    "explanation": "Use avez-vous to ask whether someone has something. It is a useful polite question in hotels, restaurants, and shops.",
+    "examples": [
+      {
+        "eng": "Do you have a table for four people?",
+        "fre": "Avez-vous une table pour quatre personnes?"
+      },
+      {
+        "eng": "Do you have any wine?",
+        "fre": "Avez-vous du vin?"
+      },
+      {
+        "eng": "Do you have a map of the city?",
+        "fre": "Avez-vous un plan de la ville?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Partitive articles: du, de la, des",
+    "subtitle": "Saying some / any",
+    "explanation": "Use du, de la, or des when talking about an unspecified amount or number of something, such as some cheese, coffee, or apples.",
+    "examples": [
+      {
+        "eng": "I would like some cheese.",
+        "fre": "Je voudrais du fromage."
+      },
+      {
+        "eng": "May I have some coffee?",
+        "fre": "Puis-je prendre du café?"
+      },
+      {
+        "eng": "Do you have any apples?",
+        "fre": "Avez-vous des pommes?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "C'est / ce n'est pas",
+    "subtitle": "Saying it is / it is not",
+    "explanation": "Use c'est for “it is” or “this is.” Use ce n'est pas to make the same idea negative.",
+    "examples": [
+      {
+        "eng": "It's at seven o'clock.",
+        "fre": "C'est à sept heures."
+      },
+      {
+        "eng": "It's absolutely extraordinary.",
+        "fre": "C'est absolument extraordinaire."
+      },
+      {
+        "eng": "It isn't good.",
+        "fre": "Ce n'est pas bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Definite and indefinite articles",
+    "subtitle": "Using the / a / an",
+    "explanation": "French nouns commonly use articles such as le, la, les for “the” and un, une, des for “a,” “an,” or plural “some.”",
+    "examples": [
+      {
+        "eng": "A map",
+        "fre": "Un plan"
+      },
+      {
+        "eng": "The road",
+        "fre": "La rue"
+      },
+      {
+        "eng": "I would like a bag.",
+        "fre": "Je voudrais un sac."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Avec / sans",
+    "subtitle": "With and without",
+    "explanation": "Use avec for “with” and sans for “without.” These are useful when asking for rooms, food, or other options.",
+    "examples": [
+      {
+        "eng": "Can I have a room with a balcony?",
+        "fre": "Puis-je avoir une chambre avec un balcon?"
+      },
+      {
+        "eng": "Can I have a pizza but without the cheese?",
+        "fre": "Puis-je prendre une pizza mais sans le fromage?"
+      },
+      {
+        "eng": "May I have two coffees without sugar?",
+        "fre": "Puis-je prendre deux cafés sans sucre?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Chez",
+    "subtitle": "At someone’s place",
+    "explanation": "Use chez before a person to mean “at” or “to” that person’s home or place.",
+    "examples": [
+      {
+        "eng": "At Lucie's house.",
+        "fre": "Chez Lucie."
+      },
+      {
+        "eng": "I would like to go to Lucie's house.",
+        "fre": "Je voudrais aller chez Lucie."
+      },
+      {
+        "eng": "Can I go to George's house?",
+        "fre": "Puis-je aller chez George?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "À / au / aux",
+    "subtitle": "Going to and being at places",
+    "explanation": "Use à with places. It combines with le to make au and with les to make aux.",
+    "examples": [
+      {
+        "eng": "I would like to go to the restaurant.",
+        "fre": "Je voudrais aller au restaurant."
+      },
+      {
+        "eng": "At the roundabout, turn left.",
+        "fre": "Au rond-point, tournez à gauche."
+      },
+      {
+        "eng": "I would like to go to the toilet.",
+        "fre": "Je voudrais aller aux toilettes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Où est / où sont",
+    "subtitle": "Asking where something is",
+    "explanation": "Use où est for one thing or person and où sont for more than one.",
+    "examples": [
+      {
+        "eng": "Where is the hotel?",
+        "fre": "Où est l'hôtel?"
+      },
+      {
+        "eng": "Where are the carrots?",
+        "fre": "Où sont les carottes?"
+      },
+      {
+        "eng": "Where is the roundabout?",
+        "fre": "Où est le rond-point?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Pour aller à...?",
+    "subtitle": "Asking how to get somewhere",
+    "explanation": "The course uses pour aller à...? as a practical way to ask how to get to a place.",
+    "examples": [
+      {
+        "eng": "How do I get to Paris?",
+        "fre": "Pour aller à Paris?"
+      },
+      {
+        "eng": "How do I get to the restaurant?",
+        "fre": "Pour aller au restaurant?"
+      },
+      {
+        "eng": "How do I get to the city centre?",
+        "fre": "Pour aller au centre-ville?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Direction commands",
+    "subtitle": "Allez, prenez, tournez",
+    "explanation": "Use allez, prenez, and tournez when giving directions: go, take, and turn.",
+    "examples": [
+      {
+        "eng": "Go straight on.",
+        "fre": "Allez tout droit."
+      },
+      {
+        "eng": "Take the second road.",
+        "fre": "Prenez la deuxième rue."
+      },
+      {
+        "eng": "Turn left.",
+        "fre": "Tournez à gauche."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Location and direction phrases",
+    "subtitle": "Left, right, straight on",
+    "explanation": "Use à gauche, à droite, and tout droit to describe where something is or which way to go.",
+    "examples": [
+      {
+        "eng": "It's on the left.",
+        "fre": "C'est à gauche."
+      },
+      {
+        "eng": "The hotel is on the right.",
+        "fre": "L'hôtel est à droite."
+      },
+      {
+        "eng": "The restaurant is straight on.",
+        "fre": "Le restaurant est tout droit."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Ordinal forms",
+    "subtitle": "First, second, third",
+    "explanation": "Première, deuxième, and troisième are used with roads and exits to say first, second, and third.",
+    "examples": [
+      {
+        "eng": "Take the first road.",
+        "fre": "Prenez la première rue."
+      },
+      {
+        "eng": "Take the second road.",
+        "fre": "Prenez la deuxième rue."
+      },
+      {
+        "eng": "Take the third road.",
+        "fre": "Prenez la troisième rue."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Puis / et puis",
+    "subtitle": "Saying then / and then",
+    "explanation": "Use puis or et puis to put actions in sequence, especially when giving multi-step directions.",
+    "examples": [
+      {
+        "eng": "Go straight on and then turn left.",
+        "fre": "Allez tout droit et puis tournez à gauche."
+      },
+      {
+        "eng": "Take the third road on the left and then turn right.",
+        "fre": "Prenez la troisième rue à gauche et puis tournez à droite."
+      },
+      {
+        "eng": "Take the second road on the right and then go straight on.",
+        "fre": "Prenez la deuxième rue à droite et puis allez tout droit."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Vers",
+    "subtitle": "Saying towards",
+    "explanation": "Use vers to show the direction you are moving or turning toward.",
+    "examples": [
+      {
+        "eng": "Go towards Paris.",
+        "fre": "Allez vers Paris."
+      },
+      {
+        "eng": "Turn left towards Marseille.",
+        "fre": "Tournez à gauche vers Marseille."
+      },
+      {
+        "eng": "Take the exit towards Marseille.",
+        "fre": "Prenez la sortie vers Marseille."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Avant / après",
+    "subtitle": "Before and after",
+    "explanation": "Use avant for “before” and après for “after” to place an action before or after another place, event, or time.",
+    "examples": [
+      {
+        "eng": "Turn left before the roundabout.",
+        "fre": "Tournez à gauche avant le rond-point."
+      },
+      {
+        "eng": "Turn left after the roundabout.",
+        "fre": "Tournez à gauche après le rond-point."
+      },
+      {
+        "eng": "I would like to go to the beach after lunch.",
+        "fre": "Je voudrais aller à la plage après le déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Trop",
+    "subtitle": "Saying too / too much",
+    "explanation": "Use trop to say something is too much or has too much of a quality.",
+    "examples": [
+      {
+        "eng": "It's too big.",
+        "fre": "C'est trop grand."
+      },
+      {
+        "eng": "It's too much for me.",
+        "fre": "C'est trop pour moi."
+      },
+      {
+        "eng": "A bit too small.",
+        "fre": "Un peu trop petit."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Plus / moins",
+    "subtitle": "More, less, bigger, smaller",
+    "explanation": "Use plus to compare with “more” and moins for “less.” With adjectives, they create ideas such as bigger or smaller.",
+    "examples": [
+      {
+        "eng": "Everything here is bigger.",
+        "fre": "Tout ici est plus grand."
+      },
+      {
+        "eng": "Everything here is smaller.",
+        "fre": "Tout ici est plus petit."
+      },
+      {
+        "eng": "Fewer carrots.",
+        "fre": "Moins de carottes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Un peu and quantity with de",
+    "subtitle": "A bit / a little",
+    "explanation": "Use un peu for “a bit.” Before a noun, use un peu de, and the course also combines quantity expressions with plus de and moins de.",
+    "examples": [
+      {
+        "eng": "I would like a bit of cheese.",
+        "fre": "Je voudrais un peu de fromage."
+      },
+      {
+        "eng": "I would like a bit more cheese.",
+        "fre": "Je voudrais un peu plus de fromage."
+      },
+      {
+        "eng": "I would like less cheese.",
+        "fre": "Je voudrais moins de fromage."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Adjective agreement",
+    "subtitle": "Matching adjectives to nouns",
+    "explanation": "French adjectives can change to match the noun. The course shows changes such as grand/grande and plural forms such as grandes.",
+    "examples": [
+      {
+        "eng": "A big car.",
+        "fre": "Une grande voiture."
+      },
+      {
+        "eng": "A small car.",
+        "fre": "Une petite voiture."
+      },
+      {
+        "eng": "Two big cars",
+        "fre": "Deux grandes voitures."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Demonstrative adjectives: ce, cet, cette, ces",
+    "subtitle": "Saying this / that / these",
+    "explanation": "Use ce, cet, cette, or ces before a noun to point out “this,” “that,” or “these,” depending on the noun.",
+    "examples": [
+      {
+        "eng": "This restaurant is fantastic.",
+        "fre": "Ce restaurant est fantastique."
+      },
+      {
+        "eng": "This turkey is delicious.",
+        "fre": "Cette dinde est délicieuse."
+      },
+      {
+        "eng": "These carrots are terrible.",
+        "fre": "Ces carottes sont terribles."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Colours and adjective placement",
+    "subtitle": "Describing colour",
+    "explanation": "Colour words usually come after the noun in these course examples, and some change form to agree with the noun.",
+    "examples": [
+      {
+        "eng": "A green car",
+        "fre": "Une voiture verte"
+      },
+      {
+        "eng": "A green coat",
+        "fre": "Un manteau vert"
+      },
+      {
+        "eng": "I would like the red coat.",
+        "fre": "Je voudrais le manteau rouge."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Ça / cela",
+    "subtitle": "Saying that",
+    "explanation": "Use ça or cela to refer to “that.” The course uses both forms in practical requests and descriptions.",
+    "examples": [
+      {
+        "eng": "that",
+        "fre": "cela"
+      },
+      {
+        "eng": "I would like that.",
+        "fre": "Je voudrais cela."
+      },
+      {
+        "eng": "That is for me.",
+        "fre": "Ça c'est pour moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Aimer / préférer",
+    "subtitle": "Saying what you like or prefer",
+    "explanation": "Use j'aime to say “I like” and je préfère to say “I prefer.” They can be joined to compare choices.",
+    "examples": [
+      {
+        "eng": "I like the chicken here.",
+        "fre": "J'aime le poulet ici."
+      },
+      {
+        "eng": "I prefer the red coat.",
+        "fre": "Je préfère le manteau rouge."
+      },
+      {
+        "eng": "I like the green coat but I prefer the red coat.",
+        "fre": "J'aime le manteau vert mais je préfère le manteau rouge."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Direct object pronouns: le, la, l’",
+    "subtitle": "Replacing “it”",
+    "explanation": "Use le, la, or l' before the verb to replace a thing already mentioned. This avoids repeating the noun.",
+    "examples": [
+      {
+        "eng": "I like it in red.",
+        "fre": "Je l'aime en rouge."
+      },
+      {
+        "eng": "I prefer it",
+        "fre": "Je le préfère"
+      },
+      {
+        "eng": "I would like it in wood.",
+        "fre": "Je le voudrais en bois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "En + colour or material",
+    "subtitle": "Saying in red / in wood",
+    "explanation": "Use en before a colour or material to describe the version or material you want, like en rouge or en bois.",
+    "examples": [
+      {
+        "eng": "In red",
+        "fre": "En rouge"
+      },
+      {
+        "eng": "I like it in metal.",
+        "fre": "Je l'aime en métal."
+      },
+      {
+        "eng": "I would like it in wood.",
+        "fre": "Je le voudrais en bois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Stressed pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi, lui, and elle after words such as pour to say “for me,” “for him,” or “for her.”",
+    "examples": [
+      {
+        "eng": "A bit more for him, please.",
+        "fre": "Un peu plus pour lui, s'il vous plaît."
+      },
+      {
+        "eng": "A tea for her, please.",
+        "fre": "Un thé pour elle, s'il vous plaît."
+      },
+      {
+        "eng": "It's for me.",
+        "fre": "C'est pour moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Time expressions",
+    "subtitle": "Telling and asking the time",
+    "explanation": "Use à quelle heure to ask “at what time.” The course also practices heures, et demie, et quart, and moins le quart.",
+    "examples": [
+      {
+        "eng": "What time is breakfast tomorrow?",
+        "fre": "À quelle heure est le petit-déjeuner demain?"
+      },
+      {
+        "eng": "It's half past ten.",
+        "fre": "Il est dix heures et demie."
+      },
+      {
+        "eng": "It's at quarter to six.",
+        "fre": "C'est à six heures moins le quart."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Par",
+    "subtitle": "Per day / month / person",
+    "explanation": "Use par to express a rate such as per day, per month, or per person.",
+    "examples": [
+      {
+        "eng": "The car is twenty euros per day.",
+        "fre": "La voiture est vingt euros par jour."
+      },
+      {
+        "eng": "It's thirty euros per month.",
+        "fre": "C'est trente euros par mois."
+      },
+      {
+        "eng": "It's ten euros per person.",
+        "fre": "C'est dix euros par personne."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Ticket forms and plurals",
+    "subtitle": "One-way and return tickets",
+    "explanation": "The course uses un aller simple for a one-way ticket and un aller-retour for a return ticket. Their plural forms change when talking about several tickets.",
+    "examples": [
+      {
+        "eng": "A one-way ticket",
+        "fre": "Un aller simple"
+      },
+      {
+        "eng": "Two one-way tickets",
+        "fre": "Deux allers simples"
+      },
+      {
+        "eng": "Two return tickets",
+        "fre": "Deux allers-retours"
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Infinitives after helper expressions",
+    "subtitle": "Combining verbs",
+    "explanation": "After expressions such as je voudrais or puis-je, another verb often stays in the infinitive, as in payer, faire, or aller.",
+    "examples": [
+      {
+        "eng": "I would like to pay for the wine, please.",
+        "fre": "Je voudrais payer le vin, s'il vous plaît."
+      },
+      {
+        "eng": "Can I make a reservation?",
+        "fre": "Puis-je faire une réservation?"
+      },
+      {
+        "eng": "I would like to go at three o'clock.",
+        "fre": "Je voudrais aller à trois heures."
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Negation: ne...pas",
+    "subtitle": "Making sentences negative",
+    "explanation": "Put ne before the verb and pas after it to say something is not true or does not happen.",
+    "examples": [
+      {
+        "eng": "It isn't good.",
+        "fre": "Ce n'est pas bon."
+      },
+      {
+        "eng": "The television doesn't work.",
+        "fre": "La télévision ne marche pas."
+      },
+      {
+        "eng": "It isn't for her; it's for me.",
+        "fre": "Ce n'est pas pour elle; c'est pour moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Numbers and quantities",
+    "subtitle": "Counting people, tickets, and prices",
+    "explanation": "The course uses numbers with nouns, prices, times, and quantities. Keep the noun plural when the quantity requires it.",
+    "examples": [
+      {
+        "eng": "I would like two tickets.",
+        "fre": "Je voudrais deux billets."
+      },
+      {
+        "eng": "How much is it for three tickets?",
+        "fre": "C'est combien pour trois billets?"
+      },
+      {
+        "eng": "The car is twenty euros per day.",
+        "fre": "La voiture est vingt euros par jour."
+      }
+    ]
+  }
+]

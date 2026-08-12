@@ -1,0 +1,654 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Useful question phrases",
+    "subtitle": "Asking who, what, and how long",
+    "explanation": "Course 13 starts with short question building blocks such as avec qui, avec quoi, and pour combien de temps. Use them to ask who with, what with, or for how long.",
+    "examples": [
+      {
+        "eng": "who with (with whom)",
+        "fre": "avec qui"
+      },
+      {
+        "eng": "what with (with what)",
+        "fre": "avec quoi"
+      },
+      {
+        "eng": "for how long / how long for",
+        "fre": "pour combien de temps"
+      },
+      {
+        "eng": "what colour",
+        "fre": "de quelle couleur"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Bien",
+    "subtitle": "Saying well",
+    "explanation": "Use bien after a verb to say that something is done well. It can also be strengthened with très or assez.",
+    "examples": [
+      {
+        "eng": "He sings very well.",
+        "fre": "Il chante très bien."
+      },
+      {
+        "eng": "You write very well.",
+        "fre": "Tu écris très bien. / Vous écrivez très bien."
+      },
+      {
+        "eng": "I speak Russian quite well.",
+        "fre": "Je parle assez bien le russe."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Mieux and mieux que",
+    "subtitle": "Saying better with actions",
+    "explanation": "Use mieux to say an action is done better. Add que to compare how two people or things do something.",
+    "examples": [
+      {
+        "eng": "She sings better now.",
+        "fre": "Elle chante mieux maintenant."
+      },
+      {
+        "eng": "She sings better than me.",
+        "fre": "Elle chante mieux que moi."
+      },
+      {
+        "eng": "He feels better than yesterday.",
+        "fre": "Il se sent mieux qu'hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Le mieux",
+    "subtitle": "Saying the best with actions",
+    "explanation": "Use le mieux after a verb to say someone does something the best.",
+    "examples": [
+      {
+        "eng": "Marie sings the best.",
+        "fre": "Marie chante le mieux."
+      },
+      {
+        "eng": "Pierre plays the best.",
+        "fre": "Pierre joue le mieux."
+      },
+      {
+        "eng": "I think I do it the best.",
+        "fre": "Je pense que je le fais le mieux."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Mal and plus mal",
+    "subtitle": "Saying badly and worse",
+    "explanation": "Use mal for badly and plus mal for worse when you are describing how an action is done. Add que when making a comparison.",
+    "examples": [
+      {
+        "eng": "She sings very badly.",
+        "fre": "Elle chante très mal."
+      },
+      {
+        "eng": "He feels worse today.",
+        "fre": "Il se sent plus mal aujourd'hui."
+      },
+      {
+        "eng": "I play worse than you.",
+        "fre": "Je joue plus mal que toi / vous."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Le plus mal",
+    "subtitle": "Saying the worst with actions",
+    "explanation": "Use le plus mal after a verb to say someone does something the worst.",
+    "examples": [
+      {
+        "eng": "Marie sings the worst.",
+        "fre": "Marie chante le plus mal."
+      },
+      {
+        "eng": "He plays the worst.",
+        "fre": "Il joue le plus mal."
+      },
+      {
+        "eng": "They played the best and we played the worst.",
+        "fre": "Ils ont joué le mieux et nous avons joué le plus mal."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Meilleur and meilleure",
+    "subtitle": "Saying a thing is better",
+    "explanation": "Use meilleur or meilleure when 'better' describes a noun or thing rather than how an action is done. The form changes to match the noun.",
+    "examples": [
+      {
+        "eng": "Everything is better here.",
+        "fre": "Tout est meilleur ici."
+      },
+      {
+        "eng": "The food is better here.",
+        "fre": "La nourriture est meilleure ici."
+      },
+      {
+        "eng": "The wine is always better here.",
+        "fre": "Le vin est toujours meilleur ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Pire",
+    "subtitle": "Saying a thing is worse",
+    "explanation": "Use pire when 'worse' describes a thing or situation.",
+    "examples": [
+      {
+        "eng": "It's much worse here.",
+        "fre": "C'est beaucoup pire ici."
+      },
+      {
+        "eng": "The food is worse here.",
+        "fre": "La nourriture est pire ici."
+      },
+      {
+        "eng": "The wine is always worse here.",
+        "fre": "Le vin est toujours pire ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Plus + adjective + que",
+    "subtitle": "Comparing with more / -er",
+    "explanation": "Use plus + adjective + que to say that one person or thing is more of a quality than another.",
+    "examples": [
+      {
+        "eng": "Pierre is bigger than Paul.",
+        "fre": "Pierre est plus grand que Paul."
+      },
+      {
+        "eng": "This wine is more delicious than that wine.",
+        "fre": "Ce vin-ci est plus délicieux que ce vin-là."
+      },
+      {
+        "eng": "This car is more expensive than that car.",
+        "fre": "Cette voiture-ci est plus chère que cette voiture-la."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Moins + adjective + que",
+    "subtitle": "Comparing with less",
+    "explanation": "Use moins + adjective + que to say that one person or thing has less of a quality than another.",
+    "examples": [
+      {
+        "eng": "Calais is less expensive than Paris.",
+        "fre": "Calais est moins cher que Paris."
+      },
+      {
+        "eng": "The car is less quick than the train.",
+        "fre": "La voiture est moins rapide que le train."
+      },
+      {
+        "eng": "Pierre is less intelligent than Michel.",
+        "fre": "Pierre est moins intelligent que Michel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Le / la plus",
+    "subtitle": "Saying the most / -est",
+    "explanation": "Use le plus or la plus with an adjective to form a superlative such as biggest or most expensive. Choose le or la to match the noun.",
+    "examples": [
+      {
+        "eng": "Pierre is the biggest.",
+        "fre": "Pierre est le plus grand."
+      },
+      {
+        "eng": "Marie is the biggest.",
+        "fre": "Marie est la plus grande."
+      },
+      {
+        "eng": "The most expensive car in the world.",
+        "fre": "La voiture la plus chère du monde."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Le / la moins",
+    "subtitle": "Saying the least",
+    "explanation": "Use le moins or la moins with an adjective to say the least of a quality.",
+    "examples": [
+      {
+        "eng": "This car is the least expensive.",
+        "fre": "Cette voiture est la moins chère."
+      },
+      {
+        "eng": "This car is the least expensive of the two.",
+        "fre": "Cette voiture est la moins chère des deux."
+      },
+      {
+        "eng": "This car is the least noisy that we tried.",
+        "fre": "Cette voiture est la moins bruyante que nous avons essayée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Superlatives with de",
+    "subtitle": "Saying in the world / of all",
+    "explanation": "After a superlative, Course 13 uses de forms to show the group being compared, such as du monde or de tous.",
+    "examples": [
+      {
+        "eng": "This is the best restaurant in the world.",
+        "fre": "Ceci est le meilleur restaurant du monde."
+      },
+      {
+        "eng": "She is the biggest of all.",
+        "fre": "Elle est la plus grande de tous."
+      },
+      {
+        "eng": "the most delicious in the world",
+        "fre": "le plus délicieux du monde"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Car",
+    "subtitle": "Giving a reason",
+    "explanation": "Use car to give a reason, similar to 'because' or 'as' in these course sentences.",
+    "examples": [
+      {
+        "eng": "I must leave as I have a reservation soon.",
+        "fre": "Je dois partir car j'ai une réservation bientôt."
+      },
+      {
+        "eng": "I didn't do it because I was tired.",
+        "fre": "Je ne l'ai pas fait car j'étais fatigué."
+      },
+      {
+        "eng": "I chose to eat now, as I was very hungry.",
+        "fre": "J'ai choisi de manger maintenant, car j'avais très faim."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Donc",
+    "subtitle": "Saying so / therefore",
+    "explanation": "Use donc to connect a result to what came before: 'so' or 'therefore'.",
+    "examples": [
+      {
+        "eng": "I've eaten everything, so I'm leaving now.",
+        "fre": "J'ai tout mangé, donc je pars maintenant."
+      },
+      {
+        "eng": "I don't have time now, so I'm going to call later.",
+        "fre": "Je n'ai pas le temps maintenant, donc je vais appeler plus tard."
+      },
+      {
+        "eng": "I think, therefore I am.",
+        "fre": "Je pense, donc je suis."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Au lieu de",
+    "subtitle": "Saying instead of",
+    "explanation": "Use au lieu de before a noun or infinitive to say 'instead of'. De changes naturally before words such as le, les, or a vowel.",
+    "examples": [
+      {
+        "eng": "They watched the TV instead of working.",
+        "fre": "Ils ont regardé la télévision au lieu de travailler."
+      },
+      {
+        "eng": "I would like a tea instead of a coffee.",
+        "fre": "Je voudrais un thé au lieu d'un café."
+      },
+      {
+        "eng": "Instead of going out, do you want to stay at home?",
+        "fre": "Au lieu de sortir, veux-tu / voulez-vous rester chez nous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Choisir de + infinitive",
+    "subtitle": "Choosing to do something",
+    "explanation": "Use choisir de followed by an infinitive to say that someone chooses or chose to do something.",
+    "examples": [
+      {
+        "eng": "I chose to go to France",
+        "fre": "j'ai choisi d'aller en France"
+      },
+      {
+        "eng": "I chose to eat now, as I was very hungry.",
+        "fre": "J'ai choisi de manger maintenant, car j'avais très faim."
+      },
+      {
+        "eng": "Where are you choosing to spend the holidays this year?",
+        "fre": "Où choisis-tu / choisissez-vous de passer les vacances cette année?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Croire / penser que",
+    "subtitle": "Saying what you believe or think",
+    "explanation": "Use croire que or penser que before an idea or statement to say what you believe or think.",
+    "examples": [
+      {
+        "eng": "I believe Marie is coming with us tomorrow.",
+        "fre": "Je crois que Marie vient avec nous demain."
+      },
+      {
+        "eng": "I think we speak well.",
+        "fre": "Je pense que nous parlons bien. / Je pense qu'on parle bien."
+      },
+      {
+        "eng": "I think the chicken is always perfect here.",
+        "fre": "Je pense que le poulet est toujours parfait ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Vouloir dire",
+    "subtitle": "Saying what something means",
+    "explanation": "French uses vouloir dire for 'to mean'. Course 13 practises it in questions and statements.",
+    "examples": [
+      {
+        "eng": "What does it mean?",
+        "fre": "Qu'est-ce que ça veut dire?"
+      },
+      {
+        "eng": "I don't know what it means.",
+        "fre": "Je ne sais pas ce que ça veut dire."
+      },
+      {
+        "eng": "Do you understand what I mean?",
+        "fre": "Comprends-tu / Comprenez-vous ce que je veux dire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "S'écrire",
+    "subtitle": "Asking how something is spelled",
+    "explanation": "Use s'écrire when talking about how a word, name, or address is written or spelled.",
+    "examples": [
+      {
+        "eng": "How is it spelled?",
+        "fre": "Comment ça s'écrit?"
+      },
+      {
+        "eng": "How is your name spelled?",
+        "fre": "Comment s'écrit votre nom?"
+      },
+      {
+        "eng": "My name is spelled P-I-E-R-R-E.",
+        "fre": "Mon nom s'écrit P-I-E-R-R-E."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Écrire",
+    "subtitle": "Using the verb to write",
+    "explanation": "Course 13 practises écrire in the present and with avoir in the past. Notice forms such as j'écris, nous écrivons, and j'ai écrit.",
+    "examples": [
+      {
+        "eng": "I write",
+        "fre": "j'écris"
+      },
+      {
+        "eng": "we write",
+        "fre": "nous écrivons"
+      },
+      {
+        "eng": "I wrote",
+        "fre": "j'ai écrit"
+      },
+      {
+        "eng": "I wrote you a letter in French.",
+        "fre": "Je t'ai écrit une lettre en français. / Je vous ai écrit une lettre en français."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Lire",
+    "subtitle": "Using the verb to read",
+    "explanation": "Course 13 practises lire in the present and in the completed past. The past uses avoir + lu.",
+    "examples": [
+      {
+        "eng": "I read",
+        "fre": "je lis"
+      },
+      {
+        "eng": "we read",
+        "fre": "nous lisons"
+      },
+      {
+        "eng": "I (have) read",
+        "fre": "j'ai lu"
+      },
+      {
+        "eng": "What did you read yesterday?",
+        "fre": "Qu'as-tu lu hier? / Qu'avez-vous lu hier? / Qu'est-ce que tu as lu hier? / Qu'est-ce que vous avez lu hier?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Facile / difficile de",
+    "subtitle": "Saying something is easy or difficult to do",
+    "explanation": "Use facile de or difficile de before an infinitive to describe how easy or difficult an action is.",
+    "examples": [
+      {
+        "eng": "It's easy to speak French.",
+        "fre": "C'est facile de parler français."
+      },
+      {
+        "eng": "It isn't too difficult to speak German.",
+        "fre": "Ce n'est pas trop difficile de parler allemand."
+      },
+      {
+        "eng": "It was difficult to hear Pierre.",
+        "fre": "C'était difficile d'entendre Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Presque",
+    "subtitle": "Saying almost / nearly",
+    "explanation": "Use presque before the word or idea you want to soften to 'almost' or 'nearly'.",
+    "examples": [
+      {
+        "eng": "I've almost finished.",
+        "fre": "J'ai presque fini."
+      },
+      {
+        "eng": "We're nearly at the restaurant.",
+        "fre": "Nous sommes presque au restaurant."
+      },
+      {
+        "eng": "It's almost impossible to understand Pierre.",
+        "fre": "C'est presque impossible de comprendre Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Adverbs ending in -ment",
+    "subtitle": "Describing how an action happens",
+    "explanation": "Many Course 13 adverbs end in -ment. They describe how an action happens, such as rapidement or lentement.",
+    "examples": [
+      {
+        "eng": "He did it very quickly.",
+        "fre": "Il l'a fait très rapidement."
+      },
+      {
+        "eng": "We're driving too slowly.",
+        "fre": "Nous conduisons trop lentement."
+      },
+      {
+        "eng": "He likes to drive very quickly, but I prefer driving slowly.",
+        "fre": "Il aime conduire très rapidement, mais je préfère conduire lentement."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Sentence adverbs",
+    "subtitle": "Currently, fortunately, unfortunately",
+    "explanation": "Words such as actuellement, heureusement, and malheureusement can frame the whole sentence and tell when something is true or how the speaker views it.",
+    "examples": [
+      {
+        "eng": "I'm currently in Paris, but I'm going to Marseille next week.",
+        "fre": "Actuellement, je suis à Paris, mais je vais à Marseille la semaine prochaine."
+      },
+      {
+        "eng": "Unfortunately, we can't come tomorrow.",
+        "fre": "Malheureusement, nous ne pouvons pas venir demain."
+      },
+      {
+        "eng": "Fortunately, we are almost there.",
+        "fre": "Heureusement, nous sommes presque là."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Vraiment, surtout, absolument",
+    "subtitle": "Adding emphasis or focus",
+    "explanation": "Course 13 uses vraiment for 'really', surtout for 'especially', and absolument for strong emphasis such as 'absolutely' or 'definitely'.",
+    "examples": [
+      {
+        "eng": "It's truly fantastic.",
+        "fre": "C'est vraiment fantastique."
+      },
+      {
+        "eng": "I like France, especially the south.",
+        "fre": "J'aime la France, surtout le sud."
+      },
+      {
+        "eng": "He definitely doesn't want to come with us.",
+        "fre": "Il ne veut absolument pas venir avec nous."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Dedans / dans and dehors / en dehors de",
+    "subtitle": "Inside and outside",
+    "explanation": "Use dedans or dehors when 'inside' or 'outside' stands on its own. Use dans or en dehors de when a following noun names the place.",
+    "examples": [
+      {
+        "eng": "I've left the keys inside.",
+        "fre": "J'ai laissé les clés dedans."
+      },
+      {
+        "eng": "It's in the house.",
+        "fre": "C'est dans la maison."
+      },
+      {
+        "eng": "We can eat outside if you want.",
+        "fre": "Nous pouvons manger dehors si tu veux / si vous voulez."
+      },
+      {
+        "eng": "It's outside of the town.",
+        "fre": "C'est en dehors de la ville."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Dessus / sur and dessous / sous",
+    "subtitle": "On top and underneath",
+    "explanation": "Use dessus or dessous when the location stands alone. Use sur or sous when you name the object that follows.",
+    "examples": [
+      {
+        "eng": "Can you see the table there? My key is on top.",
+        "fre": "Peux-tu / Pouvez-vous voir la table là? Ma clé est dessus."
+      },
+      {
+        "eng": "My key is on top of the table.",
+        "fre": "Ma clé est sur la table."
+      },
+      {
+        "eng": "I need to find the book because I left my key underneath.",
+        "fre": "J'ai besoin de trouver le livre parce que j'ai laissé ma clé dessous."
+      },
+      {
+        "eng": "I left my key underneath the book.",
+        "fre": "J'ai laissé ma clé sous le livre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Au-dessus / en dessous",
+    "subtitle": "Above and below",
+    "explanation": "Use au-dessus or en dessous when 'above' or 'below' stands alone. Add de before the noun or place being used as the reference point.",
+    "examples": [
+      {
+        "eng": "There is a mirror above the fireplace.",
+        "fre": "Il y a un miroir au-dessus de la cheminée."
+      },
+      {
+        "eng": "I think there's something above.",
+        "fre": "Je pense qu'il y a quelque chose au-dessus."
+      },
+      {
+        "eng": "My suitcase is below the table.",
+        "fre": "Ma valise est en dessous de la table."
+      },
+      {
+        "eng": "What is there below?",
+        "fre": "Qu'y a-t-il en dessous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Upstairs, downstairs, and floors",
+    "subtitle": "Moving around a building",
+    "explanation": "Course 13 uses en haut, en bas, and à l'étage for upstairs or downstairs ideas, and names floors with rez-de-chaussée and ordinal numbers.",
+    "examples": [
+      {
+        "eng": "It's upstairs.",
+        "fre": "C'est à l'étage."
+      },
+      {
+        "eng": "It's downstairs.",
+        "fre": "C'est en bas."
+      },
+      {
+        "eng": "I'm going upstairs.",
+        "fre": "Je monte à l'étage."
+      },
+      {
+        "eng": "I think the restaurant is on the ground floor.",
+        "fre": "Je pense que le restaurant est au rez-de-chaussée."
+      },
+      {
+        "eng": "The toilets are on the third floor.",
+        "fre": "Les toilettes sont au troisième étage."
+      }
+    ]
+  }
+]

@@ -1,196 +1,106 @@
 import "dotenv/config";
+import crypto from "crypto";
 import express from "express";
 import cors from "cors";
 import { MongoClient } from "mongodb";
 
 const MONGODB_URI = process.env.MONGODB_URI;
 const DB_NAME = process.env.MONGODB_DB || "fms_tracker";
-const API_TOKEN = String(process.env.TRACKER_API_TOKEN || "").trim();
-const MAX_BATCH = 500;
-
-const GLOBAL_CACHE_KEY = "__fmsTrackerMongoCacheV2";
+const ADMIN_TOKEN = String(process.env.TRACKER_API_TOKEN || "").trim();
+const MAX_WEEKS_PER_REQUEST = 12;
+const GLOBAL_CACHE_KEY = "__fmsTrackerMongoCacheV3";
 
 function getCache() {
   if (!globalThis[GLOBAL_CACHE_KEY]) {
-    globalThis[GLOBAL_CACHE_KEY] = {
-      clientPromise: null,
-      indexesReady: false,
-    };
+    globalThis[GLOBAL_CACHE_KEY] = { clientPromise: null, indexesReady: false };
   }
   return globalThis[GLOBAL_CACHE_KEY];
 }
 
 async function getMongo() {
-  if (!MONGODB_URI) {
-    throw new Error("Missing MONGODB_URI environment variable.");
-  }
-
+  if (!MONGODB_URI) throw new Error("Missing MONGODB_URI environment variable.");
   const cache = getCache();
   if (!cache.clientPromise) {
-    const client = new MongoClient(MONGODB_URI, {
-      maxPoolSize: 10,
-      minPoolSize: 0,
+    const client = new MongoClient(MONGODB_URI, { maxPoolSize: 10, minPoolSize: 0 });
+    cache.clientPromise = client.connect().then(() => client).catch((error) => {
+      cache.clientPromise = null;
+      throw error;
     });
-    cache.clientPromise = client.connect()
-      .then(() => client)
-      .catch((error) => {
-        cache.clientPromise = null;
-        throw error;
-      });
   }
-
   const client = await cache.clientPromise;
   const db = client.db(DB_NAME);
   const collections = {
+    users: db.collection("users"),
+    devices: db.collection("devices"),
+    weekly: db.collection("weekly_activity"),
+    // Kept only so older v1.2 APKs do not immediately break during migration.
     usage: db.collection("usage_events"),
     phone: db.collection("phone_calls"),
     whatsapp: db.collection("whatsapp_calls"),
     french: db.collection("french_sessions"),
-    users: db.collection("users"),
-    devices: db.collection("devices"),
   };
 
   if (!cache.indexesReady) {
     await Promise.all([
+      collections.users.createIndex({ userId: 1 }, { unique: true }),
+      collections.devices.createIndex({ deviceId: 1 }, { unique: true }),
+      collections.devices.createIndex({ userId: 1, deviceName: 1 }),
+      collections.weekly.createIndex({ userId: 1, deviceId: 1, weekStart: 1 }, { unique: true }),
+      collections.weekly.createIndex({ userId: 1, weekStart: -1 }),
       collections.usage.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
       collections.phone.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
       collections.whatsapp.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
       collections.french.createIndex({ deviceId: 1, sessionId: 1 }, { unique: true }),
-      collections.usage.createIndex({ userId: 1, startedAt: -1 }),
-      collections.phone.createIndex({ userId: 1, startedAt: -1 }),
-      collections.whatsapp.createIndex({ userId: 1, startedAt: -1 }),
-      collections.french.createIndex({ userId: 1, startedAt: -1 }),
-      collections.users.createIndex({ userId: 1 }, { unique: true }),
-      collections.devices.createIndex({ deviceId: 1 }, { unique: true }),
-      collections.devices.createIndex({ userId: 1, deviceName: 1 }),
     ]);
     cache.indexesReady = true;
   }
-
-  return { client, db, collections };
+  return { db, collections };
 }
 
 const app = express();
 app.set("trust proxy", true);
 app.use(cors());
 app.use(express.json({ limit: "4mb" }));
-
-function requireToken(req, res, next) {
-  if (!API_TOKEN) return next();
-  const value = String(req.headers.authorization || "");
-  if (value !== `Bearer ${API_TOKEN}`) {
-    return res.status(401).json({ ok: false, error: "Unauthorized" });
-  }
-  next();
-}
-
-function safeArray(value) {
-  return Array.isArray(value) ? value.slice(0, MAX_BATCH) : [];
-}
-
-function asFiniteNumber(value, fallback = 0) {
-  const number = Number(value);
-  return Number.isFinite(number) ? number : fallback;
-}
+app.use(express.static("public", { maxAge: "5m", etag: true }));
 
 function cleanText(value, maxLength = 200) {
   if (value == null) return null;
   return String(value).trim().slice(0, maxLength);
 }
-
-function normalizeIdentity(body) {
-  const userId = cleanText(body?.userId, 80);
-  const userName = cleanText(body?.userName, 120);
-  const deviceId = cleanText(body?.deviceId, 160);
-  const deviceName = cleanText(body?.deviceName, 160);
-  if (!userId || !userName || !deviceId || !deviceName) return null;
-  return { userId, userName, deviceId, deviceName };
+function finite(value, fallback = 0) {
+  const n = Number(value);
+  return Number.isFinite(n) ? n : fallback;
+}
+function sha256(value) {
+  return crypto.createHash("sha256").update(String(value)).digest("hex");
+}
+function safeDate(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? null : date;
 }
 
-function normalizeUsage(item, identity) {
-  const eventId = cleanText(item?.eventId, 120);
-  if (!eventId) return null;
-  return {
-    userId: identity.userId,
-    deviceId: identity.deviceId,
-    eventId,
-    packageName: cleanText(item.packageName, 200) || "unknown",
-    appName: cleanText(item.appName, 200) || "Unknown app",
-    category: cleanText(item.category, 40) || "unknown",
-    startedAt: new Date(asFiniteNumber(item.startedAt)),
-    endedAt: new Date(asFiniteNumber(item.endedAt)),
-    durationSeconds: Math.max(0, Math.round(asFiniteNumber(item.durationSeconds))),
-    updatedAt: new Date(),
-  };
+function requireAdmin(req, res, next) {
+  if (!ADMIN_TOKEN) return next();
+  if (String(req.headers.authorization || "") !== `Bearer ${ADMIN_TOKEN}`) {
+    return res.status(401).json({ ok: false, error: "Unauthorized" });
+  }
+  next();
 }
 
-function normalizePhone(item, identity) {
-  const eventId = cleanText(item?.eventId, 120);
-  if (!eventId) return null;
-  return {
-    userId: identity.userId,
-    deviceId: identity.deviceId,
-    eventId,
-    phoneNumberMasked: cleanText(item.phoneNumberMasked, 30),
-    contactName: cleanText(item.contactName, 200),
-    direction: cleanText(item.direction, 40) || "other",
-    category: cleanText(item.category, 40) || "social",
-    source: cleanText(item.source, 80) || "call_log",
-    startedAt: new Date(asFiniteNumber(item.startedAt)),
-    durationSeconds: Math.max(0, Math.round(asFiniteNumber(item.durationSeconds))),
-    updatedAt: new Date(),
-  };
-}
-
-function normalizeWhatsApp(item, identity) {
-  const eventId = cleanText(item?.eventId, 120);
-  if (!eventId) return null;
-  return {
-    userId: identity.userId,
-    deviceId: identity.deviceId,
-    eventId,
-    packageName: cleanText(item.packageName, 200) || "com.whatsapp",
-    contactLabel: cleanText(item.contactLabel, 200),
-    direction: cleanText(item.direction, 40) || "unknown",
-    category: cleanText(item.category, 40) || "social",
-    source: cleanText(item.source, 80) || "best_effort_notification",
-    confidence: cleanText(item.confidence, 80) || "best_effort_notification",
-    startedAt: new Date(asFiniteNumber(item.startedAt)),
-    endedAt: new Date(asFiniteNumber(item.endedAt)),
-    durationSeconds: Math.max(0, Math.round(asFiniteNumber(item.durationSeconds))),
-    updatedAt: new Date(),
-  };
-}
-
-function normalizeFrench(item, identity) {
-  const sessionId = cleanText(item?.sessionId, 120);
-  if (!sessionId) return null;
-  return {
-    userId: identity.userId,
-    deviceId: identity.deviceId,
-    sessionId,
-    startedAt: new Date(asFiniteNumber(item.startedAt)),
-    endedAt: new Date(asFiniteNumber(item.endedAt)),
-    durationSeconds: Math.max(0, Math.round(asFiniteNumber(item.durationSeconds))),
-    cardsPracticed: Math.max(0, Math.round(asFiniteNumber(item.cardsPracticed))),
-    updatedAt: new Date(),
-  };
-}
-
-async function upsertMany(collection, records, idField) {
-  if (!records.length) return [];
-  const operations = records.map((record) => ({
-    updateOne: {
-      filter: { deviceId: record.deviceId, [idField]: record[idField] },
-      update: {
-        $set: record,
-        $setOnInsert: { createdAt: new Date() },
-      },
-      upsert: true,
-    },
-  }));
-  await collection.bulkWrite(operations, { ordered: false });
-  return records.map((record) => record[idField]);
+async function requireDevice(req, res, next) {
+  try {
+    const deviceId = cleanText(req.headers["x-device-id"], 180);
+    const secret = cleanText(req.headers["x-device-secret"], 300);
+    if (!deviceId || !secret) return res.status(401).json({ ok: false, error: "Missing device credentials" });
+    const { collections } = await getMongo();
+    const device = await collections.devices.findOne({ deviceId, secretHash: sha256(secret) });
+    if (!device) return res.status(401).json({ ok: false, error: "Invalid device credentials" });
+    req.trackerDevice = device;
+    next();
+  } catch (error) {
+    console.error("Device auth error:", error);
+    res.status(500).json({ ok: false, error: "Device authentication failed" });
+  }
 }
 
 app.get("/", (_req, res) => {
@@ -198,7 +108,8 @@ app.get("/", (_req, res) => {
     ok: true,
     service: "French Made Simple tracker API",
     hosting: process.env.VERCEL ? "vercel" : "node",
-    syncPolicy: "weekly-client-batch",
+    syncPolicy: "weekly-summary",
+    contentManifest: "/content/manifest.json",
   });
 });
 
@@ -206,213 +117,255 @@ app.get("/health", async (_req, res) => {
   try {
     const { db } = await getMongo();
     await db.command({ ping: 1 });
-    res.json({
-      ok: true,
-      database: DB_NAME,
-      hosting: process.env.VERCEL ? "vercel" : "node",
-      time: new Date().toISOString(),
-    });
+    res.json({ ok: true, database: DB_NAME, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
   } catch (error) {
     res.status(500).json({ ok: false, error: error.message });
   }
 });
 
-app.get("/api/v1/users", requireToken, async (_req, res) => {
+// Private-test bootstrap: the server issues a per-installation secret once the user saves a profile.
+// No shared secret has to be embedded into the APK.
+app.post("/api/v1/devices/register", async (req, res) => {
   try {
+    const userId = cleanText(req.body?.userId, 80);
+    const userName = cleanText(req.body?.userName, 120);
+    const deviceId = cleanText(req.body?.deviceId, 180);
+    const deviceName = cleanText(req.body?.deviceName, 180);
+    if (!userId || !userName || !deviceId || !deviceName) {
+      return res.status(400).json({ ok: false, error: "userId, userName, deviceId and deviceName are required" });
+    }
+
+    const secret = crypto.randomBytes(32).toString("hex");
+    const now = new Date();
     const { collections } = await getMongo();
-    const users = await collections.users
-      .find({}, { projection: { _id: 0 } })
-      .sort({ userName: 1 })
-      .toArray();
-    res.json({ ok: true, users });
+    await Promise.all([
+      collections.users.updateOne(
+        { userId },
+        { $set: { userId, userName, updatedAt: now }, $setOnInsert: { createdAt: now } },
+        { upsert: true }
+      ),
+      collections.devices.updateOne(
+        { deviceId },
+        {
+          $set: { deviceId, deviceName, userId, userName, secretHash: sha256(secret), lastRegisteredAt: now },
+          $setOnInsert: { createdAt: now },
+        },
+        { upsert: true }
+      ),
+    ]);
+    res.json({ ok: true, deviceId, deviceSecret: secret });
   } catch (error) {
-    console.error("Users error:", error);
-    res.status(500).json({ ok: false, error: "Could not load users" });
+    console.error("Register device error:", error);
+    res.status(500).json({ ok: false, error: "Device registration failed" });
   }
 });
 
-app.get("/api/v1/devices", requireToken, async (req, res) => {
+function normalizeSession(item) {
+  const startedAt = safeDate(item?.startedAt);
+  const endedAt = safeDate(item?.endedAt);
+  if (!startedAt || !endedAt || endedAt <= startedAt) return null;
+  return {
+    startedAt,
+    endedAt,
+    durationSeconds: Math.max(0, Math.round(finite(item?.durationSeconds))),
+  };
+}
+
+function normalizeWeek(week, identity) {
+  const weekStart = cleanText(week?.weekStart, 20);
+  const weekEnd = cleanText(week?.weekEnd, 20);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(weekStart || "") || !/^\d{4}-\d{2}-\d{2}$/.test(weekEnd || "")) return null;
+
+  const apps = Array.isArray(week.apps) ? week.apps.slice(0, 300).map((appRow) => ({
+    packageName: cleanText(appRow?.packageName, 220) || "unknown",
+    appName: cleanText(appRow?.appName, 220) || "Unknown app",
+    category: cleanText(appRow?.category, 40) || "unknown",
+    totalSeconds: Math.max(0, Math.round(finite(appRow?.totalSeconds))),
+    days: Array.isArray(appRow?.days) ? appRow.days.slice(0, 7).map((day) => ({
+      date: cleanText(day?.date, 20),
+      totalSeconds: Math.max(0, Math.round(finite(day?.totalSeconds))),
+      sessions: Array.isArray(day?.sessions) ? day.sessions.slice(0, 200).map(normalizeSession).filter(Boolean) : [],
+    })) : [],
+  })) : [];
+
+  const calls = Array.isArray(week.phoneCalls) ? week.phoneCalls.slice(0, 1000).map((call) => ({
+    eventId: cleanText(call?.eventId, 120),
+    phoneNumber: cleanText(call?.phoneNumber, 80),
+    contactName: cleanText(call?.contactName, 220),
+    direction: cleanText(call?.direction, 40) || "other",
+    startedAt: safeDate(call?.startedAt),
+    durationSeconds: Math.max(0, Math.round(finite(call?.durationSeconds))),
+  })).filter((call) => call.eventId && call.startedAt) : [];
+
+  const whatsappCalls = Array.isArray(week.whatsappCalls) ? week.whatsappCalls.slice(0, 1000).map((call) => ({
+    eventId: cleanText(call?.eventId, 120),
+    contactName: cleanText(call?.contactName, 220),
+    phoneNumber: cleanText(call?.phoneNumber, 80),
+    direction: cleanText(call?.direction, 40) || "unknown",
+    startedAt: safeDate(call?.startedAt),
+    durationSeconds: Math.max(0, Math.round(finite(call?.durationSeconds))),
+    matchConfidence: cleanText(call?.matchConfidence, 80),
+  })).filter((call) => call.eventId && call.startedAt) : [];
+
+  const frenchDays = Array.isArray(week?.french?.days) ? week.french.days.slice(0, 7).map((day) => ({
+    date: cleanText(day?.date, 20),
+    studySeconds: Math.max(0, Math.round(finite(day?.studySeconds))),
+    cardsPracticed: Math.max(0, Math.round(finite(day?.cardsPracticed))),
+    sessions: Math.max(0, Math.round(finite(day?.sessions))),
+  })) : [];
+
+  return {
+    userId: identity.userId,
+    userName: identity.userName,
+    deviceId: identity.deviceId,
+    deviceName: identity.deviceName,
+    weekStart,
+    weekEnd,
+    apps,
+    phoneCalls: calls,
+    whatsappCalls,
+    french: {
+      studySeconds: Math.max(0, Math.round(finite(week?.french?.studySeconds))),
+      cardsPracticed: Math.max(0, Math.round(finite(week?.french?.cardsPracticed))),
+      sessions: Math.max(0, Math.round(finite(week?.french?.sessions))),
+      days: frenchDays,
+    },
+    updatedAt: new Date(),
+  };
+}
+
+app.post("/api/v1/sync/weekly", requireDevice, async (req, res) => {
+  try {
+    const device = req.trackerDevice;
+    const userId = cleanText(req.body?.userId, 80);
+    const deviceId = cleanText(req.body?.deviceId, 180);
+    if (userId !== device.userId || deviceId !== device.deviceId) {
+      return res.status(403).json({ ok: false, error: "Identity does not match registered device" });
+    }
+    const weeks = (Array.isArray(req.body?.weeks) ? req.body.weeks : [])
+      .slice(0, MAX_WEEKS_PER_REQUEST)
+      .map((week) => normalizeWeek(week, device))
+      .filter(Boolean);
+    if (!weeks.length) return res.json({ ok: true, acceptedWeekStarts: [] });
+
+    const { collections } = await getMongo();
+    await collections.weekly.bulkWrite(weeks.map((week) => ({
+      updateOne: {
+        filter: { userId: week.userId, deviceId: week.deviceId, weekStart: week.weekStart },
+        update: { $set: week, $setOnInsert: { createdAt: new Date() } },
+        upsert: true,
+      },
+    })), { ordered: false });
+
+    const now = new Date();
+    await Promise.all([
+      collections.users.updateOne({ userId: device.userId }, { $set: { lastSyncAt: now, userName: device.userName } }),
+      collections.devices.updateOne({ deviceId: device.deviceId }, { $set: { lastSyncAt: now, lastSeenIp: req.ip } }),
+    ]);
+    res.json({ ok: true, acceptedWeekStarts: weeks.map((week) => week.weekStart) });
+  } catch (error) {
+    console.error("Weekly sync error:", error);
+    res.status(500).json({ ok: false, error: "Weekly sync failed" });
+  }
+});
+
+app.get("/api/v1/users", requireAdmin, async (_req, res) => {
+  try {
+    const { collections } = await getMongo();
+    const users = await collections.users.find({}, { projection: { _id: 0 } }).sort({ userName: 1 }).toArray();
+    res.json({ ok: true, users });
+  } catch (error) { res.status(500).json({ ok: false, error: "Could not load users" }); }
+});
+
+app.get("/api/v1/devices", requireAdmin, async (req, res) => {
   try {
     const userId = cleanText(req.query?.userId, 80);
     if (!userId) return res.status(400).json({ ok: false, error: "userId is required" });
     const { collections } = await getMongo();
-    const devices = await collections.devices
-      .find({ userId }, { projection: { _id: 0, lastSeenIp: 0 } })
-      .sort({ lastSyncAt: -1 })
-      .toArray();
-    res.json({ ok: true, userId, devices });
-  } catch (error) {
-    console.error("Devices error:", error);
-    res.status(500).json({ ok: false, error: "Could not load devices" });
-  }
+    const devices = await collections.devices.find({ userId }, { projection: { _id: 0, secretHash: 0, lastSeenIp: 0 } }).toArray();
+    res.json({ ok: true, devices });
+  } catch (error) { res.status(500).json({ ok: false, error: "Could not load devices" }); }
 });
 
-app.get("/api/v1/dashboard/summary", requireToken, async (req, res) => {
+app.get("/api/v1/dashboard/summary", requireAdmin, async (req, res) => {
   try {
     const userId = cleanText(req.query?.userId, 80);
-    const deviceId = cleanText(req.query?.deviceId, 160);
-    if (!userId) {
-      return res.status(400).json({ ok: false, error: "userId is required" });
-    }
-
-    const requestedDays = Math.round(asFiniteNumber(req.query?.days, 7));
-    const days = Math.min(365, Math.max(1, requestedDays));
-    const from = new Date(Date.now() - days * 24 * 60 * 60 * 1000);
-    const match = {
-      userId,
-      startedAt: { $gte: from },
-      ...(deviceId ? { deviceId } : {}),
-    };
-
+    const deviceId = cleanText(req.query?.deviceId, 180);
+    if (!userId) return res.status(400).json({ ok: false, error: "userId is required" });
+    const requestedWeeks = Math.min(52, Math.max(1, Math.round(finite(req.query?.weeks, 4))));
+    const from = new Date();
+    from.setDate(from.getDate() - requestedWeeks * 7);
+    const fromKey = from.toISOString().slice(0, 10);
     const { collections } = await getMongo();
-    const [categoryRows, appRows, phoneRows, whatsappRows, frenchRows] = await Promise.all([
-      collections.usage.aggregate([
-        { $match: match },
-        { $group: { _id: "$category", seconds: { $sum: "$durationSeconds" } } },
-        { $sort: { seconds: -1 } },
-      ]).toArray(),
-      collections.usage.aggregate([
-        { $match: match },
-        { $group: { _id: { packageName: "$packageName", appName: "$appName", category: "$category" }, seconds: { $sum: "$durationSeconds" } } },
-        { $sort: { seconds: -1 } },
-        { $limit: 12 },
-      ]).toArray(),
-      collections.phone.aggregate([
-        { $match: match },
-        { $group: { _id: null, seconds: { $sum: "$durationSeconds" }, count: { $sum: 1 } } },
-      ]).toArray(),
-      collections.whatsapp.aggregate([
-        { $match: match },
-        { $group: { _id: null, seconds: { $sum: "$durationSeconds" }, count: { $sum: 1 } } },
-      ]).toArray(),
-      collections.french.aggregate([
-        { $match: match },
-        { $group: { _id: null, seconds: { $sum: "$durationSeconds" }, cards: { $sum: "$cardsPracticed" }, sessions: { $sum: 1 } } },
-      ]).toArray(),
-    ]);
-
-    const categories = Object.fromEntries(
-      categoryRows.map((row) => [row._id || "unknown", row.seconds || 0])
-    );
-    const trackedSeconds = Object.values(categories).reduce(
-      (sum, value) => sum + Number(value || 0),
-      0
-    );
-    const distractingSeconds = Number(categories.distracting || 0);
-    const procrastinationScore = trackedSeconds > 0
-      ? Math.round((distractingSeconds / trackedSeconds) * 100)
-      : 0;
-
-    res.json({
-      ok: true,
+    const docs = await collections.weekly.find({
       userId,
-      deviceId: deviceId || null,
-      days,
-      from: from.toISOString(),
-      to: new Date().toISOString(),
-      trackedSeconds,
-      distractingSeconds,
-      procrastinationScore,
-      categories,
-      topApps: appRows.map((row) => ({
-        packageName: row._id.packageName,
-        appName: row._id.appName,
-        category: row._id.category,
-        seconds: row.seconds || 0,
-      })),
-      phoneCalls: phoneRows[0] || { seconds: 0, count: 0 },
-      whatsappCalls: whatsappRows[0] || { seconds: 0, count: 0 },
-      french: frenchRows[0] || { seconds: 0, cards: 0, sessions: 0 },
-    });
-  } catch (error) {
-    console.error("Dashboard summary error:", error);
-    res.status(500).json({ ok: false, error: "Dashboard summary failed" });
-  }
+      weekStart: { $gte: fromKey },
+      ...(deviceId ? { deviceId } : {}),
+    }, { projection: { _id: 0 } }).sort({ weekStart: -1 }).toArray();
+    res.json({ ok: true, userId, deviceId: deviceId || null, weeks: docs });
+  } catch (error) { res.status(500).json({ ok: false, error: "Dashboard summary failed" }); }
 });
 
-app.post("/api/v1/sync/batch", requireToken, async (req, res) => {
+function normalizeLegacyIdentity(body) {
+  const userId = cleanText(body?.userId, 80);
+  const userName = cleanText(body?.userName, 120);
+  const deviceId = cleanText(body?.deviceId, 180);
+  const deviceName = cleanText(body?.deviceName, 180);
+  return userId && userName && deviceId && deviceName ? { userId, userName, deviceId, deviceName } : null;
+}
+
+async function legacyUpsertMany(collection, records, idField) {
+  if (!records.length) return [];
+  await collection.bulkWrite(records.map((record) => ({
+    updateOne: {
+      filter: { deviceId: record.deviceId, [idField]: record[idField] },
+      update: { $set: record, $setOnInsert: { createdAt: new Date() } },
+      upsert: true,
+    },
+  })), { ordered: false });
+  return records.map((record) => record[idField]);
+}
+
+// Temporary v1.2 compatibility while the new APK is being rolled out.
+app.post("/api/v1/sync/batch", requireAdmin, async (req, res) => {
   try {
-    const identity = normalizeIdentity(req.body);
-    if (!identity) {
-      return res.status(400).json({
-        ok: false,
-        error: "userId, userName, deviceId and deviceName are required",
-      });
-    }
-
-    const usage = safeArray(req.body.usageEvents)
-      .map((item) => normalizeUsage(item, identity))
-      .filter(Boolean);
-    const phone = safeArray(req.body.phoneCalls)
-      .map((item) => normalizePhone(item, identity))
-      .filter(Boolean);
-    const whatsapp = safeArray(req.body.whatsappCalls)
-      .map((item) => normalizeWhatsApp(item, identity))
-      .filter(Boolean);
-    const french = safeArray(req.body.frenchSessions)
-      .map((item) => normalizeFrench(item, identity))
-      .filter(Boolean);
-
+    const identity = normalizeLegacyIdentity(req.body);
+    if (!identity) return res.status(400).json({ ok: false, error: "Missing identity" });
     const { collections } = await getMongo();
+    const usage = (Array.isArray(req.body?.usageEvents) ? req.body.usageEvents : []).slice(0, 500).map((item) => ({
+      ...identity, eventId: cleanText(item?.eventId, 120), packageName: cleanText(item?.packageName, 220) || "unknown",
+      appName: cleanText(item?.appName, 220) || "Unknown app", category: cleanText(item?.category, 40) || "unknown",
+      startedAt: new Date(finite(item?.startedAt)), endedAt: new Date(finite(item?.endedAt)), durationSeconds: Math.max(0, Math.round(finite(item?.durationSeconds))), updatedAt: new Date(),
+    })).filter((item) => item.eventId);
+    const phone = (Array.isArray(req.body?.phoneCalls) ? req.body.phoneCalls : []).slice(0, 500).map((item) => ({
+      ...identity, eventId: cleanText(item?.eventId, 120), phoneNumberMasked: cleanText(item?.phoneNumberMasked, 80), contactName: cleanText(item?.contactName, 220),
+      direction: cleanText(item?.direction, 40) || "other", category: cleanText(item?.category, 40) || "social", source: cleanText(item?.source, 80) || "call_log",
+      startedAt: new Date(finite(item?.startedAt)), durationSeconds: Math.max(0, Math.round(finite(item?.durationSeconds))), updatedAt: new Date(),
+    })).filter((item) => item.eventId);
+    const whatsapp = (Array.isArray(req.body?.whatsappCalls) ? req.body.whatsappCalls : []).slice(0, 500).map((item) => ({
+      ...identity, eventId: cleanText(item?.eventId, 120), packageName: cleanText(item?.packageName, 220) || "com.whatsapp", contactLabel: cleanText(item?.contactLabel, 220),
+      direction: cleanText(item?.direction, 40) || "unknown", category: cleanText(item?.category, 40) || "social", source: cleanText(item?.source, 80) || "best_effort_notification",
+      confidence: cleanText(item?.confidence, 80) || "best_effort_notification", startedAt: new Date(finite(item?.startedAt)), endedAt: new Date(finite(item?.endedAt)),
+      durationSeconds: Math.max(0, Math.round(finite(item?.durationSeconds))), updatedAt: new Date(),
+    })).filter((item) => item.eventId);
+    const french = (Array.isArray(req.body?.frenchSessions) ? req.body.frenchSessions : []).slice(0, 500).map((item) => ({
+      ...identity, sessionId: cleanText(item?.sessionId, 120), startedAt: new Date(finite(item?.startedAt)), endedAt: new Date(finite(item?.endedAt)),
+      durationSeconds: Math.max(0, Math.round(finite(item?.durationSeconds))), cardsPracticed: Math.max(0, Math.round(finite(item?.cardsPracticed))), updatedAt: new Date(),
+    })).filter((item) => item.sessionId);
     const [usageEventIds, phoneCallIds, whatsappCallIds, frenchSessionIds] = await Promise.all([
-      upsertMany(collections.usage, usage, "eventId"),
-      upsertMany(collections.phone, phone, "eventId"),
-      upsertMany(collections.whatsapp, whatsapp, "eventId"),
-      upsertMany(collections.french, french, "sessionId"),
+      legacyUpsertMany(collections.usage, usage, "eventId"), legacyUpsertMany(collections.phone, phone, "eventId"),
+      legacyUpsertMany(collections.whatsapp, whatsapp, "eventId"), legacyUpsertMany(collections.french, french, "sessionId"),
     ]);
-
-    const now = new Date();
-    await Promise.all([
-      collections.users.updateOne(
-        { userId: identity.userId },
-        {
-          $set: {
-            userId: identity.userId,
-            userName: identity.userName,
-            lastSyncAt: now,
-          },
-          $setOnInsert: { createdAt: now },
-        },
-        { upsert: true }
-      ),
-      collections.devices.updateOne(
-        { deviceId: identity.deviceId },
-        {
-          $set: {
-            deviceId: identity.deviceId,
-            deviceName: identity.deviceName,
-            userId: identity.userId,
-            userName: identity.userName,
-            lastSyncAt: now,
-            lastSeenIp: req.ip,
-          },
-          $setOnInsert: { createdAt: now },
-        },
-        { upsert: true }
-      ),
-    ]);
-
-    res.json({
-      ok: true,
-      identity,
-      accepted: {
-        usageEventIds,
-        phoneCallIds,
-        whatsappCallIds,
-        frenchSessionIds,
-      },
-    });
+    res.json({ ok: true, accepted: { usageEventIds, phoneCallIds, whatsappCallIds, frenchSessionIds } });
   } catch (error) {
-    console.error("Sync error:", error);
-    res.status(500).json({ ok: false, error: "Sync failed" });
+    console.error("Legacy sync error:", error);
+    res.status(500).json({ ok: false, error: "Legacy sync failed" });
   }
 });
 
 app.use((error, _req, res, _next) => {
   console.error("Unhandled tracker API error:", error);
-  if (!res.headersSent) {
-    res.status(500).json({ ok: false, error: "Internal server error" });
-  }
+  if (!res.headersSent) res.status(500).json({ ok: false, error: "Internal server error" });
 });
 
 export default app;

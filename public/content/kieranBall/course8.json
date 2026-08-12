@@ -1,0 +1,4218 @@
+[
+  {
+    "eng": "Hello and welcome",
+    "fre": "Bonjour et bienvenue"
+  },
+  {
+    "eng": "you eat / you're eating",
+    "fre": "vous mangez"
+  },
+  {
+    "eng": "you don't eat / you're not eating",
+    "fre": "vous ne mangez pas"
+  },
+  {
+    "eng": "do you eat? / are you eating?",
+    "fre": "mangez-vous?"
+  },
+  {
+    "eng": "don't you eat? / aren't you eating?",
+    "fre": "ne mangez-vous pas?"
+  },
+  {
+    "eng": "don't eat!",
+    "fre": "ne mangez pas!"
+  },
+  {
+    "eng": "Eat!",
+    "fre": "Mangez!"
+  },
+  {
+    "eng": "Do everything tomorrow!",
+    "fre": "Faites tout demain!"
+  },
+  {
+    "eng": "you are",
+    "fre": "vous êtes"
+  },
+  {
+    "eng": "wait here",
+    "fre": "attendez ici"
+  },
+  {
+    "eng": "Please, wait here",
+    "fre": "Veuillez attendre ici"
+  },
+  {
+    "eng": "please (be so kind as to...",
+    "fre": "veuillez"
+  },
+  {
+    "eng": "Please, come in.",
+    "fre": "Veuillez entrer."
+  },
+  {
+    "eng": "Please repeat.",
+    "fre": "Veuillez répéter."
+  },
+  {
+    "eng": "Please pay here.",
+    "fre": "Veuillez payer ici."
+  },
+  {
+    "eng": "Please be patient.",
+    "fre": "Veuillez patienter."
+  },
+  {
+    "eng": "to eat",
+    "fre": "manger"
+  },
+  {
+    "eng": "to speak",
+    "fre": "parler"
+  },
+  {
+    "eng": "to dance",
+    "fre": "danser"
+  },
+  {
+    "eng": "to give",
+    "fre": "donner"
+  },
+  {
+    "eng": "to visit",
+    "fre": "visiter"
+  },
+  {
+    "eng": "eat / I'I'm eating",
+    "fre": "je mange"
+  },
+  {
+    "eng": "to study",
+    "fre": "étudier"
+  },
+  {
+    "eng": "I speak / I'm speaking",
+    "fre": "je parle"
+  },
+  {
+    "eng": "dance / I'm dancing",
+    "fre": "je danse"
+  },
+  {
+    "eng": "I give / I'm giving",
+    "fre": "je donne"
+  },
+  {
+    "eng": "visit / I'm visiting",
+    "fre": "je visite"
+  },
+  {
+    "eng": "I study / I'm studying",
+    "fre": "j'étudie"
+  },
+  {
+    "eng": "I eat / I'I'm eating",
+    "fre": "je mange"
+  },
+  {
+    "eng": "I visit / I'm visiting",
+    "fre": "je visite"
+  },
+  {
+    "eng": "I'm starting tomorrow.",
+    "fre": "Je commence demain."
+  },
+  {
+    "eng": "I start at fI've o'clock today.",
+    "fre": "Je commence à cinq heures aujourd'hui."
+  },
+  {
+    "eng": "I'm bringing some food to your house tonight.",
+    "fre": "J'apporte de la nourriture chez vous ce soir."
+  },
+  {
+    "eng": "I'm bringing everything with me.",
+    "fre": "J'apporte tout avec moi."
+  },
+  {
+    "eng": "I spend too much money when I go on holiday.",
+    "fre": "Je dépense trop d'argent quand je vais en vacances."
+  },
+  {
+    "eng": "I'm spending ten euros.",
+    "fre": "Je dépense dix euros."
+  },
+  {
+    "eng": "I'm spending a month in Paris next year.",
+    "fre": "Je passe un mois à Paris l'année prochaine."
+  },
+  {
+    "eng": "I'm paying for everything.",
+    "fre": "Je paye tout."
+  },
+  {
+    "eng": "I'm hiring a car when we go to Spain next month.",
+    "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+  },
+  {
+    "eng": "I eat lots of cheese when I go to France.",
+    "fre": "Je mange beaucoup de fromage quand je vais en France."
+  },
+  {
+    "eng": "I eat meat.",
+    "fre": "Je mange de la viande."
+  },
+  {
+    "eng": "I'm changing rooms because there is no shower in this room.",
+    "fre": "Je change de chambre parce qu'il n'y a pas de douche dans cette chambre."
+  },
+  {
+    "eng": "I'm changing cars next year.",
+    "fre": "Je change de voiture l'année prochaine."
+  },
+  {
+    "eng": "I'm staying here today.",
+    "fre": "Je reste ici aujourd'hui."
+  },
+  {
+    "eng": "I find everything interesting in Paris.",
+    "fre": "Je trouve tout intéressant à Paris."
+  },
+  {
+    "eng": "I'm finding this fiI'm a bit boring now.",
+    "fre": "Je trouve ce fiI'm un peu ennuyeux"
+  },
+  {
+    "eng": "I speak French and English.",
+    "fre": "Je parle français et anglais."
+  },
+  {
+    "eng": "I'm speaking with Marie.",
+    "fre": "Je parle avec Marie."
+  },
+  {
+    "eng": "I'm visiting my family abroad soon.",
+    "fre": "Je visite ma famille à l'étranger bientôt."
+  },
+  {
+    "eng": "I visit my grandma at her house every Thursday evening.",
+    "fre": "Je visite ma grandmère chez elle tous les jeudis soir."
+  },
+  {
+    "eng": "I'm trying to understand but it's difficult because you're not speaking very slowly.",
+    "fre": "J'essaye de comprendre mais c'est difficile parce que vous ne parlez pas très lentement."
+  },
+  {
+    "eng": "to finish",
+    "fre": "je finis"
+  },
+  {
+    "eng": "to finish",
+    "fre": "finir"
+  },
+  {
+    "eng": "to choose",
+    "fre": "choisir"
+  },
+  {
+    "eng": "to see",
+    "fre": "voir"
+  },
+  {
+    "eng": "to gain weight",
+    "fre": "grossir"
+  },
+  {
+    "eng": "to lose weight",
+    "fre": "maigrir"
+  },
+  {
+    "eng": "I finish / I'm finishing",
+    "fre": "je finis"
+  },
+  {
+    "eng": "I choose / I'm choosing",
+    "fre": "je choisis"
+  },
+  {
+    "eng": "I gain weight / I'm gaining weight",
+    "fre": "je grossis"
+  },
+  {
+    "eng": "I lose weight / I'm losing weigh",
+    "fre": "je maigris"
+  },
+  {
+    "eng": "I'm succeeding",
+    "fre": "je réussis (I succd"
+  },
+  {
+    "eng": "Every Tuesday, I finish at twelve o'clock.",
+    "fre": "Tous les mardis, je finis à douze heures."
+  },
+  {
+    "eng": "I'm choosing a souvenir for my brother.",
+    "fre": "Je choisis un souvenir pour mon frère."
+  },
+  {
+    "eng": "I'm choosing something for lunch.",
+    "fre": "Je choisis quelque chose pour le déjeuner."
+  },
+  {
+    "eng": "I gain weight when I go on holiday because I eat too many ice-creams.",
+    "fre": "Je grossis quand je vais en vacances parce que je mange trop de glaces."
+  },
+  {
+    "eng": "I'm trying to learn French and I'm",
+    "fre": "J'essaye d'apprendre le français et je réussis."
+  },
+  {
+    "eng": "to make",
+    "fre": "je fais"
+  },
+  {
+    "eng": "to do / to make",
+    "fre": "faire"
+  },
+  {
+    "eng": "to say / to tell",
+    "fre": "dire"
+  },
+  {
+    "eng": "to drink",
+    "fre": "boire"
+  },
+  {
+    "eng": "to wait",
+    "fre": "attendre"
+  },
+  {
+    "eng": "to sell",
+    "fre": "vendre"
+  },
+  {
+    "eng": "to take",
+    "fre": "prendre"
+  },
+  {
+    "eng": "to learn",
+    "fre": "apprendre"
+  },
+  {
+    "eng": "I do / I make / I'I'm doing / I'I'm making",
+    "fre": "je fais"
+  },
+  {
+    "eng": "do /I make / I'I'm doing / I'I'm making",
+    "fre": "je fais"
+  },
+  {
+    "eng": "say / ! tell / I'm saying / I'm telling",
+    "fre": "je dis"
+  },
+  {
+    "eng": "I say / ! tell / I'm saying / I'm telling",
+    "fre": "je dis"
+  },
+  {
+    "eng": "1 drink / I'm drinking",
+    "fre": "je bois"
+  },
+  {
+    "eng": "wait / I'm waiting",
+    "fre": "j'attends"
+  },
+  {
+    "eng": "I sell / I'm selling",
+    "fre": "je vends"
+  },
+  {
+    "eng": "I take / I'm taking",
+    "fre": "je prends"
+  },
+  {
+    "eng": "understand",
+    "fre": "je comprends"
+  },
+  {
+    "eng": "I learn / I'm learning",
+    "fre": "Japprends"
+  },
+  {
+    "eng": "I'I'm doing everything now.",
+    "fre": "Je fais tout maintenant."
+  },
+  {
+    "eng": "I'I'm making a cake for us.",
+    "fre": "Je fais un gateau pour nous."
+  },
+  {
+    "eng": "I'm drinking red wine with dinner.",
+    "fre": "Je bois du vin rouge avec le dîner."
+  },
+  {
+    "eng": "I've been waiting here for an hour.",
+    "fre": "J'attends ici depuis une heure."
+  },
+  {
+    "eng": "I'm selling my car because I want to change it.",
+    "fre": "Je vends ma voiture parce que je veux la"
+  },
+  {
+    "eng": "I'm taking a taxi today because it's quicker.",
+    "fre": "Je prends un taxi aujourd'hui parce que c'est plus rapide."
+  },
+  {
+    "eng": "I understand à lot in French, but not everything.",
+    "fre": "Je comprends beaucoup en français, mais pas tout."
+  },
+  {
+    "eng": "l eat / I'I'm eating",
+    "fre": "je mange £"
+  },
+  {
+    "eng": "I'I'm eating I? tin ' m",
+    "fre": "l'eat"
+  },
+  {
+    "eng": "to eat to finish",
+    "fre": "je mange je finis I"
+  },
+  {
+    "eng": "to eat to finish to take",
+    "fre": "je mange je finis je prends"
+  },
+  {
+    "eng": "I understand everything if you speak slowly",
+    "fre": "Je comprends tout si vous parlez lentement"
+  },
+  {
+    "eng": "Please be patient; I'm coming now",
+    "fre": "patienter, je viens maintenant"
+  },
+  {
+    "eng": "I'm selling my car, do you want to buy it?",
+    "fre": "Je vends ma voiture, voulez-vous l'acheter?"
+  },
+  {
+    "eng": "I'm trying to lose weight because I'm going on holiday in May",
+    "fre": "J'essaye de maigrir parce que je vais en vacances en mai"
+  },
+  {
+    "eng": "I'm staying at home tonight; I'm very tired",
+    "fre": "Je reste chez moi ce soir; je suis très fatigué"
+  },
+  {
+    "eng": "I'm hiring a car for us",
+    "fre": "Je loue une voiture pour nous"
+  },
+  {
+    "eng": "I Start tomorrow",
+    "fre": "Je commence demain"
+  },
+  {
+    "eng": "I'm bringing some wine",
+    "fre": "J'apporte du vin"
+  },
+  {
+    "eng": "I speak French, English and a bit of German",
+    "fre": "Je parle français, anglais et un peu d'allemand"
+  },
+  {
+    "eng": "I'm spending two weeks in Spain next year",
+    "fre": "Je passe deux semaines en Espagne l'année"
+  },
+  {
+    "eng": "Please wait here",
+    "fre": "Veuillez attendre ici"
+  },
+  {
+    "eng": "I'I'm making something for you",
+    "fre": "Je fais quelque chose pour vous"
+  },
+  {
+    "eng": "I'm learning French but it's quite difficult",
+    "fre": "J'apprends le français mais c'est assez"
+  },
+  {
+    "eng": "It's quite bitter but I like it",
+    "fre": "C'est assez amer mais je l'aime"
+  },
+  {
+    "eng": "How do you say this in French?",
+    "fre": "Comment dites-vous cela en français?"
+  },
+  {
+    "eng": "I would like to go to his house tomorrow",
+    "fre": "Je voudrais aller chez lui demain"
+  },
+  {
+    "eng": "I'm going to have dinner here",
+    "fre": "Je vais prendre le dîner ici"
+  },
+  {
+    "eng": "Where do you want to go tonight?",
+    "fre": "Où voulez-vous aller ce soir?"
+  },
+  {
+    "eng": "How much is breakfast?",
+    "fre": "C'est combien le petit-déjeuner?"
+  },
+  {
+    "eng": "I would like to hire a big car for fI've people, please",
+    "fre": "Je voudrais louer une grande voiture pour cinq personnes, s'il vous plaît"
+  },
+  {
+    "eng": "Please come with me",
+    "fre": "Veuillez venir avec moi / Venez avec moi, s'il vous plaît"
+  },
+  {
+    "eng": "Why don't you like this hôtel?",
+    "fre": "Pourquoi n'aimez-vous pas cet hôtel?"
+  },
+  {
+    "eng": "I would like breakfast at nine o'clock",
+    "fre": "Je voudrais le petit-déjeuner à neuf heures"
+  },
+  {
+    "eng": "We're going to have dinner here on Sunday",
+    "fre": "Nous allons prendre le dîner ici dimanche"
+  },
+  {
+    "eng": "Do you have any bags?",
+    "fre": "Avez-vous des sacs?"
+  },
+  {
+    "eng": "How much is that?",
+    "fre": "C'est combien ça?"
+  },
+  {
+    "eng": "This car is quite expensI've, but it's very fast and I like it",
+    "fre": "Cette voiture est assez chère, mais elle est très rapide et je l'aime"
+  },
+  {
+    "eng": "I drink / I'm drinking",
+    "fre": "je bois"
+  },
+  {
+    "eng": "I leave / I'm leaving",
+    "fre": "Je pars"
+  },
+  {
+    "eng": "to have to go",
+    "fre": "être I"
+  },
+  {
+    "eng": "to have I have",
+    "fre": "aller __, je vais"
+  },
+  {
+    "eng": "to go I go",
+    "fre": "être _, jesuis"
+  },
+  {
+    "eng": "to g0 I go",
+    "fre": "être __, jesuis"
+  },
+  {
+    "eng": "to call I call",
+    "fre": "acheter __, j'achète"
+  },
+  {
+    "eng": "I come here every Monday",
+    "fre": "Je viens ici tous les lundis"
+  },
+  {
+    "eng": "I have I call",
+    "fre": "j'ai j'appelle"
+  },
+  {
+    "eng": "I go I buy",
+    "fre": "je vais j'achète"
+  },
+  {
+    "eng": "I am I come",
+    "fre": "je suis je viens I"
+  },
+  {
+    "eng": "to leave I leave to lie to go out to sleep to feel to serve",
+    "fre": "partir __, je pars mentir"
+  },
+  {
+    "eng": "to leave I leave to lie I lie",
+    "fre": "partir __, je pars mentir __, jemens"
+  },
+  {
+    "eng": "to go out I go out to sleep I sleep",
+    "fre": "sortir __, jesors dormir __, je dors"
+  },
+  {
+    "eng": "to feel I feel to serve Isere I",
+    "fre": "sentir __, je sens servir __, jesers"
+  },
+  {
+    "eng": "I have everything here.",
+    "fre": "J'ai tout ici."
+  },
+  {
+    "eng": "I'm going to Sophie's house now.",
+    "fre": "Je vais chez Sophie maintenant."
+  },
+  {
+    "eng": "I'm here tomorrow.",
+    "fre": "Je suis ici demain."
+  },
+  {
+    "eng": "I call my sister every Saturday morning.",
+    "fre": "J'appelle ma sœur tous les samedis matin."
+  },
+  {
+    "eng": "I'm buying a souvenir for you from Marseille.",
+    "fre": "J'achète un souvenir pour vous de"
+  },
+  {
+    "eng": "I come from London, but I lI've in France now.",
+    "fre": "Je viens de Londres, mais j'habite en France"
+  },
+  {
+    "eng": "I'm coming to your house today.",
+    "fre": "Je viens chez vous aujourd'hui."
+  },
+  {
+    "eng": "I leave on Saturday at eight o'clock.",
+    "fre": "Je pars samedi à huit heures."
+  },
+  {
+    "eng": "I'm leaving now.",
+    "fre": "Je pars maintenant."
+  },
+  {
+    "eng": "I'm going out with Marie tonight.",
+    "fre": "Je sors avec Marie ce soir."
+  },
+  {
+    "eng": "I'm serving dinner at eight o'clock.",
+    "fre": "Je sers le dîner à vingt heures."
+  },
+  {
+    "eng": "I eat",
+    "fre": "Je mange"
+  },
+  {
+    "eng": "I don't eat",
+    "fre": "Je ne mange pas"
+  },
+  {
+    "eng": "eat",
+    "fre": "je mange"
+  },
+  {
+    "eng": "I leave",
+    "fre": "je pars"
+  },
+  {
+    "eng": "go",
+    "fre": "je vais"
+  },
+  {
+    "eng": "don't eat",
+    "fre": "je ne mange pas"
+  },
+  {
+    "eng": "I sell",
+    "fre": "je vends"
+  },
+  {
+    "eng": "don't leave",
+    "fre": "je ne pars pas"
+  },
+  {
+    "eng": "don't go",
+    "fre": "je ne vais pas"
+  },
+  {
+    "eng": "don't sell) —",
+    "fre": "je ne vends pas"
+  },
+  {
+    "eng": "don't pa?",
+    "fre": "je ne paye pas"
+  },
+  {
+    "eng": "I don't speak English / I'm not speaking English",
+    "fre": "je ne parle pas anglais"
+  },
+  {
+    "eng": "I don't eat / I'm not eating",
+    "fre": "je ne mange pas"
+  },
+  {
+    "eng": "I don't leave / I'm not leaving",
+    "fre": "je ne pars pas"
+  },
+  {
+    "eng": "I don't go / I'm not going",
+    "fre": "je ne vais pas"
+  },
+  {
+    "eng": "I don't sell / I'm not selling",
+    "fre": "je ne vends pas"
+  },
+  {
+    "eng": "I don't pay / I'm not paying",
+    "fre": "je ne paye pas"
+  },
+  {
+    "eng": "I'm not buying a car.",
+    "fre": "Je n'achète pas de voiture."
+  },
+  {
+    "eng": "I don't buy souvenirs.",
+    "fre": "Je n'achète pas de souvenirs."
+  },
+  {
+    "eng": "I'm not waiting here; there's too much noise.",
+    "fre": "Je n'attends pas ici; il y a trop de bruit."
+  },
+  {
+    "eng": "I haven't been waiting long.",
+    "fre": "Je n'attends pas depuis longtemps."
+  },
+  {
+    "eng": "I'm not going out tonight because I'm too",
+    "fre": "Je ne sors pas ce soir parce que je suis trop"
+  },
+  {
+    "eng": "I don't go out on Mondays.",
+    "fre": "Je ne sors pas le lundi."
+  },
+  {
+    "eng": "I don't go abroad on holiday.",
+    "fre": "Je ne vais pas à l'étranger en vacances."
+  },
+  {
+    "eng": "I'm not bringing any wine with me.",
+    "fre": "Je n'apporte pas de vin avec moi."
+  },
+  {
+    "eng": "I'm not spending much time at home this",
+    "fre": "Je ne passe pas beaucoup de temps chez moi cette année."
+  },
+  {
+    "eng": "I don't spend enough time with my family.",
+    "fre": "Je ne passe pas assez de temps avec ma"
+  },
+  {
+    "eng": "I'm not calling Pierre; I don't like him.",
+    "fre": "Je n'appelle pas Pierre; je ne l'aime pas."
+  },
+  {
+    "eng": "I'm not trying any cheese; I've eaten too much today.",
+    "fre": "Je n'essaye pas de fromage; j'ai trop mangé aujourd'hui."
+  },
+  {
+    "eng": "I'm not changing tables.",
+    "fre": "Je ne change pas de table."
+  },
+  {
+    "eng": "I'm not staying here; there are too many cockroaches in my room.",
+    "fre": "Je ne reste pas ici; il y a trop de cafards dans ma chambre."
+  },
+  {
+    "eng": "I'm not finding this fiI'm very interesting.",
+    "fre": "Je ne trouve pas ce fiI'm très intéressant."
+  },
+  {
+    "eng": "I don't have any brothers or sisters, but I have lots of cousins.",
+    "fre": "Je n'ai pas de frères ou de sœurs, mais jai beaucoup de cousins."
+  },
+  {
+    "eng": "I don't drink wine.",
+    "fre": "Je ne bois pas de vin."
+  },
+  {
+    "eng": "I'm not taking any food with me; there are lots of restaurants there.",
+    "fre": "Je ne prends pas de nourriture avec moi; il y a beaucoup de restaurants 6"
+  },
+  {
+    "eng": "I'm sorry but I don't understand.",
+    "fre": "Je suis désolé mais je ne comprends pas."
+  },
+  {
+    "eng": "I don't finish tonight until eight o'clock.",
+    "fre": "Je ne finis pas ce soir jusqu'à vingt heures."
+  },
+  {
+    "eng": "I'm not angry.",
+    "fre": "Je ne suis pas fâché."
+  },
+  {
+    "eng": "I'm not doing that now.",
+    "fre": "Je ne fais pas ça maintenant."
+  },
+  {
+    "eng": "I'm not making dinner tonight; I'm going out with my friends.",
+    "fre": "Je ne fais pas le dîner ce soir; je sors avec mes amis."
+  },
+  {
+    "eng": "to wait",
+    "fre": "j'attends"
+  },
+  {
+    "eng": "to reserve",
+    "fre": "réserver"
+  },
+  {
+    "eng": "I reserve / I'm reserving",
+    "fre": "je réserve"
+  },
+  {
+    "eng": "to sell",
+    "fre": "je vends"
+  },
+  {
+    "eng": "to start",
+    "fre": "je commence"
+  },
+  {
+    "eng": "to go out",
+    "fre": "je sors"
+  },
+  {
+    "eng": "to leave",
+    "fre": "je pars"
+  },
+  {
+    "eng": "to spend (money",
+    "fre": "dépenser"
+  },
+  {
+    "eng": "I spend / I'm spending",
+    "fre": "je dépense"
+  },
+  {
+    "eng": "to spend (time",
+    "fre": "je passe"
+  },
+  {
+    "eng": "to call",
+    "fre": "j'appelle"
+  },
+  {
+    "eng": "to try",
+    "fre": "J'essaye"
+  },
+  {
+    "eng": "to pay",
+    "fre": "je paye"
+  },
+  {
+    "eng": "to hire",
+    "fre": "je loue"
+  },
+  {
+    "eng": "to go",
+    "fre": "je vais"
+  },
+  {
+    "eng": "to change",
+    "fre": "je change"
+  },
+  {
+    "eng": "to stay",
+    "fre": "je reste"
+  },
+  {
+    "eng": "to find",
+    "fre": "je trouve"
+  },
+  {
+    "eng": "to make / to do",
+    "fre": "je fais"
+  },
+  {
+    "eng": "I am",
+    "fre": "I'm being"
+  },
+  {
+    "eng": "to be",
+    "fre": "être"
+  },
+  {
+    "eng": "to say / to tell",
+    "fre": "je dis"
+  },
+  {
+    "eng": "to see",
+    "fre": "je vois"
+  },
+  {
+    "eng": "to drink",
+    "fre": "je bois"
+  },
+  {
+    "eng": "to take",
+    "fre": "je prends"
+  },
+  {
+    "eng": "to understand",
+    "fre": "je comprends"
+  },
+  {
+    "eng": "to learn",
+    "fre": "j'apprends"
+  },
+  {
+    "eng": "to choose",
+    "fre": "je choisis"
+  },
+  {
+    "eng": "to lie",
+    "fre": "Je mens"
+  },
+  {
+    "eng": "to sleep",
+    "fre": "je dors"
+  },
+  {
+    "eng": "to come",
+    "fre": "je viens"
+  },
+  {
+    "eng": "to serve",
+    "fre": "je sers"
+  },
+  {
+    "eng": "to feel",
+    "fre": "je sens"
+  },
+  {
+    "eng": "I'm leaving tomorrow but not until the",
+    "fre": "Je pars demain mais pas jusqu'au soir"
+  },
+  {
+    "eng": "I'm not sleeping well",
+    "fre": "Je ne dors pas bien"
+  },
+  {
+    "eng": "I'm not lying; it's fantastic",
+    "fre": "Je ne mens pas; c'est fantastique"
+  },
+  {
+    "eng": "I understand that",
+    "fre": "Je comprends ça"
+  },
+  {
+    "eng": "I'm buying something from Marseille for you",
+    "fre": "J'achète quelque chose de Marseille pour vous 7"
+  },
+  {
+    "eng": "I'm serving lunch to everybody at two o'clock",
+    "fre": "Je sers le déjeuner à tout le monde"
+  },
+  {
+    "eng": "I don't finish until next week",
+    "fre": "Je ne finis pas jusqu'à la semaine prochaine"
+  },
+  {
+    "eng": "I am happy today",
+    "fre": "Je suis heureux aujourd'hui"
+  },
+  {
+    "eng": "I'm bringing some food with me",
+    "fre": "J'apporte de la nourriture avec moi"
+  },
+  {
+    "eng": "I don't lie",
+    "fre": "Je ne mens pas"
+  },
+  {
+    "eng": "I'm not calling Marie until tomorrow because she's too busy today",
+    "fre": "Je n'appelle pas Marie jusqu'à demain parce qu'elle est trop occupée aujourd'hui"
+  },
+  {
+    "eng": "I come from Birmingham but I lI've in",
+    "fre": "Je viens de Birmingham mais j'habite"
+  },
+  {
+    "eng": "I'm not going out tonight; I'm too tired",
+    "fre": "Je ne sors pas ce soir; je suis trop fatigué"
+  },
+  {
+    "eng": "I go on holiday to France quite à lot",
+    "fre": "Je vais en vacances en France assez beaucoup"
+  },
+  {
+    "eng": "I'm not leaving without my passport",
+    "fre": "Je ne pars pas sans mon passeport"
+  },
+  {
+    "eng": "I have too many things to do",
+    "fre": "J'ai trop de choses à faire"
+  },
+  {
+    "eng": "I don't eat meat",
+    "fre": "Je ne mange pas de viande"
+  },
+  {
+    "eng": "Do you want to go now?",
+    "fre": "Voulez-vous aller maintenant?"
+  },
+  {
+    "eng": "What do you want to try?",
+    "fre": "Que voulez-vous essayer?"
+  },
+  {
+    "eng": "How are you going to pay?",
+    "fre": "Comment allez-vous payer?"
+  },
+  {
+    "eng": "It isn't for her; it's for him",
+    "fre": "Ce n'est pas pour elle; c'est pour lui"
+  },
+  {
+    "eng": "I'm going to eat that tomorrow",
+    "fre": "Je vais manger cela demain"
+  },
+  {
+    "eng": "I would like a taxi, please",
+    "fre": "Je voudrais un taxi, s'il vous plaît"
+  },
+  {
+    "eng": "I tried to call Marie yesterday",
+    "fre": "J'ai essayé d'appeler Marie hier"
+  },
+  {
+    "eng": "My breakfast is terrible",
+    "fre": "Mon petit-déjeuner est terrible"
+  },
+  {
+    "eng": "I would like a coffee, please",
+    "fre": "Je voudrais un café, s'il vous plaît"
+  },
+  {
+    "eng": "It's at quarter past six",
+    "fre": "C'est à six heures et quart"
+  },
+  {
+    "eng": "I'm going to Mexico next week",
+    "fre": "Je vais au Mexique la semaine prochaine"
+  },
+  {
+    "eng": "It's half past eight",
+    "fre": "Iles huit heures et demie"
+  },
+  {
+    "eng": "I have",
+    "fre": "j'ai"
+  },
+  {
+    "eng": "I am",
+    "fre": "je suis"
+  },
+  {
+    "eng": "I go out",
+    "fre": "je sors"
+  },
+  {
+    "eng": "I buy",
+    "fre": "j'achète"
+  },
+  {
+    "eng": "I come",
+    "fre": "je viens"
+  },
+  {
+    "eng": "70 SPEAK",
+    "fre": "PARLER"
+  },
+  {
+    "eng": "speak",
+    "fre": "je parle"
+  },
+  {
+    "eng": "he/she",
+    "fre": "iVelle they - ils"
+  },
+  {
+    "eng": "_ I mA TAR i\"",
+    "fre": "a a I I _ oe I I"
+  },
+  {
+    "eng": "° ae TT OMR OV gi ° or, ~—",
+    "fre": "[ Pate ete {: ur À si} , IN I I IPP E Ae Bes LA ne one M Lac Le - FT. L a Lo LL ue ° j I joie LANCE A x] .! mp de ve et"
+  },
+  {
+    "eng": "Dire } TO CT see: FT",
+    "fre": "f Me TT TT Li Ir ="
+  },
+  {
+    "eng": "bd a \"To I",
+    "fre": "ES ES DE a ! ! aye at moa . _ Le 1 DA Tu wat —_— st et"
+  },
+  {
+    "eng": "7O SPEAK",
+    "fre": "PARLER"
+  },
+  {
+    "eng": "I find.",
+    "fre": "Je trouve."
+  },
+  {
+    "eng": "You find.",
+    "fre": "Tu trouves. / Vous trouvez."
+  },
+  {
+    "eng": "He finds.",
+    "fre": "ll trouve."
+  },
+  {
+    "eng": "She finds.",
+    "fre": "Elle trouve."
+  },
+  {
+    "eng": "We find.",
+    "fre": "Nous trouvons."
+  },
+  {
+    "eng": "I speak.",
+    "fre": "Je parle."
+  },
+  {
+    "eng": "You speak.",
+    "fre": "Tu parles. / Vous parlez."
+  },
+  {
+    "eng": "He speaks.",
+    "fre": "ll parle."
+  },
+  {
+    "eng": "She speaks.",
+    "fre": "Elle parle."
+  },
+  {
+    "eng": "We speak.",
+    "fre": "Nous parlons."
+  },
+  {
+    "eng": "I stay.",
+    "fre": "Je reste."
+  },
+  {
+    "eng": "You Stay.",
+    "fre": "Tu restes. / Vous restez."
+  },
+  {
+    "eng": "He stays.",
+    "fre": "ll reste."
+  },
+  {
+    "eng": "She stays.",
+    "fre": "Elle reste."
+  },
+  {
+    "eng": "We stay.",
+    "fre": "Nous restons."
+  },
+  {
+    "eng": "You try.",
+    "fre": "Tu essayes. / Vous essayez."
+  },
+  {
+    "eng": "He tries.",
+    "fre": "ll essaye."
+  },
+  {
+    "eng": "She tries.",
+    "fre": "Elle essaye."
+  },
+  {
+    "eng": "We try.",
+    "fre": "Nous essayons."
+  },
+  {
+    "eng": "JOUER - TO PLA",
+    "fre": "je joue - / play"
+  },
+  {
+    "eng": "you play",
+    "fre": "tu joues"
+  },
+  {
+    "eng": "he/she plays",
+    "fre": "il/elle joue"
+  },
+  {
+    "eng": "we play",
+    "fre": "nous jouons"
+  },
+  {
+    "eng": "you play I",
+    "fre": "vous jouez"
+  },
+  {
+    "eng": "is",
+    "fre": "je"
+  },
+  {
+    "eng": "is",
+    "fre": "tu"
+  },
+  {
+    "eng": "it",
+    "fre": "il/elle"
+  },
+  {
+    "eng": "You choose.",
+    "fre": "Tu choisis. / Vous choisissez."
+  },
+  {
+    "eng": "He chooses.",
+    "fre": "Il choisit."
+  },
+  {
+    "eng": "She chooses.",
+    "fre": "Elle choisit."
+  },
+  {
+    "eng": "We choose.",
+    "fre": "Nous choisissons."
+  },
+  {
+    "eng": "You finish.",
+    "fre": "Tu finis. / Vous finissez."
+  },
+  {
+    "eng": "She finishes.",
+    "fre": "Elle finit."
+  },
+  {
+    "eng": "We finish.",
+    "fre": "Nous finissons."
+  },
+  {
+    "eng": "You gain weight.",
+    "fre": "Tu grossis. / Vous grossissez."
+  },
+  {
+    "eng": "She gains weight.",
+    "fre": "Elle grossit."
+  },
+  {
+    "eng": "We gain weight.",
+    "fre": "Nous grossissons."
+  },
+  {
+    "eng": "You succeed.",
+    "fre": "Tu réussis. / Vous réussissez."
+  },
+  {
+    "eng": "He succeeds.",
+    "fre": "I réussit."
+  },
+  {
+    "eng": "She succeeds.",
+    "fre": "Elle réussit."
+  },
+  {
+    "eng": "We succeed.",
+    "fre": "Nous réussissons."
+  },
+  {
+    "eng": "you lose weight",
+    "fre": "tu maigris"
+  },
+  {
+    "eng": "he/she loses weight",
+    "fre": "il/elle maigrit"
+  },
+  {
+    "eng": "we lose weight",
+    "fre": "nous maigrissons"
+  },
+  {
+    "eng": "you lose weight —»",
+    "fre": "vous maigrissez"
+  },
+  {
+    "eng": "MAIGRIR - TO LOSE WEIGHT",
+    "fre": "je maigris — / lose weight"
+  },
+  {
+    "eng": "sell",
+    "fre": "je vends"
+  },
+  {
+    "eng": "You lose.",
+    "fre": "Tu perds. / Vous perdez."
+  },
+  {
+    "eng": "She loses.",
+    "fre": "Elle perd."
+  },
+  {
+    "eng": "We lose.",
+    "fre": "Nous perdons."
+  },
+  {
+    "eng": "I wait.",
+    "fre": "J'attends."
+  },
+  {
+    "eng": "You wait.",
+    "fre": "Tu attends. / Vous attendez."
+  },
+  {
+    "eng": "She waits.",
+    "fre": "Elle attend."
+  },
+  {
+    "eng": "We wait.",
+    "fre": "Nous attendons."
+  },
+  {
+    "eng": "I sell.",
+    "fre": "Je vends."
+  },
+  {
+    "eng": "You sell.",
+    "fre": "Tu vends. / Vous vendez."
+  },
+  {
+    "eng": "He sell.",
+    "fre": "Il vend."
+  },
+  {
+    "eng": "She seIls.",
+    "fre": "Elle vend."
+  },
+  {
+    "eng": "We sell.",
+    "fre": "Nous vendons."
+  },
+  {
+    "eng": "you lose",
+    "fre": "tu perds"
+  },
+  {
+    "eng": "he/she loses",
+    "fre": "il/elle perd"
+  },
+  {
+    "eng": "we lose",
+    "fre": "nous perdons"
+  },
+  {
+    "eng": "you lose",
+    "fre": "vous perdez"
+  },
+  {
+    "eng": "PERDRE - TO LOSE",
+    "fre": "je perds - / lose"
+  },
+  {
+    "eng": "nousparions [i CE vspane [i",
+    "fre": "panne [Si"
+  },
+  {
+    "eng": "I go",
+    "fre": "je vais"
+  },
+  {
+    "eng": "you go",
+    "fre": "tu vas"
+  },
+  {
+    "eng": "he/she goes",
+    "fre": "il/elle va"
+  },
+  {
+    "eng": "we go",
+    "fre": "nous allons"
+  },
+  {
+    "eng": "you go 2",
+    "fre": "vous allez"
+  },
+  {
+    "eng": "you have",
+    "fre": "tu as"
+  },
+  {
+    "eng": "he/she has",
+    "fre": "il/elle a"
+  },
+  {
+    "eng": "you have I",
+    "fre": "vous avez"
+  },
+  {
+    "eng": "you go tu as — you have",
+    "fre": "tu vas"
+  },
+  {
+    "eng": "you go vous avez - you have",
+    "fre": "vous allez"
+  },
+  {
+    "eng": "you are",
+    "fre": "tu es"
+  },
+  {
+    "eng": "he/she is",
+    "fre": "il/elle est"
+  },
+  {
+    "eng": "we are",
+    "fre": "nous sommes"
+  },
+  {
+    "eng": "you are I",
+    "fre": "vous êtes"
+  },
+  {
+    "eng": "you go tu as - you have",
+    "fre": "tu vas"
+  },
+  {
+    "eng": "he/she goes Velle a - he/she has",
+    "fre": "elle va"
+  },
+  {
+    "eng": "you go vous avez — you have",
+    "fre": "vous allez"
+  },
+  {
+    "eng": "ETRE - TO BE",
+    "fre": "je suis - l'am"
+  },
+  {
+    "eng": "you come",
+    "fre": "tu viens"
+  },
+  {
+    "eng": "he/she comes",
+    "fre": "il/elle vient"
+  },
+  {
+    "eng": "we come",
+    "fre": "nous venons"
+  },
+  {
+    "eng": "you come",
+    "fre": "vous venez"
+  },
+  {
+    "eng": "I do / I make",
+    "fre": "je fais"
+  },
+  {
+    "eng": "you do / you make",
+    "fre": "tu fais"
+  },
+  {
+    "eng": "he/she does / he/she makes",
+    "fre": "il/elle fait"
+  },
+  {
+    "eng": "we do / we make",
+    "fre": "nous faisons"
+  },
+  {
+    "eng": "you do / you make",
+    "fre": "vous faites"
+  },
+  {
+    "eng": "I say / tell",
+    "fre": "je dis"
+  },
+  {
+    "eng": "you say / you tell",
+    "fre": "tu dis"
+  },
+  {
+    "eng": "he/she says / he/she teIls",
+    "fre": "il/elle dit"
+  },
+  {
+    "eng": "we say / we tell",
+    "fre": "nous disons"
+  },
+  {
+    "eng": "you say / you tell",
+    "fre": "vous dites"
+  },
+  {
+    "eng": "you see",
+    "fre": "tu vois"
+  },
+  {
+    "eng": "he/she sees",
+    "fre": "il/elle voit"
+  },
+  {
+    "eng": "VOIR - TO SEE",
+    "fre": "je vois - I s"
+  },
+  {
+    "eng": "you drink",
+    "fre": "tu bois"
+  },
+  {
+    "eng": "he/she drinks",
+    "fre": "il/elle boit"
+  },
+  {
+    "eng": "we drink",
+    "fre": "nous buvons"
+  },
+  {
+    "eng": "you drink",
+    "fre": "vous buvez"
+  },
+  {
+    "eng": "BOIRE - TO DRINK",
+    "fre": "je bois - I drink"
+  },
+  {
+    "eng": "you drI've",
+    "fre": "tu conduis"
+  },
+  {
+    "eng": "he/she drI'ves",
+    "fre": "il/elle conduit"
+  },
+  {
+    "eng": "we drI've",
+    "fre": "nous conduisons"
+  },
+  {
+    "eng": "you drI've",
+    "fre": "vous conduisez"
+  },
+  {
+    "eng": "CONDUIRE - TO DRIVE",
+    "fre": "je conduis - I drI've"
+  },
+  {
+    "eng": "you take",
+    "fre": "tu prends"
+  },
+  {
+    "eng": "he/she takes",
+    "fre": "il/elle prend"
+  },
+  {
+    "eng": "we take",
+    "fre": "nous prenons"
+  },
+  {
+    "eng": "you take",
+    "fre": "vous prenez"
+  },
+  {
+    "eng": "PRENDRE - TO TAKE",
+    "fre": "je prends - I take"
+  },
+  {
+    "eng": "I understand",
+    "fre": "je comprends"
+  },
+  {
+    "eng": "you understand",
+    "fre": "tu comprends"
+  },
+  {
+    "eng": "he/she understands",
+    "fre": "il/elle comprend"
+  },
+  {
+    "eng": "we understand",
+    "fre": "nous comprenons"
+  },
+  {
+    "eng": "you understand I .",
+    "fre": "vous comprenez"
+  },
+  {
+    "eng": "you learn",
+    "fre": "tu apprends"
+  },
+  {
+    "eng": "he/she learns",
+    "fre": "il/elle apprend"
+  },
+  {
+    "eng": "we learn",
+    "fre": "nous apprenons"
+  },
+  {
+    "eng": "you learn",
+    "fre": "vous apprenez"
+  },
+  {
+    "eng": "APPRENDRE - TO LEARN",
+    "fre": "j'apprends - I learn"
+  },
+  {
+    "eng": "you take I",
+    "fre": "vous prenez"
+  },
+  {
+    "eng": "you sleep",
+    "fre": "tu dors"
+  },
+  {
+    "eng": "he/she sleeps",
+    "fre": "il/elle dort"
+  },
+  {
+    "eng": "we sleep",
+    "fre": "nous dormons"
+  },
+  {
+    "eng": "you sleep",
+    "fre": "vous dormez"
+  },
+  {
+    "eng": "you leave",
+    "fre": "tu pars"
+  },
+  {
+    "eng": "he/she leaves",
+    "fre": "il/elle part"
+  },
+  {
+    "eng": "we leave",
+    "fre": "nous partons"
+  },
+  {
+    "eng": "you leave",
+    "fre": "vous partez"
+  },
+  {
+    "eng": "you feel",
+    "fre": "tu sens"
+  },
+  {
+    "eng": "he/she feels",
+    "fre": "il/elle sent"
+  },
+  {
+    "eng": "we feel",
+    "fre": "nous sentons"
+  },
+  {
+    "eng": "you feel",
+    "fre": "vous sentez"
+  },
+  {
+    "eng": "SENTIR - TO FEE",
+    "fre": "je sens - I fl"
+  },
+  {
+    "eng": "you go out",
+    "fre": "tu sors"
+  },
+  {
+    "eng": "he/she goes out",
+    "fre": "il/elle sort"
+  },
+  {
+    "eng": "we go out",
+    "fre": "nous sortons"
+  },
+  {
+    "eng": "you go out",
+    "fre": "vous sortez"
+  },
+  {
+    "eng": "you serve",
+    "fre": "tu sers"
+  },
+  {
+    "eng": "he/she serves",
+    "fre": "il/elle sert"
+  },
+  {
+    "eng": "we serve",
+    "fre": "nous servons"
+  },
+  {
+    "eng": "you serve »",
+    "fre": "vous servez"
+  },
+  {
+    "eng": "SERVIR - TO SERVE",
+    "fre": "je sers - I serve"
+  },
+  {
+    "eng": "aller - to go avoir - to have",
+    "fre": "LL me"
+  },
+  {
+    "eng": "to be boire - to drink",
+    "fre": "être"
+  },
+  {
+    "eng": "10 be boire - to drink",
+    "fre": "étre"
+  },
+  {
+    "eng": "Pierre is going to Paris with me tomorrow, and we're going there by train.",
+    "fre": "Pierre va à Paris avec moi demain, et nous allons la en train."
+  },
+  {
+    "eng": "You have my passport at your house.",
+    "fre": "Tu as mon passeport chez toi. / Vous avez mon passeport chez vous."
+  },
+  {
+    "eng": "I have everything here with me.",
+    "fre": "J'ai tout ici avec moi."
+  },
+  {
+    "eng": "Sophie is in a hurry.",
+    "fre": "Sophie est pressée."
+  },
+  {
+    "eng": "He's making dinner for us at six o'clock.",
+    "fre": "ll fait le dîner pour nous à dix-huit heures."
+  },
+  {
+    "eng": "I'I'm making something special for you.",
+    "fre": "Je fais quelque chose de spécial pour toi."
+  },
+  {
+    "eng": "Youre doing it now.",
+    "fre": "Tu le fais maintenant. / Vous le faites"
+  },
+  {
+    "eng": "We're driving to London tonight.",
+    "fre": "Nous conduisons a Londres ce soir."
+  },
+  {
+    "eng": "I'm driving there in Marco's car.",
+    "fre": "Je conduis la dans la voiture de Marco."
+  },
+  {
+    "eng": "I think you're very funny",
+    "fre": "Pour moi, tu es / vous êtes très drôle"
+  },
+  {
+    "eng": "She's doing everything today because we're going on holiday on Friday",
+    "fre": "Elle fait tout aujourd'hui parce que nous"
+  },
+  {
+    "eng": "You're driving to London and then you're going to Marseille by plane",
+    "fre": "Tu conduis / Vous conduisez a Londres et puis tu vas / vous allez a Marseille en oe"
+  },
+  {
+    "eng": "I'm sleeping here tonight",
+    "fre": "Je dors ici ce soir"
+  },
+  {
+    "eng": "Everybody here speaks English",
+    "fre": "Tout le monde ici parle anglais"
+  },
+  {
+    "eng": "I'I'm eating here tomorrow with Marie",
+    "fre": "Je mange ici demain avec Marie"
+  },
+  {
+    "eng": "We're hiring a car for two days because I want to drI've to Marseille from wo",
+    "fre": "Nous louons une voiture pour deux jours parce que je veux conduire à Marseille de"
+  },
+  {
+    "eng": "I'm at Marie's house",
+    "fre": "Je suis chez Marie"
+  },
+  {
+    "eng": "Do you want to finish it tomorrow?",
+    "fre": "Voulez-vous le finir demain?"
+  },
+  {
+    "eng": "I would like another coffee, please",
+    "fre": "Je voudrais encore un café, s'il vous plaît"
+  },
+  {
+    "eng": "Whom do you like?",
+    "fre": "Qui aimes-tu? / Qui aimez-vous?"
+  },
+  {
+    "eng": "I would like this in dark blue",
+    "fre": "Je voudrais ceci en bleu foncé"
+  },
+  {
+    "eng": "I'm not going to have a croissant",
+    "fre": "Je ne vais pas prendre un croissant"
+  },
+  {
+    "eng": "Do you have this jacket in black?",
+    "fre": "As-tu / Avez-vous ce blouson en noir?"
+  },
+  {
+    "eng": "I'm going to Pierre's house tomorrow",
+    "fre": "Je vais chez Pierre demain"
+  },
+  {
+    "eng": "Where do you want to go?",
+    "fre": "Où voulez-vous aller?"
+  },
+  {
+    "eng": "Do you have this jacket in grey?",
+    "fre": "As-tu / Avez-vous ce blouson en gris?"
+  },
+  {
+    "eng": "Do you have a coat in purple?",
+    "fre": "As-tu / Avez-vous un manteau en violet?"
+  },
+  {
+    "eng": "Do you have any apples?",
+    "fre": "As-tu / Avez-vous des pommes?"
+  },
+  {
+    "eng": "What are you eating?",
+    "fre": "Que mangez-vous?"
+  },
+  {
+    "eng": "where",
+    "fre": "où"
+  },
+  {
+    "eng": "what",
+    "fre": "Que"
+  },
+  {
+    "eng": "(at) what time",
+    "fre": "à quelle heure"
+  },
+  {
+    "eng": "when",
+    "fre": "quand"
+  },
+  {
+    "eng": "Now",
+    "fre": "comment"
+  },
+  {
+    "eng": "Why",
+    "fre": "pourquoi"
+  },
+  {
+    "eng": "how much / how many",
+    "fre": "combien"
+  },
+  {
+    "eng": "now long (how much time",
+    "fre": "combien de temps"
+  },
+  {
+    "eng": "Where do I pay?",
+    "fre": "Ou paye-je?"
+  },
+  {
+    "eng": "What do I do?",
+    "fre": "Que fais-je?"
+  },
+  {
+    "eng": "Where are you going?",
+    "fre": "Où allez-vous?"
+  },
+  {
+    "eng": "What are you drinking?",
+    "fre": "Que buvez-vous?"
+  },
+  {
+    "eng": "Where are we going?",
+    "fre": "Où allons-nous?"
+  },
+  {
+    "eng": "How are you paying?",
+    "fre": "Comment payez-vous?"
+  },
+  {
+    "eng": "When are we going out?",
+    "fre": "Quand sortons-nous?"
+  },
+  {
+    "eng": "What are you trying?",
+    "fre": "Qu'essayez-vous?"
+  },
+  {
+    "eng": "What is he eating?",
+    "fre": "Que mange-t-il?"
+  },
+  {
+    "eng": "What are you doing?",
+    "fre": "Que faites-vous?"
+  },
+  {
+    "eng": "How is he paying?",
+    "fre": "Comment paye-t-il?"
+  },
+  {
+    "eng": "What are they trying?",
+    "fre": "Qu'essayent-ils?"
+  },
+  {
+    "eng": "What are you doing tonight?",
+    "fre": "Que faites-vous ce soir?"
+  },
+  {
+    "eng": "Where are you eating tomorrow?",
+    "fre": "Ou mangez-vous demain?"
+  },
+  {
+    "eng": "Where are you going now?",
+    "fre": "Ou allez-vous maintenant?"
+  },
+  {
+    "eng": "What are you doing now?",
+    "fre": "Que faites-vous maintenant?"
+  },
+  {
+    "eng": "What are you buying for Pierre?",
+    "fre": "Qu'achetez-vous pour Pierre?"
+  },
+  {
+    "eng": "What time are we eating later?",
+    "fre": "A quelle heure mangeons-nous plus tard?"
+  },
+  {
+    "eng": "Are you eating?",
+    "fre": "Mangez-vous?"
+  },
+  {
+    "eng": "Are you buying some cheese?",
+    "fre": "Achetez-vous du fromage?"
+  },
+  {
+    "eng": "Are you going now?",
+    "fre": "Allez-vous maintenant?"
+  },
+  {
+    "eng": "youre eating",
+    "fre": "vous Manpez"
+  },
+  {
+    "eng": "youre eating",
+    "fre": "vous mangez"
+  },
+  {
+    "eng": "am I eating?",
+    "fre": "mange-je?"
+  },
+  {
+    "eng": "you eat",
+    "fre": "tu Manges"
+  },
+  {
+    "eng": "do you eat? / are you eating?",
+    "fre": "manges-tu?"
+  },
+  {
+    "eng": "we eat",
+    "fre": "NOUS MaNnseons"
+  },
+  {
+    "eng": "are we eating? / do we eat?",
+    "fre": "mangeons-nous?"
+  },
+  {
+    "eng": "you eat",
+    "fre": "vous Manpez"
+  },
+  {
+    "eng": "Is mangent they eat",
+    "fre": "mangent-ils?"
+  },
+  {
+    "eng": "he eats / he's eating",
+    "fre": "il mange"
+  },
+  {
+    "eng": "does he eat? / is he eating?",
+    "fre": "mange-t-il?"
+  },
+  {
+    "eng": "she understands",
+    "fre": "elle comprend"
+  },
+  {
+    "eng": "does she understand?",
+    "fre": "comprend-elle?"
+  },
+  {
+    "eng": "is he speaking?",
+    "fre": "il parle ne speaks parle-t-il?"
+  },
+  {
+    "eng": "he is eating",
+    "fre": "il mange"
+  },
+  {
+    "eng": "is he eating?",
+    "fre": "mange-t-il?"
+  },
+  {
+    "eng": "ne is leaving",
+    "fre": "il part"
+  },
+  {
+    "eng": "is he leaving? / does he leave?",
+    "fre": "part-il?"
+  },
+  {
+    "eng": "he understands",
+    "fre": "il comprend"
+  },
+  {
+    "eng": "does he understand?",
+    "fre": "comprena-il?"
+  },
+  {
+    "eng": "he is reserving",
+    "fre": "il reserve"
+  },
+  {
+    "eng": "is he reserving?",
+    "fre": "reserve-t-il?"
+  },
+  {
+    "eng": "how",
+    "fre": "comment"
+  },
+  {
+    "eng": "how long (how much time",
+    "fre": "combien de temps"
+  },
+  {
+    "eng": "are you eating?",
+    "fre": "mangez-vous? / manges-tu?"
+  },
+  {
+    "eng": "is he drinking?",
+    "fre": "Doit-il?"
+  },
+  {
+    "eng": "are you ordering?",
+    "fre": "commandez-vous? / commandes-tu?"
+  },
+  {
+    "eng": "are we trying?",
+    "fre": "essayons-nous?"
+  },
+  {
+    "eng": "are you paying?",
+    "fre": "payez-vous? / payes-tu?"
+  },
+  {
+    "eng": "is She doing?",
+    "fre": "fait-elle?"
+  },
+  {
+    "eng": "are we hiring?",
+    "fre": "IOUONS-NOUS?"
+  },
+  {
+    "eng": "is he going?",
+    "fre": "va-t-il?"
+  },
+  {
+    "eng": "are you taking?",
+    "fre": "prenez-vous? / prends-tu?"
+  },
+  {
+    "eng": "does she have?",
+    "fre": "a-t-elle?"
+  },
+  {
+    "eng": "are We changing?",
+    "fre": "changeons-nous?"
+  },
+  {
+    "eng": "am I buying?",
+    "fre": "achete-je"
+  },
+  {
+    "eng": "are you starting?",
+    "fre": "commencez-vous? / commences-tu?"
+  },
+  {
+    "eng": "are they?",
+    "fre": "sont-ils? / sont-elles?"
+  },
+  {
+    "eng": "are we going out?",
+    "fre": "sortons-nous?"
+  },
+  {
+    "eng": "are they leaving?",
+    "fre": "partent-ils? / partent-elles?"
+  },
+  {
+    "eng": "are you bringing?",
+    "fre": "apportez-vous? / apportes-tu?"
+  },
+  {
+    "eng": "is he spending? (money",
+    "fre": "depense-t-il?"
+  },
+  {
+    "eng": "is he spending? (time",
+    "fre": "passe-t-il?"
+  },
+  {
+    "eng": "are you calling?",
+    "fre": "appelez-vous? / appelles-tu?"
+  },
+  {
+    "eng": "are they staying?",
+    "fre": "restent-ils? / restent-elles?"
+  },
+  {
+    "eng": "do you find?",
+    "fre": "trouvez-vous? / trouves-tu?"
+  },
+  {
+    "eng": "What is he doing?",
+    "fre": "Que fait-il?"
+  },
+  {
+    "eng": "Which one is she buying?",
+    "fre": "Quel achéte-t-elle?"
+  },
+  {
+    "eng": "Why are we hiring a car?",
+    "fre": "Pourquoi louons-nous une voiture?"
+  },
+  {
+    "eng": "How much are you eating?",
+    "fre": "Combien mangez-vous?"
+  },
+  {
+    "eng": "Where are you hiring a car?",
+    "fre": "Ou louez-vous une voiture?"
+  },
+  {
+    "eng": "When are they eating?",
+    "fre": "Quand mangent-ils?"
+  },
+  {
+    "eng": "What time are you going?",
+    "fre": "À quelle heure allez-vous?"
+  },
+  {
+    "eng": "What are you eating? What do you eat?",
+    "fre": "Que mangez-vous?"
+  },
+  {
+    "eng": "What are you eating? What do you eat? cy",
+    "fre": "Que mangez-vous?"
+  },
+  {
+    "eng": "When de you leave?",
+    "fre": "Quand partez-vous?"
+  },
+  {
+    "eng": "What do you eat? What are you eating?",
+    "fre": "Que mangez-vous?"
+  },
+  {
+    "eng": "When do you leave? When are you leaving?",
+    "fre": "Quand partez-vous?"
+  },
+  {
+    "eng": "When do they come? When are they coming?",
+    "fre": "Quand viennent-ils?"
+  },
+  {
+    "eng": "What do you do?",
+    "fre": "Que faites-vous?"
+  },
+  {
+    "eng": "What do you do? / What are you doing?",
+    "fre": "Que faites-vous?"
+  },
+  {
+    "eng": "Where are you eating?",
+    "fre": "Ou mangez-vous?"
+  },
+  {
+    "eng": "Where do you eat?",
+    "fre": "Ou mangez-vous?"
+  },
+  {
+    "eng": "When does he finish?",
+    "fre": "Quand finit-il?"
+  },
+  {
+    "eng": "When is he finishing?",
+    "fre": "Quand finit-il?"
+  },
+  {
+    "eng": "When do we arrI've?",
+    "fre": "Quand arrivons-nous?"
+  },
+  {
+    "eng": "When are we arriving?",
+    "fre": "Quand arrivons-nous?"
+  },
+  {
+    "eng": "Why do you say that?",
+    "fre": "Pourquoi dites-vous ça?"
+  },
+  {
+    "eng": "Why are you saying that?",
+    "fre": "Pourquoi dites-vous ça?"
+  },
+  {
+    "eng": "What are they doing?",
+    "fre": "Que font-ils?"
+  },
+  {
+    "eng": "What do they do?",
+    "fre": "Que font-ils?"
+  },
+  {
+    "eng": "What do they drink?",
+    "fre": "Que boI'vent-ils?"
+  },
+  {
+    "eng": "What are they drinking?",
+    "fre": "Que boI'vent-ils?"
+  },
+  {
+    "eng": "What do you eat?",
+    "fre": "Que mangez-vous?"
+  },
+  {
+    "eng": "Where is he going?",
+    "fre": "Où va-t-il?"
+  },
+  {
+    "eng": "Where does he go?",
+    "fre": "Ou va-t-il?"
+  },
+  {
+    "eng": "What are they saying?",
+    "fre": "Que disent-ils?"
+  },
+  {
+    "eng": "Does he speak English?",
+    "fre": "Parle-t-il anglais?"
+  },
+  {
+    "eng": "Is he speaking English?",
+    "fre": "Parle-t-il anglais?"
+  },
+  {
+    "eng": "Does she arrI've tomorrow?",
+    "fre": "ArrI've-t-elle demain?"
+  },
+  {
+    "eng": "Is she arriving tomorrow?",
+    "fre": "ArrI've-t-elle demain?"
+  },
+  {
+    "eng": "How much wine does he drink?",
+    "fre": "Combien de vin boit-il?"
+  },
+  {
+    "eng": "How much wine is he drinking?",
+    "fre": "Combien de vin boit-il?"
+  },
+  {
+    "eng": "What are they making?",
+    "fre": "Que font-ils?"
+  },
+  {
+    "eng": "What do they make?",
+    "fre": "Que font-ils?"
+  },
+  {
+    "eng": "What are you having?",
+    "fre": "Qu'avez-vous?"
+  },
+  {
+    "eng": "What do you have?",
+    "fre": "Qu'avez-vous?"
+  },
+  {
+    "eng": "Are you eat with me today?",
+    "fre": "Mangez-vous avec moi aujourd'hui?"
+  },
+  {
+    "eng": "When is he calling?",
+    "fre": "Quand appelle-t-il?"
+  },
+  {
+    "eng": "When does he call?",
+    "fre": "Quand appelle-t-il?"
+  },
+  {
+    "eng": "What are you ordering for us?",
+    "fre": "Que commandez-vous pour nous?"
+  },
+  {
+    "eng": "Is she ordering for me as well?",
+    "fre": "Commande-t-elle pour moi aussi?"
+  },
+  {
+    "eng": "Why are you here?",
+    "fre": "Pourquoi êtes-vous ici?"
+  },
+  {
+    "eng": "What are you doing here?",
+    "fre": "Que faites-vous ici?"
+  },
+  {
+    "eng": "Which one is she buying?",
+    "fre": "Quel achète-t-elle?"
+  },
+  {
+    "eng": "Are you being stupid?",
+    "fre": "Êtes-vous stupide?"
+  },
+  {
+    "eng": "Are we leaving soon?",
+    "fre": "Partons-nous bientôt?"
+  },
+  {
+    "eng": "Do we leave soon?",
+    "fre": "Partons-nous bientôt?"
+  },
+  {
+    "eng": "Do you drink wine?",
+    "fre": "Buvez-vous le vin?"
+  },
+  {
+    "eng": "How are you going to France?",
+    "fre": "Comment allez-vous en France?"
+  },
+  {
+    "eng": "When are they going out?",
+    "fre": "Quand sortent-ils?"
+  },
+  {
+    "eng": "When do they go out?",
+    "fre": "Quand sortent-ils?"
+  },
+  {
+    "eng": "Are you going out later?",
+    "fre": "Sortez-vous plus tard?"
+  },
+  {
+    "eng": "Is he leaving today?",
+    "fre": "Part-il aujourd'hui?"
+  },
+  {
+    "eng": "Is he here?",
+    "fre": "Est-il ici?"
+  },
+  {
+    "eng": "Are we speaking with Marie?",
+    "fre": "Parlons-nous avec Marie?"
+  },
+  {
+    "eng": "Whom are you calling?",
+    "fre": "Qui appelez-vous?"
+  },
+  {
+    "eng": "What are you taking with you tomorrow?",
+    "fre": "Que prenez-vous avec vous demain?"
+  },
+  {
+    "eng": "What do you take with you?",
+    "fre": "Que prenez-vous avec vous?"
+  },
+  {
+    "eng": "What are they changing?",
+    "fre": "Que changent-ils?"
+  },
+  {
+    "eng": "Where are we staying tonight?",
+    "fre": "Où restons-nous ce soir?"
+  },
+  {
+    "eng": "Are you staying here?",
+    "fre": "Restez-vous ici?"
+  },
+  {
+    "eng": "Does he stay here very often?",
+    "fre": "Reste-t-il ici très souvent?"
+  },
+  {
+    "eng": "What time are you eating?",
+    "fre": "À quelle heure mangez-vous?"
+  },
+  {
+    "eng": "Which one are you taking?",
+    "fre": "Quel prenez-vous?"
+  },
+  {
+    "eng": "Why are you going with them?",
+    "fre": "Pourquoi allez-vous avec eux?"
+  },
+  {
+    "eng": "Why do you go with them?",
+    "fre": "Pourquoi allez-vous avec eux?"
+  },
+  {
+    "eng": "Why are you taking that?",
+    "fre": "Pourquoi prenez-vous Ça ?"
+  },
+  {
+    "eng": "Why do you take that?",
+    "fre": "Pourquoi prenez-vous Ça?"
+  },
+  {
+    "eng": "Whom is he telling?",
+    "fre": "Qui dit-il?"
+  },
+  {
+    "eng": "What are they bringing?",
+    "fre": "Qu'apportent-ils?"
+  },
+  {
+    "eng": "Where is she going tonight?",
+    "fre": "Où va-t-elle ce soir?"
+  },
+  {
+    "eng": "Why are you going now?",
+    "fre": "Pourquoi allez-vous maintenant?"
+  },
+  {
+    "eng": "What are you buying for Marie?",
+    "fre": "Qu'achetes-tu pour Marie? / Qu'achetez- vous pour Marie?"
+  },
+  {
+    "eng": "Where is she going tomorrow?",
+    "fre": "Ou va-t-elle demain?"
+  },
+  {
+    "eng": "Are you trying some French food?",
+    "fre": "Essayes-tu / Essayez-vous de la nourriture française?"
+  },
+  {
+    "eng": "Is Pierre ordering a bottle of wine for the",
+    "fre": "Pierre commande-t-il une bouteille de vin pour la table?"
+  },
+  {
+    "eng": "What is she doing at unI'versity?",
+    "fre": "Que fait-elle à l'unI'versité?"
+  },
+  {
+    "eng": "Whom is she calling?",
+    "fre": "Qui appelle-t-elle ?"
+  },
+  {
+    "eng": "How much are you ordering?",
+    "fre": "Combien commandez-vous?"
+  },
+  {
+    "eng": "How much money is he spending?",
+    "fre": "Combien d'argent depense-t-il?"
+  },
+  {
+    "eng": "What time are we leaving?",
+    "fre": "À quelle heure partons-nous?"
+  },
+  {
+    "eng": "How much time is she spending abroad?",
+    "fre": "Combien de temps passe-t-elle à l'étranger?"
+  },
+  {
+    "eng": "I would like a table for four, please",
+    "fre": "Je voudrais une table pour quatre, s'il vous plaît I"
+  },
+  {
+    "eng": "Excuse me, what time is it?",
+    "fre": "Excusez-moi, quelle heure est-il?"
+  },
+  {
+    "eng": "My dinner is terrible",
+    "fre": "Mon dîner est terrible"
+  },
+  {
+    "eng": "Yes, everything is very good, thank you",
+    "fre": "Oui, tout est très bon, merci"
+  },
+  {
+    "eng": "Are you going to order a tea?",
+    "fre": "Vas-tu / Allez-vous commander un thé?"
+  },
+  {
+    "eng": "It's at half past fI've",
+    "fre": "Cest à cinq heures et demi"
+  },
+  {
+    "eng": "I'm not going to Pierre's house tomorrow",
+    "fre": "Je ne vais pas chez Pierre demain"
+  },
+  {
+    "eng": "Go straight on and then turn right",
+    "fre": "Allez tout droit et puis tournez à droite"
+  },
+  {
+    "eng": "Have we done everything for tomorrow?",
+    "fre": "Avons-nous tout fait pour demain?"
+  },
+  {
+    "eng": "I'm going to hire a car here",
+    "fre": "Je vais louer une voiture ici"
+  },
+  {
+    "eng": "Is he busy tomorrow?",
+    "fre": "Est-il occupé demain?"
+  },
+  {
+    "eng": "It's fifty euros for two people",
+    "fre": "C'est cinquante euros pour deux personnes"
+  },
+  {
+    "eng": "I'm not tired",
+    "fre": "Je ne suis pas fatigué"
+  },
+  {
+    "eng": "I would like two tickets for Paris",
+    "fre": "Je voudrais deux billets pour Paris"
+  },
+  {
+    "eng": "I don't understand him",
+    "fre": "Je ne le comprends pas"
+  },
+  {
+    "eng": "Where is he going?",
+    "fre": "Ou va-t-il?"
+  },
+  {
+    "eng": "is he Speaking? is he speaking?",
+    "fre": "I parle-il? _parle-t-il?"
+  },
+  {
+    "eng": "is she going? is she going?",
+    "fre": "_va-elle? va-t-elle?"
+  },
+  {
+    "eng": "its here",
+    "fre": "c'est Ici"
+  },
+  {
+    "eng": "I would like to go",
+    "fre": "je voudrais aller"
+  },
+  {
+    "eng": "I'm not going",
+    "fre": "je ne... JE... NE... SUIS... PAS... ICI... DEMAIN je ne vais pas"
+  },
+  {
+    "eng": "(never in writing, only in speaking",
+    "fre": "je'n vais pas"
+  },
+  {
+    "eng": "I'm going to call Pierre later.",
+    "fre": "Je vais appeler Pierre plus tard."
+  },
+  {
+    "eng": "Are you going to call Marie?",
+    "fre": "Allez-vous appeler Marie? / Vas-tu appeler Marie?"
+  },
+  {
+    "eng": "What time are you going to call Pierre?",
+    "fre": "À quelle heure vas-tu appeler Pierre? / À quelle heure allez-vous appeler Pierre?"
+  },
+  {
+    "eng": "I don't want to call Marco because I don't like him.",
+    "fre": "Je ne veux pas appeler Marco parce que je ne l'aime pas."
+  },
+  {
+    "eng": "We called a restaurant yesterday and we",
+    "fre": "made a réservation. Nous avons appelé un restaurant hier et nous avons fait une To"
+  },
+  {
+    "eng": "Are you going to call me?",
+    "fre": "Vas-tu m'appeler? / Allez-vous m'appeler?"
+  },
+  {
+    "eng": "Can you call me tomorrow?",
+    "fre": "Pouvez-vous m'appeler demain?"
+  },
+  {
+    "eng": "I'm busy now, but you can call me after 5pm.",
+    "fre": "Je suis occupé maintenant, mais vous pouvez m'appeler après dix-sept heures."
+  },
+  {
+    "eng": "Marie tried to call me yesterday, but I wasn't at home.",
+    "fre": "Marie a essayé de m'appeler hier, mais je n'étais pas chez moi."
+  },
+  {
+    "eng": "Why did you try to call me?",
+    "fre": "Pourquoi as-tu essayé de m'appeler? / Pourquoi avez-vous essayé de m'appeler?"
+  },
+  {
+    "eng": "to give me",
+    "fre": "me donner"
+  },
+  {
+    "eng": "give",
+    "fre": "je donne"
+  },
+  {
+    "eng": "DONNER - 70 GIVE",
+    "fre": "j'ai donné / gave"
+  },
+  {
+    "eng": "he's giving",
+    "fre": "il donne"
+  },
+  {
+    "eng": "he's not giving",
+    "fre": "il ne donne pas"
+  },
+  {
+    "eng": "he has given",
+    "fre": "Il a donné he gave"
+  },
+  {
+    "eng": "he hasn't given",
+    "fre": "il n'a pas donné he didn't give"
+  },
+  {
+    "eng": "has he given?",
+    "fre": "a-t-il donné?"
+  },
+  {
+    "eng": "mrapporte-t-il...2 is he bringing me...?",
+    "fre": "il mapporte... he's bringing me... il ne m'apporte pas... he's not bringing me..."
+  },
+  {
+    "eng": "He has brought me some food.",
+    "fre": "ll m'a apporté de la nourriture."
+  },
+  {
+    "eng": "Marie is bringing me everything tomorrow.",
+    "fre": "Marie m'apporte tout demain."
+  },
+  {
+    "eng": "He isn't bringing me a souvenir from Paris because everything is too expensI've.",
+    "fre": "ll ne m'apporte pas un souvenir de Paris parce que tout est trop cher."
+  },
+  {
+    "eng": "Have you brought me anything?",
+    "fre": "M'as-tu apporté quelque chose? / M'avez-vous apporté quelque chose?"
+  },
+  {
+    "eng": "Is Pierre bringing me my passport?",
+    "fre": "Pierre m'apporte-t-il mon passeport?"
+  },
+  {
+    "eng": "Aren't you bringing me a coat?",
+    "fre": "Ne mapportes-tu pas un manteau? / Ne m'apportez-vous pas un manteau?"
+  },
+  {
+    "eng": "to ask me",
+    "fre": "me demander"
+  },
+  {
+    "eng": "What do you want to ask me?",
+    "fre": "Que veux-tu me demander? / Que voulez- vous me demander?"
+  },
+  {
+    "eng": "Did you ask me something?",
+    "fre": "M'as-tu demandé quelque chose? / M'avez- vous demandé quelque chose? ~"
+  },
+  {
+    "eng": "he asked for some wine",
+    "fre": "il a demandé du vin"
+  },
+  {
+    "eng": "I'm going to ask for some more cheese.",
+    "fre": "Je vais demander plus de fromage."
+  },
+  {
+    "eng": "to ask Pierre for something",
+    "fre": "demander quelque chose à Pierre"
+  },
+  {
+    "eng": "to ask Pierre for something",
+    "fre": "demander quelque chose"
+  },
+  {
+    "eng": "Didn't you ask your parents for any money?",
+    "fre": "N'as-tu pas demandé d'argent à tes N'avez-vous pas demandé d'argent à vos"
+  },
+  {
+    "eng": "to try to...",
+    "fre": "essayer de..."
+  },
+  {
+    "eng": "I asked Pierre to come with me",
+    "fre": "jai demandé à Pierre de venir avec moi"
+  },
+  {
+    "eng": "I'm going to ask Marie to help me",
+    "fre": "je vais demander à Marie de m'aider:"
+  },
+  {
+    "eng": "Why did you ask Sophie to come with us?",
+    "fre": "Pourquoi as-tu demandé à Sophie de venir avec nous? / Pourquoi avez-vous demandé à Sophie de venir avec nous?"
+  },
+  {
+    "eng": "to ask Pierre to do something",
+    "fre": "demander à Pierre de faire"
+  },
+  {
+    "eng": "I asked Sophie to bring some food with her, but she has forgotten.",
+    "fre": "J'ai demandé a Sophie d'apporter de la"
+  },
+  {
+    "eng": "I wonder why...",
+    "fre": "je me demande pourquoi..."
+  },
+  {
+    "eng": "I wonder why he's here",
+    "fre": "je me demande pourquoi il est ici"
+  },
+  {
+    "eng": "I wonder if he has called Marie",
+    "fre": "je me demande s'il a appelé Marie_¢"
+  },
+  {
+    "eng": "I wonder where.",
+    "fre": "Je me demande où elle est allée."
+  },
+  {
+    "eng": "I wonder if you can help me.",
+    "fre": "Je me demande si tu peux m'aider. / Je me demande si vous pouvez m'aider."
+  },
+  {
+    "eng": "I wonder why he's going to Paris.",
+    "fre": "Je me demande pourquoi il va à Paris."
+  },
+  {
+    "eng": "I ask myself",
+    "fre": "I wonder"
+  },
+  {
+    "eng": "I think it's beautiful here, but I wonder if it's more beautiful in Marseille.",
+    "fre": "Pour moi, c'est beau ici, mais je me demande si c'est plus beau a ao"
+  },
+  {
+    "eng": "I wonder whom she called.",
+    "fre": "Je me demande qui elle a appelé."
+  },
+  {
+    "eng": "I'm happy / glad to...",
+    "fre": "Ça me fait plaisir de..."
+  },
+  {
+    "eng": "I'm happy to help",
+    "fre": "ça me fait plaisir d'aider"
+  },
+  {
+    "eng": "I'm glad to stay here ;",
+    "fre": "ça me fait plaisir de rester ici"
+  },
+  {
+    "eng": "I'm happy to help.",
+    "fre": "Ça me fait plaisir d'aider."
+  },
+  {
+    "eng": "I'm happy to go with you.",
+    "fre": "Ça me fait plaisir d'aller avec toi. / Ça me fait plaisir d'aller avec vous. —"
+  },
+  {
+    "eng": "I'm happy to doit.",
+    "fre": "Ça me fait plaisir de le faire."
+  },
+  {
+    "eng": "I'm happy to / I'm glad to",
+    "fre": "ça me fait plaisir de"
+  },
+  {
+    "eng": "Can you call me later?",
+    "fre": "Peux-tu / Pouvez-vous m'appeler plus tard?"
+  },
+  {
+    "eng": "Jules has brought me some soup because I don't feel very well",
+    "fre": "Jules m'a apporté de la soupe parce que je ne me sens pas très bien À"
+  },
+  {
+    "eng": "He asked me where we're going tomorrow",
+    "fre": "I m'a demandé où nous allons demain"
+  },
+  {
+    "eng": "I wonder why everybody is here today",
+    "fre": "Je me demande pourquoi tout le monde est ici aujourd'hui"
+  },
+  {
+    "eng": "It's not a problem; I'm happy to help",
+    "fre": "Ce n'est pas un problème; ça me fait plaisir d'aider"
+  },
+  {
+    "eng": "I'm going to ask Sophie to buy a souvenir for",
+    "fre": "Je vais demander à Sophie d'acheter un souvenir pour moi du Mexique"
+  },
+  {
+    "eng": "Are you going to ask Pierre to do it?",
+    "fre": "Vas-tu demander à Pierre de le faire?"
+  },
+  {
+    "eng": "I'm glad to stay here with you",
+    "fre": "Ça me fait plaisir de rester ici avec vous"
+  },
+  {
+    "eng": "I'm bringing that with me tomorrow",
+    "fre": "Japporte cela avec moi demain"
+  },
+  {
+    "eng": "I wonder if Marie is coming with us on",
+    "fre": "Je me demande si Marie vient avec nous en vacances l'année prochaine"
+  },
+  {
+    "eng": "Charles asked me if I wanted to go to Calais",
+    "fre": "Charles m'a demandé si je voulais aller"
+  },
+  {
+    "eng": "Are you going to order for me?",
+    "fre": "Vas-tu / Allez-vous commander pour moi?"
+  },
+  {
+    "eng": "I would like to go at half past three",
+    "fre": "Je voudrais aller à trois heures et demi"
+  },
+  {
+    "eng": "Yes, I think it's fantastic here",
+    "fre": "Oui, pour moi, c'est fantastique ici"
+  },
+  {
+    "eng": "I would like a raincoat",
+    "fre": "Je voudrais un imperméable"
+  },
+  {
+    "eng": "May I have some sugar for my tea?",
+    "fre": "Puis-je avoir du sucre pour mon thé?"
+  },
+  {
+    "eng": "Marie's steak is perfect",
+    "fre": "Le steak de Marie est parfait"
+  },
+  {
+    "eng": "Do you have a map of Paris?",
+    "fre": "Avez-vous un plan de Paris?"
+  },
+  {
+    "eng": "It's half past six",
+    "fre": "ll est six heures et demi"
+  },
+  {
+    "eng": "It's quarter past eight",
+    "fre": "ll est huit heures et quart"
+  },
+  {
+    "eng": "I'm here",
+    "fre": "Je SUIS ici"
+  },
+  {
+    "eng": "I would like a radio for my room",
+    "fre": "Je voudrais une radio pour ma chambre"
+  },
+  {
+    "eng": "A bottle of water is one euro twenty",
+    "fre": "Une bouteille d'eau est un euro vingt"
+  },
+  {
+    "eng": "I wonder why... I wonder who...",
+    "fre": "je me demande pourquoi... je me demande qui..."
+  },
+  {
+    "eng": "I wonder when... I wonder where...",
+    "fre": "je me demande quand... je me demande ou..."
+  },
+  {
+    "eng": "heure... I wonder how I wonder what time... much...",
+    "fre": "je me demande a quelle je me demande combien..."
+  },
+  {
+    "eng": "I wonder what...",
+    "fre": "je me demande ce que..."
+  },
+  {
+    "eng": "I wonder what he wants",
+    "fre": "je me demande ce qu'il veut"
+  },
+  {
+    "eng": "I wonder what Marie bought",
+    "fre": "je me demande ce que Marie a acheté"
+  },
+  {
+    "eng": "I wonder what he did.",
+    "fre": "Je me demande ce qu'il a fait."
+  },
+  {
+    "eng": "I wonder what we do now.",
+    "fre": "Je me demande ce que nous faisons"
+  },
+  {
+    "eng": "to ask somebody for something",
+    "fre": "demander quelque chose à quelqu'un"
+  },
+  {
+    "eng": "to ask somebody to do something\"",
+    "fre": "demander à quelqu'un de faire"
+  },
+  {
+    "eng": "to tell somebody something",
+    "fre": "dire quelque chose à quelqu'un"
+  },
+  {
+    "eng": "to tell somebody to do something}",
+    "fre": "dire à quelqu'un de faire quelque"
+  },
+  {
+    "eng": "I told Pierre to leave an hour ago.",
+    "fre": "J'ai dit à Pierre de partir il y à une heure."
+  },
+  {
+    "eng": "Why did you tell me to come?",
+    "fre": "Pourquoi m'as-tu dit de venir? / Pourquoi m'avez-Vous dit de venir? I"
+  },
+  {
+    "eng": "What are you going to say to Charles?",
+    "fre": "Que vas-tu dire à Charles? / Qu'allez-vous dire à Charles? I"
+  },
+  {
+    "eng": "I'm going to tell Sophie something.",
+    "fre": "Je vais dire quelque chose à Sophie."
+  },
+  {
+    "eng": "somebody",
+    "fre": "quelqu'un"
+  },
+  {
+    "eng": "to tell somebody to do something",
+    "fre": "dire à quelqu'un de faire"
+  },
+  {
+    "eng": "to give (to) me",
+    "fre": "me donner"
+  },
+  {
+    "eng": "to give (to) you",
+    "fre": "vous donner"
+  },
+  {
+    "eng": "I gave you something yesterday.",
+    "fre": "Je vous ai donné quelque chose hier."
+  },
+  {
+    "eng": "I'm going to give you something important tomorrow.",
+    "fre": "Je vais vous donner quelque chose d'important demain."
+  },
+  {
+    "eng": "I didn't give you my passport.",
+    "fre": "Je ne vous ai pas donné mon passeport."
+  },
+  {
+    "eng": "to give (to) you",
+    "fre": "te donner"
+  },
+  {
+    "eng": "I gave you something yesterday.",
+    "fre": "Je t'ai donné quelque chose hier."
+  },
+  {
+    "eng": "I'm going to give you something important tomorrow.",
+    "fre": "Je vais te donner quelque chose d'important demain."
+  },
+  {
+    "eng": "I didn't give you my passport.",
+    "fre": "Je ne t'ai pas donné mon passeport."
+  },
+  {
+    "eng": "te donne... he's giving you...",
+    "fre": "il vous"
+  },
+  {
+    "eng": "te donne pas... he's not giving you...",
+    "fre": "il ne vous"
+  },
+  {
+    "eng": "te donne-t-il...2 is he giving you...?",
+    "fre": "vous"
+  },
+  {
+    "eng": "te donne-t-il pas...? isn't he giving you...?",
+    "fre": "ne vous"
+  },
+  {
+    "eng": "ta pas donné. he didn't give you...",
+    "fre": "ilne vous"
+  },
+  {
+    "eng": "t'a-t-il donné...2 did he give you...?",
+    "fre": "vous"
+  },
+  {
+    "eng": "(to) give you (singular informal",
+    "fre": "te donner"
+  },
+  {
+    "eng": "(to) give you (formal and plural",
+    "fre": "vous donner"
+  },
+  {
+    "eng": "Marie hasn't given you enough time.",
+    "fre": "Marie ne t'a pas donné assez de temps. / Marie ne vous a pas donné assez de temps."
+  },
+  {
+    "eng": "Has Pierre given you a map?",
+    "fre": "Pierre t'a-t-il donné un plan? / Pierre vous a-t-il donne un plan?"
+  },
+  {
+    "eng": "Why hasn't Sophie given you any food?",
+    "fre": "Pourquoi Sophie ne t'a-t-elle pas donné de Pourquoi Sophie ne vous a-t-elle pas Crys de nourriture?"
+  },
+  {
+    "eng": "I'm going to leave tomorrow",
+    "fre": "je vais partir demain"
+  },
+  {
+    "eng": "I want to leave now.",
+    "fre": "Je veux partir maintenant."
+  },
+  {
+    "eng": "I have left some wine for you.",
+    "fre": "J'ai laissé du vin pour toi / pour vous."
+  },
+  {
+    "eng": "What time are you leaving tomorrow?",
+    "fre": "_A quelle heure pars-tu demain? / A quelle heure partez-vous demain?"
+  },
+  {
+    "eng": "Who left this here?",
+    "fre": "Qui à laissé ceci ici?"
+  },
+  {
+    "eng": "I'm leaving everything with Marie.",
+    "fre": "Je laisse tout avec Marie."
+  },
+  {
+    "eng": "Did you leave everything at mine?",
+    "fre": "As-tu tout laissé chez moi? / Avez-vous tout laissé chez moi?"
+  },
+  {
+    "eng": "to leave you",
+    "fre": "te laisser / vous laisser"
+  },
+  {
+    "eng": "to leave me",
+    "fre": "me laisser"
+  },
+  {
+    "eng": "Can you leave me here?",
+    "fre": "Peux-tu me laisser ici? / Pouvez-vous me laisser ici? I"
+  },
+  {
+    "eng": "Can you leave me some cheese, please?",
+    "fre": "Peux-tu me laisser du fromage, s'il te plaît? / Pouvez-vous me laisser du fromage, s'il vous plaît?"
+  },
+  {
+    "eng": "You can leave me here; I don't want to go with you.",
+    "fre": "Tu peux me laisser ici; je ne veux pas aller avec toi. / Vous pouvez me laisser ici; je ne veux pas aller avec vous."
+  },
+  {
+    "eng": "Have you left me some money for my lunch?",
+    "fre": "M'as-tu laissé de l'argent pour mon déjeuner? / M'avez-vous laissé de l'argent pour mon déjeuner?"
+  },
+  {
+    "eng": "I can leave you some money, if you want.",
+    "fre": "Je peux te laisser de l'argent, si tu veux. / Je peux vous laisser de l'argent, si vous"
+  },
+  {
+    "eng": "Did she leave you some food?",
+    "fre": "T'a-t-elle laissé de la nourriture? / Vous a-t-elle laissé de la nourriture?"
+  },
+  {
+    "eng": "to leave him / her / it",
+    "fre": "le / là laisser"
+  },
+  {
+    "eng": "Where are you going to leave it?",
+    "fre": "Où vas-tu le laisser? / Où allez-vous le laisser?"
+  },
+  {
+    "eng": "Can I leave it here?",
+    "fre": "Puis-je le laisser ici?"
+  },
+  {
+    "eng": "Marie, Sophie and Pierre visited France, but they left him in Cannes.",
+    "fre": "Marie, Sophie et Pierre ont visité la France, mais elles l'ont laissé à Cannes."
+  },
+  {
+    "eng": "(to) leave you (singular informal",
+    "fre": "te laisser"
+  },
+  {
+    "eng": "(to) leave you (formal and plural",
+    "fre": "vous laisser"
+  },
+  {
+    "eng": "(to) leave me",
+    "fre": "me laisser"
+  },
+  {
+    "eng": "(to) leave him / her / it",
+    "fre": "le / là laisser"
+  },
+  {
+    "eng": "speak French",
+    "fre": "parle français / parlez français"
+  },
+  {
+    "eng": "wait here",
+    "fre": "attends ici / attendez ici"
+  },
+  {
+    "eng": "gO",
+    "fre": "va / allez"
+  },
+  {
+    "eng": "eat more",
+    "fre": "mange plus / mangez plus"
+  },
+  {
+    "eng": "be here tomorrow",
+    "fre": "sois ici demain"
+  },
+  {
+    "eng": "don't be stupid",
+    "fre": "ne sois pas stupide"
+  },
+  {
+    "eng": "be on time",
+    "fre": "Sois à l'heure"
+  },
+  {
+    "eng": "speak to me",
+    "fre": "help me"
+  },
+  {
+    "eng": "leave me here",
+    "fre": "laisse-moi ici / laissez-moi ici"
+  },
+  {
+    "eng": "listen to me",
+    "fre": "écoute-moi / écoutez-moi"
+  },
+  {
+    "eng": "it",
+    "fre": "/e //a"
+  },
+  {
+    "eng": "do it now",
+    "fre": "fais-le maintenant / faites-le maintenant"
+  },
+  {
+    "eng": "buy it",
+    "fre": "achète-le / achetez-le"
+  },
+  {
+    "eng": "don't speak English",
+    "fre": "ne parle pas anglais / ne parlez pas anglais"
+  },
+  {
+    "eng": "don't do it I",
+    "fre": "fais-le / faites-le ne le fais pas / ne le faites pas"
+  },
+  {
+    "eng": "don't speak to me",
+    "fre": "ne me parle pas / ne me parlez pas"
+  },
+  {
+    "eng": "don't show me",
+    "fre": "ne me montre pas / ne me montrez pas"
+  },
+  {
+    "eng": "don't wait for me (T",
+    "fre": "ne m'attends pas / ne m'attendez pas"
+  },
+  {
+    "eng": "don't leave me",
+    "fre": "ne me laissez pas I"
+  },
+  {
+    "eng": "Show me everything.",
+    "fre": "Montre-moi tout. / Montrez-moi tout."
+  },
+  {
+    "eng": "Don't buy it; it's too expensI've.",
+    "fre": "Ne l'achète pas; elle est trop chère. / Ne l'achetez pas; elle est trop chère."
+  },
+  {
+    "eng": "Tell me something interesting.",
+    "fre": "Dis-moi quelque chose d'intéressant. / Dites-moi quelque chose d'intéressant."
+  },
+  {
+    "eng": "Be happy.",
+    "fre": "Sois heureux."
+  },
+  {
+    "eng": "Don't be sad.",
+    "fre": "Ne sois pas triste."
+  },
+  {
+    "eng": "Tell me if you don't want to go.",
+    "fre": "Dis-moi si tu ne veux pas aller. / Dites-moi si vous ne voulez pas aller."
+  },
+  {
+    "eng": "I must / I have to",
+    "fre": "je dois"
+  },
+  {
+    "eng": "I have to leave now, but call me later.",
+    "fre": "Je dois partir maintenant, mais appelle-moi plus tard. / Je dois partir maintenant, mais"
+  },
+  {
+    "eng": "I have to leave it here.",
+    "fre": "Je dois le laisser ici."
+  },
+  {
+    "eng": "I have to call Pierre.",
+    "fre": "Je dois appeler Pierre."
+  },
+  {
+    "eng": "I can't come to Paris; I have to go to Calais tomorrow.",
+    "fre": "Je ne peux pas venir à Paris; je dois aller a Calais demain."
+  },
+  {
+    "eng": "do I have to",
+    "fre": "dois-je"
+  },
+  {
+    "eng": "Do I have to leave now?",
+    "fre": "Dois-je partir maintenant?"
+  },
+  {
+    "eng": "Why do I have to leave it here?",
+    "fre": "Pourquoi dois-je le laisser ici?"
+  },
+  {
+    "eng": "Do I have to call Pierre?",
+    "fre": "Dois-je appeler Pierre?"
+  },
+  {
+    "eng": "What do I have to show you?",
+    "fre": "Que dois-je te montrer? / Que dois-je vous montrer?"
+  },
+  {
+    "eng": "I'm going to put it here.",
+    "fre": "Je vais le mettre ici."
+  },
+  {
+    "eng": "Please, put that there.",
+    "fre": "Veuillez mettre ça là."
+  },
+  {
+    "eng": "put",
+    "fre": "je mets"
+  },
+  {
+    "eng": "have put",
+    "fre": "j'ai mis"
+  },
+  {
+    "eng": "I've put it here for you.",
+    "fre": "Je l'ai mis ici pour toi / pour vous."
+  },
+  {
+    "eng": "Where have you put it?",
+    "fre": "Où l'as-tu mis? / Où l'avez-vous mis?"
+  },
+  {
+    "eng": "buy it (informal",
+    "fre": "achète-le"
+  },
+  {
+    "eng": "buy it (formal and plural",
+    "fre": "achetez-le"
+  },
+  {
+    "eng": "don't buy it",
+    "fre": "ne l'achète pas"
+  },
+  {
+    "eng": "don't tell me",
+    "fre": "ne me dis pas"
+  },
+  {
+    "eng": "~ [had to",
+    "fre": "je devais"
+  },
+  {
+    "eng": "I had to hire a car.",
+    "fre": "Je devais louer une voiture."
+  },
+  {
+    "eng": "I had to call Marie.",
+    "fre": "Je devais appeler Marie."
+  },
+  {
+    "eng": "I'm sorry but I had to leave.",
+    "fre": "Je suis désolé mais je devais partir."
+  },
+  {
+    "eng": "I had to buy it because I left my coat at the",
+    "fre": "hôtel. Je devais l'acheter parce que jai laissé mon manteau à l'hôtel."
+  },
+  {
+    "eng": "I want to eat something but it's too early for",
+    "fre": "Je veux manger quelque chose mais il est trop tôt pour le dîner."
+  },
+  {
+    "eng": "It's quite early.",
+    "fre": "ll est assez tôt."
+  },
+  {
+    "eng": "I have to leave early tomorrow.",
+    "fre": "Je dois partir tôt demain."
+  },
+  {
+    "eng": "I have to start early next week.",
+    "fre": "Je dois commencer tôt la semaine"
+  },
+  {
+    "eng": "buy it (informal",
+    "fre": "achete-le"
+  },
+  {
+    "eng": "I had to",
+    "fre": "je devais"
+  },
+  {
+    "eng": "it's early",
+    "fre": "il est tot"
+  },
+  {
+    "eng": "I wonder if there is somebody here who",
+    "fre": "Je me demande s'il y a quelqu'un ici qui parle anglais"
+  },
+  {
+    "eng": "soon",
+    "fre": "je dois aller bientôt"
+  },
+  {
+    "eng": "I've left everything at home",
+    "fre": "J'ai tout laissé chez moi"
+  },
+  {
+    "eng": "Please, leave me alone; I don't want to go with you today",
+    "fre": "S'il te plaît, laisse-moi tranquille; je ne veux pas aller avec toi aujourd'hui / S'il vous plaît, laissez-moi tranquille; je ne veux pas aller avec vous aujourd'hui"
+  },
+  {
+    "eng": "Don't buy me a souvenir from Paris",
+    "fre": "Ne m'achète pas un souvenir de Paris / Ne m'achetez pas un souvenir de Paris"
+  },
+  {
+    "eng": "Tell me where you're going tomorrow",
+    "fre": "Dis-moi ou tu vas demain / Dites-moi ou vous allez demain"
+  },
+  {
+    "eng": "It's very early but I'm very tired",
+    "fre": "ll est très tot mais je suis très fatigué"
+  },
+  {
+    "eng": "I had to call Pierre yesterday",
+    "fre": "Je devais appeler Pierre hier"
+  },
+  {
+    "eng": "Where are you going to leave it?",
+    "fre": "Où vas-tu le laisser?"
+  },
+  {
+    "eng": "Why do I have to give you my passport?",
+    "fre": "Pourquoi dois-je vous donner mon passeport?"
+  },
+  {
+    "eng": "Charles told me to put everything in the",
+    "fre": "Charles m'a dit de mettre tout dans la chambre"
+  },
+  {
+    "eng": "You can leave me here if it's easier for you",
+    "fre": "Vous pouvez me laisser ici si c'est plus facile pour vous"
+  },
+  {
+    "eng": "What time do you want to have lunch?",
+    "fre": "À quelle heure veux-tu / voulez-vous prendre le déjeuner?"
+  },
+  {
+    "eng": "It's at quarter past fI've",
+    "fre": "Cest à cinq heures et quart"
+  },
+  {
+    "eng": "It's too big",
+    "fre": "C'est trop grand"
+  },
+  {
+    "eng": "You understand French",
+    "fre": "Tu comprends le français / Vous comprenez le français"
+  },
+  {
+    "eng": "[tried it but it wasn't very good",
+    "fre": "Je l'ai essayé mais ce n'était pas très bon"
+  },
+  {
+    "eng": "He isn't very tired",
+    "fre": "ll n'est pas très fatigué"
+  },
+  {
+    "eng": "I'm going to pay my bill",
+    "fre": "Je vais payer mon addition"
+  },
+  {
+    "eng": "Are you going out later or are you staying here?",
+    "fre": "Sors-tu plus tard ou restes-tu ici? / Sortez- vous plus tard ou restez-vous"
+  },
+  {
+    "eng": "How much is a one-way ticket?",
+    "fre": "C'est combien un aller simple?"
+  },
+  {
+    "eng": "Do you have any coffee?",
+    "fre": "As-tu du café?"
+  },
+  {
+    "eng": "(to) leave him / it",
+    "fre": "le laisser"
+  },
+  {
+    "eng": "(to) leave her",
+    "fre": "là laisser"
+  },
+  {
+    "eng": "don't buy it (informal",
+    "fre": "ne l'achète pas"
+  },
+  {
+    "eng": "don't tell me (informal",
+    "fre": "ne me dis pas"
+  },
+  {
+    "eng": "there was / there were",
+    "fre": "il Y avait"
+  },
+  {
+    "eng": "There were lots of people at the",
+    "fre": "ll y avait beaucoup de personnes / gens au supermarché hier."
+  },
+  {
+    "eng": "there is /there are",
+    "fre": "il y a"
+  },
+  {
+    "eng": "there is / there are",
+    "fre": "il y a"
+  },
+  {
+    "eng": "there isn't / there aren't",
+    "fre": "il ny a pas"
+  },
+  {
+    "eng": "is there? / are there? I",
+    "fre": "y a-t-il?"
+  },
+  {
+    "eng": "isn't there? / aren't there?",
+    "fre": "n'y a-t-il pas?"
+  },
+  {
+    "eng": "there wasn't / there weren't",
+    "fre": "il n'y avait pas"
+  },
+  {
+    "eng": "was there? / were there?",
+    "fre": "y avait-il?"
+  },
+  {
+    "eng": "wasn't there? / weren't there?",
+    "fre": "n'y avait-il pas?"
+  },
+  {
+    "eng": "there wasnt / there weren't",
+    "fre": "il n'y avait pas"
+  },
+  {
+    "eng": "There wasn't much to do when I went on holiday to La Rochelle.",
+    "fre": "ll n'y avait pas beaucoup à faire quand je suis allé en vacances à La OO"
+  },
+  {
+    "eng": "Were there many restaurants there?",
+    "fre": "Y avait-il beaucoup de restaurants la?"
+  },
+  {
+    "eng": "What was there to eat?",
+    "fre": "Qu'y avait-il a manger?"
+  },
+  {
+    "eng": "Weren't there two cars there?",
+    "fre": "N'y avait-il pas deux voitures là?"
+  },
+  {
+    "eng": "Why wasn't there time?",
+    "fre": "Pourquoi n'y avait-il pas de temps?"
+  },
+  {
+    "eng": "Everything is ready now.",
+    "fre": "Tout est prêt maintenant."
+  },
+  {
+    "eng": "I'm not ready.",
+    "fre": "Je ne suis pas prêt."
+  },
+  {
+    "eng": "Is he ready?",
+    "fre": "Est-il prêt?"
+  },
+  {
+    "eng": "Is Pierre ready?",
+    "fre": "Pierre est-il prêt?"
+  },
+  {
+    "eng": "Is she ready?",
+    "fre": "Est-elle prête?"
+  },
+  {
+    "eng": "Is Marie ready?",
+    "fre": "Marie est-elle prête?"
+  },
+  {
+    "eng": "ready-to-wear",
+    "fre": "prêt-à-porter"
+  },
+  {
+    "eng": "I'm ready to leave",
+    "fre": "je suis prêt à partir"
+  },
+  {
+    "eng": "everything is ready to eat",
+    "fre": "tout est prêt à manger"
+  },
+  {
+    "eng": "I'm ready for anything",
+    "fre": "je suis prêt à tout"
+  },
+  {
+    "eng": "Are you ready to go?",
+    "fre": "Es-tu prêt à aller? / Êtes-vous prêt a aller?"
+  },
+  {
+    "eng": "I'm ready to help you.",
+    "fre": "Je suis prêt à t'aider. / Je suis prêt à vous aider."
+  },
+  {
+    "eng": "Are you ready to leave now?",
+    "fre": "Es-tu prêt à partir maintenant? / Êtes-vous prêt à partir maintenant?"
+  },
+  {
+    "eng": "ready to...",
+    "fre": "prêt a..."
+  },
+  {
+    "eng": "We're ready to order.",
+    "fre": "Nous sommes prêts à commander."
+  },
+  {
+    "eng": "Marie is ready to eat.",
+    "fre": "Marie est prête à manger."
+  },
+  {
+    "eng": "SOON",
+    "fre": "bientôt"
+  },
+  {
+    "eng": "I'm going to France soon.",
+    "fre": "Je vais en France bientôt."
+  },
+  {
+    "eng": "Pierre is coming to England soon.",
+    "fre": "Pierre vient en Angleterre bientôt."
+  },
+  {
+    "eng": "I want to leave soon.",
+    "fre": "Je veux partir bientôt."
+  },
+  {
+    "eng": "I have to go soon.",
+    "fre": "Je dois aller bientôt."
+  },
+  {
+    "eng": "I'm going",
+    "fre": "je vais I go"
+  },
+  {
+    "eng": "youre going",
+    "fre": "tu vas you g0"
+  },
+  {
+    "eng": "elle va he / / he / she is going",
+    "fre": "il"
+  },
+  {
+    "eng": "youre going",
+    "fre": "vous allez you go"
+  },
+  {
+    "eng": "went / I've gone",
+    "fre": "je suis allé"
+  },
+  {
+    "eng": "you've gone",
+    "fre": "tu es allé you went"
+  },
+  {
+    "eng": "he's gone",
+    "fre": "il est allé"
+  },
+  {
+    "eng": "she's gone",
+    "fre": "elle est allée"
+  },
+  {
+    "eng": "you've gone »—",
+    "fre": "vous êtes allé you went"
+  },
+  {
+    "eng": "g0 / I'm going",
+    "fre": "je vais"
+  },
+  {
+    "eng": "I'm going to eat",
+    "fre": "je vais manger"
+  },
+  {
+    "eng": "he's going to leave",
+    "fre": "il va partir"
+  },
+  {
+    "eng": "we're going to buy it",
+    "fre": "nous allons l'acheter N"
+  },
+  {
+    "eng": "He's going to arrI've soon.",
+    "fre": "I va arrI'ver bientôt."
+  },
+  {
+    "eng": "I went to a good restaurant in Strasbourg with my friends.",
+    "fre": "Je suis allé a un bon restaurant à Strasbourg avec mes amis."
+  },
+  {
+    "eng": "(to) be",
+    "fre": "être"
+  },
+  {
+    "eng": "He's going to be here soon.",
+    "fre": "ll va être ici bientôt."
+  },
+  {
+    "eng": "I'm not going to be ready until 5pm.",
+    "fre": "Je ne vais pas être prêt jusqu'à dix-sept"
+  },
+  {
+    "eng": "We're going to be busy tomorrow.",
+    "fre": "Nous allons être occupés demain."
+  },
+  {
+    "eng": "I'm sorry but I'm not going to be there today.",
+    "fre": "Je suis désolé mais je ne vais pas être là aujourd'hui."
+  },
+  {
+    "eng": "Where are you going to be later?",
+    "fre": "Où vas-tu / allez-vous être plus tard?"
+  },
+  {
+    "eng": "Everything is going to be ready on Monday,",
+    "fre": "Tout va être prêt lundi."
+  },
+  {
+    "eng": "It's going to be fantastic.",
+    "fre": "Ça va être fantastique."
+  },
+  {
+    "eng": "It's going to be ready soon.",
+    "fre": "Ça va être prêt bientôt."
+  },
+  {
+    "eng": "it was It Is",
+    "fre": "c'était"
+  },
+  {
+    "eng": "it's going to be",
+    "fre": "Ça va être"
+  },
+  {
+    "eng": "It's going to be good.",
+    "fre": "Ça va être bon."
+  },
+  {
+    "eng": "It isn't going to be here.",
+    "fre": "Ça ne va pas être ici."
+  },
+  {
+    "eng": "on time",
+    "fre": "à l'heure"
+  },
+  {
+    "eng": "I wonder if Pierre is going to be here on time today.",
+    "fre": "Je me demande si Pierre va être ici à l'heure aujourd'hui."
+  },
+  {
+    "eng": "I'm sorry but we're not going to be there on",
+    "fre": "Je suis désolé mais nous nallons pas être la à l'heure."
+  },
+  {
+    "eng": "I wasn't on time today, but I'm going to try to leave early tomorrow.",
+    "fre": "Je n'étais pas à l'heure aujourd'hui, mais je"
+  },
+  {
+    "eng": "it's going",
+    "fre": "Ça Va"
+  },
+  {
+    "eng": "Please, be on time.",
+    "fre": "S'il te plaît, sois à l'heure."
+  },
+  {
+    "eng": "Charles told me to be on time.",
+    "fre": "Charles m'a dit d'être à l'heure."
+  },
+  {
+    "eng": "everything is going",
+    "fre": "tout Va"
+  },
+  {
+    "eng": "Everything is going to be perfect.",
+    "fre": "Tout va être parfait."
+  },
+  {
+    "eng": "Everything is going to be here.",
+    "fre": "Tout va être ici."
+  },
+  {
+    "eng": "Everything is going well.",
+    "fre": "Tout va bien."
+  },
+  {
+    "eng": "I'll try to arrI've early. / I'll try and arrI've early.",
+    "fre": "Je vais essayer d'arrI'ver tôt."
+  },
+  {
+    "eng": "I'll try and do it now / I'll try to do it now",
+    "fre": "je vais essayer de le faire maintenant"
+  },
+  {
+    "eng": "Do you want to go and get some milk?",
+    "fre": "Veux-tu aller acheter du lait?"
+  },
+  {
+    "eng": "Are you going to try and speak French?",
+    "fre": "Vas-tu essayer de parler français? / Allez- vous essayer de parler français?"
+  },
+  {
+    "eng": "I'm going to try and finish everything now because I'm busy tomorrow.",
+    "fre": "Je vais essayer de finir tout maintenant"
+  },
+  {
+    "eng": "Everybody is going to try and arrI've early tomorrow.",
+    "fre": "Tout le monde va essayer d'arrI'ver tôt demain."
+  },
+  {
+    "eng": "Everything is ready now",
+    "fre": "Tout est prêt maintenant"
+  },
+  {
+    "eng": "I'm ready to leave when you want",
+    "fre": "Je suis prêt a partir quand tu veux / vous"
+  },
+  {
+    "eng": "I'm going to try and arrI've early",
+    "fre": "Je vais essayer d'arrI'ver tôt"
+  },
+  {
+    "eng": "Try and be here at four o'clock",
+    "fre": "Essaye / Essayez d'être ici à quatre heures"
+  },
+  {
+    "eng": "I was on time yesterday",
+    "fre": "J'étais à l'heure hier"
+  },
+  {
+    "eng": "It's going to be fantastic",
+    "fre": "Ça va être fantastique"
+  },
+  {
+    "eng": "There wasn't a table for fI've at the",
+    "fre": "ll n'y avait pas une table pour cinq au"
+  },
+  {
+    "eng": "Are you going to be here tomorrow",
+    "fre": "Vas-tu être ici demain soir?"
+  },
+  {
+    "eng": "Don't arrI've too early",
+    "fre": "N'arrI'vez pas trop tôt"
+  },
+  {
+    "eng": "Were there any bottles of champagne?",
+    "fre": "Y avait-il des bouteilles de champagne?"
+  },
+  {
+    "eng": "Is there a table ready for us?",
+    "fre": "Y a-t-il une table prête pour nous?"
+  },
+  {
+    "eng": "Are you ready to order?",
+    "fre": "Êtes-vous prêts à commander?"
+  },
+  {
+    "eng": "Pierre is going to be here soon and I'm not",
+    "fre": "Pierre va être ici bientôt et je ne suis pas prêt"
+  },
+  {
+    "eng": "It isn't ready",
+    "fre": "Ce n'est pas prêt"
+  },
+  {
+    "eng": "I wonder if everything is going to be ready on time",
+    "fre": "Je me demande si tout va être prêt à l'heure"
+  },
+  {
+    "eng": "Where is Pierre?",
+    "fre": "Où est Pierre?"
+  },
+  {
+    "eng": "Not now, thank you",
+    "fre": "Pas maintenant, merci"
+  },
+  {
+    "eng": "Can I buy two tickets, please?",
+    "fre": "Puis-je acheter deux billets, s'il vous plaît?"
+  },
+  {
+    "eng": "Take that with you",
+    "fre": "Prenez Ça avec vous"
+  },
+  {
+    "eng": "Did you wait here yesterday?",
+    "fre": "As-tu attendu ici hier?"
+  },
+  {
+    "eng": "Are you going to take a taxi?",
+    "fre": "Vas-tu prendre un taxi?"
+  },
+  {
+    "eng": "What are you going to try today?",
+    "fre": "Qu'allez-vous essayer aujourd'hui?"
+  },
+  {
+    "eng": "I'm not going to eat here",
+    "fre": "Je ne vais pas manger ICI"
+  },
+  {
+    "eng": "Where did you eat this morning?",
+    "fre": "Ou as-tu mangé ce matin? / Ou avez-vous mangé ce matin? _"
+  },
+  {
+    "eng": "What did he do this morning?",
+    "fre": "Qu'a-t-il fait ce matin?"
+  },
+  {
+    "eng": "I went to Sophie's house this morning for",
+    "fre": "Je suis allé chez Sophie ce matin pour le petit-déjeuner."
+  },
+  {
+    "eng": "What time did you eat this morning?",
+    "fre": "_A quelle heure as-tu mangé ce matin? / À quelle heure avez-vous mangé ce matin?"
+  },
+  {
+    "eng": "What are you doing this morning?",
+    "fre": "Que fais-tu ce matin? / Que faites-vous ce matin?"
+  },
+  {
+    "eng": "I told Sophie to finish everything this",
+    "fre": "J'ai dit à Sophie de tout finir ce matin."
+  },
+  {
+    "eng": "I'm going to France this afternoon.",
+    "fre": "Je vais en France cet après-midi."
+  },
+  {
+    "eng": "this evening / tonight",
+    "fre": "ce Soir"
+  },
+  {
+    "eng": "Do you want to eat here tonight?",
+    "fre": "Veux-tu manger ici ce soir? / Voulez-vous manger ici ce soir?"
+  },
+  {
+    "eng": "Do you want to eat here this evening?",
+    "fre": "Veux-tu manger ici ce soir? / Voulez-vous manger ici ce soir?"
+  },
+  {
+    "eng": "Where do you want to eat this evening?",
+    "fre": "Ou veux-tu manger ce soir? / Où voulez- vous manger ce soir? 7"
+  },
+  {
+    "eng": "What are you doing tonight?",
+    "fre": "Que fais-tu ce soir? / Que faites-vous ce soir? I"
+  },
+  {
+    "eng": "Do you want to stay at mine tonight?",
+    "fre": "Veux-tu rester chez moi ce soir? / Voulez- vous rester chez moi ce soir?"
+  },
+  {
+    "eng": "We arrI've in Paris at 8 o'clock tonight.",
+    "fre": "Nous arrivons à Paris à vingt heures ce soir."
+  },
+  {
+    "eng": "this house",
+    "fre": "cette fille cette maison"
+  },
+  {
+    "eng": "Do you want this snail?",
+    "fre": "Veux-tu cet escargot? / Voulez-vous cet escargot?"
+  },
+  {
+    "eng": "This pineapple is delicious.",
+    "fre": "Cet ananas est délicieux."
+  },
+  {
+    "eng": "I like this ring.",
+    "fre": "J'aime cet anneau."
+  },
+  {
+    "eng": "Do you have this scarf in yellow?",
+    "fre": "As-tu cette écharpe en jaune? / Avez-vous cette écharpe en jaune?"
+  },
+  {
+    "eng": "open / I'm opening",
+    "fre": "j'ouvre"
+  },
+  {
+    "eng": "youre opening",
+    "fre": "tu ouvres you open"
+  },
+  {
+    "eng": "elle ouvre he / she opens / is opening",
+    "fre": "il"
+  },
+  {
+    "eng": "youre opening",
+    "fre": "vous ouvrez you open"
+  },
+  {
+    "eng": "OUVRIR - TO OPEN",
+    "fre": "j'ouvre / open / Îm opening nous ouvrons we open / were opening"
+  },
+  {
+    "eng": "opened / I've opened",
+    "fre": "j'ai ouvert"
+  },
+  {
+    "eng": "you've opened",
+    "fre": "tu as ouvert you opened"
+  },
+  {
+    "eng": "you've opened",
+    "fre": "vous avez ouvert you opened"
+  },
+  {
+    "eng": "I opened it.",
+    "fre": "Je l'ai ouverte."
+  },
+  {
+    "eng": "What time do you open?",
+    "fre": "À quelle heure ouvres-tu? / À quelle heure ouvrez-vous?"
+  },
+  {
+    "eng": "When did you open?",
+    "fre": "Quand as-tu ouvert? / Quand avez-vous ouvert?"
+  },
+  {
+    "eng": "close / I'm closing",
+    "fre": "je ferme"
+  },
+  {
+    "eng": "youre closing",
+    "fre": "tu fermes you close"
+  },
+  {
+    "eng": "elle ferme he / she closes / is closing",
+    "fre": "il"
+  },
+  {
+    "eng": "youre closing,",
+    "fre": "vous fermez you close"
+  },
+  {
+    "eng": "youre closing",
+    "fre": "vous fermez you close"
+  },
+  {
+    "eng": "closed / I've closed",
+    "fre": "j'ai fermé"
+  },
+  {
+    "eng": "you've closed",
+    "fre": "tu as fermé you closed"
+  },
+  {
+    "eng": "you've closed",
+    "fre": "vous avez fermé you closed"
+  },
+  {
+    "eng": "What time do you close?",
+    "fre": "À quelle heure fermes-tu? / À quelle heure fermez-vous?"
+  },
+  {
+    "eng": "We're closing soon.",
+    "fre": "Nous fermons bientôt."
+  },
+  {
+    "eng": "When did you close?",
+    "fre": "Quand as-tu fermé? / Quand avez-vous fermé?"
+  },
+  {
+    "eng": "COMMENCER - 70 START",
+    "fre": "je commence / start / Îm starting"
+  },
+  {
+    "eng": "start / I'm starting",
+    "fre": "je commence"
+  },
+  {
+    "eng": "youre starting",
+    "fre": "tu commences you start"
+  },
+  {
+    "eng": "elle commence he / she starts / is starting",
+    "fre": "il"
+  },
+  {
+    "eng": "were starting",
+    "fre": "nous commençons we start"
+  },
+  {
+    "eng": "youre starting",
+    "fre": "vous commencez you start"
+  },
+  {
+    "eng": "started / I've started",
+    "fre": "j'ai commence"
+  },
+  {
+    "eng": "started / I've started",
+    "fre": "j'ai commencé"
+  },
+  {
+    "eng": "you've started",
+    "fre": "tu as commencé you started"
+  },
+  {
+    "eng": "What time do you start?",
+    "fre": "À quelle heure commences-tu? / A quelle heure \"my"
+  },
+  {
+    "eng": "Did you start yesterday or this morning?",
+    "fre": "As-tu commencé hier ou ce matin? / Avez-vous commencé hier ou ce matin?"
+  },
+  {
+    "eng": "we Start",
+    "fre": "nous commençons"
+  },
+  {
+    "eng": "I would like to eat It it is I",
+    "fre": "je voudrais le manger"
+  },
+  {
+    "eng": "it starts tomorrow I",
+    "fre": "il commence demain"
+  },
+  {
+    "eng": "it is here (literally: she is here) (T",
+    "fre": "elle est ici"
+  },
+  {
+    "eng": "Has Pierre finished?",
+    "fre": "Pierre a-t-il fini?"
+  },
+  {
+    "eng": "Does Marie lI've here?",
+    "fre": "Marie habite-t-elle ici?"
+  },
+  {
+    "eng": "What does Pierre want?",
+    "fre": "Que Pierre veut-il?"
+  },
+  {
+    "eng": "Does Jeanne drink wine?",
+    "fre": "Jeanne boit-elle du vin?"
+  },
+  {
+    "eng": "What time does Pierre arrI've?",
+    "fre": "À quelle heure Pierre arrI've-t-il?"
+  },
+  {
+    "eng": "What is Marie doing?",
+    "fre": "Que Marie fait-elle?"
+  },
+  {
+    "eng": "Is Alice coming tomorrow?",
+    "fre": "Alice vient-elle demain?"
+  },
+  {
+    "eng": "Is Phillipe going too?",
+    "fre": "Phillipe va-t-il aussi?"
+  },
+  {
+    "eng": "IN",
+    "fre": "dans"
+  },
+  {
+    "eng": "He is going to be here in two hours.",
+    "fre": "Il va être ici dans deux heures."
+  },
+  {
+    "eng": "I'm going to France in two weeks.",
+    "fre": "Je vais en France dans deux semaines."
+  },
+  {
+    "eng": "We're going on holiday in two days but we're not ready.",
+    "fre": "Nous allons en vacances dans deux jours mais nous ne sommes pas"
+  },
+  {
+    "eng": "Everything is going to be ready in an hour.",
+    "fre": "Tout va être prêt dans une heure."
+  },
+  {
+    "eng": "watch / I'm watching",
+    "fre": "je regarde"
+  },
+  {
+    "eng": "you're watching",
+    "fre": "tu regardes you watch"
+  },
+  {
+    "eng": "elle regarde he / she watches / is watching",
+    "fre": "il"
+  },
+  {
+    "eng": "youre watching",
+    "fre": "vous regardez you watch"
+  },
+  {
+    "eng": "REGARDER - TO WATCH",
+    "fre": "nous regardons we watch / were watching"
+  },
+  {
+    "eng": "you're watching",
+    "fre": "vous regardez you watch"
+  },
+  {
+    "eng": "watched / I've watched",
+    "fre": "j'ai regardé"
+  },
+  {
+    "eng": "you've watched",
+    "fre": "vous avez regardé you watched"
+  },
+  {
+    "eng": "Which fiI'm did you watch?",
+    "fre": "Quel fiI'm as-tu regardé? / Quel fiI'm avez-vous regardé?"
+  },
+  {
+    "eng": "Do you like watching TV?",
+    "fre": "Aimes-tu regarder la télévision? / Aimez-vous regarder la télévision? _"
+  },
+  {
+    "eng": "Where do you want to go tonight?",
+    "fre": "Où veux-tu aller ce soir? / Où voulez-vous aller ce soir? I"
+  },
+  {
+    "eng": "theatre with Sophie",
+    "fre": "avec Sophie"
+  },
+  {
+    "eng": "Do you want to go and watch a fiI'm tonight?",
+    "fre": "Veux-tu aller regarder un fiI'm ce soir? / Voulez-vous aller regarder un fiI'm ce soir?"
+  },
+  {
+    "eng": "house is messy.",
+    "fre": "est en désordre"
+  },
+  {
+    "eng": "What is she doing this evening?",
+    "fre": "Que fait-elle ce soir?"
+  },
+  {
+    "eng": "Where did you go this morning?",
+    "fre": "Où es-tu allé ce matin?"
+  },
+  {
+    "eng": "It's very late and everything is closed",
+    "fre": "ll est très tard et tout est fermé"
+  },
+  {
+    "eng": "I tried to open it",
+    "fre": "J'ai essayé de l'ouvrir"
+  },
+  {
+    "eng": "We went to London and we saw a show",
+    "fre": "Nous sommes allés à Londres et nous avons vu un spectacle"
+  },
+  {
+    "eng": "Is he Mr Blanc?",
+    "fre": "Est-il Monsieur Blanc?"
+  },
+  {
+    "eng": "Haven't we paid for everything?",
+    "fre": "N'avons-nous pas tout payé?"
+  },
+  {
+    "eng": "Where is Marie?",
+    "fre": "Où est Marie?"
+  },
+  {
+    "eng": "It's at quarter to eleven",
+    "fre": "Cest à onze heures moins le quart"
+  },
+  {
+    "eng": "It's for her",
+    "fre": "C'est pour elle"
+  },
+  {
+    "eng": "Do you want to eat that?",
+    "fre": "Veux-tu manger cela? / Voulez-vous manger"
+  },
+  {
+    "eng": "I'm here later",
+    "fre": "Je suis ici plus tard"
+  },
+  {
+    "eng": "Where is she going tomorrow?",
+    "fre": "Où va-t-elle demain?"
+  },
+  {
+    "eng": "It isn't good here",
+    "fre": "Ce n'est pas bon ici"
+  },
+  {
+    "eng": "My dinner is delicious",
+    "fre": "Mon dîner est délicieux"
+  },
+  {
+    "eng": "Where do you want to eat?",
+    "fre": "Où voulez-vous manger?"
+  }
+]

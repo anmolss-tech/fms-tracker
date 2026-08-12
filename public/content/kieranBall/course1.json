@@ -1,0 +1,2666 @@
+[
+  {
+    "eng": "good",
+    "fre": "bon"
+  },
+  {
+    "eng": "it is",
+    "fre": "C'est"
+  },
+  {
+    "eng": "It is good.",
+    "fre": "C'est bon."
+  },
+  {
+    "eng": "fantastic",
+    "fre": "fantastique"
+  },
+  {
+    "eng": "It is fantastic.",
+    "fre": "C'est fantastique."
+  },
+  {
+    "eng": "absolutely",
+    "fre": "absolument"
+  },
+  {
+    "eng": "It is absolutely fantastic.",
+    "fre": "C'est absolument fantastique."
+  },
+  {
+    "eng": "here",
+    "fre": "ici"
+  },
+  {
+    "eng": "It is here.",
+    "fre": "C'est ici."
+  },
+  {
+    "eng": "It is good here.",
+    "fre": "C'est bon ici."
+  },
+  {
+    "eng": "It is fantastic here.",
+    "fre": "C'est fantastique ici."
+  },
+  {
+    "eng": "It is absolutely fantastic here.",
+    "fre": "C'est absolument fantastique ici."
+  },
+  {
+    "eng": "very",
+    "fre": "très"
+  },
+  {
+    "eng": "It is very good.",
+    "fre": "C'est très bon."
+  },
+  {
+    "eng": "It is very good here.",
+    "fre": "C'est très bon ici."
+  },
+  {
+    "eng": "it isn't",
+    "fre": "Ce n'est pas"
+  },
+  {
+    "eng": "It isn't here.",
+    "fre": "Ce n'est pas ici."
+  },
+  {
+    "eng": "It isn't good.",
+    "fre": "Ce n'est pas bon."
+  },
+  {
+    "eng": "It isn't very good.",
+    "fre": "Ce n'est pas très bon."
+  },
+  {
+    "eng": "It isn't fantastic.",
+    "fre": "Ce n'est pas fantastique."
+  },
+  {
+    "eng": "It isn't very good here.",
+    "fre": "Ce n'est pas très bon ici."
+  },
+  {
+    "eng": "It's good.",
+    "fre": "C'est bon."
+  },
+  {
+    "eng": "It's absolutely fantastic here.",
+    "fre": "C'est absolument fantastique ici."
+  },
+  {
+    "eng": "It's good here.",
+    "fre": "C'est bon ici."
+  },
+  {
+    "eng": "It isn't good here.",
+    "fre": "Ce n'est pas bon ici."
+  },
+  {
+    "eng": "It isn't good; it's fantastic.",
+    "fre": "Ce n'est pas bon; c'est fantastique."
+  },
+  {
+    "eng": "It's fantastic.",
+    "fre": "C'est fantastique."
+  },
+  {
+    "eng": "It's fantastic here.",
+    "fre": "C'est fantastique ici."
+  },
+  {
+    "eng": "It isn't good here; it's absolutely fantastic.",
+    "fre": "Ce n'est pas bon ici; c'est absolument fantastique."
+  },
+  {
+    "eng": "It's very good here.",
+    "fre": "C'est très bon ici."
+  },
+  {
+    "eng": "It's here.",
+    "fre": "C'est ici."
+  },
+  {
+    "eng": "It isn't good; it's absolutely fantastic.",
+    "fre": "Ce n'est pas bon; c'est absolument fantastique."
+  },
+  {
+    "eng": "delicious",
+    "fre": "délicieux"
+  },
+  {
+    "eng": "It is delicious.",
+    "fre": "C'est délicieux."
+  },
+  {
+    "eng": "extraordinary",
+    "fre": "extraordinaire"
+  },
+  {
+    "eng": "It is extraordinary.",
+    "fre": "C'est extraordinaire."
+  },
+  {
+    "eng": "It is absolutely extraordinary.",
+    "fre": "C'est absolument extraordinaire."
+  },
+  {
+    "eng": "It is absolutely extraordinary here.",
+    "fre": "C'est absolument extraordinaire ici."
+  },
+  {
+    "eng": "beautiful",
+    "fre": "beau"
+  },
+  {
+    "eng": "It is beautiful.",
+    "fre": "C'est beau."
+  },
+  {
+    "eng": "It is very beautiful.",
+    "fre": "C'est très beau."
+  },
+  {
+    "eng": "It is very beautiful here.",
+    "fre": "C'est très beau ici."
+  },
+  {
+    "eng": "It is absolutely beautiful here.",
+    "fre": "C'est absolument beau ici."
+  },
+  {
+    "eng": "for me",
+    "fre": "Pour moi"
+  },
+  {
+    "eng": "It is for me.",
+    "fre": "C'est pour moi."
+  },
+  {
+    "eng": "It isn't for me.",
+    "fre": "Ce n'est pas pour moi."
+  },
+  {
+    "eng": "It isn't good for me.",
+    "fre": "Ce n'est pas bon pour moi."
+  },
+  {
+    "eng": "It isn't very good for me.",
+    "fre": "Ce n'est pas très bon pour moi."
+  },
+  {
+    "eng": "in my opinion / I think",
+    "fre": "Pour moi"
+  },
+  {
+    "eng": "I think it is good.",
+    "fre": "Pour moi, c'est bon."
+  },
+  {
+    "eng": "I think it's very good.",
+    "fre": "Pour moi, c'est très bon."
+  },
+  {
+    "eng": "I think it's delicious.",
+    "fre": "Pour moi, c'est délicieux."
+  },
+  {
+    "eng": "I think it's absolutely extraordinary here.",
+    "fre": "Pour moi, c'est absolument extraordinaire ici"
+  },
+  {
+    "eng": "I think it's fantastic here.",
+    "fre": "Pour moi, c'est fantastique ici."
+  },
+  {
+    "eng": "It's very beautiful here.",
+    "fre": "C'est très beau ici."
+  },
+  {
+    "eng": "It's absolutely beautiful.",
+    "fre": "C'est absolument beau."
+  },
+  {
+    "eng": "It's absolutely extraordinary here.",
+    "fre": "C'est absolument extraordinaire ici."
+  },
+  {
+    "eng": "It isn't good; it's absolutely extraordinary.",
+    "fre": "Ce n'est pas bon; c'est absolument extraordinaire."
+  },
+  {
+    "eng": "It's absolutely delicious.",
+    "fre": "C'est absolument délicieux."
+  },
+  {
+    "eng": "I think it's fantastic.",
+    "fre": "Pour moi, c'est fantastique."
+  },
+  {
+    "eng": "It's extraordinary.",
+    "fre": "C'est extraordinaire."
+  },
+  {
+    "eng": "I think it's absolutely beautiful here.",
+    "fre": "Pour moi, c'est absolument beau ici."
+  },
+  {
+    "eng": "I think it's good.",
+    "fre": "Pour moi, c'est bon."
+  },
+  {
+    "eng": "It's very good for me.",
+    "fre": "C'est très bon pour moi."
+  },
+  {
+    "eng": "It's delicious.",
+    "fre": "C'est délicieux."
+  },
+  {
+    "eng": "It's absolutely beautiful here.",
+    "fre": "C'est absolument beau ici."
+  },
+  {
+    "eng": "It isn't very beautiful.",
+    "fre": "Ce n'est pas très beau."
+  },
+  {
+    "eng": "It's very good.",
+    "fre": "C'est très bon."
+  },
+  {
+    "eng": "I think",
+    "fre": "Pour moi"
+  },
+  {
+    "eng": "but",
+    "fre": "mais"
+  },
+  {
+    "eng": "It is delicious but it isn't very good for me.",
+    "fre": "C'est délicieux mais ce n'est pas très bon pour moi."
+  },
+  {
+    "eng": "yes",
+    "fre": "oui"
+  },
+  {
+    "eng": "Yes, it's for me.",
+    "fre": "oui, c'est pour moi."
+  },
+  {
+    "eng": "Yes, it's absolutely delicious.",
+    "fre": "oui, c'est absolument délicieux."
+  },
+  {
+    "eng": "Yes, I think it's good.",
+    "fre": "oui, pour moi, c'est bon."
+  },
+  {
+    "eng": "thank you / thanks",
+    "fre": "merci"
+  },
+  {
+    "eng": "Yes, thank you, it's delicious.",
+    "fre": "oui, merci, c'est délicieux."
+  },
+  {
+    "eng": "Yes, thank you, it's fantastic.",
+    "fre": "oui, merci, c'est fantastique."
+  },
+  {
+    "eng": "It's very good, thanks.",
+    "fre": "C'est très bon, merci."
+  },
+  {
+    "eng": "Yes, it is for me, thank you.",
+    "fre": "oui, c'est pour moi, merci."
+  },
+  {
+    "eng": "always",
+    "fre": "toujours"
+  },
+  {
+    "eng": "It is always fantastic here.",
+    "fre": "C'est toujours fantastique ici."
+  },
+  {
+    "eng": "It isn't always very good here.",
+    "fre": "Ce n'est pas toujours très bon ici."
+  },
+  {
+    "eng": "I think it's always beautiful here.",
+    "fre": "Pour moi, c'est toujours beau ici."
+  },
+  {
+    "eng": "It's always absolutely delicious.",
+    "fre": "C'est toujours absolument délicieux."
+  },
+  {
+    "eng": "perfect",
+    "fre": "parfait"
+  },
+  {
+    "eng": "Yes, it's perfect, thank you.",
+    "fre": "oui, c'est parfait, merci."
+  },
+  {
+    "eng": "I think it's perfect.",
+    "fre": "Pour moi, c'est parfait."
+  },
+  {
+    "eng": "It's absolutely perfect.",
+    "fre": "C'est absolument parfait."
+  },
+  {
+    "eng": "I think it's absolutely perfect here.",
+    "fre": "Pour moi, c'est absolument parfait ici."
+  },
+  {
+    "eng": "It's always perfect here.",
+    "fre": "C'est toujours parfait ici."
+  },
+  {
+    "eng": "that",
+    "fre": "Ça"
+  },
+  {
+    "eng": "That for me.",
+    "fre": "Ça pour moi."
+  },
+  {
+    "eng": "that is",
+    "fre": "Ça c'est"
+  },
+  {
+    "eng": "That is good.",
+    "fre": "Ça c'est bon."
+  },
+  {
+    "eng": "That is very good.",
+    "fre": "Ça c'est très bon."
+  },
+  {
+    "eng": "That is absolutely fantastic.",
+    "fre": "Ça c'est absolument fantastique."
+  },
+  {
+    "eng": "That is for me.",
+    "fre": "Ça c'est pour moi."
+  },
+  {
+    "eng": "I think that is perfect.",
+    "fre": "Pour moi, ça c'est parfait."
+  },
+  {
+    "eng": "It's always here.",
+    "fre": "C'est toujours ici."
+  },
+  {
+    "eng": "It isn't always here.",
+    "fre": "Ce n'est pas toujours ici."
+  },
+  {
+    "eng": "It's always absolutely fantastic here.",
+    "fre": "C'est toujours absolument fantastique ici."
+  },
+  {
+    "eng": "It's for me, thank you.",
+    "fre": "C'est pour moi, merci."
+  },
+  {
+    "eng": "It isn't always good here.",
+    "fre": "Ce n'est pas toujours bon ici."
+  },
+  {
+    "eng": "It's always very good.",
+    "fre": "C'est toujours très bon."
+  },
+  {
+    "eng": "I think that is absolutely perfect.",
+    "fre": "Pour moi, ça c'est absolument parfait."
+  },
+  {
+    "eng": "That is delicious but it isn't very good for me.",
+    "fre": "Ça c'est délicieux mais ce n'est pas très bon pour moi."
+  },
+  {
+    "eng": "Yes, thank you.",
+    "fre": "oui, merci."
+  },
+  {
+    "eng": "It isn't fantastic but it's very good.",
+    "fre": "Ce n'est pas fantastique mais c'est très bon"
+  },
+  {
+    "eng": "I think it's absolutely extraordinary.",
+    "fre": "Pour moi, c'est absolument extraordinaire"
+  },
+  {
+    "eng": "It's always very good here.",
+    "fre": "C'est toujours très bon ici."
+  },
+  {
+    "eng": "Yes, that is for me, thank you.",
+    "fre": "oui, ça c'est pour moi, merci."
+  },
+  {
+    "eng": "That is absolutely delicious.",
+    "fre": "Ça c'est absolument délicieux."
+  },
+  {
+    "eng": "It's beautiful.",
+    "fre": "C'est beau."
+  },
+  {
+    "eng": "It's extraordinary here.",
+    "fre": "C'est extraordinaire ici."
+  },
+  {
+    "eng": "It isn't very extraordinary.",
+    "fre": "Ce n'est pas très extraordinaire."
+  },
+  {
+    "eng": "thank you",
+    "fre": "merci"
+  },
+  {
+    "eng": "for him",
+    "fre": "pour lui"
+  },
+  {
+    "eng": "It is for him.",
+    "fre": "C'est pour lui."
+  },
+  {
+    "eng": "It's good for him.",
+    "fre": "C'est bon pour lui."
+  },
+  {
+    "eng": "It isn't for him.",
+    "fre": "Ce n'est pas pour lui."
+  },
+  {
+    "eng": "It isn't very good for him.",
+    "fre": "Ce n'est pas très bon pour lui."
+  },
+  {
+    "eng": "It isn't for him; it's for me.",
+    "fre": "Ce n'est pas pour lui; c'est pour moi."
+  },
+  {
+    "eng": "for her",
+    "fre": "Pour elle"
+  },
+  {
+    "eng": "It is for her.",
+    "fre": "C'est pour elle."
+  },
+  {
+    "eng": "Yes, it's very good for her.",
+    "fre": "oui, c'est très bon pour elle."
+  },
+  {
+    "eng": "It isn't for him; it's for her.",
+    "fre": "Ce n'est pas pour lui; c'est pour elle."
+  },
+  {
+    "eng": "no",
+    "fre": "non"
+  },
+  {
+    "eng": "No, thank you.",
+    "fre": "non, merci."
+  },
+  {
+    "eng": "No, it isn't for me; it's for her.",
+    "fre": "non, ce n'est pas pour moi; c'est pour elle."
+  },
+  {
+    "eng": "No, it isn't very good.",
+    "fre": "non, ce n'est pas très bon."
+  },
+  {
+    "eng": "No, it isn't here.",
+    "fre": "non, ce n'est pas ici."
+  },
+  {
+    "eng": "bad",
+    "fre": "mauvais"
+  },
+  {
+    "eng": "It is always very bad here.",
+    "fre": "C'est toujours très mauvais ici."
+  },
+  {
+    "eng": "It isn't bad but it isn't perfect.",
+    "fre": "Ce n'est pas mauvais mais ce n'est pas parfait."
+  },
+  {
+    "eng": "I think it's always bad here.",
+    "fre": "Pour moi, c'est toujours mauvais ici."
+  },
+  {
+    "eng": "It's delicious but it's very bad for me.",
+    "fre": "C'est délicieux mais c'est très mauvais pou moi."
+  },
+  {
+    "eng": "the restaurant",
+    "fre": "Le restaurant"
+  },
+  {
+    "eng": "It isn't",
+    "fre": "dé n'est pas"
+  },
+  {
+    "eng": "The restaurant isn't here.",
+    "fre": "Le restaurant n'est pas ici."
+  },
+  {
+    "eng": "isn't",
+    "fre": "n'est pas"
+  },
+  {
+    "eng": "The restaurant isn't bad but it isn't fantastic",
+    "fre": "Le restaurant n'est pas mauvais mais ce n'est pas fantastique."
+  },
+  {
+    "eng": "Pierre isn't here.",
+    "fre": "pierre n'est pas ici."
+  },
+  {
+    "eng": "Marie isn't here.",
+    "fre": "marie n'est pas ici."
+  },
+  {
+    "eng": "The restaurant isn't perfect but it's very good.",
+    "fre": "Le restaurant n'est pas parfait mais c'est tre bon."
+  },
+  {
+    "eng": "is",
+    "fre": "est"
+  },
+  {
+    "eng": "The restaurant is good.",
+    "fre": "Le restaurant est bon."
+  },
+  {
+    "eng": "The restaurant is here.",
+    "fre": "Le restaurant est ici."
+  },
+  {
+    "eng": "Marie is here.",
+    "fre": "marie est ici."
+  },
+  {
+    "eng": "Pierre is here.",
+    "fre": "pierre est ici."
+  },
+  {
+    "eng": "The restaurant is absolutely perfect.",
+    "fre": "Le restaurant est absolument parfait."
+  },
+  {
+    "eng": "The restaurant here is always very good.",
+    "fre": "Le restaurant ici est toujours très bon."
+  },
+  {
+    "eng": "everything",
+    "fre": "tout"
+  },
+  {
+    "eng": "Everything is very good.",
+    "fre": "tout est très bon."
+  },
+  {
+    "eng": "Everything is here.",
+    "fre": "tout est ici."
+  },
+  {
+    "eng": "Everything is delicious.",
+    "fre": "tout est délicieux."
+  },
+  {
+    "eng": "Everything is for me.",
+    "fre": "tout est pour moi."
+  },
+  {
+    "eng": "I think everything is perfect.",
+    "fre": "Pour moi, tout est parfait."
+  },
+  {
+    "eng": "Everything is very bad for me but it's absolutely delicious.",
+    "fre": "tout est très mauvais pour moi mais c'est absolument délicieux."
+  },
+  {
+    "eng": "That is for him.",
+    "fre": "Ça c'est pour lui."
+  },
+  {
+    "eng": "The restaurant is absolutely extraordinary.",
+    "fre": "Le restaurant est absolument extraordinaire."
+  },
+  {
+    "eng": "That's the restaurant.",
+    "fre": "Ça c'est le restaurant."
+  },
+  {
+    "eng": "Everything here is delicious.",
+    "fre": "tout ici est délicieux."
+  },
+  {
+    "eng": "It isn't bad here.",
+    "fre": "Ce n'est pas mauvais ici."
+  },
+  {
+    "eng": "The restaurant is very good.",
+    "fre": "Le restaurant est très bon."
+  },
+  {
+    "eng": "I think the restaurant is fantastic.",
+    "fre": "Pour moi, le restaurant est fantastique."
+  },
+  {
+    "eng": "That is for her.",
+    "fre": "Ça c'est pour elle."
+  },
+  {
+    "eng": "Everything here is very good for me.",
+    "fre": "tout ici est très bon pour moi."
+  },
+  {
+    "eng": "The restaurant here is fantastic.",
+    "fre": "Le restaurant ici est fantastique."
+  },
+  {
+    "eng": "Everything is perfect.",
+    "fre": "tout est parfait."
+  },
+  {
+    "eng": "That isn't bad but it isn't perfect.",
+    "fre": "Ça ce n'est pas mauvais mais ce n'est pas parfait."
+  },
+  {
+    "eng": "It isn't for her; it's for him.",
+    "fre": "Ce n'est pas pour elle; c'est pour lui."
+  },
+  {
+    "eng": "Everything is fantastic, thank you.",
+    "fre": "tout est fantastique, merci."
+  },
+  {
+    "eng": "It's very good, thank you.",
+    "fre": "C'est très bon, merci."
+  },
+  {
+    "eng": "That isn't very good.",
+    "fre": "Ça ce n'est pas très bon."
+  },
+  {
+    "eng": "I think it's good here.",
+    "fre": "Pour moi, c'est bon ici."
+  },
+  {
+    "eng": "It's always fantastic here.",
+    "fre": "C'est toujours fantastique ici."
+  },
+  {
+    "eng": "Yes, it's very good.",
+    "fre": "oui, c'est très bon."
+  },
+  {
+    "eng": "It is always very good.",
+    "fre": "C'est toujours très bon."
+  },
+  {
+    "eng": "It isn't very delicious.",
+    "fre": "Ce n'est pas très délicieux."
+  },
+  {
+    "eng": "Yes, I think it's fantastic here.",
+    "fre": "oui, pour moi, c'est fantastique ici."
+  },
+  {
+    "eng": "It is always very beautiful here.",
+    "fre": "C'est toujours très beau ici."
+  },
+  {
+    "eng": "the chicken",
+    "fre": "Le poulet"
+  },
+  {
+    "eng": "The chicken is for me.",
+    "fre": "Le poulet est pour moi."
+  },
+  {
+    "eng": "I think the chicken here is delicious.",
+    "fre": "Pour moi, le poulet ici est délicieux."
+  },
+  {
+    "eng": "The chicken is for him.",
+    "fre": "Le poulet est pour lui."
+  },
+  {
+    "eng": "The chicken is very good.",
+    "fre": "Le poulet est très bon."
+  },
+  {
+    "eng": "The chicken here is always absolutely fantastic.",
+    "fre": "Le poulet ici est toujours absolument fantastique."
+  },
+  {
+    "eng": "the turkey",
+    "fre": "La dinde"
+  },
+  {
+    "eng": "The turkey is for her.",
+    "fre": "La dinde est pour elle."
+  },
+  {
+    "eng": "The turkey is here.",
+    "fre": "La dinde est ici."
+  },
+  {
+    "eng": "The turkey isn't for me.",
+    "fre": "La dinde n'est pas pour moi."
+  },
+  {
+    "eng": "the",
+    "fre": "Le /"
+  },
+  {
+    "eng": "the",
+    "fre": "Le / la"
+  },
+  {
+    "eng": "the boy",
+    "fre": "Le garçon a fille"
+  },
+  {
+    "eng": "the boy a fille le restaurant the girl",
+    "fre": "Le garçon thé restaurant la dinde pa du el ne lol,"
+  },
+  {
+    "eng": "The chicken is good.",
+    "fre": "Le poulet est bon."
+  },
+  {
+    "eng": "good (masculine / feminine)",
+    "fre": "bon / bonne"
+  },
+  {
+    "eng": "The turkey is good.",
+    "fre": "La dinde est bonne."
+  },
+  {
+    "eng": "the (masculine / feminine)",
+    "fre": "Le / la"
+  },
+  {
+    "eng": "Pierre is good.",
+    "fre": "pierre est bon."
+  },
+  {
+    "eng": "Marie is good.",
+    "fre": "marie est bonne."
+  },
+  {
+    "eng": "delicious",
+    "fre": "délicieux / délicieuse"
+  },
+  {
+    "eng": "The chicken is delicious.",
+    "fre": "Le poulet est délicieux."
+  },
+  {
+    "eng": "The turkey is delicious.",
+    "fre": "La dinde est délicieuse."
+  },
+  {
+    "eng": "perfect",
+    "fre": "parfait / parfaite"
+  },
+  {
+    "eng": "The chicken is perfect.",
+    "fre": "Le poulet est parfait."
+  },
+  {
+    "eng": "The turkey is perfect.",
+    "fre": "La dinde est parfaite."
+  },
+  {
+    "eng": "bad (masculine / feminine)",
+    "fre": "mauvais / mauvaise"
+  },
+  {
+    "eng": "The chicken is bad.",
+    "fre": "Le poulet est mauvais."
+  },
+  {
+    "eng": "The turkey is bad.",
+    "fre": "La dinde est mauvaise,"
+  },
+  {
+    "eng": "Pierre is bad.",
+    "fre": "pierre est mauvais."
+  },
+  {
+    "eng": "Marie is bad.",
+    "fre": "marie est mauvaise."
+  },
+  {
+    "eng": "The chicken is fantastic.",
+    "fre": "Le poulet est fantastique."
+  },
+  {
+    "eng": "The turkey is fantastic.",
+    "fre": "La dinde est fantastique."
+  },
+  {
+    "eng": "The restaurant is terrible.",
+    "fre": "Le restaurant est terrible."
+  },
+  {
+    "eng": "The turkey is terrible.",
+    "fre": "La dinde est terrible."
+  },
+  {
+    "eng": "I think it's absolutely terrible.",
+    "fre": "Pour moi, c'est absolument terrible."
+  },
+  {
+    "eng": "It's always terrible here.",
+    "fre": "C'est toujours terrible ici."
+  },
+  {
+    "eng": "It isn't perfect but it isn't terrible.",
+    "fre": "Ce n'est pas parfait mais ce n'est pas terrible."
+  },
+  {
+    "eng": "Everything is terrible.",
+    "fre": "tout est terrible."
+  },
+  {
+    "eng": "The chicken is absolutely delicious.",
+    "fre": "Le poulet est absolument délicieux."
+  },
+  {
+    "eng": "The chicken is absolutely terrible.",
+    "fre": "Le poulet est absolument terrible."
+  },
+  {
+    "eng": "The turkey is very good.",
+    "fre": "La dinde est trés bonne."
+  },
+  {
+    "eng": "The turkey is for me.",
+    "fre": "La dinde est pour moi."
+  },
+  {
+    "eng": "The turkey is very good.",
+    "fre": "La dinde est très bonne."
+  },
+  {
+    "eng": "The chicken is very good but the turkey is extraordinary.",
+    "fre": "Le poulet est très bon mais la dinde est extraordinaire."
+  },
+  {
+    "eng": "Everything is always terrible here.",
+    "fre": "tout est toujours terrible ici."
+  },
+  {
+    "eng": "I think it's absolutely fantastic.",
+    "fre": "Pour moi, c'est absolument fantastique."
+  },
+  {
+    "eng": "It's for me.",
+    "fre": "C'est pour moi."
+  },
+  {
+    "eng": "It isn't for her.",
+    "fre": "Ce n'est pas pour elle."
+  },
+  {
+    "eng": "It's always very beautiful here.",
+    "fre": "C'est toujours très beau ici."
+  },
+  {
+    "eng": "That for me, thank you.",
+    "fre": "Ça pour moi, merci."
+  },
+  {
+    "eng": "The restaurant isn't bad.",
+    "fre": "Le restaurant n'est pas mauvais."
+  },
+  {
+    "eng": "It isn't very good for her.",
+    "fre": "Ce n'est pas très bon pour elle."
+  },
+  {
+    "eng": "the",
+    "fre": "Le / la / les"
+  },
+  {
+    "eng": "my",
+    "fre": "Mon"
+  },
+  {
+    "eng": "My chicken is delicious.",
+    "fre": "Mon poulet est délicieux."
+  },
+  {
+    "eng": "My restaurant is here.",
+    "fre": "Mon restaurant est ici."
+  },
+  {
+    "eng": "My chicken is here.",
+    "fre": "Mon poulet est ici."
+  },
+  {
+    "eng": "My chicken is very good.",
+    "fre": "Mon poulet est très bon."
+  },
+  {
+    "eng": "the hotel",
+    "fre": "l'hôtel"
+  },
+  {
+    "eng": "The hotel is very good.",
+    "fre": "l'hôtel est très bon."
+  },
+  {
+    "eng": "The hotel isn't bad.",
+    "fre": "l'hôtel n'est pas mauvais."
+  },
+  {
+    "eng": "My hotel is fantastic.",
+    "fre": "Mon hôtel est fantastique."
+  },
+  {
+    "eng": "everybody / everyone",
+    "fre": "tout le monde"
+  },
+  {
+    "eng": "Everybody is here.",
+    "fre": "tout le monde est ici."
+  },
+  {
+    "eng": "Everybody is fantastic.",
+    "fre": "tout le monde est fantastique."
+  },
+  {
+    "eng": "Everybody is always fantastic here.",
+    "fre": "tout le monde est toujours fantastique ici."
+  },
+  {
+    "eng": "nice",
+    "fre": "sympa"
+  },
+  {
+    "eng": "It's nice here.",
+    "fre": "C'est sympa ici."
+  },
+  {
+    "eng": "Everybody is nice.",
+    "fre": "tout le monde est sympa."
+  },
+  {
+    "eng": "Everybody here is nice.",
+    "fre": "tout le monde ici est sympa."
+  },
+  {
+    "eng": "Everybody here is always very nice.",
+    "fre": "tout le monde ici est toujours très sympa."
+  },
+  {
+    "eng": "my",
+    "fre": "Mon / ma"
+  },
+  {
+    "eng": "my chicken",
+    "fre": "Mon poulet"
+  },
+  {
+    "eng": "my turkey",
+    "fre": "ma dinde"
+  },
+  {
+    "eng": "My chicken is good.",
+    "fre": "Mon poulet est bon."
+  },
+  {
+    "eng": "My turkey is delicious.",
+    "fre": "ma dinde est délicieuse."
+  },
+  {
+    "eng": "My hotel is terrible.",
+    "fre": "Mon hôtel est terrible."
+  },
+  {
+    "eng": "My turkey is very bad.",
+    "fre": "ma dinde est très mauvaise."
+  },
+  {
+    "eng": "My turkey is absolutely perfect.",
+    "fre": "ma dinde est absolument parfaite."
+  },
+  {
+    "eng": "My chicken is absolutely perfect.",
+    "fre": "Mon poulet est absolument parfait."
+  },
+  {
+    "eng": "nice",
+    "fre": "sym da"
+  },
+  {
+    "eng": "My hotel is very good.",
+    "fre": "Mon hôtel est très bon."
+  },
+  {
+    "eng": "That is my turkey.",
+    "fre": "Ça c'est ma dinde."
+  },
+  {
+    "eng": "My hotel isn't very good.",
+    "fre": "Mon hôtel n'est pas très bon."
+  },
+  {
+    "eng": "The hotel is fantastic.",
+    "fre": "l'hôtel est fantastique."
+  },
+  {
+    "eng": "Everybody is very nice.",
+    "fre": "tout le monde est très sympa."
+  },
+  {
+    "eng": "The hotel is terrible.",
+    "fre": "l'hôtel est terrible."
+  },
+  {
+    "eng": "The hotelis terrible but the restaurant is extraordinary.",
+    "fre": "l'hôtel est terrible mais le restaurant est extraordinaire."
+  },
+  {
+    "eng": "My turkey is perfect.",
+    "fre": "ma dinde est parfaite."
+  },
+  {
+    "eng": "My chicken is terrible.",
+    "fre": "Mon poulet est terrible."
+  },
+  {
+    "eng": "That is not my chicken.",
+    "fre": "Ça ce n'est pas mon poulet."
+  },
+  {
+    "eng": "I think everybody is very nice.",
+    "fre": "Pour moi, tout le monde est très sympa."
+  },
+  {
+    "eng": "Everybody is always nice here.",
+    "fre": "tout le monde est toujours sympa ici."
+  },
+  {
+    "eng": "It isn't delicious.",
+    "fre": "Ce n'est pas délicieux."
+  },
+  {
+    "eng": "That's the chicken.",
+    "fre": "Ça c'est le poulet."
+  },
+  {
+    "eng": "Not for me.",
+    "fre": "Pas pour moi"
+  },
+  {
+    "eng": "It's always absolutely perfect.",
+    "fre": "C'est toujours absolument parfait."
+  },
+  {
+    "eng": "I think the turkey is absolutely perfect.",
+    "fre": "Pour moi, la dinde est absolument parfaite"
+  },
+  {
+    "eng": "It isn't for her; it's for me.",
+    "fre": "Ce n'est pas pour elle; c'est pour moi."
+  },
+  {
+    "eng": "It is absolutely delicious.",
+    "fre": "C'est absolument délicieux."
+  },
+  {
+    "eng": "It is always here.",
+    "fre": "C'est toujours ici."
+  },
+  {
+    "eng": "A chicken.",
+    "fre": "Un poulet."
+  },
+  {
+    "eng": "A turkey.",
+    "fre": "Une dinde."
+  },
+  {
+    "eng": "a coffee",
+    "fre": "Un café"
+  },
+  {
+    "eng": "A coffee for me.",
+    "fre": "Un café pour moi."
+  },
+  {
+    "eng": "The coffee here is delicious.",
+    "fre": "Le café ici est délicieux."
+  },
+  {
+    "eng": "My coffee is terrible.",
+    "fre": "Mon café est terrible."
+  },
+  {
+    "eng": "a tea",
+    "fre": "Un thé"
+  },
+  {
+    "eng": "A tea for me.",
+    "fre": "Un thé pour moi."
+  },
+  {
+    "eng": "The tea here is terrible.",
+    "fre": "Le thé ici est terrible."
+  },
+  {
+    "eng": "My tea is absolutely delicious.",
+    "fre": "Mon thé est absolument délicieux."
+  },
+  {
+    "eng": "please",
+    "fre": "s'il vous plaît"
+  },
+  {
+    "eng": "A tea for me, please.",
+    "fre": "Un thé pour moi, s'il vous plaît."
+  },
+  {
+    "eng": "A coffee for him, please.",
+    "fre": "Un café pour lui, s'il vous plaît."
+  },
+  {
+    "eng": "The turkey for me, please.",
+    "fre": "La dinde pour moi, s'il vous plaît."
+  },
+  {
+    "eng": "The chicken for her, please.",
+    "fre": "Le poulet pour elle, s'il vous plaît."
+  },
+  {
+    "eng": "I would like",
+    "fre": "Je voudrais"
+  },
+  {
+    "eng": "I would like a coffee, please.",
+    "fre": "Je voudrais un café, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a tea for me.",
+    "fre": "Je voudrais un thé pour moi."
+  },
+  {
+    "eng": "I would like the chicken, please.",
+    "fre": "Je voudrais le poulet, s'il vous plaît."
+  },
+  {
+    "eng": "I would like the turkey.",
+    "fre": "Je voudrais la dinde."
+  },
+  {
+    "eng": "a reservation",
+    "fre": "Une réservation"
+  },
+  {
+    "eng": "I would like a reservation.",
+    "fre": "Je voudrais une réservation."
+  },
+  {
+    "eng": "I would like a reservation, please.",
+    "fre": "Je voudrais une réservation, s'il vous plaît."
+  },
+  {
+    "eng": "two people",
+    "fre": "deux personnes"
+  },
+  {
+    "eng": "I would like a reservation for two people, please.",
+    "fre": "Je voudrais une réservation pour deux personnes, s'il vous plaît."
+  },
+  {
+    "eng": "It's for two people.",
+    "fre": "C'est pour deux personnes."
+  },
+  {
+    "eng": "It's perfect for two people.",
+    "fre": "C'est parfait pour deux personnes."
+  },
+  {
+    "eng": "It isn't very good for two people.",
+    "fre": "Ce n'est pas très bon pour deux personnes"
+  },
+  {
+    "eng": "a table",
+    "fre": "Une table"
+  },
+  {
+    "eng": "I would like a table.",
+    "fre": "Je voudrais une table."
+  },
+  {
+    "eng": "I would like a table, please.",
+    "fre": "Je voudrais une table, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a table for two people, please.",
+    "fre": "Je voudrais une table pour deux personnes s'il vous plaît."
+  },
+  {
+    "eng": "A table for two, please.",
+    "fre": "Une table pour deux, s'il vous plaît."
+  },
+  {
+    "eng": "I would like a table for three.",
+    "fre": "Je voudrais une table pour trois."
+  },
+  {
+    "eng": "The turkey for him, please.",
+    "fre": "La dinde pour lui, s'il vous plaît."
+  },
+  {
+    "eng": "A tea for him.",
+    "fre": "Un thé pour lui."
+  },
+  {
+    "eng": "I'd like a reservation for two people, please",
+    "fre": "Je voudrais une réservation pour deux personnes, s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a table for three people, please.",
+    "fre": "Je voudrais une table pour trois personnes s'il vous plaît."
+  },
+  {
+    "eng": "I'd like the chicken, please.",
+    "fre": "Je voudrais le poulet, s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a table for five people, please.",
+    "fre": "Je voudrais une table pour cinq personnes s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a coffee, please.",
+    "fre": "Je voudrais un café, s'il vous plaît."
+  },
+  {
+    "eng": "I'd like a tea, please.",
+    "fre": "Je voudrais un thé, s'il vous plaît."
+  },
+  {
+    "eng": "A table for five people, please.",
+    "fre": "Une table pour cinq personnes, s'il vous plaît."
+  },
+  {
+    "eng": "My tea is absolutely terrible.",
+    "fre": "Mon thé est absolument terrible."
+  },
+  {
+    "eng": "I'd like a reservation, please.",
+    "fre": "Je voudrais une réservation, s'il vous plaît."
+  },
+  {
+    "eng": "My coffee is very good.",
+    "fre": "Mon café est très bon."
+  },
+  {
+    "eng": "I'd like a table for eight people, please.",
+    "fre": "Je voudrais une table pour huit personnes s'il vous plaît."
+  },
+  {
+    "eng": "I would like a reservation for two.",
+    "fre": "Je voudrais une réservation pour deux."
+  },
+  {
+    "eng": "It is always very good here.",
+    "fre": "C'est toujours très bon ici."
+  },
+  {
+    "eng": "My hotel is here.",
+    "fre": "Mon hôtel est ici."
+  },
+  {
+    "eng": "It is absolutely beautiful.",
+    "fre": "C'est absolument beau."
+  },
+  {
+    "eng": "I think it's very good here",
+    "fre": "Pour moi, c'est très bon ici."
+  },
+  {
+    "eng": "the food",
+    "fre": "La nourriture"
+  },
+  {
+    "eng": "The foodis here.",
+    "fre": "La nourriture est ici."
+  },
+  {
+    "eng": "The food is delicious.",
+    "fre": "La nourriture est délicieuse."
+  },
+  {
+    "eng": "The food here is always very good.",
+    "fre": "La nourriture ici est toujours très bonne."
+  },
+  {
+    "eng": "I would like a tea and a coffee.",
+    "fre": "Je voudrais un thé et un café."
+  },
+  {
+    "eng": "I would like the chicken for me and the turkey for him.",
+    "fre": "Je voudrais le poulet pour moi et la dinde pour lui."
+  },
+  {
+    "eng": "also",
+    "fre": "aussl"
+  },
+  {
+    "eng": "I would like a tea and also a coffee.",
+    "fre": "Je voudrais un thé et aussi un café."
+  },
+  {
+    "eng": "Also, I would like a coffee for me, please.",
+    "fre": "aussi, je voudrais un café pour moi, s'il vou plaît."
+  },
+  {
+    "eng": "also",
+    "fre": "auss"
+  },
+  {
+    "eng": "Also, Marie is here.",
+    "fre": "aussi, marie est ici."
+  },
+  {
+    "eng": "are",
+    "fre": "sont"
+  },
+  {
+    "eng": "The tea and the coffee are here.",
+    "fre": "Le thé et le café sont ici."
+  },
+  {
+    "eng": "Marie and Pierre are always here.",
+    "fre": "marie et pierre sont toujours ici."
+  },
+  {
+    "eng": "The turkey and the chicken are for me.",
+    "fre": "La dinde et le poulet sont pour moi."
+  },
+  {
+    "eng": "The tea and the coffee are for me.",
+    "fre": "Le thé et le café sont pour moi."
+  },
+  {
+    "eng": "are not",
+    "fre": "ne sont pas"
+  },
+  {
+    "eng": "The tea and the coffee aren't here.",
+    "fre": "Le thé et le café ne sont pas ici."
+  },
+  {
+    "eng": "Marie and Pierre aren't here.",
+    "fre": "marie et pierre ne sont pas ici."
+  },
+  {
+    "eng": "the table the tables",
+    "fre": "La table les tables"
+  },
+  {
+    "eng": "plural \"the\"",
+    "fre": "Les"
+  },
+  {
+    "eng": "the",
+    "fre": "Le/la/les"
+  },
+  {
+    "eng": "chicken",
+    "fre": "table"
+  },
+  {
+    "eng": "the chicken the chickens",
+    "fre": "Le poulet les poulets"
+  },
+  {
+    "eng": "the turkey the turkeys",
+    "fre": "La dinde les dindes"
+  },
+  {
+    "eng": "the restaurant the restaurants",
+    "fre": "Le restaurant les restaurants"
+  },
+  {
+    "eng": "le poulet the chicken the chickens la dinde the turkey the turkeys le restaurant the restaurant the restaurant",
+    "fre": "l'hôtel thé hotel thé hotels le café thé coffee thé coffees le thé thé tea thé teas la table thé table thé tables"
+  },
+  {
+    "eng": "The coffees are here.",
+    "fre": "Les cafés sont ici."
+  },
+  {
+    "eng": "The restaurants are here.",
+    "fre": "Les restaurants sont ici."
+  },
+  {
+    "eng": "the chicken is good the turkey is good the chickens are good",
+    "fre": "Le poulet est bon la dinde est bonne les poulets sont bons"
+  },
+  {
+    "eng": "good",
+    "fre": "bon / bons bonne / bonnes (masculine singular / masculine olural"
+  },
+  {
+    "eng": "delicious",
+    "fre": "délicieux / délicieux délicieuse / délicieuses (masculine singular / masculine olural"
+  },
+  {
+    "eng": "fantastic",
+    "fre": "fantastique / fantastiques fantastique / fantastiques (masculine singular / masculine olural"
+  },
+  {
+    "eng": "beautiful",
+    "fre": "beau / beaux belle / belles (masculine singular / masculine olural"
+  },
+  {
+    "eng": "parfait / parfait's perfect",
+    "fre": "parfaite / parfaites (masculine singular / masculine olural"
+  },
+  {
+    "eng": "bad",
+    "fre": "mauvais / mauvais mauvaise / mauvaises (masculine singular / masculine olural"
+  },
+  {
+    "eng": "nice",
+    "fre": "sympa / sympa sympa / sympa (masculine singular / masculine olural"
+  },
+  {
+    "eng": "The chicken and the turkey are good.",
+    "fre": "Le poulet est la dinde sont bons."
+  },
+  {
+    "eng": "a carrot",
+    "fre": "Une carotte"
+  },
+  {
+    "eng": "The carrot.",
+    "fre": "La carotte."
+  },
+  {
+    "eng": "The carrots.",
+    "fre": "Les carottes."
+  },
+  {
+    "eng": "The carrots are good.",
+    "fre": "Les carottes sont bonnes."
+  },
+  {
+    "eng": "a leek",
+    "fre": "Un poireau"
+  },
+  {
+    "eng": "The leek.",
+    "fre": "Le poireau."
+  },
+  {
+    "eng": "The leeks.",
+    "fre": "Les poireaux."
+  },
+  {
+    "eng": "The leeks are good.",
+    "fre": "Les poireaux sont bons."
+  },
+  {
+    "eng": "my",
+    "fre": "Mon / ma / mes"
+  },
+  {
+    "eng": "plural \"my\"",
+    "fre": "mes"
+  },
+  {
+    "eng": "My carrots are delicious.",
+    "fre": "mes carottes sont délicieuses."
+  },
+  {
+    "eng": "My leeks are delicious.",
+    "fre": "mes poireaux sont délicieux."
+  },
+  {
+    "eng": "also",
+    "fre": "aussi"
+  },
+  {
+    "eng": "The food here is always delicious.",
+    "fre": "La nourriture ici est toujours délicieuse."
+  },
+  {
+    "eng": "I would like two chickens, please, one for me and one for her.",
+    "fre": "Je voudrais deux poulets, s'il vous plaît, un pour moi et un pour elle."
+  },
+  {
+    "eng": "The carrots are very good.",
+    "fre": "Les carottes sont très bonnes."
+  },
+  {
+    "eng": "I think the food is perfect here.",
+    "fre": "Pour moi, la nourriture est parfaite ici."
+  },
+  {
+    "eng": "The leeks are very good.",
+    "fre": "Les poireaux sont très bons."
+  },
+  {
+    "eng": "The food is always terrible.",
+    "fre": "La nourriture est toujours terrible."
+  },
+  {
+    "eng": "The chicken for me and the turkey for her, please.",
+    "fre": "Le poulet pour moi et la dinde pour elle, s'il vous plaît."
+  },
+  {
+    "eng": "The food here is very good.",
+    "fre": "La nourriture ici est très bonne."
+  },
+  {
+    "eng": "The turkey and the chicken are very good.",
+    "fre": "La dinde et le poulet sont très bons."
+  },
+  {
+    "eng": "My food is delicious.",
+    "fre": "ma nourriture est délicieuse."
+  },
+  {
+    "eng": "The carrots are terrible.",
+    "fre": "Les carottes sont terribles."
+  },
+  {
+    "eng": "I would like two teas and three coffees.",
+    "fre": "Je voudrais deux thés et trois cafés."
+  },
+  {
+    "eng": "I would like a tea for him and a coffee for her.",
+    "fre": "Je voudrais un thé pour lui et un café pour elle."
+  },
+  {
+    "eng": "Also, I would like a coffee, please.",
+    "fre": "aussi, je voudrais un café, s'il vous plaît."
+  },
+  {
+    "eng": "My carrots are perfect.",
+    "fre": "mes carottes sont parfaites."
+  },
+  {
+    "eng": "It isn't very delicious.",
+    "fre": "Ce n'est pas très délicieuse."
+  },
+  {
+    "eng": "I would like a tea for him, please.",
+    "fre": "Je voudrais un thé pour lui, s'il vous plaît."
+  },
+  {
+    "eng": "Not for her.",
+    "fre": "Pas pour elle"
+  },
+  {
+    "eng": "I think the turkey is extraordinary.",
+    "fre": "Pour moi, la dinde est extraordinaire."
+  },
+  {
+    "eng": "my",
+    "fre": "Mon / ma /mes"
+  },
+  {
+    "eng": "hi",
+    "fre": "salut"
+  },
+  {
+    "eng": "Hi, I'd like a coffee, please.",
+    "fre": "salut, je voudrais un café, s'il vous plaît."
+  },
+  {
+    "eng": "Hi, a tea for me, please.",
+    "fre": "salut, un thé pour moi, s'il vous plaît."
+  },
+  {
+    "eng": "Hi, the pizza for me and the chicken for him, please.",
+    "fre": "salut, la pizza pour moi et le poulet pour lui s'il vous plaît."
+  },
+  {
+    "eng": "Hello / good day / good morning",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "Hello, two coffees, please.",
+    "fre": "bonjour, deux cafés, s'il vous plaît."
+  },
+  {
+    "eng": "Hello, I'd like a table for two, please.",
+    "fre": "bonjour, je voudrais une table pour deux, s'il vous plaît."
+  },
+  {
+    "eng": "Good morning.",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "good evening / good afternoon",
+    "fre": "bonsoir"
+  },
+  {
+    "eng": "Good evening, I'd like a table for three people, please.",
+    "fre": "bonsoir, je voudrais une table pour trois personnes, s'il vous plaît."
+  },
+  {
+    "eng": "Good afternoon, two teas, please.",
+    "fre": "bonsoir, deux thés, s'il vous plaît."
+  },
+  {
+    "eng": "good afternoon / good evening",
+    "fre": "bonsoir"
+  },
+  {
+    "eng": "Good evening, I would like a pizza, please.",
+    "fre": "bonsoir, je voudrais une pizza, s'il vous plat"
+  },
+  {
+    "eng": "goodnight",
+    "fre": "bonne nuit"
+  },
+  {
+    "eng": "goodbye",
+    "fre": "au revoir"
+  },
+  {
+    "eng": "Goodbye and goodnight.",
+    "fre": "au revoir et bonne nuit."
+  },
+  {
+    "eng": "have a good day",
+    "fre": "bonne journée"
+  },
+  {
+    "eng": "Goodbye and have a good day.",
+    "fre": "au revoir et bonne journée."
+  },
+  {
+    "eng": "have a good evening",
+    "fre": "bonne soirée"
+  },
+  {
+    "eng": "Goodbye and have a good evening.",
+    "fre": "au revoir et bonne soirée."
+  },
+  {
+    "eng": "see you soon",
+    "fre": "à bientôt"
+  },
+  {
+    "eng": "Goodbye and see you soon.",
+    "fre": "au revoir et à bientôt."
+  },
+  {
+    "eng": "Hello / good morning / good day",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "Good day.",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "Hello.",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "Good evening.",
+    "fre": "bonsoir"
+  },
+  {
+    "eng": "Hello. / Good morning. / Good day.",
+    "fre": "bonjour"
+  },
+  {
+    "eng": "Hi, I'd like two teas and a coffee.",
+    "fre": "salut, je voudrais deux thés et un café."
+  },
+  {
+    "eng": "Good evening, I'd like a table for two, please",
+    "fre": "bonsoir, je voudrais une table pour deux, s'il vous plaît."
+  },
+  {
+    "eng": "I think that is absolutely extraordinary.",
+    "fre": "Pour moi, ça c'est absolument extraordinaire."
+  },
+  {
+    "eng": "The food is fantastic.",
+    "fre": "La nourriture est fantastique."
+  },
+  {
+    "eng": "The food is always delicious here.",
+    "fre": "La nourriture est toujours délicieuse ici."
+  },
+  {
+    "eng": "I would like a table for three people.",
+    "fre": "Je voudrais une table pour trois personnes"
+  },
+  {
+    "eng": "It's for her.",
+    "fre": "C'est pour elle."
+  },
+  {
+    "eng": "That isn't very good for me.",
+    "fre": "Ça ce n'est pas très bon pour moi."
+  },
+  {
+    "eng": "The foodis terrible.",
+    "fre": "La nourriture est terrible."
+  },
+  {
+    "eng": "I would like a table for five, please.",
+    "fre": "Je voudrais une table pour cinq, s'il vous plaît."
+  },
+  {
+    "eng": "are not",
+    "fre": "ne sont das"
+  },
+  {
+    "eng": "good evening",
+    "fre": "bonne soirée"
+  },
+  {
+    "eng": "my",
+    "fre": "Mon / mma/mes"
+  },
+  {
+    "eng": "the salad",
+    "fre": "La salade"
+  },
+  {
+    "eng": "a cucumber",
+    "fre": "Un concombre"
+  },
+  {
+    "eng": "a lettuce",
+    "fre": "Une laitue"
+  },
+  {
+    "eng": "an onion",
+    "fre": "Un oignon"
+  },
+  {
+    "eng": "a tomato",
+    "fre": "Une tomate"
+  },
+  {
+    "eng": "the celery",
+    "fre": "Le céleri"
+  },
+  {
+    "eng": "a radish",
+    "fre": "Un radis"
+  },
+  {
+    "eng": "a beetroot",
+    "fre": "Une betterave"
+  },
+  {
+    "eng": "the cress",
+    "fre": "Le cresson"
+  },
+  {
+    "eng": "the salad dressing",
+    "fre": "La sauce pour salade"
+  },
+  {
+    "eng": "a crouton (",
+    "fre": "Un croûton"
+  },
+  {
+    "eng": "the vegetables",
+    "fre": "Les légumes"
+  },
+  {
+    "eng": "a mushroom",
+    "fre": "Un champignon"
+  },
+  {
+    "eng": "a cauliflower",
+    "fre": "Un chou-fleur"
+  },
+  {
+    "eng": "a bean",
+    "fre": "Un haricot"
+  },
+  {
+    "eng": "the corn",
+    "fre": "Le mais"
+  },
+  {
+    "eng": "a cabbage",
+    "fre": "Un chou"
+  },
+  {
+    "eng": "an asparagus",
+    "fre": "Une asperge"
+  },
+  {
+    "eng": "a broccoli",
+    "fre": "Un brocoli"
+  },
+  {
+    "eng": "an aubergine",
+    "fre": "Une aubergine"
+  },
+  {
+    "eng": "a runner bean",
+    "fre": "Un haricot a rames"
+  },
+  {
+    "eng": "a green bean",
+    "fre": "Un haricot vert"
+  },
+  {
+    "eng": "a parsnip",
+    "fre": "Un panais"
+  },
+  {
+    "eng": "a pumpkin",
+    "fre": "Une citrouille"
+  },
+  {
+    "eng": "a marrow",
+    "fre": "Une courge"
+  },
+  {
+    "eng": "a courgette",
+    "fre": "Une courgette"
+  },
+  {
+    "eng": "a gherkin",
+    "fre": "Un cornichon"
+  },
+  {
+    "eng": "a brussels sprout",
+    "fre": "Un chou de bruxelles"
+  },
+  {
+    "eng": "an artichoke",
+    "fre": "Un artichaut"
+  },
+  {
+    "eng": "a swede",
+    "fre": "Un rutabaga"
+  },
+  {
+    "eng": "a sweet potato",
+    "fre": "Une patate douce"
+  },
+  {
+    "eng": "a chickpea",
+    "fre": "Un pois chiche"
+  },
+  {
+    "eng": "a lentil",
+    "fre": "Une lentille"
+  },
+  {
+    "eng": "a soy bean (",
+    "fre": "Un soja"
+  },
+  {
+    "eng": "the fish",
+    "fre": "poisson"
+  },
+  {
+    "eng": "the salmon",
+    "fre": "Le saumon"
+  },
+  {
+    "eng": "the tuna",
+    "fre": "Le thon"
+  },
+  {
+    "eng": "the trout",
+    "fre": "La truite"
+  },
+  {
+    "eng": "the cod",
+    "fre": "Le cabillaud"
+  },
+  {
+    "eng": "the haddock y",
+    "fre": "l'églefin (m)"
+  },
+  {
+    "eng": "the seafood",
+    "fre": "Les fruits de mer"
+  },
+  {
+    "eng": "a prawn",
+    "fre": "Une crevette"
+  },
+  {
+    "eng": "a large prawn",
+    "fre": "Une langoustine"
+  },
+  {
+    "eng": "the scampi",
+    "fre": "Les scampi (m)"
+  },
+  {
+    "eng": "an oyster",
+    "fre": "Une huitre"
+  },
+  {
+    "eng": "a mussel",
+    "fre": "Une moule"
+  },
+  {
+    "eng": "a crab",
+    "fre": "Un crabe"
+  },
+  {
+    "eng": "a squid/ calamari",
+    "fre": "Un calmar"
+  },
+  {
+    "eng": "an octopus",
+    "fre": "Un poulpe"
+  },
+  {
+    "eng": "an anchovy",
+    "fre": "Un anchois"
+  },
+  {
+    "eng": "the meat",
+    "fre": "La viande"
+  },
+  {
+    "eng": "the lamb",
+    "fre": "l'agneau (m)"
+  },
+  {
+    "eng": "the steak",
+    "fre": "Le bifteck/ un steak"
+  },
+  {
+    "eng": "well done",
+    "fre": "bien cuit"
+  },
+  {
+    "eng": "medium-rare",
+    "fre": "à point"
+  },
+  {
+    "eng": "rare",
+    "fre": "saignant"
+  },
+  {
+    "eng": "the ham",
+    "fre": "Le jambon"
+  },
+  {
+    "eng": "the pork",
+    "fre": "Le porc"
+  },
+  {
+    "eng": "the beef",
+    "fre": "Le rosbif/le bœuf"
+  },
+  {
+    "eng": "the goat meat",
+    "fre": "La viande de chèvre"
+  },
+  {
+    "eng": "the horse meat",
+    "fre": "La viande de cheval"
+  },
+  {
+    "eng": "the duck",
+    "fre": "Le canard"
+  },
+  {
+    "eng": "the rabbit",
+    "fre": "Le lapin"
+  },
+  {
+    "eng": "the veal",
+    "fre": "Le veau"
+  },
+  {
+    "eng": "the venison",
+    "fre": "Le chevreuil"
+  },
+  {
+    "eng": "the guinea-fowl",
+    "fre": "La pintade"
+  },
+  {
+    "eng": "the quail",
+    "fre": "La caille"
+  },
+  {
+    "eng": "a liver",
+    "fre": "Un foie"
+  },
+  {
+    "eng": "the other things",
+    "fre": "Les autres choses"
+  },
+  {
+    "eng": "the pâté",
+    "fre": "Le pâté"
+  },
+  {
+    "eng": "the cheese",
+    "fre": "Le fromage"
+  },
+  {
+    "eng": "a hard-boiled egg",
+    "fre": "Un oeuf dur"
+  },
+  {
+    "eng": "a soft boiled egg",
+    "fre": "Un oeuf à la coque"
+  },
+  {
+    "eng": "a fried egg",
+    "fre": "Un oeuf sur le plat"
+  },
+  {
+    "eng": "the soup",
+    "fre": "La soupe"
+  },
+  {
+    "eng": "the cereal",
+    "fre": "Les céréales (f)"
+  },
+  {
+    "eng": "the porridge oats",
+    "fre": "Les flocons d'avoine (m)"
+  },
+  {
+    "eng": "the porridge",
+    "fre": "Le porridge"
+  },
+  {
+    "eng": "the muesli",
+    "fre": "Le muesli"
+  },
+  {
+    "eng": "the rice",
+    "fre": "Le riz"
+  },
+  {
+    "eng": "the pasta",
+    "fre": "Les pâtes (f)"
+  },
+  {
+    "eng": "the chips",
+    "fre": "Les frites (f)"
+  },
+  {
+    "eng": "the crisps",
+    "fre": "Les chips (f)"
+  },
+  {
+    "eng": "a prawn cocktail",
+    "fre": "Une salade de crevettes"
+  },
+  {
+    "eng": "a sandwich",
+    "fre": "Un sandwich"
+  },
+  {
+    "eng": "a hamburger",
+    "fre": "Un hamburger"
+  },
+  {
+    "eng": "a hot dog",
+    "fre": "Un hot dog"
+  },
+  {
+    "eng": "a kebab",
+    "fre": "Un kebab"
+  },
+  {
+    "eng": "the condiments",
+    "fre": "Les condiments"
+  },
+  {
+    "eng": "the salt",
+    "fre": "Le sel"
+  },
+  {
+    "eng": "the pepper",
+    "fre": "Le poivre"
+  },
+  {
+    "eng": "the vinegar",
+    "fre": "Le vinaigre"
+  },
+  {
+    "eng": "the mustard",
+    "fre": "La moutarde"
+  },
+  {
+    "eng": "the mint sauce",
+    "fre": "La sauce à la menthe"
+  },
+  {
+    "eng": "the honey",
+    "fre": "Le miel"
+  },
+  {
+    "eng": "the garlic",
+    "fre": "l'ail (m)"
+  },
+  {
+    "eng": "the marmalade",
+    "fre": "La confiture"
+  },
+  {
+    "eng": "the tomato sauce",
+    "fre": "Le ketchup"
+  },
+  {
+    "eng": "the brown sauce",
+    "fre": "La sauce brune"
+  },
+  {
+    "eng": "the soy sauce",
+    "fre": "La sauce de soja"
+  },
+  {
+    "eng": "the mayonnaise",
+    "fre": "La mayonnaise"
+  },
+  {
+    "eng": "the garlic mayonnaise",
+    "fre": "aioli (m)"
+  },
+  {
+    "eng": "the butter",
+    "fre": "Le beurre"
+  },
+  {
+    "eng": "the (white) bread",
+    "fre": "Le pain (blanc)"
+  },
+  {
+    "eng": "the brown bread",
+    "fre": "Le pain complet"
+  },
+  {
+    "eng": "the toast",
+    "fre": "Le pain grillé"
+  },
+  {
+    "eng": "the yoghurt",
+    "fre": "Le yaourt"
+  },
+  {
+    "eng": "the desserts",
+    "fre": "Les desserts"
+  },
+  {
+    "eng": "a cake",
+    "fre": "Un gâteau"
+  },
+  {
+    "eng": "an ice cream",
+    "fre": "Une glace"
+  },
+  {
+    "eng": "the sweets",
+    "fre": "Les bonbons (m)"
+  },
+  {
+    "eng": "a pancake",
+    "fre": "Une crêpe"
+  },
+  {
+    "eng": "a pie",
+    "fre": "Une tarte"
+  },
+  {
+    "eng": "the cream",
+    "fre": "La crème"
+  },
+  {
+    "eng": "a biscuit",
+    "fre": "Un biscuit"
+  },
+  {
+    "eng": "a cracker",
+    "fre": "Un biscuit salé"
+  },
+  {
+    "eng": "the custard",
+    "fre": "La crème anglaise"
+  },
+  {
+    "eng": "a crème brulée",
+    "fre": "Une crème brûlée"
+  },
+  {
+    "eng": "a mousse",
+    "fre": "Une mousse"
+  },
+  {
+    "eng": "the rhubarb",
+    "fre": "La rhubarbe"
+  },
+  {
+    "eng": "a fruit salad",
+    "fre": "Une salade de fruits"
+  },
+  {
+    "eng": "a fruit cocktail",
+    "fre": "Une macédoine de fruits"
+  },
+  {
+    "eng": "a snail",
+    "fre": "Un escargot"
+  },
+  {
+    "eng": "a frog leg",
+    "fre": "Une cuisse de grenouille"
+  },
+  {
+    "eng": "a croissant",
+    "fre": "Un croissant"
+  },
+  {
+    "eng": "a marzipan and melon sweet",
+    "fre": "Un calisson d'aix"
+  },
+  {
+    "eng": "a baguette",
+    "fre": "Une baguette"
+  },
+  {
+    "eng": "the fruit",
+    "fre": "Les fruits"
+  },
+  {
+    "eng": "a pineapple",
+    "fre": "Un ananas"
+  },
+  {
+    "eng": "a banana",
+    "fre": "Une banane"
+  },
+  {
+    "eng": "a strawberry",
+    "fre": "Une fraise"
+  },
+  {
+    "eng": "a raspberry",
+    "fre": "Une framboise"
+  },
+  {
+    "eng": "an orange",
+    "fre": "Une orange"
+  },
+  {
+    "eng": "a pear",
+    "fre": "Une poire"
+  },
+  {
+    "eng": "an apple",
+    "fre": "Une pomme"
+  },
+  {
+    "eng": "a grape",
+    "fre": "Un raisin"
+  },
+  {
+    "eng": "a raisin",
+    "fre": "Un raisin sec"
+  },
+  {
+    "eng": "a blueberry",
+    "fre": "Une myrtille"
+  },
+  {
+    "eng": "a nectarine",
+    "fre": "Une nectarine"
+  },
+  {
+    "eng": "a clementine",
+    "fre": "Une clémentine"
+  },
+  {
+    "eng": "a satsuma",
+    "fre": "Une mandarine satsuma"
+  },
+  {
+    "eng": "a tangerine",
+    "fre": "Une mandarine"
+  },
+  {
+    "eng": "an apricot",
+    "fre": "Un abricot"
+  },
+  {
+    "eng": "a cherry",
+    "fre": "Une cerise"
+  },
+  {
+    "eng": "a blackberry",
+    "fre": "Une mûre"
+  },
+  {
+    "eng": "a juniper berry",
+    "fre": "Une baie de genévrier"
+  },
+  {
+    "eng": "a blackcurrant",
+    "fre": "Un cassis"
+  },
+  {
+    "eng": "a date",
+    "fre": "Une datte"
+  },
+  {
+    "eng": "a dragonfruit",
+    "fre": "Un pitaya"
+  },
+  {
+    "eng": "a passion fruit",
+    "fre": "Un fruit de la passion"
+  },
+  {
+    "eng": "a gooseberry",
+    "fre": "Une groseille à maquereau"
+  },
+  {
+    "eng": "a guava",
+    "fre": "Une goyave"
+  },
+  {
+    "eng": "a kiwi",
+    "fre": "Un kiwi"
+  },
+  {
+    "eng": "a mango",
+    "fre": "Une mangue"
+  },
+  {
+    "eng": "a melon",
+    "fre": "Un melon"
+  },
+  {
+    "eng": "a honeydew melon",
+    "fre": "Un melon d'hiver"
+  },
+  {
+    "eng": "a cantaloupe",
+    "fre": "Un cantaloup"
+  },
+  {
+    "eng": "a pomegranate",
+    "fre": "Une grenade"
+  },
+  {
+    "eng": "a physalis",
+    "fre": "Un coqueret du pérou"
+  },
+  {
+    "eng": "a cranberry",
+    "fre": "Une canneberge"
+  },
+  {
+    "eng": "a peanut",
+    "fre": "Une cacahuète"
+  },
+  {
+    "eng": "a walnut",
+    "fre": "Une noix"
+  },
+  {
+    "eng": "a pistachio",
+    "fre": "Une pistache"
+  },
+  {
+    "eng": "a hazelnut",
+    "fre": "Une noisette"
+  },
+  {
+    "eng": "an olive",
+    "fre": "Une olive"
+  },
+  {
+    "eng": "the drinks",
+    "fre": "Les boissons"
+  },
+  {
+    "eng": "a water",
+    "fre": "Une eau"
+  },
+  {
+    "eng": "a (fruit) juice",
+    "fre": "Un jus (de fruits)"
+  },
+  {
+    "eng": "a tonic water",
+    "fre": "Une eau tonique"
+  },
+  {
+    "eng": "a cola",
+    "fre": "Un coca"
+  },
+  {
+    "eng": "a lemonade",
+    "fre": "Une limonade"
+  },
+  {
+    "eng": "a wine",
+    "fre": "Un vin"
+  },
+  {
+    "eng": "beer",
+    "fre": "Une bière"
+  },
+  {
+    "eng": "a lager",
+    "fre": "Une bière blonde"
+  },
+  {
+    "eng": "a cider",
+    "fre": "Un cidre"
+  },
+  {
+    "eng": "a sherry",
+    "fre": "Un xérès"
+  },
+  {
+    "eng": "a brandy",
+    "fre": "Un cognac"
+  },
+  {
+    "eng": "a whisky",
+    "fre": "Un scotch"
+  },
+  {
+    "eng": "a vermouth",
+    "fre": "Un vermouth"
+  },
+  {
+    "eng": "a martini",
+    "fre": "Un martini"
+  },
+  {
+    "eng": "a rum",
+    "fre": "Un rhum"
+  },
+  {
+    "eng": "a port",
+    "fre": "Un porto"
+  },
+  {
+    "eng": "a cocktail",
+    "fre": "Un cocktail"
+  },
+  {
+    "eng": "the cutlery",
+    "fre": "Les couverts"
+  },
+  {
+    "eng": "a knife",
+    "fre": "Un couteau"
+  },
+  {
+    "eng": "a butter knife",
+    "fre": "Un couteau à beurre"
+  },
+  {
+    "eng": "a bread knife",
+    "fre": "Un couteau à pain"
+  },
+  {
+    "eng": "a cheese knife",
+    "fre": "Un couteau à fromage"
+  },
+  {
+    "eng": "a carving knife",
+    "fre": "Un couteau a découper"
+  },
+  {
+    "eng": "a spoon",
+    "fre": "Une cuillère"
+  },
+  {
+    "eng": "a teaspoon",
+    "fre": "Une cuillère à café"
+  },
+  {
+    "eng": "a soup spoon",
+    "fre": "Une cuillère à soupe"
+  },
+  {
+    "eng": "a fork",
+    "fre": "Une fourchette"
+  },
+  {
+    "eng": "a plate",
+    "fre": "Une assiette"
+  },
+  {
+    "eng": "a bowl",
+    "fre": "Un bol"
+  },
+  {
+    "eng": "a cup",
+    "fre": "Une tasse"
+  },
+  {
+    "eng": "a toothpick",
+    "fre": "Un cure-dents"
+  },
+  {
+    "eng": "a napkin",
+    "fre": "Une serviette"
+  },
+  {
+    "eng": "an ice bucket",
+    "fre": "Un seau à glace"
+  },
+  {
+    "eng": "a water jug",
+    "fre": "Un pot à eau"
+  },
+  {
+    "eng": "My turkey is good.",
+    "fre": "Ma dinde est bonne."
+  },
+  {
+    "eng": "My leeks are good.",
+    "fre": "Mes poireaux sont bons."
+  },
+  {
+    "eng": "My carrots are good.",
+    "fre": "Mes carottes sont bonnes."
+  },
+  {
+    "eng": "The chicken here is good.",
+    "fre": "Le poulet ici est bon."
+  },
+  {
+    "eng": "The turkey here is good.",
+    "fre": "La dinde ici est bonne."
+  },
+  {
+    "eng": "The leeks here are good.",
+    "fre": "Les poireaux ici sont bons."
+  },
+  {
+    "eng": "The carrots here are good.",
+    "fre": "Les carottes ici sont bonnes."
+  },
+  {
+    "eng": "Good afternoon.",
+    "fre": "Bonsoir."
+  },
+  {
+    "eng": "the chickens",
+    "fre": "les poulets"
+  },
+  {
+    "eng": "the turkeys",
+    "fre": "les dindes"
+  },
+  {
+    "eng": "the restaurants",
+    "fre": "les restaurants"
+  },
+  {
+    "eng": "the hotels",
+    "fre": "les hôtels"
+  },
+  {
+    "eng": "the coffee",
+    "fre": "le café"
+  },
+  {
+    "eng": "the coffees",
+    "fre": "les cafés"
+  },
+  {
+    "eng": "the tea",
+    "fre": "le thé"
+  },
+  {
+    "eng": "the teas",
+    "fre": "les thés"
+  },
+  {
+    "eng": "the table",
+    "fre": "la table"
+  },
+  {
+    "eng": "the tables",
+    "fre": "les tables"
+  },
+  {
+    "eng": "the chickens are good",
+    "fre": "les poulets sont bons"
+  }
+]

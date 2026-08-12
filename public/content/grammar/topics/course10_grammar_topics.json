@@ -1,0 +1,730 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Quel / quelle / quels / quelles",
+    "subtitle": "Asking which",
+    "explanation": "Use quel, quelle, quels, and quelles to ask which. The form changes to match the noun it describes.",
+    "examples": [
+      {
+        "eng": "which",
+        "fre": "quel / quels / quelle / quelles"
+      },
+      {
+        "eng": "Which car is the best?",
+        "fre": "Quelle voiture est la meilleure?"
+      },
+      {
+        "eng": "Which car did you hire?",
+        "fre": "Quelle voiture as-tu / avez-vous loué?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Préférer",
+    "subtitle": "Saying prefer",
+    "explanation": "Use préférer to say that someone prefers something. In questions, French can use préfères-tu or préférez-vous.",
+    "examples": [
+      {
+        "eng": "do you prefer",
+        "fre": "préférez-vous"
+      },
+      {
+        "eng": "I prefer",
+        "fre": "je préfère"
+      },
+      {
+        "eng": "I like that one but I prefer this one.",
+        "fre": "J'aime cela mais je préfère ceci."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Meilleur / meilleure",
+    "subtitle": "Saying better",
+    "explanation": "Use meilleur for masculine nouns and meilleure for feminine nouns when saying better.",
+    "examples": [
+      {
+        "eng": "Everything is better here.",
+        "fre": "Tout est meilleur ici."
+      },
+      {
+        "eng": "The food is better here.",
+        "fre": "La nourriture est meilleure ici."
+      },
+      {
+        "eng": "The wine is always better here.",
+        "fre": "Le vin est toujours meilleur ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Meilleur que",
+    "subtitle": "Better than",
+    "explanation": "Use meilleur que or meilleure que to compare two things and say one is better than the other.",
+    "examples": [
+      {
+        "eng": "The cheese here is better than the cheese there.",
+        "fre": "Le fromage ici est meilleur que le fromage là."
+      },
+      {
+        "eng": "I think the chicken is better than the turkey.",
+        "fre": "Pour moi, le poulet est meilleur que la dinde."
+      },
+      {
+        "eng": "That one is better than this one.",
+        "fre": "Cela est meilleur que ceci."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Ce / cet / cette / ces",
+    "subtitle": "This and that before nouns",
+    "explanation": "Use ce, cet, cette, and ces before nouns. Add -ci for this/these and -là for that/those.",
+    "examples": [
+      {
+        "eng": "this wine",
+        "fre": "ce vin-ci"
+      },
+      {
+        "eng": "that restaurant",
+        "fre": "ce restaurant-là"
+      },
+      {
+        "eng": "these wines",
+        "fre": "ces vins-ci"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Ceci and cela",
+    "subtitle": "This one and that one",
+    "explanation": "Use ceci for this one and cela for that one when no noun comes after it.",
+    "examples": [
+      {
+        "eng": "this (one)",
+        "fre": "ceci"
+      },
+      {
+        "eng": "that",
+        "fre": "cela"
+      },
+      {
+        "eng": "Do you want this or that?",
+        "fre": "Veux-tu ceci ou cela? / Voulez-vous ceci ou cela?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Le meilleur / la meilleure",
+    "subtitle": "The best",
+    "explanation": "Use le meilleur or la meilleure to say the best. The form changes with the noun.",
+    "examples": [
+      {
+        "eng": "the best",
+        "fre": "le meilleur"
+      },
+      {
+        "eng": "This wine is the best.",
+        "fre": "Ce vin-ci est le meilleur."
+      },
+      {
+        "eng": "Which car is the best?",
+        "fre": "Quelle voiture est la meilleure?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Plus ... que",
+    "subtitle": "More than / -er than",
+    "explanation": "Use plus + adjective + que to say more ... than. This is how French often makes comparisons.",
+    "examples": [
+      {
+        "eng": "This wine is more delicious than that wine.",
+        "fre": "Ce vin-ci est plus délicieux que ce vin-là."
+      },
+      {
+        "eng": "Marie is more beautiful than Jeanne.",
+        "fre": "Marie est plus belle que Jeanne."
+      },
+      {
+        "eng": "Dinner was more delicious than lunch.",
+        "fre": "Le dîner était plus délicieux que le déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Moins ... que",
+    "subtitle": "Less than",
+    "explanation": "Use moins + adjective + que to say less ... than.",
+    "examples": [
+      {
+        "eng": "Calais is less expensive than Paris.",
+        "fre": "Calais est moins cher que Paris."
+      },
+      {
+        "eng": "The car is less quick than the train.",
+        "fre": "La voiture est moins rapide que le train."
+      },
+      {
+        "eng": "Pierre is less intelligent than Michel.",
+        "fre": "Pierre est moins intelligent que Michel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Pire",
+    "subtitle": "Worse",
+    "explanation": "Use pire to say worse. It is the opposite of meilleur in many comparison sentences.",
+    "examples": [
+      {
+        "eng": "It's worse here.",
+        "fre": "C'est pire ici."
+      },
+      {
+        "eng": "The food is worse here.",
+        "fre": "La nourriture est pire ici."
+      },
+      {
+        "eng": "The wine is always worse here.",
+        "fre": "Le vin est toujours pire ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Pire que",
+    "subtitle": "Worse than",
+    "explanation": "Use pire que to compare two things and say one is worse than the other.",
+    "examples": [
+      {
+        "eng": "The cheese here is worse than the cheese there.",
+        "fre": "Le fromage ici est pire que le fromage là."
+      },
+      {
+        "eng": "I think the chicken is worse than the turkey.",
+        "fre": "Pour moi, le poulet est pire que la dinde."
+      },
+      {
+        "eng": "That hotel was worse than this hotel.",
+        "fre": "Cet hôtel-là était pire que cet hôtel-ci."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Le pire / la pire",
+    "subtitle": "The worst",
+    "explanation": "Use le pire, la pire, or les pires to say the worst.",
+    "examples": [
+      {
+        "eng": "the worst",
+        "fre": "le pire"
+      },
+      {
+        "eng": "This wine is the worst.",
+        "fre": "Ce vin-ci est le pire."
+      },
+      {
+        "eng": "That cheese is the worst.",
+        "fre": "Ce fromage-là est le pire."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Il fait + weather",
+    "subtitle": "Talking about weather",
+    "explanation": "Use il fait with weather adjectives such as beau, chaud, froid, and mauvais.",
+    "examples": [
+      {
+        "eng": "It's nice out.",
+        "fre": "Il fait beau."
+      },
+      {
+        "eng": "It's warm out today.",
+        "fre": "Il fait chaud aujourd'hui."
+      },
+      {
+        "eng": "I hope it's not too cold out today.",
+        "fre": "J'espère qu'il ne fait pas trop froid aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Il faisait",
+    "subtitle": "Weather in the past",
+    "explanation": "Use il faisait to describe weather in the past.",
+    "examples": [
+      {
+        "eng": "It was nice out.",
+        "fre": "Il faisait beau."
+      },
+      {
+        "eng": "It was hot out.",
+        "fre": "Il faisait chaud."
+      },
+      {
+        "eng": "It was windy out.",
+        "fre": "Il faisait du vent."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Trop",
+    "subtitle": "Too",
+    "explanation": "Use trop before an adjective or adverb to say too.",
+    "examples": [
+      {
+        "eng": "That car is too small for us.",
+        "fre": "Cette voiture-là est trop petite pour nous."
+      },
+      {
+        "eng": "I think it's too hot today.",
+        "fre": "Pour moi, il fait trop chaud aujourd'hui."
+      },
+      {
+        "eng": "Don't arrive too early.",
+        "fre": "N'arrive pas / N'arrivez pas trop tôt."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Assez",
+    "subtitle": "Enough / quite",
+    "explanation": "Use assez to mean enough or quite. It can describe quantity or intensity.",
+    "examples": [
+      {
+        "eng": "It's quite cold out today.",
+        "fre": "Il fait assez froid aujourd'hui."
+      },
+      {
+        "eng": "There weren't enough shops to visit.",
+        "fre": "Il n'y avait pas assez de magasins à visiter."
+      },
+      {
+        "eng": "I didn't have enough time.",
+        "fre": "Je n'avais pas assez de temps."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Il y avait",
+    "subtitle": "There was / there were",
+    "explanation": "Use il y avait to say there was or there were in the past.",
+    "examples": [
+      {
+        "eng": "there was",
+        "fre": "il y avait"
+      },
+      {
+        "eng": "It was sunny out.",
+        "fre": "Il y avait du soleil."
+      },
+      {
+        "eng": "There was a lot to see.",
+        "fre": "Il y avait beaucoup à voir."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Avoir in the imperfect",
+    "subtitle": "Had / used to have",
+    "explanation": "Use j'avais, tu avais, il avait, and the other imperfect forms of avoir to say had or used to have.",
+    "examples": [
+      {
+        "eng": "I used to have",
+        "fre": "j'avais"
+      },
+      {
+        "eng": "I used to have a house in France.",
+        "fre": "J'avais une maison en France."
+      },
+      {
+        "eng": "You had",
+        "fre": "tu avais / vous aviez"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Avoir faim / froid / chaud",
+    "subtitle": "Feelings with avoir",
+    "explanation": "French often uses avoir for feelings where English uses to be, such as I am hungry or I am cold.",
+    "examples": [
+      {
+        "eng": "I'm hungry.",
+        "fre": "J'ai faim."
+      },
+      {
+        "eng": "I was hot.",
+        "fre": "J'avais chaud."
+      },
+      {
+        "eng": "Were you cold?",
+        "fre": "Avais-tu froid? / Aviez-vous froid?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Avoir raison / avoir tort",
+    "subtitle": "Being right or wrong",
+    "explanation": "Use avoir raison for to be right and avoir tort for to be wrong.",
+    "examples": [
+      {
+        "eng": "I'm right.",
+        "fre": "J'ai raison."
+      },
+      {
+        "eng": "I'm wrong.",
+        "fre": "J'ai tort."
+      },
+      {
+        "eng": "You are right.",
+        "fre": "Tu as raison. / Vous avez raison."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Avoir peur de",
+    "subtitle": "Being scared of",
+    "explanation": "Use avoir peur to say someone is scared. Add de before the thing or person they are scared of.",
+    "examples": [
+      {
+        "eng": "I'm scared.",
+        "fre": "J'ai peur."
+      },
+      {
+        "eng": "What are you scared of?",
+        "fre": "De quoi as-tu peur?"
+      },
+      {
+        "eng": "Why was he scared of her?",
+        "fre": "Pourquoi avait-il peur d'elle?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Avoir besoin de",
+    "subtitle": "Needing something",
+    "explanation": "Use avoir besoin de before an infinitive or noun to say that someone needs something.",
+    "examples": [
+      {
+        "eng": "I need to go.",
+        "fre": "J'ai besoin d'aller."
+      },
+      {
+        "eng": "I need to eat something.",
+        "fre": "J'ai besoin de manger quelque chose."
+      },
+      {
+        "eng": "I need the key.",
+        "fre": "J'ai besoin de la clé."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Avoir envie de",
+    "subtitle": "Feeling like / fancying",
+    "explanation": "Use avoir envie de before an infinitive or noun to say someone feels like doing or having something.",
+    "examples": [
+      {
+        "eng": "I fancy an ice cream.",
+        "fre": "J'ai envie d'une glace."
+      },
+      {
+        "eng": "I fancy going out tonight.",
+        "fre": "J'ai envie de sortir ce soir."
+      },
+      {
+        "eng": "She didn't feel like coming with us.",
+        "fre": "Elle n'avait pas envie de venir avec nous."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Avoir l'intention de",
+    "subtitle": "Planning to do something",
+    "explanation": "Use avoir l'intention de before an infinitive to say someone plans or intends to do something.",
+    "examples": [
+      {
+        "eng": "I plan on leaving early.",
+        "fre": "J'ai l'intention de partir tôt."
+      },
+      {
+        "eng": "I had the intention of going with you.",
+        "fre": "J'avais l'intention d'aller avec toi / vous."
+      },
+      {
+        "eng": "We don't plan on staying here.",
+        "fre": "Nous n'avons pas l'intention de rester ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Ne ... pas with avoir",
+    "subtitle": "Negating avoir",
+    "explanation": "Put ne before the form of avoir and pas after it to make the sentence negative.",
+    "examples": [
+      {
+        "eng": "I didn't have",
+        "fre": "je n'avais pas"
+      },
+      {
+        "eng": "I didn't have the time.",
+        "fre": "Je n'avais pas le temps."
+      },
+      {
+        "eng": "I wasn't hungry.",
+        "fre": "Je n'avais pas faim."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Inversion questions",
+    "subtitle": "Verb before subject",
+    "explanation": "In formal or practice-style questions, French can put the verb before the subject, joined with a hyphen.",
+    "examples": [
+      {
+        "eng": "Did you have enough?",
+        "fre": "Avais-tu assez? / Aviez-vous assez?"
+      },
+      {
+        "eng": "Was he hungry?",
+        "fre": "Avait-il faim?"
+      },
+      {
+        "eng": "When do they need to leave?",
+        "fre": "Quand ont-ils besoin de partir?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Est-ce que questions",
+    "subtitle": "Simple yes/no questions",
+    "explanation": "Use est-ce que at the start of a statement to turn it into a yes/no question.",
+    "examples": [
+      {
+        "eng": "Is it better for you here?",
+        "fre": "Est-ce que c'est meilleur pour toi / vous ici?"
+      },
+      {
+        "eng": "Is this one the best one?",
+        "fre": "Est-ce que ceci est le meilleur?"
+      },
+      {
+        "eng": "Is it better or worse?",
+        "fre": "Est-ce que c'est meilleur ou pire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "De quoi",
+    "subtitle": "What about / what of",
+    "explanation": "Use de quoi when the question needs de, such as asking what someone is scared of or what someone needs.",
+    "examples": [
+      {
+        "eng": "What are you scared of?",
+        "fre": "De quoi as-tu peur?"
+      },
+      {
+        "eng": "What is he scared of?",
+        "fre": "De quoi a-t-il peur?"
+      },
+      {
+        "eng": "What did you need?",
+        "fre": "De quoi avais-tu / aviez-vous besoin?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "De quel / de quelle",
+    "subtitle": "Which one with de",
+    "explanation": "Use de quel, de quelle, de quels, or de quelles when asking which noun after de.",
+    "examples": [
+      {
+        "eng": "What wine do you fancy?",
+        "fre": "De quel vin as-tu envie?"
+      },
+      {
+        "eng": "What wine do you fancy?",
+        "fre": "De quel vin as-tu / avez-vous envie?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Combien de",
+    "subtitle": "How much / how many",
+    "explanation": "Use combien de before a noun to ask how much or how many.",
+    "examples": [
+      {
+        "eng": "How much wine have you drunk?",
+        "fre": "Combien de vin as-tu bu?"
+      },
+      {
+        "eng": "for how many days",
+        "fre": "pour combien de jours"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Pour combien de temps",
+    "subtitle": "For how long",
+    "explanation": "Use pour combien de temps or pour combien de jours to ask about duration.",
+    "examples": [
+      {
+        "eng": "for how many days",
+        "fre": "pour combien de jours"
+      },
+      {
+        "eng": "how long ... for",
+        "fre": "pour combien de temps"
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Puis-je + infinitive",
+    "subtitle": "May I / can I",
+    "explanation": "Use puis-je before an infinitive for polite questions like May I go? or Can I open?",
+    "examples": [
+      {
+        "eng": "What can I drink?",
+        "fre": "Que puis-je boire?"
+      },
+      {
+        "eng": "Can I have two bags, please?",
+        "fre": "Puis-je avoir deux sacs, s'il vous plaît?"
+      },
+      {
+        "eng": "Can I pay it now?",
+        "fre": "Puis-je le payer maintenant?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Vouloir + infinitive",
+    "subtitle": "Wanting to do something",
+    "explanation": "Use vouloir before another verb in the infinitive to say someone wants to do something.",
+    "examples": [
+      {
+        "eng": "What do you want to do today?",
+        "fre": "Que veux-tu faire aujourd'hui? / Que voulez-vous faire aujourd'hui?"
+      },
+      {
+        "eng": "Do you want to take that with you?",
+        "fre": "Veux-tu prendre ça avec toi? / Voulez-vous prendre ça avec vous?"
+      },
+      {
+        "eng": "I'm very hungry, I want to eat something.",
+        "fre": "J'ai très faim, je veux manger quelque chose."
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Passé composé with avoir",
+    "subtitle": "Completed past actions",
+    "explanation": "Many past actions use avoir plus a past participle, such as j'ai essayé or j'ai entendu.",
+    "examples": [
+      {
+        "eng": "I tried the cake but it wasn't very good.",
+        "fre": "J'ai essayé le gâteau mais il n'était pas très bon."
+      },
+      {
+        "eng": "I heard Marie.",
+        "fre": "J'ai entendu Marie."
+      },
+      {
+        "eng": "I don't know if he heard me.",
+        "fre": "Je ne sais pas s'il m'a entendu."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Direct object pronouns",
+    "subtitle": "It before the verb",
+    "explanation": "Short words like le, la, l’, and les can stand for it or them and usually go before the verb.",
+    "examples": [
+      {
+        "eng": "Do you want to try it?",
+        "fre": "Veux-tu l'essayer?"
+      },
+      {
+        "eng": "I was going to try it.",
+        "fre": "J'allais l'essayer."
+      },
+      {
+        "eng": "Can I pay it now?",
+        "fre": "Puis-je le payer maintenant?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-36",
+    "title": "Un peu plus / beaucoup plus",
+    "subtitle": "A bit more / a lot more",
+    "explanation": "Use un peu plus for a bit more and beaucoup plus for a lot more.",
+    "examples": [
+      {
+        "eng": "A bit more",
+        "fre": "Un peu plus"
+      },
+      {
+        "eng": "This one is smaller but that one is a lot more expensive.",
+        "fre": "Ceci est plus petit mais cela est beaucoup plus cher."
+      },
+      {
+        "eng": "I wonder if this is a lot more expensive than that.",
+        "fre": "Je me demande si ceci est beaucoup plus cher que cela."
+      }
+    ]
+  },
+  {
+    "id": "grammar-37",
+    "title": "Quand",
+    "subtitle": "Saying when",
+    "explanation": "Use quand to say when. It can introduce a time idea inside a longer sentence.",
+    "examples": [
+      {
+        "eng": "I prefer when it's warm out.",
+        "fre": "Je préfère quand il fait chaud."
+      },
+      {
+        "eng": "I don't like eating ice cream when I'm cold.",
+        "fre": "Je n'aime pas manger de la glace quand j'ai froid."
+      },
+      {
+        "eng": "I was scared when I was in Paris.",
+        "fre": "J'avais peur quand j'étais à Paris."
+      }
+    ]
+  }
+]

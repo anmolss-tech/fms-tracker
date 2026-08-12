@@ -1,0 +1,822 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Passé composé with avoir",
+    "subtitle": "Past actions with avoir",
+    "explanation": "Use avoir with a past participle to talk about actions that happened: j’ai appelé, j’ai mangé, nous avons perdu.",
+    "examples": [
+      {
+        "eng": "I called twice, but she wasn't there.",
+        "fre": "J'ai appelé deux fois, mais elle n'était pas là."
+      },
+      {
+        "eng": "I've eaten here once.",
+        "fre": "J'ai mangé ici une fois."
+      },
+      {
+        "eng": "I've seen Marie once today.",
+        "fre": "J'ai vu Marie une fois aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Passé composé with être",
+    "subtitle": "Past movement/change actions",
+    "explanation": "Some verbs use être in the past, especially movement verbs like aller and sortir. The ending can agree with the person.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "I went to Paris once and it was very beautiful.",
+        "fre": "Je suis allé à Paris une fois et il était très beau."
+      },
+      {
+        "eng": "I think they went on holiday together once.",
+        "fre": "Je pense qu'ils sont allés en vacances ensemble une fois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Une fois / deux fois",
+    "subtitle": "Saying how many times",
+    "explanation": "Use fois to say one time, twice, several times, or many times.",
+    "examples": [
+      {
+        "eng": "I called twice, but she wasn't there.",
+        "fre": "J'ai appelé deux fois, mais elle n'était pas là."
+      },
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "La première fois / la dernière fois",
+    "subtitle": "First time and last time",
+    "explanation": "Use la première fois for the first time and la dernière fois for the last time.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      },
+      {
+        "eng": "The last time we ate here, the food was delicious.",
+        "fre": "La dernière fois que nous avons mangé ici, la nourriture était délicieuse."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Ensemble",
+    "subtitle": "Saying together",
+    "explanation": "Use ensemble when people do something together.",
+    "examples": [
+      {
+        "eng": "Do you want to go together?",
+        "fre": "Veux-tu / Voulez-vous aller ensemble?"
+      },
+      {
+        "eng": "Everybody wants to eat together.",
+        "fre": "Tout le monde veut manger ensemble."
+      },
+      {
+        "eng": "I think they went on holiday together once.",
+        "fre": "Je pense qu'ils sont allés en vacances ensemble une fois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Questions with inversion",
+    "subtitle": "Asking direct questions",
+    "explanation": "French can form questions by putting the verb before the subject, such as connais-tu or ont-ils.",
+    "examples": [
+      {
+        "eng": "Do you want to go together?",
+        "fre": "Veux-tu / Voulez-vous aller ensemble?"
+      },
+      {
+        "eng": "Do you live here?",
+        "fre": "Habites-tu ici? / Habitez-vous ici?"
+      },
+      {
+        "eng": "Which car do you prefer?",
+        "fre": "Quelle voiture preferes-tu? / Quelle voiture préférez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Question words",
+    "subtitle": "Who, what, where, when",
+    "explanation": "Question words like où, quand, quelle, avec qui, and pourquoi help ask for specific information.",
+    "examples": [
+      {
+        "eng": "Which car do you prefer?",
+        "fre": "Quelle voiture preferes-tu? / Quelle voiture préférez-vous?"
+      },
+      {
+        "eng": "I'm going to tell somebody where we are.",
+        "fre": "Je vais dire a quelqu'un où nous sommes."
+      },
+      {
+        "eng": "When did they pack their suitcases?",
+        "fre": "Quand ont-ils fait leurs valises?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Savoir",
+    "subtitle": "Knowing facts / how to",
+    "explanation": "Use savoir for knowing information, facts, or how to do something.",
+    "examples": [
+      {
+        "eng": "to know \"a fact\"",
+        "fre": "Savoir"
+      },
+      {
+        "eng": "question word / that / if",
+        "fre": "savoir"
+      },
+      {
+        "eng": "to know (a fact)",
+        "fre": "Savoir"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Connaître",
+    "subtitle": "Knowing people and places",
+    "explanation": "Use connaître for knowing or being familiar with a person, place, or thing.",
+    "examples": [
+      {
+        "eng": "to know",
+        "fre": "connaître"
+      },
+      {
+        "eng": "I don't know Pierre (person);",
+        "fre": "je ne connais pas Pierre"
+      },
+      {
+        "eng": "person / place / thing",
+        "fre": "connaître"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Bien connu / peu connu",
+    "subtitle": "Well known and little known",
+    "explanation": "Use bien connu for well known and peu connu for not well known.",
+    "examples": [
+      {
+        "eng": "LU ININALL AL to know jai connu I knew tu as connu you knew il a connu he knew elle a connu she knew on a connu one knew",
+        "fre": "nous avons connu we knew"
+      },
+      {
+        "eng": "well known",
+        "fre": "bien connu"
+      },
+      {
+        "eng": "This place is well known.",
+        "fre": "Cet endroit est bien connu."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Rester / y rester",
+    "subtitle": "Staying somewhere",
+    "explanation": "Rester means to stay. The small word y can mean there when the place is already known.",
+    "examples": [
+      {
+        "eng": "They went out together two hours ago.",
+        "fre": "Ils sont sortis ensemble il y a deux heures."
+      },
+      {
+        "eng": "I went there",
+        "fre": "j'y suis allé"
+      },
+      {
+        "eng": "I went there",
+        "fre": "je suis allé là / j'y suis allé"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Vouloir + infinitive",
+    "subtitle": "Wanting to do something",
+    "explanation": "Use vouloir before another verb in the infinitive to say want to do something.",
+    "examples": [
+      {
+        "eng": "Do you want to go together?",
+        "fre": "Veux-tu / Voulez-vous aller ensemble?"
+      },
+      {
+        "eng": "Everybody wants to eat together.",
+        "fre": "Tout le monde veut manger ensemble."
+      },
+      {
+        "eng": "Do you want to leave today?",
+        "fre": "Veux-tu / Voulez-vous partir aujourd'hui?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Pouvoir / puis-je",
+    "subtitle": "Can / may",
+    "explanation": "Use pouvoir to say can. Puis-je is a polite way to ask may I.",
+    "examples": [
+      {
+        "eng": "If we work together, we can do it.",
+        "fre": "Si nous travaillons ensemble, nous pouvons le faire."
+      },
+      {
+        "eng": "May I have some raspberries, please?",
+        "fre": "Puis-je avoir des framboises, s'il vous plaît?"
+      },
+      {
+        "eng": "Whom can I speak with?",
+        "fre": "Avec qui puis-je parler?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Devoir + infinitive",
+    "subtitle": "Having to do something",
+    "explanation": "Use devoir before an infinitive to say must or have to.",
+    "examples": [
+      {
+        "eng": "If you hurt yourself, you have to go home.",
+        "fre": "Si tu te blesses, tu dois aller chez toi."
+      },
+      {
+        "eng": "We have to go there tomorrow.",
+        "fre": "Nous devons y aller demain. / On doit y aller demain."
+      },
+      {
+        "eng": "I'm eating lots of vegetables because I must stay in Shape.",
+        "fre": "Je mange beaucoup de legumes parce que je dois rester en NS"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Imperfect tense",
+    "subtitle": "Was / used to",
+    "explanation": "The imperfect describes background situations or repeated past actions, like était, pouvais, or allait.",
+    "examples": [
+      {
+        "eng": "I called twice, but she wasn't there.",
+        "fre": "J'ai appelé deux fois, mais elle n'était pas là."
+      },
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Near future: aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to say going to do something.",
+    "examples": [
+      {
+        "eng": "I'm going to tell somebody where we are.",
+        "fre": "Je vais dire a quelqu'un où nous sommes."
+      },
+      {
+        "eng": "I'm going to try it tomorrow.",
+        "fre": "Je vais l'essayer demain."
+      },
+      {
+        "eng": "I'm going to go there",
+        "fre": "je vais y aller"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Si clauses",
+    "subtitle": "If sentences",
+    "explanation": "Use si to build if sentences.",
+    "examples": [
+      {
+        "eng": "If we work together, we can do it.",
+        "fre": "Si nous travaillons ensemble, nous pouvons le faire."
+      },
+      {
+        "eng": "If you hurt yourself, you have to go home.",
+        "fre": "Si tu te blesses, tu dois aller chez toi."
+      },
+      {
+        "eng": "I don't know if Pierre is here",
+        "fre": "je ne sais pas si Pierre est ici"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Object pronouns",
+    "subtitle": "Me, te, le, la, l’, les",
+    "explanation": "Short object words can go before the verb: me, te, le, la, l’, les, nous, vous.",
+    "examples": [
+      {
+        "eng": "They've told us to do it twice now.",
+        "fre": "Ils nous ont dit de le faire deux fois maintenant."
+      },
+      {
+        "eng": "He's done it too many times now.",
+        "fre": "Il l'a fait trop de fois maintenant."
+      },
+      {
+        "eng": "If we work together, we can do it.",
+        "fre": "Si nous travaillons ensemble, nous pouvons le faire."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Ne... pas",
+    "subtitle": "Making a sentence negative",
+    "explanation": "Put ne before the verb and pas after it to say not.",
+    "examples": [
+      {
+        "eng": "It's not a cake, but it's like a cake.",
+        "fre": "Ce n'est pas un gâteau, mais c'est comme un gâteau."
+      },
+      {
+        "eng": "I couldn't see you.",
+        "fre": "Je ne pouvais pas te voir."
+      },
+      {
+        "eng": "I don't know when he left (fact)",
+        "fre": "je ne sais pas quand il est parti"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Rien / personne",
+    "subtitle": "Nothing and nobody",
+    "explanation": "Use rien for nothing and personne for nobody/no one.",
+    "examples": [
+      {
+        "eng": "Generally, the people of this country are in good health.",
+        "fre": "Généralement, les personnes de ce pays sont en bonne ao"
+      },
+      {
+        "eng": "You are my favourite person.",
+        "fre": "Tu es ma personne préférée. / vous êtes ma personne préférée."
+      },
+      {
+        "eng": "Who is your favourite person?",
+        "fre": "Qui est ta personne préférée?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Comparisons: meilleur / pire",
+    "subtitle": "Better, worse, best, worst",
+    "explanation": "Use meilleur for better/best and pire for worse/worst.",
+    "examples": [
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      },
+      {
+        "eng": "I've heard that this is the worst film of the year.",
+        "fre": "On m'a dit que ceci est le pire film de l'année."
+      },
+      {
+        "eng": "This wine is the best, in my opinion.",
+        "fre": "Ce vin est le meilleur, a mon avis."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Superlatives: le plus",
+    "subtitle": "The most",
+    "explanation": "Use le plus before an adjective to say the most.",
+    "examples": [
+      {
+        "eng": "It's the most delicious cake I've tried today.",
+        "fre": "C'est le gâteau le plus délicieux que j'ai essayé aujourd'hui."
+      },
+      {
+        "eng": "What are the most important traditions in your culture?",
+        "fre": "Quelles sont les traditions les plus importantes dans ta / votre"
+      },
+      {
+        "eng": "Which traditions are the most important?",
+        "fre": "Quelles traditions sont les plus importantes?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "De temps en temps",
+    "subtitle": "From time to time",
+    "explanation": "Use de temps en temps to say from time to time or once in a while.",
+    "examples": [
+      {
+        "eng": "from time to time",
+        "fre": "de temps en temps"
+      },
+      {
+        "eng": "Yes, I go skiing from time to time.",
+        "fre": "Oui, je fais du ski de temps en temps."
+      },
+      {
+        "eng": "She calls me from time to time.",
+        "fre": "Elle m'appelle de temps en temps."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "D'habitude",
+    "subtitle": "Usually",
+    "explanation": "Use d’habitude to say usually.",
+    "examples": [
+      {
+        "eng": "Usually, he doesn't work during the weekend.",
+        "fre": "D'habitude, il ne travaille pas pendant le weekend."
+      },
+      {
+        "eng": "Usually, we play tennis during the summer.",
+        "fre": "D'habitude, nous jouons / on joue au tennis pendant l'été."
+      },
+      {
+        "eng": "Usually, I eat at home, but once in a while, I like to go out to a restaurant.",
+        "fre": "D'habitude, je mange chez moi, mais de temps en temps, j'aime - sortir à un restaurant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Aimer + infinitive",
+    "subtitle": "Liking to do something",
+    "explanation": "Use aimer before another verb to say like to do something.",
+    "examples": [
+      {
+        "eng": "I like doing sport, because it's good for the health.",
+        "fre": "J'aime faire du sport, parce que c'est bon pour la santé."
+      },
+      {
+        "eng": "When I am in France, I like to go skiing.",
+        "fre": "Quand je suis en France, j'aime faire du ski."
+      },
+      {
+        "eng": "I don't like skiing.",
+        "fre": "Je n'aime pas faire du ski."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Definite articles",
+    "subtitle": "Le, la, les, l’",
+    "explanation": "Use le, la, les, and l’ to say the, and also for general ideas.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      },
+      {
+        "eng": "They've told us to do it twice now.",
+        "fre": "Ils nous ont dit de le faire deux fois maintenant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Indefinite articles",
+    "subtitle": "Un, une, des",
+    "explanation": "Use un, une, and des to say a/an/some.",
+    "examples": [
+      {
+        "eng": "I've eaten here once.",
+        "fre": "J'ai mangé ici une fois."
+      },
+      {
+        "eng": "I went to Paris once and it was very beautiful.",
+        "fre": "Je suis allé à Paris une fois et il était très beau."
+      },
+      {
+        "eng": "I've seen Marie once today.",
+        "fre": "J'ai vu Marie une fois aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Partitive articles",
+    "subtitle": "Du, de la, de l’, des",
+    "explanation": "Use partitive articles for some of something, especially food or drink.",
+    "examples": [
+      {
+        "eng": "This is good for making cakes.",
+        "fre": "Ceci est bon pour faire des gâteaux."
+      },
+      {
+        "eng": "I drink wine too often.",
+        "fre": "Je bois trop souvent du vin."
+      },
+      {
+        "eng": "She bought some flour to make a cake.",
+        "fre": "Elle a achete de la farine pour faire un gâteau."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "De after negatives",
+    "subtitle": "Using de with not any",
+    "explanation": "After a negative, French often uses de instead of un, une, or des.",
+    "examples": [
+      {
+        "eng": "Marie said she's trying to stay in shape, So she doesn't want any chocolate.",
+        "fre": "Marie a dit quelle essaie de rester en forme, donc elle ne veut pas de 70"
+      },
+      {
+        "eng": "I don't take sugar.",
+        "fre": "Je ne prends pas de sucre."
+      },
+      {
+        "eng": "I don't take milk.",
+        "fre": "Je ne prends pas de lait."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "De expressions",
+    "subtitle": "Of / from",
+    "explanation": "Use de to mean of or from. It also appears in expressions like de temps en temps.",
+    "examples": [
+      {
+        "eng": "They've told us to do it twice now.",
+        "fre": "Ils nous ont dit de le faire deux fois maintenant."
+      },
+      {
+        "eng": "He's done it too many times now.",
+        "fre": "Il l'a fait trop de fois maintenant."
+      },
+      {
+        "eng": "I've heard that this is the worst film of the year.",
+        "fre": "On m'a dit que ceci est le pire film de l'année."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "À expressions",
+    "subtitle": "To / at",
+    "explanation": "Use à to mean to or at with places and times.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "I went to Paris once and it was very beautiful.",
+        "fre": "Je suis allé à Paris une fois et il était très beau."
+      },
+      {
+        "eng": "Turn left at the roundabout.",
+        "fre": "Tournez à gauche au rond-point."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Adjective agreement",
+    "subtitle": "Adjectives changing endings",
+    "explanation": "Many French adjectives change to match masculine, feminine, singular, or plural nouns.",
+    "examples": [
+      {
+        "eng": "I went to Paris once and it was very beautiful.",
+        "fre": "Je suis allé à Paris une fois et il était très beau."
+      },
+      {
+        "eng": "It was good once, but now it's boring.",
+        "fre": "C'était bon une fois, mais maintenant c'est ennuyeux."
+      },
+      {
+        "eng": "The last time we ate here, the food was delicious.",
+        "fre": "La dernière fois que nous avons mangé ici, la nourriture était délicieuse."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Adjectives before nouns",
+    "subtitle": "Some adjectives come before nouns",
+    "explanation": "Some common adjectives come before the noun, such as bon, mauvais, beau, or petit.",
+    "examples": [
+      {
+        "eng": "It was good once, but now it's boring.",
+        "fre": "C'était bon une fois, mais maintenant c'est ennuyeux."
+      },
+      {
+        "eng": "It's delicious, but it isn't very good for the health.",
+        "fre": "C'est délicieux, mais ce n'est pas très bon pour la santé."
+      },
+      {
+        "eng": "I like doing sport, because it's good for the health.",
+        "fre": "J'aime faire du sport, parce que c'est bon pour la santé."
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Possessive adjectives",
+    "subtitle": "My, your, our",
+    "explanation": "Use mon, ma, mes, ton, votre, notre, etc. to show possession.",
+    "examples": [
+      {
+        "eng": "My friend has called me twice today.",
+        "fre": "Mon ami m'a appelé deux fois aujourd'hui."
+      },
+      {
+        "eng": "It was my first time in Paris.",
+        "fre": "C'était ma première fois à Paris."
+      },
+      {
+        "eng": "When I saw my grandmother for the last time, she was very ill.",
+        "fre": "Quand j'ai vu ma grand-mère pour la dernière fois, elle était très ro"
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Stress pronouns",
+    "subtitle": "Moi, toi, lui, elle",
+    "explanation": "Use moi, toi, lui, elle, nous, and vous after prepositions or for emphasis.",
+    "examples": [
+      {
+        "eng": "I called twice, but she wasn't there.",
+        "fre": "J'ai appelé deux fois, mais elle n'était pas là."
+      },
+      {
+        "eng": "Do you want to go together?",
+        "fre": "Veux-tu / Voulez-vous aller ensemble?"
+      },
+      {
+        "eng": "They've told us to do it twice now.",
+        "fre": "Ils nous ont dit de le faire deux fois maintenant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-36",
+    "title": "Time words",
+    "subtitle": "Today, tomorrow, yesterday",
+    "explanation": "Words like aujourd’hui, demain, hier, maintenant, and ce soir place the sentence in time.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "Everything was better here last time.",
+        "fre": "Tout était meilleur ici la dernière fois."
+      },
+      {
+        "eng": "I've seen Marie once today.",
+        "fre": "J'ai vu Marie une fois aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-37",
+    "title": "Numbers and quantity",
+    "subtitle": "Counting in phrases",
+    "explanation": "Numbers are used for time, people, prices, and repeated actions.",
+    "examples": [
+      {
+        "eng": "I called twice, but she wasn't there.",
+        "fre": "J'ai appelé deux fois, mais elle n'était pas là."
+      },
+      {
+        "eng": "They've told us to do it twice now.",
+        "fre": "Ils nous ont dit de le faire deux fois maintenant."
+      },
+      {
+        "eng": "I've called several times, but I think she has gone out.",
+        "fre": "J'ai appelé plusieurs fois, mais je pense qu'elle est sortie."
+      }
+    ]
+  },
+  {
+    "id": "grammar-38",
+    "title": "Imperatives",
+    "subtitle": "Giving instructions",
+    "explanation": "Use command forms for instructions, such as tournez or viens.",
+    "examples": [
+      {
+        "eng": "Turn left at the roundabout.",
+        "fre": "Tournez à gauche au rond-point."
+      },
+      {
+        "eng": "Do you come here often?",
+        "fre": "Viens-tu souvent ici? / Venez-vous souvent ici?"
+      },
+      {
+        "eng": "Take it; it's yours.",
+        "fre": "Prends-le; c'est le tien."
+      }
+    ]
+  },
+  {
+    "id": "grammar-39",
+    "title": "Relative clauses with que / qui",
+    "subtitle": "Linking ideas",
+    "explanation": "Use que or qui to connect two ideas in one sentence.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "The last time we ate here, the food was delicious.",
+        "fre": "La dernière fois que nous avons mangé ici, la nourriture était délicieuse."
+      },
+      {
+        "eng": "The first time we went on holiday together, it was terrible.",
+        "fre": "La première fois que nous sommes allés en vacances ensemble, c'était terrible."
+      }
+    ]
+  },
+  {
+    "id": "grammar-40",
+    "title": "Culture and traditions phrases",
+    "subtitle": "Talking about society and traditions",
+    "explanation": "This course uses phrases for culture, society, traditions, and history.",
+    "examples": [
+      {
+        "eng": "The French traditions are not very well known.",
+        "fre": "Les traditions françaises sont peu connues."
+      },
+      {
+        "eng": "The French traditions are not very well known.",
+        "fre": "Les traditions françaises ne sont pas très bien connues. rf"
+      },
+      {
+        "eng": "the culture",
+        "fre": "la culture"
+      }
+    ]
+  },
+  {
+    "id": "grammar-41",
+    "title": "Prepositions with places",
+    "subtitle": "At, in, to places",
+    "explanation": "French uses different small words with places, such as à Paris, en France, chez moi, and au restaurant.",
+    "examples": [
+      {
+        "eng": "The first time I went to Paris was last year.",
+        "fre": "La première fois que je suis allé à Paris était l'année dernière."
+      },
+      {
+        "eng": "I went to Paris once and it was very beautiful.",
+        "fre": "Je suis allé à Paris une fois et il était très beau."
+      },
+      {
+        "eng": "If you hurt yourself, you have to go home.",
+        "fre": "Si tu te blesses, tu dois aller chez toi."
+      }
+    ]
+  }
+]

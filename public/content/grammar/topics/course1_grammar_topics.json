@@ -1,0 +1,422 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "C'est",
+    "subtitle": "Saying it is / this is",
+    "explanation": "Use c'est to say it is, this is, or that is before a description or noun.",
+    "examples": [
+      {
+        "eng": "It is absolutely fantastic here.",
+        "fre": "C'est absolument fantastique ici."
+      },
+      {
+        "eng": "It is very good here.",
+        "fre": "C'est très bon ici."
+      },
+      {
+        "eng": "It isn't good; it's fantastic.",
+        "fre": "Ce n'est pas bon; c'est fantastique."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Ce n'est pas",
+    "subtitle": "Saying it is not",
+    "explanation": "Use ce n'est pas to say it is not or this is not. In speech, ne can sound very light, but the full written form is useful for learning.",
+    "examples": [
+      {
+        "eng": "It isn't here.",
+        "fre": "Ce n'est pas ici."
+      },
+      {
+        "eng": "It isn't good.",
+        "fre": "Ce n'est pas bon."
+      },
+      {
+        "eng": "It isn't very good.",
+        "fre": "Ce n'est pas très bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Être: est / sont",
+    "subtitle": "Is and are",
+    "explanation": "Use est for is and sont for are. These are forms of être, one of the most important French verbs.",
+    "examples": [
+      {
+        "eng": "It is absolutely fantastic here.",
+        "fre": "C'est absolument fantastique ici."
+      },
+      {
+        "eng": "It is very good here.",
+        "fre": "C'est très bon ici."
+      },
+      {
+        "eng": "It isn't here.",
+        "fre": "Ce n'est pas ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Definite articles: le, la, les, l’",
+    "subtitle": "Saying the",
+    "explanation": "Use le for masculine singular nouns, la for feminine singular nouns, les for plural nouns, and l’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "The restaurant isn't here.",
+        "fre": "Le restaurant n'est pas ici."
+      },
+      {
+        "eng": "The restaurant isn't bad but it isn't fantastic",
+        "fre": "Le restaurant n'est pas mauvais mais ce n'est pas fantastique."
+      },
+      {
+        "eng": "The restaurant isn't perfect but it's very good.",
+        "fre": "Le restaurant n'est pas parfait mais c'est tre bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Indefinite articles: un, une, des",
+    "subtitle": "Saying a, an, some",
+    "explanation": "Use un with masculine singular nouns, une with feminine singular nouns, and des with plural nouns.",
+    "examples": [
+      {
+        "eng": "A coffee for me.",
+        "fre": "Un café pour moi."
+      },
+      {
+        "eng": "A tea for me.",
+        "fre": "Un thé pour moi."
+      },
+      {
+        "eng": "A tea for me, please.",
+        "fre": "Un thé pour moi, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "De / d’ / du / de la / des",
+    "subtitle": "Of, from, and some",
+    "explanation": "Use de for of/from. It changes with articles: de + le becomes du, de + les becomes des, and de becomes d’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "a brussels sprout",
+        "fre": "Un chou de bruxelles"
+      },
+      {
+        "eng": "the goat meat",
+        "fre": "La viande de chèvre"
+      },
+      {
+        "eng": "the horse meat",
+        "fre": "La viande de cheval"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "À / au / à la / aux",
+    "subtitle": "At, to, and going to",
+    "explanation": "Use à for at/to. It changes with articles: à + le becomes au, à + les becomes aux, while à la stays separate.",
+    "examples": [
+      {
+        "eng": "Goodbye and goodnight.",
+        "fre": "au revoir et bonne nuit."
+      },
+      {
+        "eng": "Goodbye and have a good day.",
+        "fre": "au revoir et bonne journée."
+      },
+      {
+        "eng": "Goodbye and have a good evening.",
+        "fre": "au revoir et bonne soirée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Adjective agreement",
+    "subtitle": "bon/bonne, parfait/parfaite",
+    "explanation": "French adjectives often change to match the noun. Many add -e for feminine and -s for plural.",
+    "examples": [
+      {
+        "eng": "It is very good here.",
+        "fre": "C'est très bon ici."
+      },
+      {
+        "eng": "It isn't good.",
+        "fre": "Ce n'est pas bon."
+      },
+      {
+        "eng": "It isn't very good.",
+        "fre": "Ce n'est pas très bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Possessive adjectives: mon, ma, mes, ton, votre",
+    "subtitle": "Saying my, your",
+    "explanation": "Use mon, ma, mes and other possessive adjectives before nouns to show ownership. The form depends on the noun.",
+    "examples": [
+      {
+        "eng": "My chicken is delicious.",
+        "fre": "Mon poulet est délicieux."
+      },
+      {
+        "eng": "My restaurant is here.",
+        "fre": "Mon restaurant est ici."
+      },
+      {
+        "eng": "My chicken is here.",
+        "fre": "Mon poulet est ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Je voudrais",
+    "subtitle": "Polite I would like",
+    "explanation": "Use je voudrais to make polite requests. It is softer than je veux.",
+    "examples": [
+      {
+        "eng": "I would like a coffee, please.",
+        "fre": "Je voudrais un café, s'il vous plaît."
+      },
+      {
+        "eng": "I would like a tea for me.",
+        "fre": "Je voudrais un thé pour moi."
+      },
+      {
+        "eng": "I would like the chicken, please.",
+        "fre": "Je voudrais le poulet, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "S'il vous plaît",
+    "subtitle": "Polite please",
+    "explanation": "Use s'il vous plaît to say please in a polite or formal way. With friends/family, s'il te plaît is more informal.",
+    "examples": [
+      {
+        "eng": "A tea for me, please.",
+        "fre": "Un thé pour moi, s'il vous plaît."
+      },
+      {
+        "eng": "A coffee for him, please.",
+        "fre": "Un café pour lui, s'il vous plaît."
+      },
+      {
+        "eng": "The turkey for me, please.",
+        "fre": "La dinde pour moi, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Numbers and quantities",
+    "subtitle": "deux, trois, cinq",
+    "explanation": "Numbers are used before nouns for quantities, times, prices, and people.",
+    "examples": [
+      {
+        "eng": "I would like a reservation for two people, please.",
+        "fre": "Je voudrais une réservation pour deux personnes, s'il vous plaît."
+      },
+      {
+        "eng": "It's for two people.",
+        "fre": "C'est pour deux personnes."
+      },
+      {
+        "eng": "It's perfect for two people.",
+        "fre": "C'est parfait pour deux personnes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi for me, lui for him, and elle for her after prepositions like pour and avec.",
+    "examples": [
+      {
+        "eng": "It isn't for me.",
+        "fre": "Ce n'est pas pour moi."
+      },
+      {
+        "eng": "It isn't good for me.",
+        "fre": "Ce n'est pas bon pour moi."
+      },
+      {
+        "eng": "It isn't very good for me.",
+        "fre": "Ce n'est pas très bon pour moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Present tense verbs",
+    "subtitle": "Everyday actions now",
+    "explanation": "Use the present tense to talk about current facts, routines, and repeated actions.",
+    "examples": [
+      {
+        "eng": "A tea for me, please.",
+        "fre": "Un thé pour moi, s'il vous plaît."
+      },
+      {
+        "eng": "A coffee for him, please.",
+        "fre": "Un café pour lui, s'il vous plaît."
+      },
+      {
+        "eng": "The turkey for me, please.",
+        "fre": "La dinde pour moi, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Conditional",
+    "subtitle": "Would / could",
+    "explanation": "The conditional often expresses would, could, or imagined situations, such as je voudrais or on aurait.",
+    "examples": [
+      {
+        "eng": "I would like a coffee, please.",
+        "fre": "Je voudrais un café, s'il vous plaît."
+      },
+      {
+        "eng": "I would like a tea for me.",
+        "fre": "Je voudrais un thé pour moi."
+      },
+      {
+        "eng": "I would like the chicken, please.",
+        "fre": "Je voudrais le poulet, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Relative pronouns: qui / que / où",
+    "subtitle": "Joining ideas",
+    "explanation": "Use qui, que, and où to connect two ideas: who/that, that/which, or where.",
+    "examples": [
+      {
+        "eng": "That is very good.",
+        "fre": "Ça c'est très bon."
+      },
+      {
+        "eng": "That is absolutely fantastic.",
+        "fre": "Ça c'est absolument fantastique."
+      },
+      {
+        "eng": "That is for me.",
+        "fre": "Ça c'est pour moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Negation: ne...pas / ne...plus / ne...rien",
+    "subtitle": "Making sentences negative",
+    "explanation": "French negatives often wrap around the verb: ne...pas, ne...plus, ne...jamais, or ne...rien.",
+    "examples": [
+      {
+        "eng": "It isn't here.",
+        "fre": "Ce n'est pas ici."
+      },
+      {
+        "eng": "It isn't good.",
+        "fre": "Ce n'est pas bon."
+      },
+      {
+        "eng": "It isn't very good.",
+        "fre": "Ce n'est pas très bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Connectors: et, mais, puis, après",
+    "subtitle": "Joining and sequencing ideas",
+    "explanation": "Use connectors like et, mais, puis, ensuite, après, and quand to join ideas and show order.",
+    "examples": [
+      {
+        "eng": "It is delicious but it isn't very good for me.",
+        "fre": "C'est délicieux mais ce n'est pas très bon pour moi."
+      },
+      {
+        "eng": "That is delicious but it isn't very good for me.",
+        "fre": "Ça c'est délicieux mais ce n'est pas très bon pour moi."
+      },
+      {
+        "eng": "It isn't bad but it isn't perfect.",
+        "fre": "Ce n'est pas mauvais mais ce n'est pas parfait."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Adverbs: très, toujours, bientôt",
+    "subtitle": "Adding detail",
+    "explanation": "Adverbs such as très, toujours, bientôt, directement, and généralement add more detail to verbs or adjectives.",
+    "examples": [
+      {
+        "eng": "It is very good here.",
+        "fre": "C'est très bon ici."
+      },
+      {
+        "eng": "It isn't very good.",
+        "fre": "Ce n'est pas très bon."
+      },
+      {
+        "eng": "It isn't very good here.",
+        "fre": "Ce n'est pas très bon ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Greetings and farewells",
+    "subtitle": "Bonjour, salut, au revoir",
+    "explanation": "Greetings and farewells are short social phrases used to start and end conversations politely.",
+    "examples": [
+      {
+        "eng": "Hi, I'd like a coffee, please.",
+        "fre": "salut, je voudrais un café, s'il vous plaît."
+      },
+      {
+        "eng": "Hi, a tea for me, please.",
+        "fre": "salut, un thé pour moi, s'il vous plaît."
+      },
+      {
+        "eng": "Hi, the pizza for me and the chicken for him, please.",
+        "fre": "salut, la pizza pour moi et le poulet pour lui s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Location descriptions",
+    "subtitle": "à gauche, à droite, en face",
+    "explanation": "Use location expressions to describe where things are in a room or place.",
+    "examples": [
+      {
+        "eng": "It is absolutely fantastic here.",
+        "fre": "C'est absolument fantastique ici."
+      },
+      {
+        "eng": "It is very good here.",
+        "fre": "C'est très bon ici."
+      },
+      {
+        "eng": "It isn't here.",
+        "fre": "Ce n'est pas ici."
+      }
+    ]
+  }
+]

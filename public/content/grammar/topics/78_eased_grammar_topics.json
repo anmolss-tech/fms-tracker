@@ -1,0 +1,454 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Être: est / sont",
+    "subtitle": "Is and are",
+    "explanation": "Use est for is and sont for are. These are forms of être, one of the most important French verbs.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Definite articles: le, la, les, l’",
+    "subtitle": "Saying the",
+    "explanation": "Use le for masculine singular nouns, la for feminine singular nouns, les for plural nouns, and l’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde."
+      },
+      {
+        "eng": "",
+        "fre": "Chaque jour, je me lève tôt le matin vers 6h30."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je me brosse les dents."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Indefinite articles: un, une, des",
+    "subtitle": "Saying a, an, some",
+    "explanation": "Use un with masculine singular nouns, une with feminine singular nouns, and des with plural nouns.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "Après le déjeuner, je dors une heure."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je regarde des émissions de dessins animés."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "De / d’ / du / de la / des",
+    "subtitle": "Of, from, and some",
+    "explanation": "Use de for of/from. It changes with articles: de + le becomes du, de + les becomes des, and de becomes d’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "Ma mère me donne du lait à boire."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je regarde des émissions de dessins animés."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "À / au / à la / aux",
+    "subtitle": "At, to, and going to",
+    "explanation": "Use à for at/to. It changes with articles: à + le becomes au, à + les becomes aux, while à la stays separate.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "Quand je rentre à la maison, je me lave"
+      },
+      {
+        "eng": "",
+        "fre": "puis je vais à l'école."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Adjective agreement",
+    "subtitle": "bon/bonne, parfait/parfaite",
+    "explanation": "French adjectives often change to match the noun. Many add -e for feminine and -s for plural.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je prends le petit-déjeuner avec ma famille"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Possessive adjectives: mon, ma, mes, ton, votre",
+    "subtitle": "Saying my, your",
+    "explanation": "Use mon, ma, mes and other possessive adjectives before nouns to show ownership. The form depends on the noun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Décrivez votre journée s'il vous plaît."
+      },
+      {
+        "eng": "",
+        "fre": "Mes cours commencent à 8h30 et se terminent à 14h30."
+      },
+      {
+        "eng": "",
+        "fre": "À 17 heures je sors jouer avec mes amis."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "S'il vous plaît",
+    "subtitle": "Polite please",
+    "explanation": "Use s'il vous plaît to say please in a polite or formal way. With friends/family, s'il te plaît is more informal.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Décrivez votre journée s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Est-ce que questions",
+    "subtitle": "Making yes/no questions",
+    "explanation": "Put est-ce que before a statement to turn it into a yes/no question.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Time expressions",
+    "subtitle": "heures, et demie, et quart",
+    "explanation": "Use heure(s) for o’clock times. Et demie means half past, et quart means quarter past, and moins le quart means quarter to.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Chaque jour, je me lève tôt le matin vers 6h30."
+      },
+      {
+        "eng": "",
+        "fre": "Mes cours commencent à 8h30 et se terminent à 14h30."
+      },
+      {
+        "eng": "",
+        "fre": "Après le déjeuner, je dors une heure."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Numbers and quantities",
+    "subtitle": "deux, trois, cinq",
+    "explanation": "Numbers are used before nouns for quantities, times, prices, and people.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je me couche généralement vers vingt-deux heures et demie."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi for me, lui for him, and elle for her after prepositions like pour and avec.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "après cela, je rentre chez moi en bus"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Object pronouns: me, te, le, la, les",
+    "subtitle": "Short words before verbs",
+    "explanation": "Object pronouns such as me, te, le, la, and les usually go before the verb in French.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Ma mère me donne du lait à boire."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Reflexive verbs",
+    "subtitle": "je me lève, je me lave",
+    "explanation": "Reflexive verbs use me, te, se, nous, or vous before the verb when the action comes back to the subject.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Chaque jour, je me lève tôt le matin vers 6h30."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je me brosse les dents."
+      },
+      {
+        "eng": "",
+        "fre": "Quand je rentre à la maison, je me lave"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Present tense verbs",
+    "subtitle": "Everyday actions now",
+    "explanation": "Use the present tense to talk about current facts, routines, and repeated actions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      },
+      {
+        "eng": "",
+        "fre": "Décrivez votre journée s'il vous plaît."
+      },
+      {
+        "eng": "",
+        "fre": "Chaque jour, je me lève tôt le matin vers 6h30."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Near future: aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to say someone is going to do something: je vais faire, nous allons nettoyer.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "puis je vais à l'école."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Imperatives",
+    "subtitle": "Giving instructions",
+    "explanation": "Use imperatives to give instructions or commands, often without the subject pronoun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Aujourd'hui Charlotte va décrire sa journée. Charlotte."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je regarde des émissions de dessins animés."
+      },
+      {
+        "eng": "",
+        "fre": "Après avoir regardé la télévision, je fais mes devoirs."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Relative pronouns: qui / que / où",
+    "subtitle": "Joining ideas",
+    "explanation": "Use qui, que, and où to connect two ideas: who/that, that/which, or where.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Connectors: et, mais, puis, après",
+    "subtitle": "Joining and sequencing ideas",
+    "explanation": "Use connectors like et, mais, puis, ensuite, après, and quand to join ideas and show order.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Après cela, je me brosse les dents."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "Quand je rentre à la maison, je me lave"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Adverbs: très, toujours, bientôt",
+    "subtitle": "Adding detail",
+    "explanation": "Adverbs such as très, toujours, bientôt, directement, and généralement add more detail to verbs or adjectives.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je dîne généralement avec ma famille vers 20 heures."
+      },
+      {
+        "eng": "",
+        "fre": "Je me couche généralement vers vingt-deux heures et demie."
+      },
+      {
+        "eng": "",
+        "fre": "très bien Charlotte."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Greetings and farewells",
+    "subtitle": "Bonjour, salut, au revoir",
+    "explanation": "Greetings and farewells are short social phrases used to start and end conversations politely.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde."
+      },
+      {
+        "eng": "",
+        "fre": "Bonjour."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Chez",
+    "subtitle": "At someone’s place",
+    "explanation": "Use chez to mean at someone’s home/place or at a professional’s office, such as chez moi or chez le médecin.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "après cela, je rentre chez moi en bus"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Avec",
+    "subtitle": "With",
+    "explanation": "Use avec to say with someone or with something.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "À 17 heures je sors jouer avec mes amis."
+      },
+      {
+        "eng": "",
+        "fre": "Je dîne généralement avec ma famille vers 20 heures."
+      },
+      {
+        "eng": "",
+        "fre": "Je prends le petit-déjeuner avec ma famille"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Faire expressions",
+    "subtitle": "faire le ménage, faire les courses",
+    "explanation": "Faire is used in many common expressions, especially for chores, activities, and shopping.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      },
+      {
+        "eng": "",
+        "fre": "Après avoir regardé la télévision, je fais mes devoirs."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Prendre",
+    "subtitle": "Taking / having",
+    "explanation": "Prendre can mean to take or to have, especially with meals, transport, or breaks.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je prends le petit-déjeuner avec ma famille"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Aller",
+    "subtitle": "Going",
+    "explanation": "Aller means to go. It is also used to build the near future with another infinitive.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Madame, qu'est-ce que nous allons faire aujourd'hui ?"
+      },
+      {
+        "eng": "",
+        "fre": "Aujourd'hui Charlotte va décrire sa journée. Charlotte."
+      },
+      {
+        "eng": "",
+        "fre": "Après cela, je vais au parc et je fais des exercices physiques."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Meals with le/la",
+    "subtitle": "le petit-déjeuner, le déjeuner, le dîner",
+    "explanation": "Meal words often use le in general expressions: le petit-déjeuner, le déjeuner, le dîner.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Après le déjeuner, je dors une heure."
+      },
+      {
+        "eng": "",
+        "fre": "Je prends le petit-déjeuner avec ma famille"
+      }
+    ]
+  }
+]

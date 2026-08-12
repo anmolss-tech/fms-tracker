@@ -1,0 +1,702 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "C'est",
+    "subtitle": "Saying it is / this is",
+    "explanation": "Use c'est to say it is, this is, or that is before a description or noun.",
+    "examples": [
+      {
+        "eng": "How much is the chicken?",
+        "fre": "C'est combien le poulet?"
+      },
+      {
+        "eng": "How much is a bottle?",
+        "fre": "C'est combien une bouteille?"
+      },
+      {
+        "eng": "How much is the turkey?",
+        "fre": "C'est combien la dinde?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Ce n'est pas",
+    "subtitle": "Saying it is not",
+    "explanation": "Use ce n'est pas to say it is not or this is not. In speech, ne can sound very light, but the full written form is useful for learning.",
+    "examples": [
+      {
+        "eng": "It isn't very good for her.",
+        "fre": "Ce nest pas très bon pour elle."
+      },
+      {
+        "eng": "It isn't fantastic.",
+        "fre": "Ce nest pas fantastique."
+      },
+      {
+        "eng": "That isn't good for him.",
+        "fre": "Ca ce nest pas bon pour lui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Être: est / sont",
+    "subtitle": "Is and are",
+    "explanation": "Use est for is and sont for are. These are forms of être, one of the most important French verbs.",
+    "examples": [
+      {
+        "eng": "My bill is here.",
+        "fre": "Mon addition est ici."
+      },
+      {
+        "eng": "The bill is for him.",
+        "fre": "L'addition est pour lui."
+      },
+      {
+        "eng": "The wine is delicious.",
+        "fre": "Le vin est délicieux."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Definite articles: le, la, les, l’",
+    "subtitle": "Saying the",
+    "explanation": "Use le for masculine singular nouns, la for feminine singular nouns, les for plural nouns, and l’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "The bill is for him.",
+        "fre": "L'addition est pour lui."
+      },
+      {
+        "eng": "The bottle of wine.",
+        "fre": "La bouteille de vin."
+      },
+      {
+        "eng": "I would like the wine.",
+        "fre": "Je voudrais le vin."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Indefinite articles: un, une, des",
+    "subtitle": "Saying a, an, some",
+    "explanation": "Use un with masculine singular nouns, une with feminine singular nouns, and des with plural nouns.",
+    "examples": [
+      {
+        "eng": "I would like a bottle of wine.",
+        "fre": "Je voudrais une bouteille de vin."
+      },
+      {
+        "eng": "I would like a bottle of water, please.",
+        "fre": "Je voudrais une bouteille d'eau, s'il vous plaît."
+      },
+      {
+        "eng": "I would like a bottle of water for the table,",
+        "fre": "Je voudrais une bouteille d'eau pour la table,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "De / d’ / du / de la / des",
+    "subtitle": "Of, from, and some",
+    "explanation": "Use de for of/from. It changes with articles: de + le becomes du, de + les becomes des, and de becomes d’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "I would like a bottle of wine.",
+        "fre": "Je voudrais une bouteille de vin."
+      },
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      },
+      {
+        "eng": "The bottle of wine.",
+        "fre": "La bouteille de vin."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "À / au / à la / aux",
+    "subtitle": "At, to, and going to",
+    "explanation": "Use à for at/to. It changes with articles: à + le becomes au, à + les becomes aux, while à la stays separate.",
+    "examples": [
+      {
+        "eng": "Goodbye and have a good evening.",
+        "fre": "Au revoir et bonne soiree."
+      },
+      {
+        "eng": "I would like to go to the hotel.",
+        "fre": "Je voudrais aller a I'hdtel."
+      },
+      {
+        "eng": "Can go to the beach?",
+        "fre": "Puis-je aller ala plage?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Adjective agreement",
+    "subtitle": "bon/bonne, parfait/parfaite",
+    "explanation": "French adjectives often change to match the noun. Many add -e for feminine and -s for plural.",
+    "examples": [
+      {
+        "eng": "The wine is delicious.",
+        "fre": "Le vin est délicieux."
+      },
+      {
+        "eng": "The wine is very good.",
+        "fre": "Le vin est très bon."
+      },
+      {
+        "eng": "I think the wine is always very good here.",
+        "fre": "Pour moi, le vin est toujours très bon ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Possessive adjectives: mon, ma, mes, ton, votre",
+    "subtitle": "Saying my, your",
+    "explanation": "Use mon, ma, mes and other possessive adjectives before nouns to show ownership. The form depends on the noun.",
+    "examples": [
+      {
+        "eng": "I would like my bill.",
+        "fre": "Je voudrais mon addition."
+      },
+      {
+        "eng": "My bill is here.",
+        "fre": "Mon addition est ici."
+      },
+      {
+        "eng": "My wine is terrible.",
+        "fre": "Mon vin est terrible."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Je voudrais",
+    "subtitle": "Polite I would like",
+    "explanation": "Use je voudrais to make polite requests. It is softer than je veux.",
+    "examples": [
+      {
+        "eng": "I would like my bill.",
+        "fre": "Je voudrais mon addition."
+      },
+      {
+        "eng": "I would like a bottle of wine.",
+        "fre": "Je voudrais une bouteille de vin."
+      },
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "S'il vous plaît",
+    "subtitle": "Polite please",
+    "explanation": "Use s'il vous plaît to say please in a polite or formal way. With friends/family, s'il te plaît is more informal.",
+    "examples": [
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      },
+      {
+        "eng": "I would like a bottle of water, please.",
+        "fre": "Je voudrais une bouteille d'eau, s'il vous plaît."
+      },
+      {
+        "eng": "The bottle of water for me, please.",
+        "fre": "La bouteille d'eau pour moi, s'il vous plait."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Excusez-moi",
+    "subtitle": "Getting attention politely",
+    "explanation": "Use excusez-moi before asking a question or making a polite request.",
+    "examples": [
+      {
+        "eng": "Excuse me, how much is the wine?",
+        "fre": "Excusez-moi, C'est combien le vin?"
+      },
+      {
+        "eng": "Excuse me, would like the bill, please.",
+        "fre": "EXCUSeZ-Moi, Je voudrais addition, s'il vous plaît."
+      },
+      {
+        "eng": "Excuse me, how much is a bottle of water?",
+        "fre": "Excusez-moi, c'est combien une bouteille"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Quel / quelle questions",
+    "subtitle": "Asking which / what",
+    "explanation": "Use quel before masculine nouns and quelle before feminine nouns when asking what or which.",
+    "examples": [
+      {
+        "eng": "At what time is the reservation?",
+        "fre": "A quelle heure est la reservation?"
+      },
+      {
+        "eng": "What time is the breakfast?",
+        "fre": "A quelle heure est le petit-dejeuner?"
+      },
+      {
+        "eng": "What time is breakfast?",
+        "fre": "A quelle heure est le petit-déjeuner?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "C'est combien ?",
+    "subtitle": "Asking how much",
+    "explanation": "Use c'est combien ? to ask how much something costs.",
+    "examples": [
+      {
+        "eng": "How much is the chicken?",
+        "fre": "C'est combien le poulet?"
+      },
+      {
+        "eng": "How much is a bottle?",
+        "fre": "C'est combien une bouteille?"
+      },
+      {
+        "eng": "How much is the turkey?",
+        "fre": "C'est combien la dinde?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Quelle heure / à quelle heure",
+    "subtitle": "Asking what time",
+    "explanation": "Use quelle heure est-il ? to ask the current time. Use à quelle heure to ask at what time something happens.",
+    "examples": [
+      {
+        "eng": "At what time is the reservation?",
+        "fre": "A quelle heure est la reservation?"
+      },
+      {
+        "eng": "What time is the breakfast?",
+        "fre": "A quelle heure est le petit-dejeuner?"
+      },
+      {
+        "eng": "What time is breakfast?",
+        "fre": "A quelle heure est le petit-déjeuner?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Time expressions",
+    "subtitle": "heures, et demie, et quart",
+    "explanation": "Use heure(s) for o’clock times. Et demie means half past, et quart means quarter past, and moins le quart means quarter to.",
+    "examples": [
+      {
+        "eng": "At what time is the reservation?",
+        "fre": "A quelle heure est la reservation?"
+      },
+      {
+        "eng": "What time is the breakfast?",
+        "fre": "A quelle heure est le petit-dejeuner?"
+      },
+      {
+        "eng": "What time is breakfast?",
+        "fre": "A quelle heure est le petit-déjeuner?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Numbers and quantities",
+    "subtitle": "deux, trois, cinq",
+    "explanation": "Numbers are used before nouns for quantities, times, prices, and people.",
+    "examples": [
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      },
+      {
+        "eng": "I would like two bottles of water, please.",
+        "fre": "Je voudrais deux bouteilles d'eau, s'il vous plaît."
+      },
+      {
+        "eng": "Hello, I'd like a table for three people,",
+        "fre": "Bonjour, Je voudrais une table pour trois"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Money: euros and centimes",
+    "subtitle": "Talking about prices",
+    "explanation": "Use euros and centimes after numbers when talking about prices.",
+    "examples": [
+      {
+        "eng": "The bill is fifty euros.",
+        "fre": "L'addition est cinquante euros."
+      },
+      {
+        "eng": "The wine is ten euros.",
+        "fre": "Le vin est dix euros."
+      },
+      {
+        "eng": "It's five euros for one day.",
+        "fre": "C'est cing euros pour un jour."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi for me, lui for him, and elle for her after prepositions like pour and avec.",
+    "examples": [
+      {
+        "eng": "The bill is for him.",
+        "fre": "L'addition est pour lui."
+      },
+      {
+        "eng": "The wine is for me.",
+        "fre": "Le vin est pour moi."
+      },
+      {
+        "eng": "I think the wine is always very good here.",
+        "fre": "Pour moi, le vin est toujours très bon ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Present tense verbs",
+    "subtitle": "Everyday actions now",
+    "explanation": "Use the present tense to talk about current facts, routines, and repeated actions.",
+    "examples": [
+      {
+        "eng": "I would like my bill.",
+        "fre": "Je voudrais mon addition."
+      },
+      {
+        "eng": "I would like a bottle of wine.",
+        "fre": "Je voudrais une bouteille de vin."
+      },
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Infinitives after helper verbs",
+    "subtitle": "vouloir, pouvoir, aller + verb",
+    "explanation": "After verbs like vouloir, pouvoir, devoir, and aller, the next verb often stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "I would like to try the wine.",
+        "fre": "Je voudrais essayer le vin."
+      },
+      {
+        "eng": "I would like to try the cheese.",
+        "fre": "Je voudrais essayer le fromage."
+      },
+      {
+        "eng": "Can try the wine?",
+        "fre": "Puis-je essayer le vin?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Pouvoir / Puis-je",
+    "subtitle": "Can I / may I",
+    "explanation": "Use puis-je in formal questions to ask may I. It is useful in restaurants, hotels, and travel situations.",
+    "examples": [
+      {
+        "eng": "Can try the wine?",
+        "fre": "Puis-je essayer le vin?"
+      },
+      {
+        "eng": "Can try the cheese?",
+        "fre": "Puis-je essayer le fromage?"
+      },
+      {
+        "eng": "Can pay for the coffees?",
+        "fre": "Puis-je payer les cafés?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Conditional",
+    "subtitle": "Would / could",
+    "explanation": "The conditional often expresses would, could, or imagined situations, such as je voudrais or on aurait.",
+    "examples": [
+      {
+        "eng": "I would like my bill.",
+        "fre": "Je voudrais mon addition."
+      },
+      {
+        "eng": "I would like a bottle of wine.",
+        "fre": "Je voudrais une bouteille de vin."
+      },
+      {
+        "eng": "I would like two bottles of wine, please.",
+        "fre": "Je voudrais deux bouteilles de vin, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Relative pronouns: qui / que / où",
+    "subtitle": "Joining ideas",
+    "explanation": "Use qui, que, and où to connect two ideas: who/that, that/which, or where.",
+    "examples": [
+      {
+        "eng": "That is for me.",
+        "fre": "Ca C'est pour moi."
+      },
+      {
+        "eng": "That isn't good for him.",
+        "fre": "Ca ce nest pas bon pour lui."
+      },
+      {
+        "eng": "Can hire that for two people, please?",
+        "fre": "Puis-je louer Ca pour deux personnes, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Negation: ne...pas / ne...plus / ne...rien",
+    "subtitle": "Making sentences negative",
+    "explanation": "French negatives often wrap around the verb: ne...pas, ne...plus, ne...jamais, or ne...rien.",
+    "examples": [
+      {
+        "eng": "It isn't very good for her.",
+        "fre": "Ce nest pas très bon pour elle."
+      },
+      {
+        "eng": "Not for me, thank you.",
+        "fre": "Pas pour moi, merci."
+      },
+      {
+        "eng": "It isn't fantastic.",
+        "fre": "Ce nest pas fantastique."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Connectors: et, mais, puis, après",
+    "subtitle": "Joining and sequencing ideas",
+    "explanation": "Use connectors like et, mais, puis, ensuite, après, and quand to join ideas and show order.",
+    "examples": [
+      {
+        "eng": "Can try the wine?",
+        "fre": "Puis-je essayer le vin?"
+      },
+      {
+        "eng": "Can try the cheese?",
+        "fre": "Puis-je essayer le fromage?"
+      },
+      {
+        "eng": "Can pay for the coffees?",
+        "fre": "Puis-je payer les cafés?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Adverbs: très, toujours, bientôt",
+    "subtitle": "Adding detail",
+    "explanation": "Adverbs such as très, toujours, bientôt, directement, and généralement add more detail to verbs or adjectives.",
+    "examples": [
+      {
+        "eng": "The wine is very good.",
+        "fre": "Le vin est très bon."
+      },
+      {
+        "eng": "I think the wine is always very good here.",
+        "fre": "Pour moi, le vin est toujours très bon ici."
+      },
+      {
+        "eng": "Yes, it's very good.",
+        "fre": "Oui, c'est très bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Greetings and farewells",
+    "subtitle": "Bonjour, salut, au revoir",
+    "explanation": "Greetings and farewells are short social phrases used to start and end conversations politely.",
+    "examples": [
+      {
+        "eng": "Hello, I'd like a table for three people,",
+        "fre": "Bonjour, Je voudrais une table pour trois"
+      },
+      {
+        "eng": "Goodbye and have a good evening.",
+        "fre": "Au revoir et bonne soiree."
+      },
+      {
+        "eng": "Have a good evening.",
+        "fre": "Bonne soirée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Chez",
+    "subtitle": "At someone’s place",
+    "explanation": "Use chez to mean at someone’s home/place or at a professional’s office, such as chez moi or chez le médecin.",
+    "examples": [
+      {
+        "eng": "I would like to go home.",
+        "fre": "Je voudrais aller chez moi."
+      },
+      {
+        "eng": "What time can go to Marie's house?",
+        "fre": "A quelle heure puis-je aller chez Marie?"
+      },
+      {
+        "eng": "I would like to go to Pierre's house.",
+        "fre": "Je voudrais aller chez Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Avec",
+    "subtitle": "With",
+    "explanation": "Use avec to say with someone or with something.",
+    "examples": [
+      {
+        "eng": "Can go with Pierre?",
+        "fre": "Puis-je aller avec Pierre?"
+      },
+      {
+        "eng": "Pierre is with me.",
+        "fre": "Pierre est avec mol."
+      },
+      {
+        "eng": "Pierre and Marie are with Jacques and me.",
+        "fre": "Pierre et Marie sont avec Jacques et moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Par",
+    "subtitle": "By / per",
+    "explanation": "Use par to mean by or per, especially with prices and payment expressions.",
+    "examples": [
+      {
+        "eng": "How much is it per day?",
+        "fre": "C'est combien par jour?"
+      },
+      {
+        "eng": "It's ten euros per week.",
+        "fre": "C'est dix euros par semaine."
+      },
+      {
+        "eng": "It's fifty euros per person.",
+        "fre": "C'est cinquante euros par personne."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Location descriptions",
+    "subtitle": "à gauche, à droite, en face",
+    "explanation": "Use location expressions to describe where things are in a room or place.",
+    "examples": [
+      {
+        "eng": "My bill is here.",
+        "fre": "Mon addition est ici."
+      },
+      {
+        "eng": "The wine is delicious.",
+        "fre": "Le vin est délicieux."
+      },
+      {
+        "eng": "I think the wine is always very good here.",
+        "fre": "Pour moi, le vin est toujours très bon ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Faire expressions",
+    "subtitle": "faire le ménage, faire les courses",
+    "explanation": "Faire is used in many common expressions, especially for chores, activities, and shopping.",
+    "examples": [
+      {
+        "eng": "Can make a reservation?",
+        "fre": "Puis-je faire une reservation?"
+      },
+      {
+        "eng": "I would like to make a reservation.",
+        "fre": "Je voudrais faire une réservation."
+      },
+      {
+        "eng": "May make a reservation for three people,",
+        "fre": "Puis-je faire une reservation pour trois"
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Aller",
+    "subtitle": "Going",
+    "explanation": "Aller means to go. It is also used to build the near future with another infinitive.",
+    "examples": [
+      {
+        "eng": "I would like to go, please.",
+        "fre": "Je voudrais aller, s'il vous plait."
+      },
+      {
+        "eng": "What time can go?",
+        "fre": "A quelle heure puis-je aller?"
+      },
+      {
+        "eng": "I would like to go to the hotel.",
+        "fre": "Je voudrais aller a I'hdtel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Meals with le/la",
+    "subtitle": "le petit-déjeuner, le déjeuner, le dîner",
+    "explanation": "Meal words often use le in general expressions: le petit-déjeuner, le déjeuner, le dîner.",
+    "examples": [
+      {
+        "eng": "The breakfast here is fantastic.",
+        "fre": "Le petit-dejeuner ici est fantastique."
+      },
+      {
+        "eng": "What time is the breakfast?",
+        "fre": "A quelle heure est le petit-dejeuner?"
+      },
+      {
+        "eng": "What time is breakfast?",
+        "fre": "A quelle heure est le petit-déjeuner?"
+      }
+    ]
+  }
+]

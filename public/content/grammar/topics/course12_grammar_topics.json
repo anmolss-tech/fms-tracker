@@ -1,0 +1,782 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Directions and regions",
+    "subtitle": "Talking about parts of a country",
+    "explanation": "Use le nord, le sud, l’est, and l’ouest to talk about north, south, east, and west.",
+    "examples": [
+      {
+        "eng": "the north",
+        "fre": "le nord"
+      },
+      {
+        "eng": "the south",
+        "fre": "le sud"
+      },
+      {
+        "eng": "the west",
+        "fre": "l'ouest"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Question words",
+    "subtitle": "Asking basic questions",
+    "explanation": "French question words usually come at the start of the question. Course 12 uses que, où, quand, qui, comment, pourquoi, and combien.",
+    "examples": [
+      {
+        "eng": "What",
+        "fre": "Que"
+      },
+      {
+        "eng": "Where",
+        "fre": "Où"
+      },
+      {
+        "eng": "When",
+        "fre": "Quand"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Où",
+    "subtitle": "Asking where",
+    "explanation": "Use où to ask where something is or where someone can go.",
+    "examples": [
+      {
+        "eng": "Where can I go?",
+        "fre": "Où puis-je aller?"
+      },
+      {
+        "eng": "Where is my corkscrew?",
+        "fre": "Où est mon tire-bouchon?"
+      },
+      {
+        "eng": "Where can one smoke?",
+        "fre": "Où peut-on fumer?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Que",
+    "subtitle": "Asking what",
+    "explanation": "Use que before a verb to ask what. It appears in questions like “what are you eating?” and “what do you want?”.",
+    "examples": [
+      {
+        "eng": "What do you want to eat?",
+        "fre": "Que voulez-vous manger?"
+      },
+      {
+        "eng": "What are you eating?",
+        "fre": "Que mangez-vous?"
+      },
+      {
+        "eng": "What did you want to eat?",
+        "fre": "Que vouliez-vous manger?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Comment",
+    "subtitle": "Asking how",
+    "explanation": "Use comment to ask how. It can also appear in questions asking someone’s name.",
+    "examples": [
+      {
+        "eng": "How",
+        "fre": "Comment"
+      },
+      {
+        "eng": "Je mappelle Kieran",
+        "fre": "Comment t'appelles-tu?"
+      },
+      {
+        "eng": "Je mappelle Kieran",
+        "fre": "Comment vous appelez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Pourquoi",
+    "subtitle": "Asking why",
+    "explanation": "Use pourquoi to ask why something happens or why someone did something.",
+    "examples": [
+      {
+        "eng": "Why",
+        "fre": "Pourquoi"
+      },
+      {
+        "eng": "Why was he scared of her?",
+        "fre": "Pourquoi avait-il peur d’elle?"
+      },
+      {
+        "eng": "Why is he washing his feet?",
+        "fre": "Pourquoi se lave-t-il les pieds?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Combien",
+    "subtitle": "How much / how many",
+    "explanation": "Use combien to ask how much or how many. Add de before the thing being counted.",
+    "examples": [
+      {
+        "eng": "How much / How many",
+        "fre": "Combien"
+      },
+      {
+        "eng": "How many shoes do you have?",
+        "fre": "Combien de chaussures avez-vous?"
+      },
+      {
+        "eng": "How much is it for three weeks?",
+        "fre": "C'est combien pour trois semaines?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Combien de temps",
+    "subtitle": "Asking how long",
+    "explanation": "Use combien de temps to ask how long or for how long.",
+    "examples": [
+      {
+        "eng": "How long",
+        "fre": "Combien de temps"
+      },
+      {
+        "eng": "How long are you here for?",
+        "fre": "Pour combien de temps es-tu ici?"
+      },
+      {
+        "eng": "How long did they work here?",
+        "fre": "Pour combien de temps ont-ils travaillé ici?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "À quelle heure",
+    "subtitle": "Asking at what time",
+    "explanation": "Use à quelle heure to ask at what time something happens.",
+    "examples": [
+      {
+        "eng": "At what time",
+        "fre": "À quelle heure"
+      },
+      {
+        "eng": "What time are you going to the beach?",
+        "fre": "À quelle heure vas-tu / allez-vous à la plage?"
+      },
+      {
+        "eng": "What time are you getting up?",
+        "fre": "À quelle heure te lèves-tu?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Puis-je",
+    "subtitle": "Asking may I / can I",
+    "explanation": "Use puis-je to politely ask “can I” or “may I”. It is followed by an infinitive verb.",
+    "examples": [
+      {
+        "eng": "Can",
+        "fre": "Puis-je"
+      },
+      {
+        "eng": "Can smoke here?",
+        "fre": "Puis-je fumer ici?"
+      },
+      {
+        "eng": "May try these shoes on?",
+        "fre": "Puis-je essayer ces chaussures?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Pouvez-vous",
+    "subtitle": "Asking can you",
+    "explanation": "Use pouvez-vous to politely ask another person if they can do something.",
+    "examples": [
+      {
+        "eng": "Can you",
+        "fre": "Pouvez-vous"
+      },
+      {
+        "eng": "Can you tell me the date?",
+        "fre": "Pouvez-vous me dire la date?"
+      },
+      {
+        "eng": "Can you tell me when the film starts?",
+        "fre": "Peux-tu me dire quand le film commence?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Voulez-vous",
+    "subtitle": "Asking do you want",
+    "explanation": "Use voulez-vous before an infinitive to ask what someone wants to do.",
+    "examples": [
+      {
+        "eng": "Do you want",
+        "fre": "Voulez-vous"
+      },
+      {
+        "eng": "What do you want to eat?",
+        "fre": "Que voulez-vous manger?"
+      },
+      {
+        "eng": "Do you want that for your birthday?",
+        "fre": "Voulez-vous ça pour votre anniversaire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to say someone is going to do something.",
+    "examples": [
+      {
+        "eng": "Are you going",
+        "fre": "Allez-vous"
+      },
+      {
+        "eng": "What are you going to order?",
+        "fre": "Qu'est-ce que tu vas commander?"
+      },
+      {
+        "eng": "I'm going to Paris at seven o'clock.",
+        "fre": "Je vais à Paris à sept heures."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Devoir + infinitive",
+    "subtitle": "Having to do something",
+    "explanation": "Use devoir before another verb to say must or have to.",
+    "examples": [
+      {
+        "eng": "Do I have to",
+        "fre": "Dois-je"
+      },
+      {
+        "eng": "Do you have to",
+        "fre": "Devez-vous"
+      },
+      {
+        "eng": "Whom do we have to go with?",
+        "fre": "Avec qui devons-nous aller?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Infinitives",
+    "subtitle": "Base form of verbs",
+    "explanation": "An infinitive is the base form of a verb, like manger, boire, aller, and prendre. It often follows can, want, going to, or have to.",
+    "examples": [
+      {
+        "eng": "To eat",
+        "fre": "Manger"
+      },
+      {
+        "eng": "To drink",
+        "fre": "Boire"
+      },
+      {
+        "eng": "To go",
+        "fre": "Aller"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Present tense inversion",
+    "subtitle": "Verb before subject in questions",
+    "explanation": "French can ask questions by putting the verb before the subject with a hyphen.",
+    "examples": [
+      {
+        "eng": "Are you eating",
+        "fre": "Mangez-vous"
+      },
+      {
+        "eng": "Is he drinking",
+        "fre": "Boit-il"
+      },
+      {
+        "eng": "Are you paying",
+        "fre": "Payez-vous"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Est-ce que questions",
+    "subtitle": "Simple question starter",
+    "explanation": "Use est-ce que before a normal sentence to turn it into a question.",
+    "examples": [
+      {
+        "eng": "Is Pierre here?",
+        "fre": "Est-ce que Pierre est ici?"
+      },
+      {
+        "eng": "Can Marie speak English?",
+        "fre": "Est-ce que Marie sait parler anglais?"
+      },
+      {
+        "eng": "Where are we eating tonight?",
+        "fre": "Où est-ce que nous mangeons ce soir?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Qu'est-ce que",
+    "subtitle": "Asking what before a full sentence",
+    "explanation": "Use qu’est-ce que when what is followed by a full subject and verb.",
+    "examples": [
+      {
+        "eng": "What are you going to order?",
+        "fre": "Qu'est-ce que tu vas commander?"
+      },
+      {
+        "eng": "What does he think?",
+        "fre": "Que pense-t-il? / Qu'est-ce qu'il pense?"
+      },
+      {
+        "eng": "What do you want to do tomorrow?",
+        "fre": "Qu'est-ce que tu veux / vous voulez faire demain?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Quel / quelle / quels / quelles",
+    "subtitle": "Asking which",
+    "explanation": "Use quel forms to ask which. The form changes with masculine, feminine, singular, and plural nouns.",
+    "examples": [
+      {
+        "eng": "Which / Which one",
+        "fre": "Quel"
+      },
+      {
+        "eng": "Which coat did she buy?",
+        "fre": "Quel manteau avez-vous acheté?"
+      },
+      {
+        "eng": "Which car did you hire?",
+        "fre": "Quelle voiture as-tu / avez-vous loué?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "À / au for places",
+    "subtitle": "Saying to or at a place",
+    "explanation": "Use à before cities and au before masculine places like au restaurant.",
+    "examples": [
+      {
+        "eng": "To / In Paris",
+        "fre": "À Paris"
+      },
+      {
+        "eng": "To / At the restaurant",
+        "fre": "Au restaurant"
+      },
+      {
+        "eng": "Pierre is at the restaurant.",
+        "fre": "Pierre est au restaurant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Chez",
+    "subtitle": "At someone’s place",
+    "explanation": "Use chez to say at/to someone’s house or professional place.",
+    "examples": [
+      {
+        "eng": "would like to go to Pierre's house.",
+        "fre": "Je voudrais aller chez Pierre."
+      },
+      {
+        "eng": "I'm going to Pierre's house at 12 o'clock.",
+        "fre": "Je vais chez Pierre à douze heures."
+      },
+      {
+        "eng": "Are you coming to my house tomorrow?",
+        "fre": "Viens-tu chez moi demain?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "De for possession",
+    "subtitle": "Saying of / belonging to",
+    "explanation": "French often uses de to show possession, where English might use apostrophe-s.",
+    "examples": [
+      {
+        "eng": "What colour is Pierre's car?",
+        "fre": "De quelle couleur est la voiture de Pierre?"
+      },
+      {
+        "eng": "What colour is Marie's house?",
+        "fre": "De quelle couleur est la maison de Marie?"
+      },
+      {
+        "eng": "What is Marie's date of birth?",
+        "fre": "Quelle est la date de naissance de Marie?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Avec qui",
+    "subtitle": "Asking with whom",
+    "explanation": "Use avec qui to ask who someone is with or did something with.",
+    "examples": [
+      {
+        "eng": "with whom / who with",
+        "fre": "avec qui"
+      },
+      {
+        "eng": "With whom did you speak?",
+        "fre": "Avec qui as-tu parlé?"
+      },
+      {
+        "eng": "Whom are they going to speak with?",
+        "fre": "Avec qui vont-ils parler?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Avec quoi",
+    "subtitle": "Asking with what",
+    "explanation": "Use avec quoi to ask what tool, item, or thing was used.",
+    "examples": [
+      {
+        "eng": "with what / what with",
+        "fre": "avec quoi"
+      },
+      {
+        "eng": "What did they make that with?",
+        "fre": "Avec quoi ont-ils fait ça?"
+      },
+      {
+        "eng": "What did they fix the car with?",
+        "fre": "Avec quoi ont-ils réparé la voiture?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "De quelle couleur",
+    "subtitle": "Asking what colour",
+    "explanation": "Use de quelle couleur to ask what colour something is.",
+    "examples": [
+      {
+        "eng": "what colour",
+        "fre": "de quelle couleur"
+      },
+      {
+        "eng": "(Of) what colour is the car?",
+        "fre": "De quelle couleur est la voiture?"
+      },
+      {
+        "eng": "What colour are my eyes?",
+        "fre": "De quelle couleur sont mes yeux?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Time expressions",
+    "subtitle": "Talking about when",
+    "explanation": "Words like demain, aujourd’hui, ce soir, maintenant, and plus tard tell when something happens.",
+    "examples": [
+      {
+        "eng": "Tomorrow",
+        "fre": "Demain"
+      },
+      {
+        "eng": "Today",
+        "fre": "Aujourd'hui"
+      },
+      {
+        "eng": "Tonight",
+        "fre": "Ce soir"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Passé composé with avoir",
+    "subtitle": "Talking about completed actions",
+    "explanation": "Use avoir plus a past participle to say what someone did or has done.",
+    "examples": [
+      {
+        "eng": "What have you eaten?",
+        "fre": "Qu' avez-vous mangé?"
+      },
+      {
+        "eng": "What did they pay with?",
+        "fre": "Avec quoi ont-ils payé?"
+      },
+      {
+        "eng": "Did they speak a lot of French?",
+        "fre": "Ont-ils parlé beaucoup de français?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Passé composé with être",
+    "subtitle": "Motion and reflexive completed actions",
+    "explanation": "Some verbs use être in the passé composé, especially movement and reflexive verbs.",
+    "examples": [
+      {
+        "eng": "Did you see whom he left with?",
+        "fre": "Avez-vous vu avec qui il est parti?"
+      },
+      {
+        "eng": "Whom did you go to the théâtre with?",
+        "fre": "Avec qui es-tu / êtes-vous allé au théâtre?"
+      },
+      {
+        "eng": "Why didn’t you have a shower earlier?",
+        "fre": "Pourquoi ne t'es-tu pas douché plus tôt?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Past tense questions",
+    "subtitle": "Asking what happened",
+    "explanation": "Course 12 uses inversion and question words with past-tense forms like avez-vous, ont-ils, and a-t-il.",
+    "examples": [
+      {
+        "eng": "Have you had the car washed?",
+        "fre": "Avez-vous fait laver la voiture?"
+      },
+      {
+        "eng": "What did they make that with?",
+        "fre": "Avec quoi ont-ils fait ça?"
+      },
+      {
+        "eng": "Were there any bottles of champagne?",
+        "fre": "Y avait-il des bouteilles de champagne?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Reflexive verbs",
+    "subtitle": "Actions done to oneself",
+    "explanation": "Reflexive verbs use me, te, se, nous, or vous. They are common with washing, getting up, and going to bed.",
+    "examples": [
+      {
+        "eng": "What time are you getting up?",
+        "fre": "À quelle heure te lèves-tu?"
+      },
+      {
+        "eng": "Why is he washing his feet?",
+        "fre": "Pourquoi se lave-t-il les pieds?"
+      },
+      {
+        "eng": "Why didn’t you have a shower earlier?",
+        "fre": "Pourquoi ne t'es-tu pas douché plus tôt?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Faire + infinitive",
+    "subtitle": "Having something done",
+    "explanation": "Use faire plus an infinitive to say that someone has something done, like having a car washed.",
+    "examples": [
+      {
+        "eng": "Have you had the car washed?",
+        "fre": "Avez-vous fait laver la voiture?"
+      },
+      {
+        "eng": "They haven't had the car washed.",
+        "fre": "Ils n'ont pas fait laver la voiture."
+      },
+      {
+        "eng": "What did he make that with?",
+        "fre": "Avec quoi a-t-il fait ça?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Il y avait / y avait-il",
+    "subtitle": "There was / were",
+    "explanation": "Use il y avait to say there was or there were. In a question, y avait-il asks was there or were there.",
+    "examples": [
+      {
+        "eng": "Were there any bottles of champagne?",
+        "fre": "Y avait-il des bouteilles de champagne?"
+      },
+      {
+        "eng": "There was not much food.",
+        "fre": "Il n’y avait pas beaucoup de nourriture."
+      },
+      {
+        "eng": "The shop was open but there was no milk.",
+        "fre": "Le magasin était ouvert mais il n’y avait pas de lait."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Demonstratives",
+    "subtitle": "This / that before nouns",
+    "explanation": "French uses ce, cet, cette, and ces to point to this or that noun.",
+    "examples": [
+      {
+        "eng": "This hotel is extraordinary.",
+        "fre": "Cet hôtel est extraordinaire."
+      },
+      {
+        "eng": "What colour is this bottle?",
+        "fre": "De quelle couleur est cette bouteille?"
+      },
+      {
+        "eng": "May try these shoes on?",
+        "fre": "Puis-je essayer ces chaussures?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Possessive adjectives",
+    "subtitle": "My, your, his, her",
+    "explanation": "Words like mon, ma, mes, votre, and vos show ownership and match the French noun.",
+    "examples": [
+      {
+        "eng": "What colour is your house?",
+        "fre": "De quelle couleur est votre maison?"
+      },
+      {
+        "eng": "What colour are my eyes?",
+        "fre": "De quelle couleur sont mes yeux?"
+      },
+      {
+        "eng": "Yes, it is for me, thank you.",
+        "fre": "Oui, c’est pour moi, merci."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Object pronouns",
+    "subtitle": "Small words before the verb",
+    "explanation": "French often places small object words like me, te, t’, and vous before the verb.",
+    "examples": [
+      {
+        "eng": "What can help you with?",
+        "fre": "Avec quoi puis-je t'aider / vous aider?"
+      },
+      {
+        "eng": "Can you tell me when the film starts?",
+        "fre": "Peux-tu me dire quand le film commence?"
+      },
+      {
+        "eng": "Can you tell me the date?",
+        "fre": "Pouvez-vous me dire la date?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-36",
+    "title": "Savoir and indirect questions",
+    "subtitle": "Knowing what / where / when",
+    "explanation": "Use savoir with question words to say know what, know where, or know when.",
+    "examples": [
+      {
+        "eng": "Do you know what they want to eat?",
+        "fre": "Sais-tu / Savez-vous ce qu'ils veulent manger?"
+      },
+      {
+        "eng": "Do you know what she thinks?",
+        "fre": "Sais-tu / Savez-vous ce qu'elle pense?"
+      },
+      {
+        "eng": "Can you tell me when the film starts?",
+        "fre": "Peux-tu me dire quand le film commence?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-37",
+    "title": "Birthdays and dates",
+    "subtitle": "Talking about dates",
+    "explanation": "Course 12 uses dates, birthdays, and date of birth questions.",
+    "examples": [
+      {
+        "eng": "It's your birthday tomorrow.",
+        "fre": "C'est votre anniversaire demain."
+      },
+      {
+        "eng": "My birthday is tomorrow.",
+        "fre": "Mon anniversaire, c'est demain."
+      },
+      {
+        "eng": "Do you have the date?",
+        "fre": "Avez-vous la date?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-38",
+    "title": "Imperfect tense",
+    "subtitle": "Background past descriptions",
+    "explanation": "Use the imperfect for background states or repeated past situations, such as was, were, or used to.",
+    "examples": [
+      {
+        "eng": "Why was he scared of her?",
+        "fre": "Pourquoi avait-il peur d’elle?"
+      },
+      {
+        "eng": "What colour was the car?",
+        "fre": "De quelle couleur était la voiture?"
+      },
+      {
+        "eng": "The shop was open but there was no milk.",
+        "fre": "Le magasin était ouvert mais il n’y avait pas de lait."
+      }
+    ]
+  },
+  {
+    "id": "grammar-39",
+    "title": "Negative sentences",
+    "subtitle": "Saying not",
+    "explanation": "French commonly uses ne and pas around the verb to make a sentence negative.",
+    "examples": [
+      {
+        "eng": "The key doesn't work.",
+        "fre": "La clé ne marche pas."
+      },
+      {
+        "eng": "Pierre didn't die.",
+        "fre": "Pierre n'est pas mort."
+      },
+      {
+        "eng": "The shop was open but there was no milk.",
+        "fre": "Le magasin était ouvert mais il n’y avait pas de lait."
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Aller + infinitive",
+    "subtitle": "Saying what you are going to do",
+    "explanation": "Use je vais + an infinitive to say what you are going to do.",
+    "examples": [
+      {
+        "eng": "I'm going to make a reservation.",
+        "fre": "Je vais faire une réservation."
+      },
+      {
+        "eng": "I'm going to hire a car.",
+        "fre": "Je vais louer une voiture."
+      },
+      {
+        "eng": "I'm going to order a bottle of wine for the table.",
+        "fre": "Je vais commander une bouteille de vin pour la table."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Allez-vous + infinitive",
+    "subtitle": "Asking “are you going to...?”",
+    "explanation": "Use allez-vous + an infinitive to ask politely if someone is going to do something.",
+    "examples": [
+      {
+        "eng": "Are you going to make a reservation?",
+        "fre": "Allez-vous faire une réservation?"
+      },
+      {
+        "eng": "Are you going to hire a car?",
+        "fre": "Allez-vous louer une voiture?"
+      },
+      {
+        "eng": "Are you going to try the wine?",
+        "fre": "Allez-vous essayer le vin?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Ne... pas with aller",
+    "subtitle": "Saying what you are not going to do",
+    "explanation": "Put ne and pas around vais to say that you are not going to do something.",
+    "examples": [
+      {
+        "eng": "I'm not going to Paris.",
+        "fre": "Je ne vais pas à Paris."
+      },
+      {
+        "eng": "I'm not going to make a reservation.",
+        "fre": "Je ne vais pas faire une réservation."
+      },
+      {
+        "eng": "I'm not going to eat here; the food is terrible.",
+        "fre": "Je ne vais pas manger ici; la nourriture est terrible."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Être: je suis / êtes-vous",
+    "subtitle": "Saying “I am” and asking “are you?”",
+    "explanation": "Use je suis to say “I am” and êtes-vous to ask “are you?” politely.",
+    "examples": [
+      {
+        "eng": "I am busy.",
+        "fre": "Je suis occupé."
+      },
+      {
+        "eng": "Are you tired?",
+        "fre": "Êtes-vous fatigué?"
+      },
+      {
+        "eng": "Are you in a hurry?",
+        "fre": "Êtes-vous pressé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Adjective agreement",
+    "subtitle": "Matching descriptions to masculine or feminine",
+    "explanation": "Many French adjectives change form to match the person or thing they describe, such as occupé / occupée and fatigué / fatiguée.",
+    "examples": [
+      {
+        "eng": "I am busy.",
+        "fre": "Je suis occupé."
+      },
+      {
+        "eng": "She is busy.",
+        "fre": "Elle est occupée."
+      },
+      {
+        "eng": "She is tired.",
+        "fre": "Elle est fatiguée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Il est / elle est",
+    "subtitle": "Saying “he is” and “she is”",
+    "explanation": "Use il est for “he is” and elle est for “she is,” followed by a description or place.",
+    "examples": [
+      {
+        "eng": "He is busy.",
+        "fre": "Il est occupé."
+      },
+      {
+        "eng": "She is tired.",
+        "fre": "Elle est fatiguée."
+      },
+      {
+        "eng": "She is in a hurry.",
+        "fre": "Elle est pressée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Negating être",
+    "subtitle": "Saying someone is not",
+    "explanation": "Put ne... pas around the form of être to say that someone or something is not a certain way.",
+    "examples": [
+      {
+        "eng": "He isn't busy.",
+        "fre": "Il n'est pas occupé."
+      },
+      {
+        "eng": "She isn't tired.",
+        "fre": "Elle n'est pas fatiguée."
+      },
+      {
+        "eng": "She's not in a hurry.",
+        "fre": "Elle n'est pas pressée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Est-il / est-elle",
+    "subtitle": "Asking “is he?” or “is she?”",
+    "explanation": "Use est-il or est-elle at the start of a question to ask about him or her.",
+    "examples": [
+      {
+        "eng": "Is he busy?",
+        "fre": "Est-il occupé?"
+      },
+      {
+        "eng": "Is she tired?",
+        "fre": "Est-elle fatiguée?"
+      },
+      {
+        "eng": "Is she busy?",
+        "fre": "Est-elle occupée?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "S'appeler",
+    "subtitle": "Saying what someone is called",
+    "explanation": "Use je m'appelle to say your name or what you are called.",
+    "examples": [
+      {
+        "eng": "I'm called Mr Blanc.",
+        "fre": "Je m'appelle M. Blanc."
+      },
+      {
+        "eng": "I'm called Mrs Petit.",
+        "fre": "Je m'appelle Mme Petit."
+      },
+      {
+        "eng": "I'm called Miss Dubois.",
+        "fre": "Je m'appelle Mlle Dubois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Avoir: j'ai / avez-vous",
+    "subtitle": "Having something and asking if someone has it",
+    "explanation": "Use j'ai for “I have” and avez-vous for the polite question “do you have?”",
+    "examples": [
+      {
+        "eng": "I have a reservation.",
+        "fre": "J'ai une réservation."
+      },
+      {
+        "eng": "I have a ticket for Paris.",
+        "fre": "J'ai un billet pour Paris."
+      },
+      {
+        "eng": "Do you have a map?",
+        "fre": "Avez-vous un plan?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Direct object pronouns: le, la, l’",
+    "subtitle": "Replacing “it” before a verb",
+    "explanation": "Use le, la, or l' before a verb to replace a thing already mentioned instead of repeating the noun.",
+    "examples": [
+      {
+        "eng": "Can I do it tomorrow?",
+        "fre": "Puis-je le faire demain?"
+      },
+      {
+        "eng": "Can I change it (the reservation)?",
+        "fre": "Puis-je la changer?"
+      },
+      {
+        "eng": "Do you want to try it?",
+        "fre": "Voulez-vous l'essayer?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Maintenant / plus tard",
+    "subtitle": "Talking about now and later",
+    "explanation": "Use maintenant for “now” and plus tard for “later” to make the timing of an action clear.",
+    "examples": [
+      {
+        "eng": "I am here now.",
+        "fre": "Je suis ici maintenant."
+      },
+      {
+        "eng": "I'm going to the beach later.",
+        "fre": "Je vais à la plage plus tard."
+      },
+      {
+        "eng": "Can I pay it later?",
+        "fre": "Puis-je le payer plus tard?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Sous le nom de",
+    "subtitle": "Giving the name on a reservation",
+    "explanation": "Use sous le nom de to say that a booking or reservation is under a particular name.",
+    "examples": [
+      {
+        "eng": "I have a reservation in the name of Smith.",
+        "fre": "J'ai une réservation sous le nom de Smith."
+      },
+      {
+        "eng": "It's in the name of Blanc.",
+        "fre": "C'est sous le nom de Blanc."
+      },
+      {
+        "eng": "Do you have a reservation in the name of Descartes?",
+        "fre": "Avez-vous une réservation sous le nom de Descartes?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Vouloir + infinitive",
+    "subtitle": "Asking what someone wants to do",
+    "explanation": "Use voulez-vous + an infinitive to ask whether someone wants to do an action.",
+    "examples": [
+      {
+        "eng": "Do you want to try the cheese?",
+        "fre": "Voulez-vous essayer le fromage?"
+      },
+      {
+        "eng": "Do you want to make a reservation?",
+        "fre": "Voulez-vous faire une réservation?"
+      },
+      {
+        "eng": "Do you want to do it now?",
+        "fre": "Voulez-vous le faire maintenant?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Question words",
+    "subtitle": "Building questions with what, where, when, and why",
+    "explanation": "Put a question word such as que, où, quand, or pourquoi before the rest of the question to ask for specific information.",
+    "examples": [
+      {
+        "eng": "What do you want to eat?",
+        "fre": "Que voulez-vous manger?"
+      },
+      {
+        "eng": "Where do you want to eat?",
+        "fre": "Où voulez-vous manger?"
+      },
+      {
+        "eng": "When do you want to eat?",
+        "fre": "Quand voulez-vous manger?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Quel / quelle / quels",
+    "subtitle": "Asking “which one?”",
+    "explanation": "Quel changes to match the noun. This course introduces masculine singular, feminine singular, and masculine plural forms.",
+    "examples": [
+      {
+        "eng": "which one (masculine singular)",
+        "fre": "quel"
+      },
+      {
+        "eng": "which one (feminine singular)",
+        "fre": "quelle"
+      },
+      {
+        "eng": "which ones (masculine plural)",
+        "fre": "quels"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Combien / combien de",
+    "subtitle": "Asking how much, how many, or how long",
+    "explanation": "Use combien for “how much/how many,” and combien de before a noun. Combien de temps means “how long.”",
+    "examples": [
+      {
+        "eng": "How much wine do you want?",
+        "fre": "Combien de vin voulez-vous?"
+      },
+      {
+        "eng": "How many carrots do you want?",
+        "fre": "Combien de carottes voulez-vous?"
+      },
+      {
+        "eng": "How long (how much time)",
+        "fre": "Combien de temps"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Pouvoir",
+    "subtitle": "Saying or asking what someone can do",
+    "explanation": "Use peux, pouvez-vous, or puis-je with an infinitive to talk about what someone can do or to ask permission.",
+    "examples": [
+      {
+        "eng": "I can bring some wine for Pierre tomorrow.",
+        "fre": "Je peux apporter du vin pour Pierre demain."
+      },
+      {
+        "eng": "What can you see?",
+        "fre": "Que pouvez-vous voir?"
+      },
+      {
+        "eng": "Can you call Marie at quarter past four?",
+        "fre": "Pouvez-vous appeler Marie à quatre heures et quart?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Devoir",
+    "subtitle": "Saying what someone has to do",
+    "explanation": "Use devoir to express “have to” or “must,” including je dois, devez-vous, and dois-je.",
+    "examples": [
+      {
+        "eng": "I have to / I must",
+        "fre": "je dois"
+      },
+      {
+        "eng": "do you have to / must you",
+        "fre": "devez-vous"
+      },
+      {
+        "eng": "Whom do you have to see in Paris?",
+        "fre": "Qui devez-vous voir à Paris?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Negative question forms",
+    "subtitle": "Asking what someone cannot or will not do",
+    "explanation": "In these questions, ne... pas is placed around the verb to make a negative question.",
+    "examples": [
+      {
+        "eng": "Why can't I go with you?",
+        "fre": "Pourquoi ne puis-je pas aller avec vous?"
+      },
+      {
+        "eng": "What can't you bring?",
+        "fre": "Que ne pouvez-vous pas apporter?"
+      },
+      {
+        "eng": "Aren't you going to buy something for Marie?",
+        "fre": "N'allez-vous pas acheter quelque chose pour Marie?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Passé composé with avoir",
+    "subtitle": "Talking about completed past actions",
+    "explanation": "Use j'ai + a past participle to say that you did or have done something.",
+    "examples": [
+      {
+        "eng": "I've ordered a bottle of wine.",
+        "fre": "J'ai commandé une bouteille de vin."
+      },
+      {
+        "eng": "I ate at the restaurant.",
+        "fre": "J'ai mangé au restaurant."
+      },
+      {
+        "eng": "I've eaten absolutely everything.",
+        "fre": "J'ai mangé absolument tout."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "C'était / était",
+    "subtitle": "Saying what something or someone was like",
+    "explanation": "Use c'était for “it was” and était when describing what a person or thing was like in the past.",
+    "examples": [
+      {
+        "eng": "It was fantastic.",
+        "fre": "C'était fantastique."
+      },
+      {
+        "eng": "It was here.",
+        "fre": "C'était ici."
+      },
+      {
+        "eng": "I think it was good.",
+        "fre": "Pour moi, c'était bon."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Past negation with n'était pas",
+    "subtitle": "Saying something was not",
+    "explanation": "Use n'était pas or ce n'était pas to say that someone or something was not a certain way in the past.",
+    "examples": [
+      {
+        "eng": "It wasn't very good.",
+        "fre": "Ce n'était pas très bon."
+      },
+      {
+        "eng": "It was good but it wasn't perfect.",
+        "fre": "C'était bon mais ce n'était pas parfait."
+      },
+      {
+        "eng": "Pierre wasn't there yesterday but he was there today.",
+        "fre": "Pierre n'était pas là hier mais il était là aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Hier / aujourd'hui / demain",
+    "subtitle": "Placing actions in time",
+    "explanation": "Use hier for “yesterday,” aujourd'hui for “today,” and demain for “tomorrow.”",
+    "examples": [
+      {
+        "eng": "I ate here yesterday.",
+        "fre": "J'ai mangé ici hier."
+      },
+      {
+        "eng": "I'm going to Paris tomorrow.",
+        "fre": "Je vais à Paris demain."
+      },
+      {
+        "eng": "Pierre wasn't there yesterday but he was there today.",
+        "fre": "Pierre n'était pas là hier mais il était là aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "La même chose",
+    "subtitle": "Saying “the same thing”",
+    "explanation": "Use la même chose when you want the same item, choice, or action again.",
+    "examples": [
+      {
+        "eng": "I would like the same thing.",
+        "fre": "Je voudrais la même chose."
+      },
+      {
+        "eng": "I've ordered the same thing.",
+        "fre": "J'ai commandé la même chose."
+      },
+      {
+        "eng": "The same thing for me, please.",
+        "fre": "La même chose pour moi, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "La même chose que",
+    "subtitle": "Saying “the same thing as...”",
+    "explanation": "Add que after la même chose to compare your choice with another person or an earlier choice.",
+    "examples": [
+      {
+        "eng": "I would like the same thing as you.",
+        "fre": "Je voudrais la même chose que vous."
+      },
+      {
+        "eng": "I have ordered the same thing as Marie.",
+        "fre": "J'ai commandé la même chose que Marie."
+      },
+      {
+        "eng": "I'm going to do the same thing today as yesterday.",
+        "fre": "Je vais faire la même chose aujourd'hui qu'hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Encore vs un autre / une autre",
+    "subtitle": "Choosing another of the same or a different one",
+    "explanation": "Encore can mean another one of the same kind, while un autre or une autre can point to a different one.",
+    "examples": [
+      {
+        "eng": "I would like another bottle of wine (the same sort).",
+        "fre": "Je voudrais encore une bouteille de vin."
+      },
+      {
+        "eng": "I would like another bottle of wine (a different sort).",
+        "fre": "Je voudrais une autre bouteille de vin."
+      },
+      {
+        "eng": "Do you want another bottle? (a different sort)",
+        "fre": "Voulez-vous une autre bouteille?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Si c'est possible",
+    "subtitle": "Adding “if possible” politely",
+    "explanation": "Use si c'est possible to make a request softer by adding “if it's possible.”",
+    "examples": [
+      {
+        "eng": "I would like that, if it's possible.",
+        "fre": "Je voudrais cela, si c'est possible."
+      },
+      {
+        "eng": "If it's possible, I would like it in green.",
+        "fre": "Si c'est possible, je le voudrais en vert."
+      },
+      {
+        "eng": "I would like the same thing again, if it's possible.",
+        "fre": "Je voudrais encore la même chose, si c'est possible."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Ce / cet / cette / ces",
+    "subtitle": "Saying this or these before a noun",
+    "explanation": "French uses different forms of “this/these” depending on the noun: ce, cet, cette, and ces.",
+    "examples": [
+      {
+        "eng": "I would like this belt in dark grey.",
+        "fre": "Je voudrais cette ceinture en gris foncé."
+      },
+      {
+        "eng": "Can I try these shoes?",
+        "fre": "Puis-je essayer ces chaussures ?"
+      },
+      {
+        "eng": "I think this hotel is good but I prefer the rooms there.",
+        "fre": "Pour moi, cet hôtel est bon mais je préfère les chambres là."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Colours with en and adjective agreement",
+    "subtitle": "Describing colour",
+    "explanation": "Use en + a colour for “in [colour],” while colour adjectives can also follow a noun and agree when needed.",
+    "examples": [
+      {
+        "eng": "If it's possible, I would like it in green.",
+        "fre": "Si c'est possible, je le voudrais en vert."
+      },
+      {
+        "eng": "Do you have that in white?",
+        "fre": "Avez-vous cela en blanc ?"
+      },
+      {
+        "eng": "The light blue shirt is good but, for you, I prefer the dark blue shirt.",
+        "fre": "La chemise bleue claire est bonne mais, pour vous, je préfère la chemise bleue foncée."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Plus grand / plus petit",
+    "subtitle": "Saying bigger or smaller",
+    "explanation": "Use plus grand for “bigger” and plus petit for “smaller”; the adjective changes when it describes a feminine noun.",
+    "examples": [
+      {
+        "eng": "Bigger.",
+        "fre": "Plus grand."
+      },
+      {
+        "eng": "Smaller.",
+        "fre": "Plus petit."
+      },
+      {
+        "eng": "I would like a bigger car, please.",
+        "fre": "Je voudrais une plus grande voiture, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Avoir mal à / au / aux",
+    "subtitle": "Saying where something hurts",
+    "explanation": "Use j'ai mal à... to say where you hurt. À changes to au or aux with some body-part nouns.",
+    "examples": [
+      {
+        "eng": "I've hurt my head.",
+        "fre": "J'ai mal à la tête."
+      },
+      {
+        "eng": "I've hurt my nose.",
+        "fre": "J'ai mal au nez."
+      },
+      {
+        "eng": "i've hurt my eyes",
+        "fre": "j'ai mal aux yeux"
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Je me suis cassé",
+    "subtitle": "Saying you broke a body part",
+    "explanation": "Use je me suis cassé + a body part to say that you have broken it.",
+    "examples": [
+      {
+        "eng": "I've broken my finger.",
+        "fre": "Je me suis cassé le doigt."
+      },
+      {
+        "eng": "I've broken my nose.",
+        "fre": "Je me suis cassé le nez."
+      },
+      {
+        "eng": "I've broken my leg.",
+        "fre": "Je me suis cassé la jambe."
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "J'ai attrapé",
+    "subtitle": "Saying you caught an illness",
+    "explanation": "Use j'ai attrapé + an illness to say that you caught it.",
+    "examples": [
+      {
+        "eng": "I've caught a cold.",
+        "fre": "J'ai attrapé un rhume."
+      },
+      {
+        "eng": "I've caught the flu.",
+        "fre": "J'ai attrapé la grippe."
+      },
+      {
+        "eng": "I've caught a small cold.",
+        "fre": "J'ai attrapé un petit rhume."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Je me sens / je ne me sens pas",
+    "subtitle": "Saying how you feel",
+    "explanation": "Use je me sens + a description to say how you feel, and je ne me sens pas to make it negative.",
+    "examples": [
+      {
+        "eng": "I feel well.",
+        "fre": "Je me sens bien."
+      },
+      {
+        "eng": "I feel very well.",
+        "fre": "Je me sens très bien."
+      },
+      {
+        "eng": "I don't feel well.",
+        "fre": "Je ne me sens pas bien."
+      }
+    ]
+  }
+]

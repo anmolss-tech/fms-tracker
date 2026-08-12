@@ -1,0 +1,622 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Imperfect pouvoir",
+    "subtitle": "Saying could / was able to",
+    "explanation": "Use the imperfect forms of pouvoir to talk about what someone could do or was able to do in the past.",
+    "examples": [
+      {
+        "eng": "I could / I was able",
+        "fre": "je pouvais"
+      },
+      {
+        "eng": "we could / we were able",
+        "fre": "nous pouvions"
+      },
+      {
+        "eng": "they could / they were able",
+        "fre": "ils pouvaient"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Imperfect vouloir",
+    "subtitle": "Saying wanted / was wanting",
+    "explanation": "Use voulais, voulions, vouliez, and voulaient to talk about what people wanted in the past.",
+    "examples": [
+      {
+        "eng": "I wanted",
+        "fre": "je voulais"
+      },
+      {
+        "eng": "I wanted to see you.",
+        "fre": "Je voulais te / vous voir."
+      },
+      {
+        "eng": "What did you want to do yesterday?",
+        "fre": "Que voulais-tu / vouliez-vous faire hier?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Dire à",
+    "subtitle": "Telling something to someone",
+    "explanation": "Use dire for “to say / to tell”. When you name the person receiving the information, the course uses dire à + person.",
+    "examples": [
+      {
+        "eng": "to say / to tell",
+        "fre": "dire"
+      },
+      {
+        "eng": "I need to tell Marie",
+        "fre": "j'ai besoin de dire à Marie"
+      },
+      {
+        "eng": "I'm going to tell Pierre everything tomorrow.",
+        "fre": "Je vais tout dire à Pierre demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Imperfect devoir",
+    "subtitle": "Saying had to / was supposed to",
+    "explanation": "Use the imperfect of devoir to say what someone had to do in the past.",
+    "examples": [
+      {
+        "eng": "I had to",
+        "fre": "je devais"
+      },
+      {
+        "eng": "I had to leave yesterday.",
+        "fre": "Je devais partir hier."
+      },
+      {
+        "eng": "What did you have to do?",
+        "fre": "Que devais-tu faire? / Que deviez-vous faire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Garer and se garer",
+    "subtitle": "Parking something vs parking yourself",
+    "explanation": "Use garer when you park a vehicle or other object. Use se garer when the person is parking or finding a place to park.",
+    "examples": [
+      {
+        "eng": "I park / I am parking",
+        "fre": "je gare"
+      },
+      {
+        "eng": "I park / I am parking myself",
+        "fre": "je me gare"
+      },
+      {
+        "eng": "Can I park somewhere here?",
+        "fre": "Puis-je me garer quelque part ici?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Quelque part",
+    "subtitle": "Saying somewhere",
+    "explanation": "Use quelque part for “somewhere”. It can be used with location, movement, and parking questions.",
+    "examples": [
+      {
+        "eng": "somewhere",
+        "fre": "quelque part"
+      },
+      {
+        "eng": "He is somewhere in France.",
+        "fre": "Il est quelque part en France."
+      },
+      {
+        "eng": "Is there somewhere where I can park nearby?",
+        "fre": "Y a-t-il quelque part où je peux me garer près d'ici?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Quelqu'un",
+    "subtitle": "Someone / somebody / anyone",
+    "explanation": "Use quelqu’un for someone or somebody. In questions, the same expression can also match “anyone / anybody”.",
+    "examples": [
+      {
+        "eng": "someone / somebody / anyone / anybody",
+        "fre": "quelqu'un"
+      },
+      {
+        "eng": "Did you see somebody at the hotel?",
+        "fre": "As-tu / Avez-vous vu quelqu'un à l'hôtel?"
+      },
+      {
+        "eng": "Does anybody speak English?",
+        "fre": "Quelqu'un parle-t-il anglais?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Quelquefois",
+    "subtitle": "Saying sometimes",
+    "explanation": "Use quelquefois for “sometimes” when an action or situation happens on some occasions.",
+    "examples": [
+      {
+        "eng": "sometimes",
+        "fre": "quelquefois"
+      },
+      {
+        "eng": "Sometimes I go to France, but sometimes I go to Spain.",
+        "fre": "Quelquefois je vais en France, mais quelquefois je vais en Espagne."
+      },
+      {
+        "eng": "Sometimes, it's very cold in London.",
+        "fre": "Quelquefois, il fait très froid à Londres."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Imperfect savoir",
+    "subtitle": "Saying knew",
+    "explanation": "Use the imperfect of savoir to talk about what someone knew in the past.",
+    "examples": [
+      {
+        "eng": "I knew",
+        "fre": "je savais"
+      },
+      {
+        "eng": "We knew.",
+        "fre": "Nous savions."
+      },
+      {
+        "eng": "We knew where it was but we were very tired.",
+        "fre": "Nous savions où c'était mais nous étions très fatigués."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Savoir + infinitive",
+    "subtitle": "Knowing how to do something",
+    "explanation": "The course uses savoir followed directly by an infinitive for knowing how to do an activity.",
+    "examples": [
+      {
+        "eng": "I know how to drive",
+        "fre": "je sais conduire"
+      },
+      {
+        "eng": "I know how to read",
+        "fre": "je sais lire"
+      },
+      {
+        "eng": "I know how to ride horses",
+        "fre": "je sais monter à cheval"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Que, ce que, and quoi",
+    "subtitle": "Different ways to express what",
+    "explanation": "Use que at the start of many questions, ce que inside a sentence for “what”, and quoi before an infinitive in patterns such as quoi faire.",
+    "examples": [
+      {
+        "eng": "I don't understand what you said.",
+        "fre": "Je ne comprends pas ce que tu as / vous avez dit."
+      },
+      {
+        "eng": "Can you tell Jeanne what everybody wants to eat?",
+        "fre": "Peux-tu / Pouvez-vous dire à Jeanne ce que tout le monde veut manger?"
+      },
+      {
+        "eng": "I don't know what to do",
+        "fre": "je ne sais pas quoi faire"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Reflexive pronouns",
+    "subtitle": "Me, te, se, nous, vous",
+    "explanation": "Reflexive verbs change the pronoun with the subject: me, te, se, nous, or vous. The pronoun stays with the verb or infinitive.",
+    "examples": [
+      {
+        "eng": "I park / I am parking myself",
+        "fre": "je me gare"
+      },
+      {
+        "eng": "we park / we are parking ourselves",
+        "fre": "nous nous garons"
+      },
+      {
+        "eng": "you park yourself / yourselves",
+        "fre": "vous vous garez"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "S'appeler",
+    "subtitle": "Saying what someone is called",
+    "explanation": "S’appeler is a reflexive verb used for names. The reflexive pronoun changes with the person.",
+    "examples": [
+      {
+        "eng": "I'm called Marie",
+        "fre": "je m'appelle Marie"
+      },
+      {
+        "eng": "I'm called Pierre",
+        "fre": "je m'appelle Pierre"
+      },
+      {
+        "eng": "I'm called",
+        "fre": "je m'appelle"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Se laver and se lever",
+    "subtitle": "Everyday reflexive actions",
+    "explanation": "Use se laver for washing yourself and se lever for getting up. The reflexive pronoun changes with the subject.",
+    "examples": [
+      {
+        "eng": "I'm having a wash",
+        "fre": "je me lave"
+      },
+      {
+        "eng": "I'm getting up",
+        "fre": "je me lève"
+      },
+      {
+        "eng": "I'm getting up early tomorrow.",
+        "fre": "Je me lève tôt demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Se rendre compte que",
+    "subtitle": "Saying realise that",
+    "explanation": "Use se rendre compte to say “to realise”. Add que before the thing you realise.",
+    "examples": [
+      {
+        "eng": "I realise",
+        "fre": "je me rends compte"
+      },
+      {
+        "eng": "I realise (that) Pierre isn't coming",
+        "fre": "je me rends compte que Pierre ne vient pas"
+      },
+      {
+        "eng": "I realise (that) it's late",
+        "fre": "je me rends compte qu'il est tard"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Faire: present and past",
+    "subtitle": "Doing and making",
+    "explanation": "Faire means “to do” or “to make”. In the passé composé, it uses avoir + fait.",
+    "examples": [
+      {
+        "eng": "I do / I am doing",
+        "fre": "je fais"
+      },
+      {
+        "eng": "I did / I have done",
+        "fre": "j'ai fait"
+      },
+      {
+        "eng": "I did it yesterday.",
+        "fre": "Je l'ai fait hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Faire + infinitive",
+    "subtitle": "Having or getting something done",
+    "explanation": "The course uses faire + infinitive to show that someone causes another action to happen, such as getting a car washed or a house cleaned.",
+    "examples": [
+      {
+        "eng": "to have / to get + noun + past participle",
+        "fre": "faire + infinitive + noun"
+      },
+      {
+        "eng": "I want to get the car washed tomorrow",
+        "fre": "Je veux faire laver la voiture demain"
+      },
+      {
+        "eng": "When can you get the house cleaned?",
+        "fre": "Quand peux-tu faire nettoyer la maison? / Quand pouvez-vous faire nettoyer la maison?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Faire expressions",
+    "subtitle": "Cooking, shopping, and packing",
+    "explanation": "Several common activities use faire: faire la cuisine, faire les courses, and faire ses valises.",
+    "examples": [
+      {
+        "eng": "to do the cooking",
+        "fre": "faire la cuisine"
+      },
+      {
+        "eng": "to do the shopping",
+        "fre": "faire les courses"
+      },
+      {
+        "eng": "I'm packing my suitcases",
+        "fre": "je fais mes valises"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Possessive adjectives",
+    "subtitle": "My, your, his/her, our, their",
+    "explanation": "Possessive words change to match the French noun. Course 11 practises forms such as son/sa/ses, notre/nos, and leur/leurs inside the packing examples.",
+    "examples": [
+      {
+        "eng": "his / her",
+        "fre": "son / sa / ses"
+      },
+      {
+        "eng": "our",
+        "fre": "notre / nos"
+      },
+      {
+        "eng": "their",
+        "fre": "leur / leurs"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Faire savoir",
+    "subtitle": "Letting someone know",
+    "explanation": "Use faire savoir to mean “to let someone know”. The person can be shown with a pronoun or with à + person.",
+    "examples": [
+      {
+        "eng": "I must let Pierre know",
+        "fre": "je dois faire savoir à Pierre"
+      },
+      {
+        "eng": "Are you going to let me know?",
+        "fre": "Vas-tu / Allez-vous me faire savoir?"
+      },
+      {
+        "eng": "Can you let everybody know what time we're having dinner?",
+        "fre": "Peux-tu / Pouvez-vous faire savoir à tout le monde à quelle heure nous prenons le dîner?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Imperfect être",
+    "subtitle": "Saying was / were",
+    "explanation": "Use étais, était, étions, étiez, and étaient to describe where or how people were in the past.",
+    "examples": [
+      {
+        "eng": "I was",
+        "fre": "j'étais"
+      },
+      {
+        "eng": "We were.",
+        "fre": "Nous étions."
+      },
+      {
+        "eng": "They were.",
+        "fre": "Ils étaient."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Il y a + past time",
+    "subtitle": "Saying how long ago",
+    "explanation": "Use il y a before a length of time to say “ago”. Course 11 also uses huit jours for a week and quinze jours for a fortnight.",
+    "examples": [
+      {
+        "eng": "exactly one year ago",
+        "fre": "il y a exactement un an"
+      },
+      {
+        "eng": "exactly eight days ago",
+        "fre": "il y a exactement huit jours"
+      },
+      {
+        "eng": "a fortnight (literally: 15 days)",
+        "fre": "quinze jours"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Déjà",
+    "subtitle": "Already and before",
+    "explanation": "Déjà can mean “already”. In positive questions it can also match the idea of having done something before.",
+    "examples": [
+      {
+        "eng": "already",
+        "fre": "déjà"
+      },
+      {
+        "eng": "I have already finished.",
+        "fre": "J'ai déjà fini."
+      },
+      {
+        "eng": "Have you done it before?",
+        "fre": "L'AS-TU DÉJÀ FAIT?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Toujours",
+    "subtitle": "Saying still",
+    "explanation": "Use toujours for “still” when a situation continues.",
+    "examples": [
+      {
+        "eng": "still",
+        "fre": "toujours"
+      },
+      {
+        "eng": "Is he still here?",
+        "fre": "Est-il toujours ici?"
+      },
+      {
+        "eng": "Everybody is still here.",
+        "fre": "Tout le monde est toujours ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Pas encore",
+    "subtitle": "Saying not yet",
+    "explanation": "Use pas encore for “not yet”. In many sentences it surrounds the verb with ne ... pas encore.",
+    "examples": [
+      {
+        "eng": "not yet",
+        "fre": "pas encore"
+      },
+      {
+        "eng": "I haven't seen Pierre yet.",
+        "fre": "Je n'ai pas encore vu Pierre."
+      },
+      {
+        "eng": "She hasn't finished yet.",
+        "fre": "Elle n'a pas encore fini."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Encore",
+    "subtitle": "Again and another",
+    "explanation": "Encore can mean “again”. Before a noun or quantity, it can also mean “another” or “more”.",
+    "examples": [
+      {
+        "eng": "again",
+        "fre": "encore"
+      },
+      {
+        "eng": "I would like another bottle of wine",
+        "fre": "je voudrais encore une bouteille de vin"
+      },
+      {
+        "eng": "Can we do it again?",
+        "fre": "Pouvons-nous le faire encore?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "D'habitude",
+    "subtitle": "Saying usually",
+    "explanation": "Use d’habitude for “usually”. It can appear at the beginning or later in a sentence.",
+    "examples": [
+      {
+        "eng": "usually",
+        "fre": "d'habitude"
+      },
+      {
+        "eng": "Usually, I go to France.",
+        "fre": "D'habitude, je vais en France."
+      },
+      {
+        "eng": "Where do you usually spend the holidays?",
+        "fre": "Où passes-tu les vacances d'habitude? / Où passez-vous les vacances d'habitude?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Peut-être que / inversion",
+    "subtitle": "Saying maybe or perhaps",
+    "explanation": "Peut-être can introduce “maybe / perhaps”. Course 11 shows both peut-être que + normal word order and a more formal inversion pattern.",
+    "examples": [
+      {
+        "eng": "maybe / perhaps",
+        "fre": "peut-être"
+      },
+      {
+        "eng": "Maybe we can go later.",
+        "fre": "Peut-être que nous pouvons aller plus tard. / Peut-être pouvons-nous aller plus tard."
+      },
+      {
+        "eng": "Maybe Pierre is here.",
+        "fre": "Peut-être que Pierre est ici. / Peut-être Pierre est-il ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Envoyer + pronouns",
+    "subtitle": "Sending something to someone",
+    "explanation": "Envoyer means “to send”. Pronouns such as me, te/vous, and nous can stay before the infinitive or conjugated verb.",
+    "examples": [
+      {
+        "eng": "I send",
+        "fre": "j'envoie"
+      },
+      {
+        "eng": "to send (to) me",
+        "fre": "m'envoyer"
+      },
+      {
+        "eng": "Can you send me an email?",
+        "fre": "Peux-tu m'envoyer un email?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Sending by post or email",
+    "subtitle": "Par courrier, par email, par la poste",
+    "explanation": "Use par to say how something is sent. Course 11 uses par courrier, par email / courrier électronique, and par la poste, and also mettre au courrier for putting something in the post.",
+    "examples": [
+      {
+        "eng": "by post",
+        "fre": "par courrier"
+      },
+      {
+        "eng": "I can send it by email.",
+        "fre": "Je peux l'envoyer par email / par courrier électronique."
+      },
+      {
+        "eng": "to put in the post",
+        "fre": "mettre au courrier"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Regions and directions",
+    "subtitle": "North, south, east, west, and centre",
+    "explanation": "Course 11 uses dans le nord/sud/est/ouest or dans le centre to locate places, and de/à with these region expressions when the sentence requires it.",
+    "examples": [
+      {
+        "eng": "I live in the north of England.",
+        "fre": "J'habite dans le nord de l'Angleterre."
+      },
+      {
+        "eng": "Marseille is in the south of France.",
+        "fre": "Marseille est dans le sud de la France."
+      },
+      {
+        "eng": "The west and east of France are very different.",
+        "fre": "L'ouest et l'est de la France sont très différents."
+      }
+    ]
+  }
+]

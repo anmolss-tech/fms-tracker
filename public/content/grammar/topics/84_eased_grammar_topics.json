@@ -1,0 +1,590 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "C'est",
+    "subtitle": "Saying it is / this is",
+    "explanation": "Use c'est to say it is, this is, or that is before a description or noun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Moi aussi ! C'est parti !"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Être: est / sont",
+    "subtitle": "Is and are",
+    "explanation": "Use est for is and sont for are. These are forms of être, one of the most important French verbs.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Moi aussi, maman ! Qu'est-ce que je dois faire ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Definite articles: le, la, les, l’",
+    "subtitle": "Saying the",
+    "explanation": "Use le for masculine singular nouns, la for feminine singular nouns, les for plural nouns, and l’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Indefinite articles: un, une, des",
+    "subtitle": "Saying a, an, some",
+    "explanation": "Use un with masculine singular nouns, une with feminine singular nouns, and des with plural nouns.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Et après, nous allons tous nous détendre un peu. Ça vous va ?"
+      },
+      {
+        "eng": "",
+        "fre": "Très bien ! Nous allons passer une bonne journée en famille."
+      },
+      {
+        "eng": "",
+        "fre": "Bravo, Alex ! Tu es vraiment doué pour le nettoyage. Tu deviens un vrai expert."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "De / d’ / du / de la / des",
+    "subtitle": "Of, from, and some",
+    "explanation": "Use de for of/from. It changes with articles: de + le becomes du, de + les becomes des, and de becomes d’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "D'accord maman, je vais nettoyer la table."
+      },
+      {
+        "eng": "",
+        "fre": "Amélie, tu vas arroser les plantes dans le jardin. D'accord ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! J'adore arroser les plantes. Je vais le faire tout de suite après le petit déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Adjective agreement",
+    "subtitle": "bon/bonne, parfait/parfaite",
+    "explanation": "French adjectives often change to match the noun. Many add -e for feminine and -s for plural.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! J'adore arroser les plantes. Je vais le faire tout de suite après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Possessive adjectives: mon, ma, mes, ton, votre",
+    "subtitle": "Saying my, your",
+    "explanation": "Use mon, ma, mes and other possessive adjectives before nouns to show ownership. The form depends on the noun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      },
+      {
+        "eng": "",
+        "fre": "Alors, finissons notre petit déjeuner et commençons notre travail."
+      },
+      {
+        "eng": "",
+        "fre": "Bravo, ma chérie ! La salle de bains est très propre grâce à toi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Vouloir: je veux / tu veux",
+    "subtitle": "Wanting something",
+    "explanation": "Use vouloir to say want. Je veux means I want, and tu veux means you want.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Moi, papa ! Je veux aider."
+      },
+      {
+        "eng": "",
+        "fre": "Alex, nous allons arroser les plantes maintenant. Tu veux m'aider ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Est-ce que questions",
+    "subtitle": "Making yes/no questions",
+    "explanation": "Put est-ce que before a statement to turn it into a yes/no question.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Moi aussi, maman ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, maman ! Qu'est-ce que je dois faire ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi for me, lui for him, and elle for her after prepositions like pour and avec.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Alex, es-tu prêt pour nettoyer le salon avec moi ?"
+      },
+      {
+        "eng": "",
+        "fre": "D'abord, on prend l'arrosoir. Je vais le remplir d'eau, et ensuite, tu pourras arroser les plantes avec moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Object pronouns: me, te, le, la, les",
+    "subtitle": "Short words before verbs",
+    "explanation": "Object pronouns such as me, te, le, la, and les usually go before the verb in French.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "D'abord, je vais passer l'aspirateur. Pendant ce temps, tu vas ramasser les jouets et les mettre dans le panier."
+      },
+      {
+        "eng": "",
+        "fre": "Je vais les ranger tout de suite, maman."
+      },
+      {
+        "eng": "",
+        "fre": "Je vais les arroser doucement pour ne pas trop les mouiller."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Present tense verbs",
+    "subtitle": "Everyday actions now",
+    "explanation": "Use the present tense to talk about current facts, routines, and repeated actions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Moi, papa ! Je veux aider."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Near future: aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to say someone is going to do something: je vais faire, nous allons nettoyer.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Infinitives after helper verbs",
+    "subtitle": "vouloir, pouvoir, aller + verb",
+    "explanation": "After verbs like vouloir, pouvoir, devoir, and aller, the next verb often stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Moi, papa ! Je veux aider."
+      },
+      {
+        "eng": "",
+        "fre": "D'accord maman, je vais nettoyer la table."
+      },
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Pouvoir / Puis-je",
+    "subtitle": "Can I / may I",
+    "explanation": "Use puis-je in formal questions to ask may I. It is useful in restaurants, hotels, and travel situations.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "D'abord, je vais nettoyer les toilettes. Toi, tu vas t'occuper du lavabo. Tu peux l'essuyer avec ce chiffon."
+      },
+      {
+        "eng": "",
+        "fre": "Très bien, Amélie ! Tu as fait un excellent travail. Maintenant, tu peux ranger les objets sur l'étagère."
+      },
+      {
+        "eng": "",
+        "fre": "Voilà, c'est prêt ! Tu peux commencer à arroser ces plantes, ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Devoir",
+    "subtitle": "Must / have to",
+    "explanation": "Use devoir to say must or have to. Je dois means I have to.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Moi aussi, maman ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, maman ! Qu'est-ce que je dois faire ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Imperatives",
+    "subtitle": "Giving instructions",
+    "explanation": "Use imperatives to give instructions or commands, often without the subject pronoun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      },
+      {
+        "eng": "",
+        "fre": "Et après, nous allons tous nous détendre un peu. Ça vous va ?"
+      },
+      {
+        "eng": "",
+        "fre": "Alors, finissons notre petit déjeuner et commençons notre travail."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Passé composé",
+    "subtitle": "Completed past actions",
+    "explanation": "Use passé composé for completed actions in the past. It often uses avoir or être plus a past participle.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Papa, j'ai fini de ramasser les jouets. Ils sont tous dans le panier."
+      },
+      {
+        "eng": "",
+        "fre": "Papa, j'ai fini de nettoyer la table ! Elle brille maintenant."
+      },
+      {
+        "eng": "",
+        "fre": "Maman, j'ai fini d'essuyer le lavabo. Il est propre maintenant !"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Imparfait",
+    "subtitle": "Background past actions",
+    "explanation": "Use imparfait for past background, descriptions, habits, or ongoing actions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Oui, c'était amusant !"
+      },
+      {
+        "eng": "",
+        "fre": "C'était amusant de nettoyer et de jardiner ! J'aime bien aider."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Future simple",
+    "subtitle": "Will do something",
+    "explanation": "Use future simple to talk about what will happen later, such as je sortirai or je vous verrai.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "D'abord, on prend l'arrosoir. Je vais le remplir d'eau, et ensuite, tu pourras arroser les plantes avec moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Relative pronouns: qui / que / où",
+    "subtitle": "Joining ideas",
+    "explanation": "Use qui, que, and où to connect two ideas: who/that, that/which, or where.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Moi aussi, maman ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! Qu'est-ce que je dois faire ?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Negation: ne...pas / ne...plus / ne...rien",
+    "subtitle": "Making sentences negative",
+    "explanation": "French negatives often wrap around the verb: ne...pas, ne...plus, ne...jamais, or ne...rien.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je vais les arroser doucement pour ne pas trop les mouiller."
+      },
+      {
+        "eng": "",
+        "fre": "N'oubliez pas d'aimer la vidéo et de vous abonner à notre chaîne !"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Connectors: et, mais, puis, après",
+    "subtitle": "Joining and sequencing ideas",
+    "explanation": "Use connectors like et, mais, puis, ensuite, après, and quand to join ideas and show order.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! J'adore arroser les plantes. Je vais le faire tout de suite après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Adverbs: très, toujours, bientôt",
+    "subtitle": "Adding detail",
+    "explanation": "Adverbs such as très, toujours, bientôt, directement, and généralement add more detail to verbs or adjectives.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Très bien ! Nous allons passer une bonne journée en famille."
+      },
+      {
+        "eng": "",
+        "fre": "D'accord, je vais ramasser les jouets maintenant."
+      },
+      {
+        "eng": "",
+        "fre": "Très bien, Alex ! Maintenant, tu vas nettoyer la table avec ce chiffon. Assure-toi d'essuyer tous les coins."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Greetings and farewells",
+    "subtitle": "Bonjour, salut, au revoir",
+    "explanation": "Greetings and farewells are short social phrases used to start and end conversations politely.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, merci et à bientôt pour de nouvelles vidéos !"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Avec",
+    "subtitle": "With",
+    "explanation": "Use avec to say with someone or with something.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Alex, es-tu prêt pour nettoyer le salon avec moi ?"
+      },
+      {
+        "eng": "",
+        "fre": "Très bien, Alex ! Maintenant, tu vas nettoyer la table avec ce chiffon. Assure-toi d'essuyer tous les coins."
+      },
+      {
+        "eng": "",
+        "fre": "Merci, papa ! J'aime bien travailler avec toi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Location descriptions",
+    "subtitle": "à gauche, à droite, en face",
+    "explanation": "Use location expressions to describe where things are in a room or place.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Amélie, tu vas arroser les plantes dans le jardin. D'accord ?"
+      },
+      {
+        "eng": "",
+        "fre": "Parfait ! Votre père va passer l'aspirateur dans le salon, et moi, je vais nettoyer les toilettes."
+      },
+      {
+        "eng": "",
+        "fre": "D'abord, je vais passer l'aspirateur. Pendant ce temps, tu vas ramasser les jouets et les mettre dans le panier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Faire expressions",
+    "subtitle": "faire le ménage, faire les courses",
+    "explanation": "Faire is used in many common expressions, especially for chores, activities, and shopping.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Moi aussi, maman ! Qu'est-ce que je dois faire ?"
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! J'adore arroser les plantes. Je vais le faire tout de suite après le petit déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Prendre",
+    "subtitle": "Taking / having",
+    "explanation": "Prendre can mean to take or to have, especially with meals, transport, or breaks.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "D'abord, on prend l'arrosoir. Je vais le remplir d'eau, et ensuite, tu pourras arroser les plantes avec moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Aller",
+    "subtitle": "Going",
+    "explanation": "Aller means to go. It is also used to build the near future with another infinitive.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Bonjour tout le monde ! Aujourd'hui, c'est dimanche. Nous allons faire le ménage."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, c'est vrai ! Nous allons nettoyer la maison ensemble. Qui veut aider ?"
+      },
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Meals with le/la",
+    "subtitle": "le petit-déjeuner, le déjeuner, le dîner",
+    "explanation": "Meal words often use le in general expressions: le petit-déjeuner, le déjeuner, le dîner.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Super ! Alex, tu vas nettoyer la table après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Oui, papa ! J'adore arroser les plantes. Je vais le faire tout de suite après le petit déjeuner."
+      },
+      {
+        "eng": "",
+        "fre": "Alors, finissons notre petit déjeuner et commençons notre travail."
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+{
+  "contentVersion": 1,
+  "updatedAt": "2026-08-12T23:00:00Z",
+  "testCourse": {
+    "id": "remote-test",
+    "type": "test",
+    "title": "Remote Test Course",
+    "version": 1,
+    "cardCount": 3,
+    "url": "/content/testCourse.json"
+  },
+  "courses": [
+    {
+      "id": "course1",
+      "type": "kieranBall",
+      "title": "Course 1 - KieranBall Basics",
+      "version": 1,
+      "cardCount": 666,
+      "youtubeUrl": "https://www.youtube.com/watch?si=2bsEuIV14o7iWrSt&v=VuU8ZeYfCjU",
+      "url": "/content/kieranBall/course1.json"
+    },
+    {
+      "id": "course2",
+      "type": "kieranBall",
+      "title": "Course 2 - KieranBall Travel and Daily French",
+      "version": 1,
+      "cardCount": 858,
+      "youtubeUrl": "https://youtu.be/wSUTNZNhmlo?si=0F8yP6a0lUn0EFdl",
+      "url": "/content/kieranBall/course2.json"
+    },
+    {
+      "id": "course3",
+      "type": "kieranBall",
+      "title": "Course 3 - KieranBall",
+      "version": 1,
+      "cardCount": 1013,
+      "youtubeUrl": "https://youtu.be/JdoRfAva64w",
+      "url": "/content/kieranBall/course3.json"
+    },
+    {
+      "id": "course4",
+      "type": "kieranBall",
+      "title": "Course 4 - KieranBall",
+      "version": 1,
+      "cardCount": 1085,
+      "youtubeUrl": "https://youtu.be/JdoRfAva64w",
+      "url": "/content/kieranBall/course4.json"
+    },
+    {
+      "id": "course5",
+      "type": "kieranBall",
+      "title": "Course 5 - KieranBall",
+      "version": 1,
+      "cardCount": 863,
+      "youtubeUrl": "https://youtu.be/PuvYjUwZcZg",
+      "url": "/content/kieranBall/course5.json"
+    },
+    {
+      "id": "course6",
+      "type": "kieranBall",
+      "title": "Course 6 - KieranBall",
+      "version": 1,
+      "cardCount": 830,
+      "youtubeUrl": "https://youtu.be/PuvYjUwZcZg",
+      "url": "/content/kieranBall/course6.json"
+    },
+    {
+      "id": "course7",
+      "type": "kieranBall",
+      "title": "Course 7 - KieranBall",
+      "version": 1,
+      "cardCount": 1193,
+      "youtubeUrl": "https://youtu.be/ENVfLakv1QQ",
+      "url": "/content/kieranBall/course7.json"
+    },
+    {
+      "id": "course8",
+      "type": "kieranBall",
+      "title": "Course 8 - KieranBall",
+      "version": 1,
+      "cardCount": 1054,
+      "youtubeUrl": "https://youtu.be/uwzHEuFpi5E",
+      "url": "/content/kieranBall/course8.json"
+    },
+    {
+      "id": "course9",
+      "type": "kieranBall",
+      "title": "Course 9 - KieranBall",
+      "version": 1,
+      "cardCount": 1175,
+      "youtubeUrl": "https://youtu.be/O9l4cThL7Yo",
+      "url": "/content/kieranBall/course9.json"
+    },
+    {
+      "id": "course10",
+      "type": "kieranBall",
+      "title": "Course 10 - KieranBall",
+      "version": 1,
+      "cardCount": 734,
+      "youtubeUrl": "https://youtu.be/JSUuh5e6HGo",
+      "url": "/content/kieranBall/course10.json"
+    },
+    {
+      "id": "course11",
+      "type": "kieranBall",
+      "title": "Course 11 - KieranBall",
+      "version": 1,
+      "cardCount": 1113,
+      "youtubeUrl": "https://youtu.be/oS7ub02yibU",
+      "url": "/content/kieranBall/course11.json"
+    },
+    {
+      "id": "course12",
+      "type": "kieranBall",
+      "title": "Course 12 - KieranBall",
+      "version": 1,
+      "cardCount": 1024,
+      "youtubeUrl": "https://youtu.be/oLB7Hoyh0q4",
+      "url": "/content/kieranBall/course12.json"
+    },
+    {
+      "id": "course13",
+      "type": "kieranBall",
+      "title": "Course 13 - KieranBall",
+      "version": 1,
+      "cardCount": 1074,
+      "youtubeUrl": "https://youtu.be/f-ucQp-fsjo",
+      "url": "/content/kieranBall/course13.json"
+    },
+    {
+      "id": "course14",
+      "type": "kieranBall",
+      "title": "Course 14 - KieranBall",
+      "version": 1,
+      "cardCount": 714,
+      "youtubeUrl": "https://youtu.be/_Q_6vPnV4vM",
+      "url": "/content/kieranBall/course14.json"
+    },
+    {
+      "id": "course15",
+      "type": "kieranBall",
+      "title": "Course 15 - KieranBall",
+      "version": 1,
+      "cardCount": 978,
+      "youtubeUrl": "https://youtu.be/b6w6hPQHuVM",
+      "url": "/content/kieranBall/course15.json"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "115_eased_grammar_topics",
+      "type": "grammar",
+      "title": "115 eased grammar topics",
+      "version": 1,
+      "topicCount": 39,
+      "url": "/content/grammar/topics/115_eased_grammar_topics.json"
+    },
+    {
+      "id": "78_eased_grammar_topics",
+      "type": "grammar",
+      "title": "78 eased grammar topics",
+      "version": 1,
+      "topicCount": 27,
+      "url": "/content/grammar/topics/78_eased_grammar_topics.json"
+    },
+    {
+      "id": "79_eased_grammar_topics",
+      "type": "grammar",
+      "title": "79 eased grammar topics",
+      "version": 1,
+      "topicCount": 34,
+      "url": "/content/grammar/topics/79_eased_grammar_topics.json"
+    },
+    {
+      "id": "81_eased_grammar_topics",
+      "type": "grammar",
+      "title": "81 eased grammar topics",
+      "version": 1,
+      "topicCount": 33,
+      "url": "/content/grammar/topics/81_eased_grammar_topics.json"
+    },
+    {
+      "id": "82_eased_grammar_topics",
+      "type": "grammar",
+      "title": "82 eased grammar topics",
+      "version": 1,
+      "topicCount": 40,
+      "url": "/content/grammar/topics/82_eased_grammar_topics.json"
+    },
+    {
+      "id": "84_eased_grammar_topics",
+      "type": "grammar",
+      "title": "84 eased grammar topics",
+      "version": 1,
+      "topicCount": 31,
+      "url": "/content/grammar/topics/84_eased_grammar_topics.json"
+    },
+    {
+      "id": "course10_grammar_topics",
+      "type": "grammar",
+      "title": "course10 grammar topics",
+      "version": 1,
+      "topicCount": 37,
+      "url": "/content/grammar/topics/course10_grammar_topics.json"
+    },
+    {
+      "id": "course11_grammar_topics",
+      "type": "grammar",
+      "title": "course11 grammar topics",
+      "version": 1,
+      "topicCount": 31,
+      "url": "/content/grammar/topics/course11_grammar_topics.json"
+    },
+    {
+      "id": "course12_grammar_topics",
+      "type": "grammar",
+      "title": "course12 grammar topics",
+      "version": 1,
+      "topicCount": 39,
+      "url": "/content/grammar/topics/course12_grammar_topics.json"
+    },
+    {
+      "id": "course13_grammar_topics",
+      "type": "grammar",
+      "title": "course13 grammar topics",
+      "version": 1,
+      "topicCount": 31,
+      "url": "/content/grammar/topics/course13_grammar_topics.json"
+    },
+    {
+      "id": "course14_grammar_topics",
+      "type": "grammar",
+      "title": "course14 grammar topics",
+      "version": 1,
+      "topicCount": 40,
+      "url": "/content/grammar/topics/course14_grammar_topics.json"
+    },
+    {
+      "id": "course15_grammar_topics",
+      "type": "grammar",
+      "title": "course15 grammar topics",
+      "version": 1,
+      "topicCount": 41,
+      "url": "/content/grammar/topics/course15_grammar_topics.json"
+    },
+    {
+      "id": "course1_grammar_topics",
+      "type": "grammar",
+      "title": "course1 grammar topics",
+      "version": 1,
+      "topicCount": 21,
+      "url": "/content/grammar/topics/course1_grammar_topics.json"
+    },
+    {
+      "id": "course2_grammar_topics",
+      "type": "grammar",
+      "title": "course2 grammar topics",
+      "version": 1,
+      "topicCount": 35,
+      "url": "/content/grammar/topics/course2_grammar_topics.json"
+    },
+    {
+      "id": "course3_grammar_topics",
+      "type": "grammar",
+      "title": "course3 grammar topics",
+      "version": 1,
+      "topicCount": 35,
+      "url": "/content/grammar/topics/course3_grammar_topics.json"
+    },
+    {
+      "id": "course4_grammar_topics",
+      "type": "grammar",
+      "title": "course4 grammar topics",
+      "version": 1,
+      "topicCount": 35,
+      "url": "/content/grammar/topics/course4_grammar_topics.json"
+    },
+    {
+      "id": "course5_grammar_topics",
+      "type": "grammar",
+      "title": "course5 grammar topics",
+      "version": 1,
+      "topicCount": 28,
+      "url": "/content/grammar/topics/course5_grammar_topics.json"
+    },
+    {
+      "id": "course6_grammar_topics",
+      "type": "grammar",
+      "title": "course6 grammar topics",
+      "version": 1,
+      "topicCount": 33,
+      "url": "/content/grammar/topics/course6_grammar_topics.json"
+    },
+    {
+      "id": "course7_grammar_topics",
+      "type": "grammar",
+      "title": "course7 grammar topics",
+      "version": 1,
+      "topicCount": 31,
+      "url": "/content/grammar/topics/course7_grammar_topics.json"
+    },
+    {
+      "id": "course8_grammar_topics",
+      "type": "grammar",
+      "title": "course8 grammar topics",
+      "version": 1,
+      "topicCount": 40,
+      "url": "/content/grammar/topics/course8_grammar_topics.json"
+    },
+    {
+      "id": "course9_grammar_topics",
+      "type": "grammar",
+      "title": "course9 grammar topics",
+      "version": 1,
+      "topicCount": 31,
+      "url": "/content/grammar/topics/course9_grammar_topics.json"
+    },
+    {
+      "id": "song_jusqua_mon_dernier_souffle_grammar_topics",
+      "type": "grammar",
+      "title": "song jusqua mon dernier souffle grammar topics",
+      "version": 1,
+      "topicCount": 29,
+      "url": "/content/grammar/topics/song_jusqua_mon_dernier_souffle_grammar_topics.json"
+    }
+  ],
+  "ccube": [
+    {
+      "id": "115_eased",
+      "type": "ccube",
+      "title": "115_eased",
+      "version": 1,
+      "cardCount": 79,
+      "url": "/content/ccube/115_eased.json"
+    },
+    {
+      "id": "78_eased",
+      "type": "ccube",
+      "title": "78_eased",
+      "version": 1,
+      "cardCount": 27,
+      "url": "/content/ccube/78_eased.json"
+    },
+    {
+      "id": "79_eased",
+      "type": "ccube",
+      "title": "79_eased",
+      "version": 1,
+      "cardCount": 62,
+      "url": "/content/ccube/79_eased.json"
+    },
+    {
+      "id": "81_eased",
+      "type": "ccube",
+      "title": "81_eased",
+      "version": 1,
+      "cardCount": 54,
+      "url": "/content/ccube/81_eased.json"
+    },
+    {
+      "id": "82_eased",
+      "type": "ccube",
+      "title": "82_eased",
+      "version": 1,
+      "cardCount": 102,
+      "url": "/content/ccube/82_eased.json"
+    },
+    {
+      "id": "84_eased",
+      "type": "ccube",
+      "title": "84_eased",
+      "version": 1,
+      "cardCount": 72,
+      "url": "/content/ccube/84_eased.json"
+    }
+  ],
+  "songs": [
+    {
+      "id": "song_jusqua_mon_dernier_souffle_pronunciation_cards",
+      "type": "song",
+      "title": "song jusqua mon dernier souffle pronunciation cards",
+      "version": 1,
+      "cardCount": 56,
+      "url": "/content/songs/song_jusqua_mon_dernier_souffle_pronunciation_cards.json"
+    }
+  ]
+}

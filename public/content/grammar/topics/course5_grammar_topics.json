@@ -1,0 +1,562 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Object pronouns: le, la, l’",
+    "subtitle": "Replacing a thing before the verb",
+    "explanation": "Use le, la, or l' before a verb when you do not want to repeat the thing you already mentioned. With a following infinitive, the pronoun goes directly before that infinitive.",
+    "examples": [
+      {
+        "eng": "Do you want to buy it?",
+        "fre": "Voulez-vous l'acheter?"
+      },
+      {
+        "eng": "Can I see it?",
+        "fre": "Puis-je le voir?"
+      },
+      {
+        "eng": "Can I bring it to Paris?",
+        "fre": "Puis-je l'apporter à Paris?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Quelque chose de + description",
+    "subtitle": "Describing “something”",
+    "explanation": "After quelque chose, use de before an adjective or description. This lets you say things such as 'something French' or 'something bigger.'",
+    "examples": [
+      {
+        "eng": "Something French",
+        "fre": "quelque chose de français"
+      },
+      {
+        "eng": "I would like something bigger.",
+        "fre": "Je voudrais quelque chose de plus grand."
+      },
+      {
+        "eng": "Do you have something smaller?",
+        "fre": "Avez-vous quelque chose de plus petit?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Possessive adjectives: mon, ma, mes",
+    "subtitle": "Saying my / your / his or her",
+    "explanation": "French possessives agree with the noun that follows. In this course, mon and ma are used often with family words.",
+    "examples": [
+      {
+        "eng": "My mum",
+        "fre": "ma mère"
+      },
+      {
+        "eng": "I'm going to buy something for my dad",
+        "fre": "Je vais acheter quelque chose pour mon père."
+      },
+      {
+        "eng": "I have something for my sister.",
+        "fre": "J'ai quelque chose pour ma sœur."
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Est-ce que c'est... ?",
+    "subtitle": "Asking “is it...?”",
+    "explanation": "Use est-ce que c'est before a description to ask 'is it...?' in a clear, beginner-friendly way.",
+    "examples": [
+      {
+        "eng": "Is it beautiful?",
+        "fre": "Est-ce que c'est beau?"
+      },
+      {
+        "eng": "Is it expensive here?",
+        "fre": "Est-ce que c'est cher ici?"
+      },
+      {
+        "eng": "Is it interesting in Marseille?",
+        "fre": "Est-ce que c'est intéressant à Marseille?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Possible de / possible pour... de",
+    "subtitle": "Talking about what is possible",
+    "explanation": "Use c'est possible de + infinitive to say an action is possible. Add pour moi / pour vous when you want to say who it is possible for.",
+    "examples": [
+      {
+        "eng": "Is it possible to pay tomorrow?",
+        "fre": "Est-ce que c'est possible de payer demain?"
+      },
+      {
+        "eng": "Is it possible for me to eat here?",
+        "fre": "Est-ce que c'est possible pour moi de manger ici?"
+      },
+      {
+        "eng": "It isn't possible for you to hire a car.",
+        "fre": "Ce n'est pas possible pour vous de louer une voiture."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Il y a",
+    "subtitle": "Saying there is / there are",
+    "explanation": "Use il y a for both 'there is' and 'there are.' The form does not change for singular or plural things.",
+    "examples": [
+      {
+        "eng": "There is a postcard here.",
+        "fre": "Il y a une carte postale ici."
+      },
+      {
+        "eng": "There is a good restaurant here.",
+        "fre": "Il y a un bon restaurant ici."
+      },
+      {
+        "eng": "There is a lot of wine here",
+        "fre": "Il y a beaucoup de vin ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Y a-t-il? / Qu’y a-t-il?",
+    "subtitle": "Asking what is there",
+    "explanation": "Use y a-t-il to ask 'is there / are there?' and qu'y a-t-il to ask 'what is there?'.",
+    "examples": [
+      {
+        "eng": "Is there a good restaurant near here?",
+        "fre": "Y a-t-il un bon restaurant près d'ici?"
+      },
+      {
+        "eng": "What is there?",
+        "fre": "Qu'y a-t-il?"
+      },
+      {
+        "eng": "Is there a car park near here?",
+        "fre": "Y a-t-il un parking près d'ici?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Il n'y a pas de",
+    "subtitle": "Saying there is no / there are no",
+    "explanation": "To make il y a negative, use il n'y a pas de before the noun. This commonly means 'there is no' or 'there aren't any.'",
+    "examples": [
+      {
+        "eng": "There isn't any wine.",
+        "fre": "Il n'y a pas de vin."
+      },
+      {
+        "eng": "There isn't a television",
+        "fre": "Il n'y a pas de télévision."
+      },
+      {
+        "eng": "There's no electricity.",
+        "fre": "Il n'y a pas d'électricité."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Trop de",
+    "subtitle": "Saying too much / too many",
+    "explanation": "Use trop de before a noun for both 'too much' and 'too many.'",
+    "examples": [
+      {
+        "eng": "There is too much noise in my room.",
+        "fre": "Il y a trop de bruit dans ma chambre."
+      },
+      {
+        "eng": "There are too many cockroaches here.",
+        "fre": "Il y a trop de cafards ici."
+      },
+      {
+        "eng": "There are too many people here.",
+        "fre": "Il y a trop de monde ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Beaucoup de",
+    "subtitle": "Saying a lot of / lots of",
+    "explanation": "Use beaucoup de before a noun to say 'a lot of' or 'lots of.'",
+    "examples": [
+      {
+        "eng": "There is a lot of noise.",
+        "fre": "Il y a beaucoup de bruit."
+      },
+      {
+        "eng": "There is a lot of wine here",
+        "fre": "Il y a beaucoup de vin ici."
+      },
+      {
+        "eng": "There are lots of people here",
+        "fre": "Il y a beaucoup de personnes ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Parce que",
+    "subtitle": "Giving a reason with because",
+    "explanation": "Use parce que to connect an action or statement to its reason.",
+    "examples": [
+      {
+        "eng": "I'm not going to eat here because the food is terrible.",
+        "fre": "Je ne vais pas manger ici parce que la nourriture est terrible."
+      },
+      {
+        "eng": "I'm very busy because I have lots of things to do.",
+        "fre": "Je suis très occupé parce que j'ai beaucoup de choses à faire."
+      },
+      {
+        "eng": "I'm not going to buy that because it's too expensive.",
+        "fre": "Je ne vais pas acheter ça parce que c'est trop cher."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Avoir le temps / le temps de",
+    "subtitle": "Talking about having time",
+    "explanation": "Use avoir le temps to say you have time. Use le temps de + infinitive when you say what you have or do not have time to do.",
+    "examples": [
+      {
+        "eng": "Do you have time tomorrow?",
+        "fre": "Avez-vous le temps demain?"
+      },
+      {
+        "eng": "Do you have time to go to the beach today?",
+        "fre": "Avez-vous le temps d'aller à la plage aujourd'hui?"
+      },
+      {
+        "eng": "I don't have the time to do it now.",
+        "fre": "Je n'ai pas le temps de le faire maintenant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Je n'ai pas de",
+    "subtitle": "Saying you do not have any",
+    "explanation": "After avoir in the negative, de is commonly used before the thing you do not have.",
+    "examples": [
+      {
+        "eng": "I don't have any money",
+        "fre": "je n'ai pas d'argent"
+      },
+      {
+        "eng": "I don't have any friends",
+        "fre": "je n'ai pas d'amis"
+      },
+      {
+        "eng": "I don't have any cake for you",
+        "fre": "Je n'ai pas de gâteau pour vous."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Stressed pronouns after prepositions",
+    "subtitle": "Using moi, lui and others",
+    "explanation": "After prepositions such as avec, pour, and près de, French uses forms such as moi and lui.",
+    "examples": [
+      {
+        "eng": "The hotel is near me",
+        "fre": "L'hôtel est près de moi."
+      },
+      {
+        "eng": "It isn't for him; it's for me.",
+        "fre": "Ce n'est pas pour lui; c'est pour moi."
+      },
+      {
+        "eng": "The tea is for him and the coffee is for me.",
+        "fre": "Le thé est pour lui et le café est pour moi"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Passé composé with avoir",
+    "subtitle": "Building a common French past tense",
+    "explanation": "A very common past tense is built with a present form of avoir plus a past participle: j'ai mangé, nous avons fini, and so on.",
+    "examples": [
+      {
+        "eng": "I have eaten",
+        "fre": "J'ai mangé"
+      },
+      {
+        "eng": "I have waited",
+        "fre": "J'ai attendu."
+      },
+      {
+        "eng": "I have finished.",
+        "fre": "J'ai fini."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "One French past form, two English translations",
+    "subtitle": "“Have done” or simple past",
+    "explanation": "The same passé composé form can often be translated with English 'have done' or the simple past, depending on context.",
+    "examples": [
+      {
+        "eng": "I have eaten / I ate",
+        "fre": "J'ai mangé"
+      },
+      {
+        "eng": "I have chosen.",
+        "fre": "J'ai choisi."
+      },
+      {
+        "eng": "I chose.",
+        "fre": "J'ai choisi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Avoir as the past-tense helper",
+    "subtitle": "Changing the helper for the subject",
+    "explanation": "The avoir part changes with the subject: j'ai, tu as / vous avez, il a, nous avons, ils ont. The past participle follows it.",
+    "examples": [
+      {
+        "eng": "I have eaten",
+        "fre": "J'ai mangé"
+      },
+      {
+        "eng": "You have eaten",
+        "fre": "Tu as mangé. / Vous avez mangé."
+      },
+      {
+        "eng": "We have eaten",
+        "fre": "Nous avons mangé."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Regular -er past participles",
+    "subtitle": "Changing -er to -é",
+    "explanation": "For the regular -er verbs taught here, remove -er and use -é for the past participle.",
+    "examples": [
+      {
+        "eng": "to eat / eaten",
+        "fre": "manger / mangé"
+      },
+      {
+        "eng": "to order / ordered",
+        "fre": "commander / commandé"
+      },
+      {
+        "eng": "to reserve / reserved",
+        "fre": "réserver / réservé"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Regular -ir past participles",
+    "subtitle": "Changing -ir to -i",
+    "explanation": "For the regular -ir examples taught here, the past participle ends in -i.",
+    "examples": [
+      {
+        "eng": "to finish / finished",
+        "fre": "finir / fini"
+      },
+      {
+        "eng": "to choose / chosen",
+        "fre": "choisir / choisi"
+      },
+      {
+        "eng": "I have finished.",
+        "fre": "J'ai fini."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Regular -re examples in the past",
+    "subtitle": "Past participles ending in -u",
+    "explanation": "Several -re verbs in this course use a past participle ending in -u, such as attendu, vendu, and perdu. Learn these as the forms shown in the course.",
+    "examples": [
+      {
+        "eng": "to wait / waited",
+        "fre": "attendre / attendu"
+      },
+      {
+        "eng": "to sell / sold",
+        "fre": "vendre / vendu"
+      },
+      {
+        "eng": "to lose / lost",
+        "fre": "perdre / perdu"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Irregular past participles: bu, fait, vu",
+    "subtitle": "Common irregular forms",
+    "explanation": "Some verbs do not follow the simple -er / -ir / -re pattern. Learn their past participles as vocabulary.",
+    "examples": [
+      {
+        "eng": "I have drunk.",
+        "fre": "J'ai bu."
+      },
+      {
+        "eng": "I have done.",
+        "fre": "J'ai fait."
+      },
+      {
+        "eng": "I have seen Pierre.",
+        "fre": "J'ai vu Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Irregular past participles: pris, appris, compris",
+    "subtitle": "More common irregular forms",
+    "explanation": "Prendre, apprendre, and comprendre use the irregular past participles pris, appris, and compris.",
+    "examples": [
+      {
+        "eng": "I have taken.",
+        "fre": "J'ai pris."
+      },
+      {
+        "eng": "I have learnt.",
+        "fre": "J'ai appris."
+      },
+      {
+        "eng": "I have understood.",
+        "fre": "J'ai compris."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Negative passé composé",
+    "subtitle": "Putting ne... pas around avoir",
+    "explanation": "To make the passé composé negative, put ne... pas around the conjugated form of avoir: je n'ai pas mangé.",
+    "examples": [
+      {
+        "eng": "I haven't eaten today.",
+        "fre": "Je n'ai pas mangé aujourd'hui."
+      },
+      {
+        "eng": "He hasn't seen Marie today.",
+        "fre": "Il n'a pas vu Marie aujourd'hui."
+      },
+      {
+        "eng": "They haven't brought any wine.",
+        "fre": "Ils n'ont pas apporté de vin."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Haven't and didn't in French",
+    "subtitle": "Two English past negatives, one French pattern",
+    "explanation": "French often uses the same negative passé composé for English 'haven't' and 'didn't.' The English meaning depends on the sentence context.",
+    "examples": [
+      {
+        "eng": "I didn't eat.",
+        "fre": "Je n'ai pas mangé."
+      },
+      {
+        "eng": "They haven't eaten.",
+        "fre": "Ils n'ont pas mangé."
+      },
+      {
+        "eng": "We didn't finish.",
+        "fre": "Nous n'avons pas fini."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Negative helper forms",
+    "subtitle": "Changing ne...pas with the subject",
+    "explanation": "The negative helper changes with the subject: tu n'as pas / vous n'avez pas, il n'a pas, nous n'avons pas, ils n'ont pas.",
+    "examples": [
+      {
+        "eng": "You haven't eaten.",
+        "fre": "Tu n'as pas mangé. / Vous n'avez pas mangé."
+      },
+      {
+        "eng": "He hasn't waited.",
+        "fre": "Il n'a pas attendu."
+      },
+      {
+        "eng": "They haven't waited.",
+        "fre": "Ils n'ont pas attendu."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Past time expressions",
+    "subtitle": "Using the past with time words",
+    "explanation": "Words such as hier help make the time clear. The course combines them with the past tense to say when something happened.",
+    "examples": [
+      {
+        "eng": "I waited here yesterday.",
+        "fre": "J'ai attendu ici hier."
+      },
+      {
+        "eng": "I ate here yesterday and it was fantastic.",
+        "fre": "J'ai mangé ici hier et c'était fantastique."
+      },
+      {
+        "eng": "Pierre reserved a table yesterday.",
+        "fre": "Pierre a réservé une table hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "C'était / était / n'était pas",
+    "subtitle": "Describing how things were",
+    "explanation": "Use c'était or était to describe how something was in the past. Put ne... pas around était for a negative description.",
+    "examples": [
+      {
+        "eng": "I ate here yesterday and it was fantastic.",
+        "fre": "J'ai mangé ici hier et c'était fantastique."
+      },
+      {
+        "eng": "The dinner yesterday was fantastic but the wine wasn't very good.",
+        "fre": "Le dîner hier était fantastique mais le vin n'était pas très bon."
+      },
+      {
+        "eng": "How much was the car?",
+        "fre": "C'était combien la voiture?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Plus grand / plus petit",
+    "subtitle": "Comparing size",
+    "explanation": "Use plus before an adjective to mean 'more' or '-er,' as in plus grand and plus petit.",
+    "examples": [
+      {
+        "eng": "I would like something bigger.",
+        "fre": "Je voudrais quelque chose de plus grand."
+      },
+      {
+        "eng": "Do you have something smaller?",
+        "fre": "Avez-vous quelque chose de plus petit?"
+      },
+      {
+        "eng": "Do you have a bigger car?",
+        "fre": "Avez-vous une plus grande voiture?"
+      }
+    ]
+  }
+]

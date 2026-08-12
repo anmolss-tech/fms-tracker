@@ -1,0 +1,794 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Vous + present tense",
+    "subtitle": "Using the polite/plural you form",
+    "explanation": "Use vous with many present tense verbs. In Course 8, vous is used for you eat, you are, and many polite questions.",
+    "examples": [
+      {
+        "eng": "you eat / you're eating",
+        "fre": "vous mangez"
+      },
+      {
+        "eng": "you are",
+        "fre": "vous êtes"
+      },
+      {
+        "eng": "you have I",
+        "fre": "vous avez"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Ne ... pas",
+    "subtitle": "Making a sentence negative",
+    "explanation": "Put ne before the verb and pas after it to say not. With vous forms, this gives patterns like vous ne mangez pas.",
+    "examples": [
+      {
+        "eng": "you don't eat / you're not eating",
+        "fre": "vous ne mangez pas"
+      },
+      {
+        "eng": "don't you eat? / aren't you eating?",
+        "fre": "ne mangez-vous pas?"
+      },
+      {
+        "eng": "don't eat!",
+        "fre": "ne mangez pas!"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Inversion questions",
+    "subtitle": "Asking by reversing verb and subject",
+    "explanation": "French can ask questions by putting the verb before the subject with a hyphen. Course 8 uses this in questions like mangez-vous and va-t-elle.",
+    "examples": [
+      {
+        "eng": "do you eat? / are you eating?",
+        "fre": "mangez-vous?"
+      },
+      {
+        "eng": "Whom do you like?",
+        "fre": "Qui aimes-tu? / Qui aimez-vous?"
+      },
+      {
+        "eng": "What are you eating?",
+        "fre": "Que mangez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Negative questions",
+    "subtitle": "Asking don’t you / aren’t you",
+    "explanation": "Use ne before the verb and pas after the subject-verb question form to ask a negative question.",
+    "examples": [
+      {
+        "eng": "don't you eat? / aren't you eating?",
+        "fre": "ne mangez-vous pas?"
+      },
+      {
+        "eng": "Why don't you like this hôtel?",
+        "fre": "Pourquoi n'aimez-vous pas cet hôtel?"
+      },
+      {
+        "eng": "don't pa?",
+        "fre": "je ne paye pas"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Imperatives",
+    "subtitle": "Giving commands",
+    "explanation": "Use the command form to tell someone to do something. Course 8 uses short commands like Mangez and Faites.",
+    "examples": [
+      {
+        "eng": "don't eat!",
+        "fre": "ne mangez pas!"
+      },
+      {
+        "eng": "Eat!",
+        "fre": "Mangez!"
+      },
+      {
+        "eng": "Do everything tomorrow!",
+        "fre": "Faites tout demain!"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Soyez",
+    "subtitle": "Saying be as a command",
+    "explanation": "Soyez is the polite/plural command form of être. Use it to say be in instructions.",
+    "examples": [
+      {
+        "eng": "Please be patient.",
+        "fre": "Veuillez patienter."
+      },
+      {
+        "eng": "Please be patient; I'm coming now",
+        "fre": "patienter, je viens maintenant"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Veuillez",
+    "subtitle": "Polite instructions",
+    "explanation": "Veuillez makes a request sound formal and polite, like please do this.",
+    "examples": [
+      {
+        "eng": "Please, wait here",
+        "fre": "Veuillez attendre ici"
+      },
+      {
+        "eng": "please (be so kind as to...",
+        "fre": "veuillez"
+      },
+      {
+        "eng": "Please, come in.",
+        "fre": "Veuillez entrer."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "ER verbs in the present",
+    "subtitle": "Je forms of regular ER verbs",
+    "explanation": "For many ER verbs, the je form ends in -e. Course 8 uses je mange, je parle, je donne, and similar forms.",
+    "examples": [
+      {
+        "eng": "eat / I'I'm eating",
+        "fre": "je mange"
+      },
+      {
+        "eng": "I speak / I'm speaking",
+        "fre": "je parle"
+      },
+      {
+        "eng": "I give / I'm giving",
+        "fre": "je donne"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Infinitives",
+    "subtitle": "The dictionary form of a verb",
+    "explanation": "Infinitives are the basic to form of a verb, such as manger, parler, and donner.",
+    "examples": [
+      {
+        "eng": "to eat",
+        "fre": "manger"
+      },
+      {
+        "eng": "to speak",
+        "fre": "parler"
+      },
+      {
+        "eng": "to give",
+        "fre": "donner"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Je + present tense",
+    "subtitle": "Saying I do / I am doing",
+    "explanation": "The present tense can mean both I do and I am doing in French. Je mange can mean I eat or I am eating.",
+    "examples": [
+      {
+        "eng": "eat / I'I'm eating",
+        "fre": "je mange"
+      },
+      {
+        "eng": "I speak / I'm speaking",
+        "fre": "je parle"
+      },
+      {
+        "eng": "dance / I'm dancing",
+        "fre": "je danse"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Quand",
+    "subtitle": "Using when",
+    "explanation": "Use quand to connect an action with when something happens.",
+    "examples": [
+      {
+        "eng": "I spend too much money when I go on holiday.",
+        "fre": "Je dépense trop d'argent quand je vais en vacances."
+      },
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      },
+      {
+        "eng": "I eat lots of cheese when I go to France.",
+        "fre": "Je mange beaucoup de fromage quand je vais en France."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Parce que",
+    "subtitle": "Using because",
+    "explanation": "Use parce que to give a reason.",
+    "examples": [
+      {
+        "eng": "I'm changing rooms because there is no shower in this room.",
+        "fre": "Je change de chambre parce qu'il n'y a pas de douche dans cette chambre."
+      },
+      {
+        "eng": "I'm trying to understand but it's difficult because you're not speaking very slowly.",
+        "fre": "J'essaye de comprendre mais c'est difficile parce que vous ne parlez pas très lentement."
+      },
+      {
+        "eng": "I gain weight when I go on holiday because I eat too many ice-creams.",
+        "fre": "Je grossis quand je vais en vacances parce que je mange trop de glaces."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Chez",
+    "subtitle": "Saying at someone’s place",
+    "explanation": "Use chez to mean at the house/place of a person or business.",
+    "examples": [
+      {
+        "eng": "I'm bringing some food to your house tonight.",
+        "fre": "J'apporte de la nourriture chez vous ce soir."
+      },
+      {
+        "eng": "I visit my grandma at her house every Thursday evening.",
+        "fre": "Je visite ma grandmère chez elle tous les jeudis soir."
+      },
+      {
+        "eng": "I'm staying at home tonight; I'm very tired",
+        "fre": "Je reste chez moi ce soir; je suis très fatigué"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "IR verbs",
+    "subtitle": "Regular IR verb patterns",
+    "explanation": "Course 8 introduces IR verbs such as finir and choisir. These verbs use forms like je finis and nous finissons.",
+    "examples": [
+      {
+        "eng": "to finish",
+        "fre": "je finis"
+      },
+      {
+        "eng": "to finish",
+        "fre": "finir"
+      },
+      {
+        "eng": "to choose",
+        "fre": "choisir"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Faire",
+    "subtitle": "Using faire",
+    "explanation": "Faire means to do or to make. It appears in commands and everyday actions.",
+    "examples": [
+      {
+        "eng": "Do everything tomorrow!",
+        "fre": "Faites tout demain!"
+      },
+      {
+        "eng": "to make",
+        "fre": "je fais"
+      },
+      {
+        "eng": "to do / to make",
+        "fre": "faire"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Dire",
+    "subtitle": "Using dire",
+    "explanation": "Dire means to say or to tell. It is used with messages and reporting information.",
+    "examples": [
+      {
+        "eng": "I visit my grandma at her house every Thursday evening.",
+        "fre": "Je visite ma grandmère chez elle tous les jeudis soir."
+      },
+      {
+        "eng": "Every Tuesday, I finish at twelve o'clock.",
+        "fre": "Tous les mardis, je finis à douze heures."
+      },
+      {
+        "eng": "to say / to tell",
+        "fre": "dire"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Boire",
+    "subtitle": "Using boire",
+    "explanation": "Boire means to drink. Course 8 uses it for drinks and dinner situations.",
+    "examples": [
+      {
+        "eng": "to drink",
+        "fre": "boire"
+      },
+      {
+        "eng": "1 drink / I'm drinking",
+        "fre": "je bois"
+      },
+      {
+        "eng": "I'm drinking red wine with dinner.",
+        "fre": "Je bois du vin rouge avec le dîner."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Prendre",
+    "subtitle": "Using prendre",
+    "explanation": "Prendre means to take. It can also appear in useful expressions like taking lunch or taking a taxi.",
+    "examples": [
+      {
+        "eng": "I'm trying to understand but it's difficult because you're not speaking very slowly.",
+        "fre": "J'essaye de comprendre mais c'est difficile parce que vous ne parlez pas très lentement."
+      },
+      {
+        "eng": "I'm trying to learn French and I'm",
+        "fre": "J'essaye d'apprendre le français et je réussis."
+      },
+      {
+        "eng": "to take",
+        "fre": "prendre"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Avoir",
+    "subtitle": "Using avoir",
+    "explanation": "Avoir means to have. Course 8 uses it in present-tense forms like j’ai, tu as, and ils ont.",
+    "examples": [
+      {
+        "eng": "I'm going to have dinner here",
+        "fre": "Je vais prendre le dîner ici"
+      },
+      {
+        "eng": "We're going to have dinner here on Sunday",
+        "fre": "Nous allons prendre le dîner ici dimanche"
+      },
+      {
+        "eng": "Do you have any bags?",
+        "fre": "Avez-vous des sacs?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Être",
+    "subtitle": "Using être",
+    "explanation": "Être means to be. Course 8 uses forms like je suis, vous êtes, and ils sont.",
+    "examples": [
+      {
+        "eng": "you are",
+        "fre": "vous êtes"
+      },
+      {
+        "eng": "I'm staying at home tonight; I'm very tired",
+        "fre": "Je reste chez moi ce soir; je suis très fatigué"
+      },
+      {
+        "eng": "I am I come",
+        "fre": "je suis je viens I"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Aller",
+    "subtitle": "Using aller",
+    "explanation": "Aller means to go. It is also used to build near-future sentences with another verb.",
+    "examples": [
+      {
+        "eng": "I spend too much money when I go on holiday.",
+        "fre": "Je dépense trop d'argent quand je vais en vacances."
+      },
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      },
+      {
+        "eng": "I eat lots of cheese when I go to France.",
+        "fre": "Je mange beaucoup de fromage quand je vais en France."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Near future: aller + infinitive",
+    "subtitle": "Saying going to do something",
+    "explanation": "Use aller plus an infinitive to say that someone is going to do something.",
+    "examples": [
+      {
+        "eng": "I'm going to have dinner here",
+        "fre": "Je vais prendre le dîner ici"
+      },
+      {
+        "eng": "We're going to have dinner here on Sunday",
+        "fre": "Nous allons prendre le dîner ici dimanche"
+      },
+      {
+        "eng": "I'm going to Sophie's house now.",
+        "fre": "Je vais chez Sophie maintenant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Depuis",
+    "subtitle": "Saying for/since with ongoing actions",
+    "explanation": "Use depuis when something started earlier and is still true now.",
+    "examples": [
+      {
+        "eng": "I've been waiting here for an hour.",
+        "fre": "J'attends ici depuis une heure."
+      },
+      {
+        "eng": "I haven't been waiting long.",
+        "fre": "Je n'attends pas depuis longtemps."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Direct object pronouns",
+    "subtitle": "Using le, la, les before a verb",
+    "explanation": "Le, la, and les can replace a thing or person already mentioned. Course 8 uses forms like le laisser and l’acheter.",
+    "examples": [
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      },
+      {
+        "eng": "I'm choosing something for lunch.",
+        "fre": "Je choisis quelque chose pour le déjeuner."
+      },
+      {
+        "eng": "I'm trying to learn French and I'm",
+        "fre": "J'essaye d'apprendre le français et je réussis."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Indirect object pronouns",
+    "subtitle": "Using me, te, lui, nous, vous, leur",
+    "explanation": "Indirect object pronouns show to me, to you, to him/her, to us, to you, or to them.",
+    "examples": [
+      {
+        "eng": "Hello and welcome",
+        "fre": "Bonjour et bienvenue"
+      },
+      {
+        "eng": "Please, come in.",
+        "fre": "Veuillez entrer."
+      },
+      {
+        "eng": "I'm bringing some food to your house tonight.",
+        "fre": "J'apporte de la nourriture chez vous ce soir."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Pronouns with commands",
+    "subtitle": "Putting pronouns after commands",
+    "explanation": "In positive commands, pronouns often come after the verb with a hyphen, such as montre-moi.",
+    "examples": [
+      {
+        "eng": "Excuse me, what time is it?",
+        "fre": "Excusez-moi, quelle heure est-il?"
+      },
+      {
+        "eng": "leave me here",
+        "fre": "laisse-moi ici / laissez-moi ici"
+      },
+      {
+        "eng": "listen to me",
+        "fre": "écoute-moi / écoutez-moi"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Ne ... pas with pronouns",
+    "subtitle": "Negating sentences with object pronouns",
+    "explanation": "When a pronoun is used, it usually stays before the verb, and ne...pas wraps around that verb group.",
+    "examples": [
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      },
+      {
+        "eng": "I'm spending two weeks in Spain next year",
+        "fre": "Je passe deux semaines en Espagne l'année"
+      },
+      {
+        "eng": "I'm not calling Pierre; I don't like him.",
+        "fre": "Je n'appelle pas Pierre; je ne l'aime pas."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Passé composé with avoir",
+    "subtitle": "Talking about completed past actions",
+    "explanation": "Use avoir plus a past participle to talk about many completed past actions.",
+    "examples": [
+      {
+        "eng": "I'm spending a month in Paris next year.",
+        "fre": "Je passe un mois à Paris l'année prochaine."
+      },
+      {
+        "eng": "I'm visiting my family abroad soon.",
+        "fre": "Je visite ma famille à l'étranger bientôt."
+      },
+      {
+        "eng": "I'm not trying any cheese; I've eaten too much today.",
+        "fre": "Je n'essaye pas de fromage; j'ai trop mangé aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Passé composé with être",
+    "subtitle": "Past actions with movement verbs",
+    "explanation": "Some movement verbs use être in the passé composé, such as aller and partir.",
+    "examples": [
+      {
+        "eng": "I wonder where.",
+        "fre": "Je me demande où elle est allée."
+      },
+      {
+        "eng": "A bottle of water is one euro twenty",
+        "fre": "Une bouteille d'eau est un euro vingt"
+      },
+      {
+        "eng": "There wasn't much to do when I went on holiday to La Rochelle.",
+        "fre": "ll n'y avait pas beaucoup à faire quand je suis allé en vacances à La OO"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Past-tense questions",
+    "subtitle": "Asking about completed actions",
+    "explanation": "In the passé composé, questions can use inversion with the helper verb, such as avez-vous or ont-ils.",
+    "examples": [
+      {
+        "eng": "Why did you try to call me?",
+        "fre": "Pourquoi as-tu essayé de m'appeler? / Pourquoi avez-vous essayé de m'appeler?"
+      },
+      {
+        "eng": "he hasn't given",
+        "fre": "il n'a pas donné he didn't give"
+      },
+      {
+        "eng": "has he given?",
+        "fre": "a-t-il donné?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Devoir + infinitive",
+    "subtitle": "Saying must / have to",
+    "explanation": "Use devoir before another verb to say must or have to.",
+    "examples": [
+      {
+        "eng": "to have to go",
+        "fre": "être I"
+      },
+      {
+        "eng": "I have too many things to do",
+        "fre": "J'ai trop de choses à faire"
+      },
+      {
+        "eng": "I must / I have to",
+        "fre": "je dois"
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Pouvoir / Puis-je",
+    "subtitle": "Saying can / may",
+    "explanation": "Use pouvoir to say can. Puis-je is a polite way to ask may I or can I.",
+    "examples": [
+      {
+        "eng": "Can you call me tomorrow?",
+        "fre": "Pouvez-vous m'appeler demain?"
+      },
+      {
+        "eng": "I'm busy now, but you can call me after 5pm.",
+        "fre": "Je suis occupé maintenant, mais vous pouvez m'appeler après dix-sept heures."
+      },
+      {
+        "eng": "I wonder if you can help me.",
+        "fre": "Je me demande si tu peux m'aider. / Je me demande si vous pouvez m'aider."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Vouloir + infinitive",
+    "subtitle": "Saying want to",
+    "explanation": "Use vouloir before another verb to say want to do something.",
+    "examples": [
+      {
+        "eng": "I'm selling my car because I want to change it.",
+        "fre": "Je vends ma voiture parce que je veux la"
+      },
+      {
+        "eng": "I'm selling my car, do you want to buy it?",
+        "fre": "Je vends ma voiture, voulez-vous l'acheter?"
+      },
+      {
+        "eng": "Where do you want to go tonight?",
+        "fre": "Où voulez-vous aller ce soir?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Question words",
+    "subtitle": "Using what, where, when, why, how",
+    "explanation": "Course 8 uses question words such as que, où, quand, pourquoi, and combien.",
+    "examples": [
+      {
+        "eng": "I spend too much money when I go on holiday.",
+        "fre": "Je dépense trop d'argent quand je vais en vacances."
+      },
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      },
+      {
+        "eng": "I eat lots of cheese when I go to France.",
+        "fre": "Je mange beaucoup de fromage quand je vais en France."
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Time expressions",
+    "subtitle": "Talking about time",
+    "explanation": "Use à with clock times and phrases like heures, et demie, et quart, and moins le quart.",
+    "examples": [
+      {
+        "eng": "I start at fI've o'clock today.",
+        "fre": "Je commence à cinq heures aujourd'hui."
+      },
+      {
+        "eng": "Every Tuesday, I finish at twelve o'clock.",
+        "fre": "Tous les mardis, je finis à douze heures."
+      },
+      {
+        "eng": "I would like breakfast at nine o'clock",
+        "fre": "Je voudrais le petit-déjeuner à neuf heures"
+      }
+    ]
+  },
+  {
+    "id": "grammar-36",
+    "title": "Dans",
+    "subtitle": "Saying in for future time",
+    "explanation": "Use dans to say something will happen in a certain amount of time, such as in two weeks.",
+    "examples": [
+      {
+        "eng": "I'm changing rooms because there is no shower in this room.",
+        "fre": "Je change de chambre parce qu'il n'y a pas de douche dans cette chambre."
+      },
+      {
+        "eng": "I'm not staying here; there are too many cockroaches in my room.",
+        "fre": "Je ne reste pas ici; il y a trop de cafards dans ma chambre."
+      },
+      {
+        "eng": "I'm driving there in Marco's car.",
+        "fre": "Je conduis la dans la voiture de Marco."
+      }
+    ]
+  },
+  {
+    "id": "grammar-37",
+    "title": "Demonstratives: ce/cet/cette/ces",
+    "subtitle": "Saying this/that/these/those",
+    "explanation": "French demonstratives change with the noun: ce, cet, cette, and ces.",
+    "examples": [
+      {
+        "eng": "to dance",
+        "fre": "danser"
+      },
+      {
+        "eng": "dance / I'm dancing",
+        "fre": "je danse"
+      },
+      {
+        "eng": "I'm starting tomorrow.",
+        "fre": "Je commence demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-38",
+    "title": "Possessive adjectives",
+    "subtitle": "Saying my/your/his/her/our",
+    "explanation": "Words like mon, ma, mes, votre, and notre show possession.",
+    "examples": [
+      {
+        "eng": "I'm visiting my family abroad soon.",
+        "fre": "Je visite ma famille à l'étranger bientôt."
+      },
+      {
+        "eng": "I visit my grandma at her house every Thursday evening.",
+        "fre": "Je visite ma grandmère chez elle tous les jeudis soir."
+      },
+      {
+        "eng": "I'm choosing a souvenir for my brother.",
+        "fre": "Je choisis un souvenir pour mon frère."
+      }
+    ]
+  },
+  {
+    "id": "grammar-39",
+    "title": "Articles and nouns",
+    "subtitle": "Using le, la, les, un, une",
+    "explanation": "Course 8 continues using articles before nouns. Articles often show whether a noun is masculine, feminine, singular, or plural.",
+    "examples": [
+      {
+        "eng": "I'm bringing some food to your house tonight.",
+        "fre": "J'apporte de la nourriture chez vous ce soir."
+      },
+      {
+        "eng": "I'm spending a month in Paris next year.",
+        "fre": "Je passe un mois à Paris l'année prochaine."
+      },
+      {
+        "eng": "I'm hiring a car when we go to Spain next month.",
+        "fre": "Je loue une voiture quand je vais en Espagne le mois prochain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-40",
+    "title": "Prepositions à and de",
+    "subtitle": "Using to/at/from/of",
+    "explanation": "À often means to or at, while de can mean of or from. Course 8 uses both in common travel and daily-life phrases.",
+    "examples": [
+      {
+        "eng": "I start at fI've o'clock today.",
+        "fre": "Je commence à cinq heures aujourd'hui."
+      },
+      {
+        "eng": "I'm bringing some food to your house tonight.",
+        "fre": "J'apporte de la nourriture chez vous ce soir."
+      },
+      {
+        "eng": "I'm spending a month in Paris next year.",
+        "fre": "Je passe un mois à Paris l'année prochaine."
+      }
+    ]
+  }
+]

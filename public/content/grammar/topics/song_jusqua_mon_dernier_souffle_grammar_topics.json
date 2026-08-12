@@ -1,0 +1,446 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "C'est",
+    "subtitle": "Saying it is / this is",
+    "explanation": "Use c'est to say it is, this is, or that is before a description or noun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "C’est l’heure de rentrer,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Être: est / sont",
+    "subtitle": "Is and are",
+    "explanation": "Use est for is and sont for are. These are forms of être, one of the most important French verbs.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "C’est l’heure de rentrer,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Definite articles: le, la, les, l’",
+    "subtitle": "Saying the",
+    "explanation": "Use le for masculine singular nouns, la for feminine singular nouns, les for plural nouns, and l’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je voudrais faire le bien,"
+      },
+      {
+        "eng": "",
+        "fre": "Et puis soigner les gens,"
+      },
+      {
+        "eng": "",
+        "fre": "De cette vie qui les ronge,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Indefinite articles: un, une, des",
+    "subtitle": "Saying a, an, some",
+    "explanation": "Use un with masculine singular nouns, une with feminine singular nouns, and des with plural nouns.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "J’suis pas un gars d’ici,"
+      },
+      {
+        "eng": "",
+        "fre": "Une vie où on serait deux,"
+      },
+      {
+        "eng": "",
+        "fre": "Au bord d’une rivière,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "De / d’ / du / de la / des",
+    "subtitle": "Of, from, and some",
+    "explanation": "Use de for of/from. It changes with articles: de + le becomes du, de + les becomes des, and de becomes d’ before a vowel sound.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "De cette vie qui les ronge,"
+      },
+      {
+        "eng": "",
+        "fre": "L’âme posée sur le mémoire de forme,"
+      },
+      {
+        "eng": "",
+        "fre": "J’ai dû prendre de mon père,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Adjective agreement",
+    "subtitle": "bon/bonne, parfait/parfaite",
+    "explanation": "French adjectives often change to match the noun. Many add -e for feminine and -s for plural.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Chuis pas mauvais pour ça,"
+      },
+      {
+        "eng": "",
+        "fre": "Ont très bonne mémoire,"
+      },
+      {
+        "eng": "",
+        "fre": "J’irai vers ton corps souple,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Possessive adjectives: mon, ma, mes, ton, votre",
+    "subtitle": "Saying my, your",
+    "explanation": "Use mon, ma, mes and other possessive adjectives before nouns to show ownership. The form depends on the noun.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Jusqu’à mon dernier souffle,"
+      },
+      {
+        "eng": "",
+        "fre": "J’ai dû prendre de mon père,"
+      },
+      {
+        "eng": "",
+        "fre": "J’irai vers ton corps souple,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Je voudrais",
+    "subtitle": "Polite I would like",
+    "explanation": "Use je voudrais to make polite requests. It is softer than je veux.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je voudrais faire le bien,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Quel / quelle questions",
+    "subtitle": "Asking which / what",
+    "explanation": "Use quel before masculine nouns and quelle before feminine nouns when asking what or which.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Quelle erreur,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Time expressions",
+    "subtitle": "heures, et demie, et quart",
+    "explanation": "Use heure(s) for o’clock times. Et demie means half past, et quart means quarter past, and moins le quart means quarter to.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "C’est l’heure de rentrer,"
+      },
+      {
+        "eng": "",
+        "fre": "Une vie heureuse,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Numbers and quantities",
+    "subtitle": "deux, trois, cinq",
+    "explanation": "Numbers are used before nouns for quantities, times, prices, and people.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Une vie où on serait deux,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Pronouns: moi, lui, elle",
+    "subtitle": "For me, him, her",
+    "explanation": "Use moi for me, lui for him, and elle for her after prepositions like pour and avec.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je suis loin de chez moi"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Reflexive verbs",
+    "subtitle": "je me lève, je me lave",
+    "explanation": "Reflexive verbs use me, te, se, nous, or vous before the verb when the action comes back to the subject.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je me souviens la Métare,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Present tense verbs",
+    "subtitle": "Everyday actions now",
+    "explanation": "Use the present tense to talk about current facts, routines, and repeated actions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je voudrais faire le bien,"
+      },
+      {
+        "eng": "",
+        "fre": "Je vais vers le bonheur,"
+      },
+      {
+        "eng": "",
+        "fre": "Je ne compte même plus,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Near future: aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to say someone is going to do something: je vais faire, nous allons nettoyer.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je vais vers le bonheur,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Infinitives after helper verbs",
+    "subtitle": "vouloir, pouvoir, aller + verb",
+    "explanation": "After verbs like vouloir, pouvoir, devoir, and aller, the next verb often stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je vais vers le bonheur,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Passé composé",
+    "subtitle": "Completed past actions",
+    "explanation": "Use passé composé for completed actions in the past. It often uses avoir or être plus a past participle.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "J’ai dû prendre de mon père,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Imparfait",
+    "subtitle": "Background past actions",
+    "explanation": "Use imparfait for past background, descriptions, habits, or ongoing actions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "On mangeait en silence devant la télé,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Conditional",
+    "subtitle": "Would / could",
+    "explanation": "The conditional often expresses would, could, or imagined situations, such as je voudrais or on aurait.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je voudrais faire le bien,"
+      },
+      {
+        "eng": "",
+        "fre": "Une vie où on serait deux,"
+      },
+      {
+        "eng": "",
+        "fre": "Qu’on aurait inventée,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Relative pronouns: qui / que / où",
+    "subtitle": "Joining ideas",
+    "explanation": "Use qui, que, and où to connect two ideas: who/that, that/which, or where.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "De cette vie qui les ronge,"
+      },
+      {
+        "eng": "",
+        "fre": "Et qui les retient,"
+      },
+      {
+        "eng": "",
+        "fre": "Une vie où on serait deux,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Negation: ne...pas / ne...plus / ne...rien",
+    "subtitle": "Making sentences negative",
+    "explanation": "French negatives often wrap around the verb: ne...pas, ne...plus, ne...jamais, or ne...rien.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Chuis pas mauvais pour ça,"
+      },
+      {
+        "eng": "",
+        "fre": "Je ne compte même plus,"
+      },
+      {
+        "eng": "",
+        "fre": "J’suis pas un gars d’ici,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Connectors: et, mais, puis, après",
+    "subtitle": "Joining and sequencing ideas",
+    "explanation": "Use connectors like et, mais, puis, ensuite, après, and quand to join ideas and show order.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Et puis soigner les gens,"
+      },
+      {
+        "eng": "",
+        "fre": "Et qui les retient,"
+      },
+      {
+        "eng": "",
+        "fre": "Et les collines dorées"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Adverbs: très, toujours, bientôt",
+    "subtitle": "Adding detail",
+    "explanation": "Adverbs such as très, toujours, bientôt, directement, and généralement add more detail to verbs or adjectives.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "J’vis toujours à Clichy,"
+      },
+      {
+        "eng": "",
+        "fre": "Ont très bonne mémoire,"
+      },
+      {
+        "eng": "",
+        "fre": "Je vieillis doucement,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Chez",
+    "subtitle": "At someone’s place",
+    "explanation": "Use chez to mean at someone’s home/place or at a professional’s office, such as chez moi or chez le médecin.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je suis loin de chez moi"
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Par",
+    "subtitle": "By / per",
+    "explanation": "Use par to mean by or per, especially with prices and payment expressions.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Par le soleil du soir,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Location descriptions",
+    "subtitle": "à gauche, à droite, en face",
+    "explanation": "Use location expressions to describe where things are in a room or place.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "J’suis pas un gars d’ici,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Faire expressions",
+    "subtitle": "faire le ménage, faire les courses",
+    "explanation": "Faire is used in many common expressions, especially for chores, activities, and shopping.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je voudrais faire le bien,"
+      },
+      {
+        "eng": "",
+        "fre": "Ça fait plus de 7 ans,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Prendre",
+    "subtitle": "Taking / having",
+    "explanation": "Prendre can mean to take or to have, especially with meals, transport, or breaks.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "J’ai dû prendre de mon père,"
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Aller",
+    "subtitle": "Going",
+    "explanation": "Aller means to go. It is also used to build the near future with another infinitive.",
+    "examples": [
+      {
+        "eng": "",
+        "fre": "Je vais vers le bonheur,"
+      }
+    ]
+  }
+]

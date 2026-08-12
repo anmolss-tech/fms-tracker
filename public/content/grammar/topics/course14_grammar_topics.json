@@ -1,0 +1,790 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Me rappeler",
+    "subtitle": "Saying something reminds someone of something",
+    "explanation": "Use rappeler with an object pronoun to say that someone or something reminds a person of another thing.",
+    "examples": [
+      {
+        "eng": "You remind me of my brother.",
+        "fre": "Tu me rappelles mon frère. / Vous me rappelez mon frère."
+      },
+      {
+        "eng": "He reminds me of Pierre.",
+        "fre": "Il me rappelle Pierre."
+      },
+      {
+        "eng": "That reminds me of a film that I saw last year.",
+        "fre": "Ça me rappelle un film que / j'ai vu l'année dernière."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Sentir",
+    "subtitle": "Smelling of something",
+    "explanation": "Use sentir to say someone or something smells of something. Ça sent can mean it smells of.",
+    "examples": [
+      {
+        "eng": "You smell of cheese.",
+        "fre": "Tu sens le fromage. / Vous sentez le fromage."
+      },
+      {
+        "eng": "It smells of garlic here.",
+        "fre": "Ça sent l'ail ici."
+      },
+      {
+        "eng": "It smells like fish here.",
+        "fre": "Ça sent le poisson ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Infinitives after modal verbs",
+    "subtitle": "Want, have to, can, know how to",
+    "explanation": "After vouloir, devoir, pouvoir, savoir, aller, aimer, adorer, and préférer, the next verb often stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "What did you want to do?",
+        "fre": "Que voulais-tu / vouliez-vous faire? / est-ce que tu voulais / vous vouliez faire"
+      },
+      {
+        "eng": "We have to leave early tomorrow.",
+        "fre": "Nous devons partir tôt demain."
+      },
+      {
+        "eng": "You can go without us if you want.",
+        "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Aller + infinitive",
+    "subtitle": "Near future / going to",
+    "explanation": "Use aller plus an infinitive to say that something is going to happen.",
+    "examples": [
+      {
+        "eng": "What are you going to eat?",
+        "fre": "Que vas-tu manger? / Qu'allez-vous manger?"
+      },
+      {
+        "eng": "I'm going to ask for some water for the table.",
+        "fre": "Je vais demander de l'eau pour la table"
+      },
+      {
+        "eng": "I'm going to carry on working here until next year.",
+        "fre": "Je vais continuer à / de travailler ici / jusqu'à l'année prochaine."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Aimer / adorer / préférer + infinitive",
+    "subtitle": "Saying what you like doing",
+    "explanation": "Use aimer, adorer, and préférer before an infinitive to talk about activities you like, love, or prefer.",
+    "examples": [
+      {
+        "eng": "We like going abroad on holiday.",
+        "fre": "Nous aimons aller à l'étranger en vacances"
+      },
+      {
+        "eng": "We love eating here because the food is always delicious.",
+        "fre": "Nous adorons manger ici parce que la / nourriture est toujours délicieuse."
+      },
+      {
+        "eng": "Which wine do you prefer to drink usually",
+        "fre": "Quel vin préfères-tu / préférez-vous / boire d'habitude?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Pouvoir",
+    "subtitle": "Can / be able to",
+    "explanation": "Use pouvoir before an infinitive to say can or be able to.",
+    "examples": [
+      {
+        "eng": "You can go without us if you want.",
+        "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
+      },
+      {
+        "eng": "Can you look at this?",
+        "fre": "Peux-tu regarder ceci? / Pouvez-vous regarder ceci? / Est-ce que tu peux regarder ceci? / Est-ce que vous pouvez regarder ceci?"
+      },
+      {
+        "eng": "We can go into the hotel and wait in the bar.",
+        "fre": "On peut entrer dans l'hôtel / et attendre dans le bar."
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Devoir",
+    "subtitle": "Have to / must",
+    "explanation": "Use devoir before an infinitive to say have to or must.",
+    "examples": [
+      {
+        "eng": "We have to leave early tomorrow.",
+        "fre": "Nous devons partir tôt demain."
+      },
+      {
+        "eng": "What did you have to do?",
+        "fre": "Qu'est-ce que tu devais faire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Vouloir",
+    "subtitle": "Wanting to do something",
+    "explanation": "Use vouloir before an infinitive to say want to do something.",
+    "examples": [
+      {
+        "eng": "What did you want to do?",
+        "fre": "Que voulais-tu / vouliez-vous faire? / est-ce que tu voulais / vous vouliez faire"
+      },
+      {
+        "eng": "You can go without us if you want.",
+        "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
+      },
+      {
+        "eng": "They don't want to get married.",
+        "fre": "Ils ne veulent pas se marier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Negation: ne ... pas",
+    "subtitle": "Saying not",
+    "explanation": "Put ne before the verb and pas after it to make a sentence negative.",
+    "examples": [
+      {
+        "eng": "I'm not listening to the radio.",
+        "fre": "Je n'écoute pas la radio."
+      },
+      {
+        "eng": "Don't wait for Marie; she's very busy and she doesn't finish until 5pm.",
+        "fre": "attendez pas Marie; elle est très occupt / elle ne finit pas jusqu'à dix-sept heure"
+      },
+      {
+        "eng": "I don't know how to do it.",
+        "fre": "Je ne sais pas le faire."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Questions with est-ce que",
+    "subtitle": "Beginner question form",
+    "explanation": "Use est-ce que before a normal sentence to turn it into a question.",
+    "examples": [
+      {
+        "eng": "What did you want to do?",
+        "fre": "Que voulais-tu / vouliez-vous faire? / est-ce que tu voulais / vous vouliez faire"
+      },
+      {
+        "eng": "What are you looking at?",
+        "fre": "Que regardes-tu? / Que regardez-vous? / Qu'est-ce que tu regardes? / Qu'est-ce que vous regardez?"
+      },
+      {
+        "eng": "Can you look at this?",
+        "fre": "Peux-tu regarder ceci? / Pouvez-vous regarder ceci? / Est-ce que tu peux regarder ceci? / Est-ce que vous pouvez regarder ceci?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Inversion questions",
+    "subtitle": "Formal question word order",
+    "explanation": "French can ask questions by switching the verb and subject, such as vas-tu or a-t-il.",
+    "examples": [
+      {
+        "eng": "What are you going to eat?",
+        "fre": "Que vas-tu manger? / Qu'allez-vous manger?"
+      },
+      {
+        "eng": "What did they ask for?",
+        "fre": "Qu'ont-ils demandé?"
+      },
+      {
+        "eng": "Marie paid for the food, so what did Pierre pay for?",
+        "fre": "Marie a payé la nourriture, / donc que Pierre a-t-il payé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Question words",
+    "subtitle": "What, where, why, how long",
+    "explanation": "Words like que, pourquoi, où, and combien help form practical questions.",
+    "examples": [
+      {
+        "eng": "What did you want to do?",
+        "fre": "Que voulais-tu / vouliez-vous faire? / est-ce que tu voulais / vous vouliez faire"
+      },
+      {
+        "eng": "What did they ask for?",
+        "fre": "Qu'ont-ils demandé?"
+      },
+      {
+        "eng": "Marie paid for the food, so what did Pierre pay for?",
+        "fre": "Marie a payé la nourriture, / donc que Pierre a-t-il payé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Passé composé with avoir",
+    "subtitle": "Talking about completed actions",
+    "explanation": "Many past-tense actions use avoir plus a past participle.",
+    "examples": [
+      {
+        "eng": "That reminds me of a film that I saw last year.",
+        "fre": "Ça me rappelle un film que / j'ai vu l'année dernière."
+      },
+      {
+        "eng": "We've already paid for the champagne.",
+        "fre": "Nous avons déjà payé le champagne."
+      },
+      {
+        "eng": "We have lost the card.",
+        "fre": "Nous avons perdu la carte."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Passé composé with être",
+    "subtitle": "Past tense with movement/reflexive verbs",
+    "explanation": "Some verbs, especially movement and reflexive verbs, use être in the past tense.",
+    "examples": [
+      {
+        "eng": "Last year, we went to Spain, and it was fantastic.",
+        "fre": "'année dernière, nous sommes allés er / Espagne, et c'était fantastique."
+      },
+      {
+        "eng": "> went into the house / he entered the hou:",
+        "fre": "il est entré dans la maison"
+      },
+      {
+        "eng": "We went to Paris last year, and we travelled by train.",
+        "fre": "us sommes allés à Paris l'année dernié / et nous avons voyagé en train."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Reflexive verbs",
+    "subtitle": "Actions done to oneself",
+    "explanation": "Reflexive verbs use me, te, se, nous, or vous with the verb, such as se marier or s’entendre.",
+    "examples": [
+      {
+        "eng": "I feel well",
+        "fre": "je me sens bien"
+      },
+      {
+        "eng": "I feel very well.",
+        "fre": "Je me sens très bien."
+      },
+      {
+        "eng": "I've been feeling ill for a week.",
+        "fre": "Je me sens malade depuis une semaine"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Demander à quelqu’un de faire",
+    "subtitle": "Asking someone to do something",
+    "explanation": "Use demander à someone de plus an infinitive to ask someone to do something.",
+    "examples": [
+      {
+        "eng": "Can you ask Sophie for",
+        "fre": "Peux-tu demander plus de / fromage à Sophie?"
+      },
+      {
+        "eng": "(to) ask somebody to do something",
+        "fre": "demander à qqn de faire qch"
+      },
+      {
+        "eng": "Can you ask somebody to help US find our suitcases.",
+        "fre": "Peux-tu / Pouvez-vous demander à / quelqu'un de nous aider à trouver / nos valises. a"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Dire à quelqu’un de faire",
+    "subtitle": "Telling someone to do something",
+    "explanation": "Use dire à someone de plus an infinitive to tell someone to do something.",
+    "examples": [
+      {
+        "eng": "Pierre told everybody to do something useful instead of watching TV.",
+        "fre": "rre a dit à tout le monde de faire quelc / chose d'utile au lieu de regarder / la télévision. a"
+      },
+      {
+        "eng": "What did you tell Pierre to do?",
+        "fre": "Qu'as-tu dit à Pierre de faire?"
+      },
+      {
+        "eng": "They told me to go to the shop.",
+        "fre": "Ils m'ont dit d'aller au magasin."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Permettre à quelqu’un de faire",
+    "subtitle": "Letting or allowing",
+    "explanation": "Use permettre à someone de plus an infinitive to say allow or let someone do something.",
+    "examples": [
+      {
+        "eng": "to let somebody do something o allow somebody to do",
+        "fre": "permettre à qqn de faire qch"
+      },
+      {
+        "eng": "0 let somebody do something",
+        "fre": "permettre à qqn de / faire qch"
+      },
+      {
+        "eng": "to allow somebody to do something to let somebody do something",
+        "fre": "permettre à quelqu'un de faire / quelque chose"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Aider à faire",
+    "subtitle": "Helping to do something",
+    "explanation": "Use aider à plus an infinitive to say help to do something.",
+    "examples": [
+      {
+        "eng": "I'm going to tell everybody to help us.",
+        "fre": "vais dire à tout le monde de nous aide"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Continuer à / de",
+    "subtitle": "Carrying on doing something",
+    "explanation": "Use continuer à or continuer de plus an infinitive to say carry on doing something.",
+    "examples": [
+      {
+        "eng": "to continue / to carry on (-ing)",
+        "fre": "continuer (à/de)"
+      },
+      {
+        "eng": "I'm going to carry on working here until next year.",
+        "fre": "Je vais continuer à / de travailler ici / jusqu'à l'année prochaine."
+      },
+      {
+        "eng": "Do you want to carry on doing it now?",
+        "fre": "Veux-tu / Voulez-vous continuer à / de / le faire maintenant?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Rêver de / à",
+    "subtitle": "Dreaming of something",
+    "explanation": "Use rêver de or rêver à to talk about dreaming of something.",
+    "examples": [
+      {
+        "eng": "to dream (of)",
+        "fre": "rêver (à/de)"
+      },
+      {
+        "eng": "Did you dream of anything interesting?",
+        "fre": "As-tu / Avez-vous rêvé à / de / quelque chose d'intéressant?"
+      },
+      {
+        "eng": "Michel dreams of going to Italy one day",
+        "fre": "Michel rêve d'aller en Italie un jour."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "De quoi / à quoi",
+    "subtitle": "Questions after de and à",
+    "explanation": "When a verb uses de or à, questions can become de quoi or à quoi.",
+    "examples": [
+      {
+        "eng": "What are you scared of?",
+        "fre": "De quoi as-tu peur?"
+      },
+      {
+        "eng": "What are you talking about?",
+        "fre": "De quoi parlez-vous?"
+      },
+      {
+        "eng": "What are you talking about?",
+        "fre": "De quoi parles-tu? / De quoi parlez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Location prepositions",
+    "subtitle": "Where things are",
+    "explanation": "Words like dans, sur, sous, devant, derrière, and à côté de show location.",
+    "examples": [
+      {
+        "eng": "In",
+        "fre": "dans"
+      },
+      {
+        "eng": "I asked the waiter to put a bottle of water on the table for us.",
+        "fre": "'ai demandé au serveur de mettre une / bouteille d'eau sur la table pour nous."
+      },
+      {
+        "eng": "We ate at the back of the restaurant yesterday, next to the toilets, and it was terrible.",
+        "fre": "ous avons mangé au fond du restaurar / er, à côté des toilettes, et c'était terribl"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Avec and sans",
+    "subtitle": "With and without",
+    "explanation": "Use avec for with and sans for without.",
+    "examples": [
+      {
+        "eng": "You can go without us if you want.",
+        "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
+      },
+      {
+        "eng": "Pierre decided to go into the cinema without us.",
+        "fre": "Pierre a décidé d'entrer dans le cinéma / sans nous."
+      },
+      {
+        "eng": "We continued to do everything without them.",
+        "fre": "Nous avons continué de/à tout / faire sans eux."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Parce que / donc / si",
+    "subtitle": "Connecting ideas",
+    "explanation": "Use parce que for because, donc for so, and si for if.",
+    "examples": [
+      {
+        "eng": "You can go without us if you want.",
+        "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
+      },
+      {
+        "eng": "We love eating here because the food is always delicious.",
+        "fre": "Nous adorons manger ici parce que la / nourriture est toujours délicieuse."
+      },
+      {
+        "eng": "I'm listening to something, so don't",
+        "fre": "speak to me. / coute quelque chose, donc ne me par / pas / ne me parlez pas."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Time expressions",
+    "subtitle": "When something happens",
+    "explanation": "This course uses time words such as demain, ce soir, tôt, maintenant, and jusqu’à.",
+    "examples": [
+      {
+        "eng": "We have to leave early tomorrow.",
+        "fre": "Nous devons partir tôt demain."
+      },
+      {
+        "eng": "Don't wait for Marie; she's very busy and she doesn't finish until 5pm.",
+        "fre": "attendez pas Marie; elle est très occupt / elle ne finit pas jusqu'à dix-sept heure"
+      },
+      {
+        "eng": "I've decided to leave tomorrow.",
+        "fre": "J'ai décidé de partir demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Transport with en",
+    "subtitle": "Travelling by something",
+    "explanation": "Use en with many forms of transport, such as en train or en bus.",
+    "examples": [
+      {
+        "eng": "I'm travelling by train",
+        "fre": "je voyage en train"
+      },
+      {
+        "eng": "We travelled to France by train.",
+        "fre": "Nous avons voyagé en France en train."
+      },
+      {
+        "eng": "We went to Paris last year, and we travelled by train.",
+        "fre": "us sommes allés à Paris l'année dernié / et nous avons voyagé en train."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Il y a / qu’y a-t-il",
+    "subtitle": "Saying there is / what is there",
+    "explanation": "Use il y a for there is or there are. In questions, qu’y a-t-il asks what is there.",
+    "examples": [
+      {
+        "eng": "I wonder if there is somebody here who speaks English.",
+        "fre": "Je me demande sil y a / quelqu'un ici qui parle anglais."
+      },
+      {
+        "eng": "\"an you see what's underneath the car",
+        "fre": "Peux-tu / Pouvez-vous voir ce qu'il y a / SOUS la voiture?"
+      },
+      {
+        "eng": "They started to learn English three weeks ago.",
+        "fre": "Ils ont commencé a apprendre / l'anglais il y a trois semaines."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Quel / quelle / quels / quelles",
+    "subtitle": "Which / what before nouns",
+    "explanation": "Use quel forms before nouns; the form changes to match the noun.",
+    "examples": [
+      {
+        "eng": "Which wine do you prefer to drink usually",
+        "fre": "Quel vin préfères-tu / préférez-vous / boire d'habitude?"
+      },
+      {
+        "eng": "Which wine do they like?",
+        "fre": "Quel vin aiment-ils?"
+      },
+      {
+        "eng": "What colour is your hair?",
+        "fre": "De quelle couleur sont tes / vos cheveux"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Avoir for age",
+    "subtitle": "Talking about age",
+    "explanation": "French uses avoir for age, so “is older than” is often built with a plus que expression.",
+    "examples": [
+      {
+        "eng": "to be. . . years older than",
+        "fre": "voir. . . ans de plus qu"
+      },
+      {
+        "eng": "Pierre is three years older than me.",
+        "fre": "Pierre a trois ans de plus que moi."
+      },
+      {
+        "eng": "I think that Marie is two years older than Pierre.",
+        "fre": "Je pense que Marie a deux ans de / plus que Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Comparisons: plus que / moins que",
+    "subtitle": "Older, younger, more, less",
+    "explanation": "Use plus que for more than and moins que for less than.",
+    "examples": [
+      {
+        "eng": "to be. . . years older than",
+        "fre": "voir. . . ans de plus qu"
+      },
+      {
+        "eng": "Pierre is three years older than me.",
+        "fre": "Pierre a trois ans de plus que moi."
+      },
+      {
+        "eng": "I think that Marie is two years older than Pierre.",
+        "fre": "Je pense que Marie a deux ans de / plus que Pierre."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Avoir les yeux / les cheveux",
+    "subtitle": "Describing eyes and hair",
+    "explanation": "Use avoir with les yeux or les cheveux to describe eyes and hair.",
+    "examples": [
+      {
+        "eng": "I want to change my hairstyle (/ want to get it cut into a whole new style)",
+        "fre": "je veux changer de coiffure"
+      },
+      {
+        "eng": "I want to change my hair (/ want to put it up into a ponytail or something) >",
+        "fre": "je veux changer ma coiffure"
+      },
+      {
+        "eng": "» went by bus, but it was a boring journ",
+        "fre": "ous sommes allés en bus, mais c'était t / trajet ennuyeux."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Adjective agreement",
+    "subtitle": "Matching descriptions",
+    "explanation": "French adjectives often change to match masculine, feminine, singular, or plural nouns.",
+    "examples": [
+      {
+        "eng": "roux ginger / red",
+        "fre": "blonds blond"
+      },
+      {
+        "eng": "I have blond hair.",
+        "fre": "J'ai les cheveux blonds."
+      },
+      {
+        "eng": "We have blond hair.",
+        "fre": "Nous avons les cheveux blonds."
+      }
+    ]
+  },
+  {
+    "id": "grammar-34",
+    "title": "Se marier",
+    "subtitle": "Getting married",
+    "explanation": "Use se marier to say to get married. In the past, it becomes forms like s’est mariée.",
+    "examples": [
+      {
+        "eng": "to get married",
+        "fre": "se marier"
+      },
+      {
+        "eng": "She got married yesterday.",
+        "fre": "Elle s'est mariée hier."
+      },
+      {
+        "eng": "Whom did you marry?",
+        "fre": "Avec qui t'es-tu marié? / Avec qui vous êtes-vous marié?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-35",
+    "title": "Célibataire",
+    "subtitle": "Saying single",
+    "explanation": "Use être plus célibataire to say someone is single.",
+    "examples": [
+      {
+        "eng": "single",
+        "fre": "célibataire"
+      },
+      {
+        "eng": "I think Pierre is single.",
+        "fre": "Je pense que Pierre est célibataire."
+      },
+      {
+        "eng": "I am single.",
+        "fre": "Je suis célibataire."
+      }
+    ]
+  },
+  {
+    "id": "grammar-36",
+    "title": "S'entendre avec",
+    "subtitle": "Getting on with someone",
+    "explanation": "Use s’entendre avec to say get on with someone.",
+    "examples": [
+      {
+        "eng": "to get on with",
+        "fre": "s'entendre avec"
+      },
+      {
+        "eng": "LINILINLUI\\L to get on",
+        "fre": "je m'entends / get on"
+      },
+      {
+        "eng": "I get on with Marie.",
+        "fre": "Je m'entends avec Marie."
+      }
+    ]
+  },
+  {
+    "id": "grammar-37",
+    "title": "Énerver",
+    "subtitle": "Annoying someone",
+    "explanation": "Use énerver with object pronouns to say someone annoys me, you, or someone else.",
+    "examples": [
+      {
+        "eng": "to annoy",
+        "fre": "énerver"
+      },
+      {
+        "eng": "to annoy me",
+        "fre": "m'énerver"
+      },
+      {
+        "eng": "Pierre didn't annoy me; it was Marie.",
+        "fre": "Pierre ne ma pas énervé; c'était Marie."
+      }
+    ]
+  },
+  {
+    "id": "grammar-38",
+    "title": "Relative pronouns: qui / que",
+    "subtitle": "Linking two ideas",
+    "explanation": "Use qui for who/that as a subject and que for who/that as an object.",
+    "examples": [
+      {
+        "eng": "That reminds me of a film that I saw last year.",
+        "fre": "Ça me rappelle un film que / j'ai vu l'année dernière."
+      },
+      {
+        "eng": "I wonder if there is somebody here who speaks English.",
+        "fre": "Je me demande sil y a / quelqu'un ici qui parle anglais."
+      },
+      {
+        "eng": "I saw Michelle with a woman who looked like her twin.",
+        "fre": "J'ai vu Michelle avec une femme qui a / ressemblé à sa jumelle."
+      }
+    ]
+  },
+  {
+    "id": "grammar-39",
+    "title": "Depuis / il y a",
+    "subtitle": "For and ago",
+    "explanation": "Use depuis for how long something has been happening and il y a to say ago.",
+    "examples": [
+      {
+        "eng": "They started to learn English three weeks ago.",
+        "fre": "Ils ont commencé a apprendre / l'anglais il y a trois semaines."
+      },
+      {
+        "eng": "I've been feeling ill for a week.",
+        "fre": "Je me sens malade depuis une semaine"
+      },
+      {
+        "eng": "I worked here eight years ago.",
+        "fre": "Jai travaillé ici il y a huit ans."
+      }
+    ]
+  },
+  {
+    "id": "grammar-40",
+    "title": "Object pronouns",
+    "subtitle": "Me, you, us, and them before verbs",
+    "explanation": "Small words like me, te, nous, vous, le, la, and les often come before the verb.",
+    "examples": [
+      {
+        "eng": "You remind me of my brother.",
+        "fre": "Tu me rappelles mon frère. / Vous me rappelez mon frère."
+      },
+      {
+        "eng": "He reminds me of Pierre.",
+        "fre": "Il me rappelle Pierre."
+      },
+      {
+        "eng": "They remind me of Pierre and Marie.",
+        "fre": "Ils me rappellent Pierre et Marie."
+      }
+    ]
+  }
+]

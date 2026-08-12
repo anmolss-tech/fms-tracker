@@ -1,0 +1,622 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Imperfect review: pouvais, voulais, étais, avais",
+    "subtitle": "Talking about past states and situations",
+    "explanation": "Course 7 reviews common imperfect forms for things you could do, wanted, were, or had in the past. The negative goes around the verb with ne ... pas.",
+    "examples": [
+      {
+        "eng": "I couldn't go last year.",
+        "fre": "Je ne pouvais pas aller l'année dernière."
+      },
+      {
+        "eng": "I wanted to go to Cape Verde.",
+        "fre": "Je voulais aller au Cap-Vert."
+      },
+      {
+        "eng": "I couldn't go last year because I had no money",
+        "fre": "Je ne pouvais pas aller l'année dernière parce que je n'avais pas d'argent"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Inversion with tu / vous",
+    "subtitle": "Asking direct questions",
+    "explanation": "Swap the verb and subject pronoun to form a direct question. Course 7 practises this with tu and vous, especially with venir.",
+    "examples": [
+      {
+        "eng": "When are you coming?",
+        "fre": "Quand venez-vous?"
+      },
+      {
+        "eng": "Are you coming to the beach?",
+        "fre": "Viens-tu à la plage? / Venez-vous à la plage?"
+      },
+      {
+        "eng": "Where do you come from? (formal / plural)",
+        "fre": "D'où venez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Negative inversion",
+    "subtitle": "Asking negative questions",
+    "explanation": "Put ne before the inverted verb and pas after the subject to ask a negative question such as 'aren’t you coming?'.",
+    "examples": [
+      {
+        "eng": "Aren't you coming tomorrow?",
+        "fre": "Ne viens-tu pas demain? / Ne venez-vous pas demain?"
+      },
+      {
+        "eng": "Why don't you come to France?",
+        "fre": "Pourquoi ne viens-tu pas en France? / Pourquoi ne venez-vous pas en France?"
+      },
+      {
+        "eng": "Don't you come from Paris?",
+        "fre": "Ne viens-tu pas de Paris? / Ne venez-vous pas de Paris?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Venir de",
+    "subtitle": "Saying where someone comes from",
+    "explanation": "Use venir de to say where someone comes from. The form after de changes naturally with the place that follows.",
+    "examples": [
+      {
+        "eng": "I come from France.",
+        "fre": "Je viens de France."
+      },
+      {
+        "eng": "I come from Paris.",
+        "fre": "Je viens de Paris."
+      },
+      {
+        "eng": "I come from abroad.",
+        "fre": "Je viens de l'étranger."
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "À l'étranger / de l'étranger",
+    "subtitle": "Talking about abroad",
+    "explanation": "Use à l'étranger for going or being abroad, and de l'étranger for coming from abroad.",
+    "examples": [
+      {
+        "eng": "I'm going abroad tomorrow.",
+        "fre": "Je vais à l'étranger demain."
+      },
+      {
+        "eng": "I like to go abroad.",
+        "fre": "J'aime aller à l'étranger."
+      },
+      {
+        "eng": "Why don't you come abroad with me?",
+        "fre": "Pourquoi ne viens-tu pas à l'étranger avec moi? / Pourquoi ne venez-vous pas à l'étranger avec moi?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Parler + language",
+    "subtitle": "Saying which languages you speak",
+    "explanation": "Use parler directly before a language name: parler français, parler anglais, and so on. In a question, the verb can come before the subject pronoun.",
+    "examples": [
+      {
+        "eng": "I speak French.",
+        "fre": "Je parle français."
+      },
+      {
+        "eng": "I speak French and English.",
+        "fre": "Je parle français et anglais."
+      },
+      {
+        "eng": "Do you speak French?",
+        "fre": "Parlez-vous français?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Passer + time",
+    "subtitle": "Spending time or holidays",
+    "explanation": "Use passer to talk about spending time somewhere. It can be used for holidays, days, weeks, or other periods of time.",
+    "examples": [
+      {
+        "eng": "I want to spend the holidays here.",
+        "fre": "Je veux passer les vacances ici."
+      },
+      {
+        "eng": "I'm going to spend the holidays at the beach.",
+        "fre": "Je vais passer les vacances à la plage."
+      },
+      {
+        "eng": "Where did you spend the holidays?",
+        "fre": "Où as-tu passé les vacances? / Où avez-vous passé les vacances?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "À / en / au / aux with places",
+    "subtitle": "Going to cities and countries",
+    "explanation": "French uses different forms before places. Course 7 shows à with cities, en with many countries, au with masculine countries, and aux with plural countries.",
+    "examples": [
+      {
+        "eng": "I'm going to France.",
+        "fre": "Je vais en France."
+      },
+      {
+        "eng": "I'm going to Mexico (masculine country)",
+        "fre": "Je vais au Mexique"
+      },
+      {
+        "eng": "I'm going to the United States (p/ura/)",
+        "fre": "Je vais aux États-Unis"
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Aimer + noun or infinitive",
+    "subtitle": "Saying what you like",
+    "explanation": "Use aimer before a noun to say you like a thing, or before an infinitive to say you like doing something. Use ne ... pas to say you do not like it.",
+    "examples": [
+      {
+        "eng": "I like the chicken here.",
+        "fre": "J'aime le poulet ici."
+      },
+      {
+        "eng": "I like Speaking French (literally: I like to speak French)",
+        "fre": "j'aime parler français"
+      },
+      {
+        "eng": "I don't like the food here.",
+        "fre": "Je n'aime pas la nourriture ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Passé composé with aller",
+    "subtitle": "Saying where you went",
+    "explanation": "In these Course 7 examples, aller uses être in the passé composé: je suis allé. Add a place or time expression after it.",
+    "examples": [
+      {
+        "eng": "I went to France.",
+        "fre": "Je suis allé en France."
+      },
+      {
+        "eng": "I went to Paris.",
+        "fre": "Je suis allé à Paris."
+      },
+      {
+        "eng": "I went yesterday.",
+        "fre": "Je suis allé hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Il y a + time",
+    "subtitle": "Saying “ago”",
+    "explanation": "Put il y a before a length of time to say how long ago something happened.",
+    "examples": [
+      {
+        "eng": "two days ago (ago two days)",
+        "fre": "il y a deux jours"
+      },
+      {
+        "eng": "I went to London three days ago.",
+        "fre": "Je suis allé à Londres il y a trois jours."
+      },
+      {
+        "eng": "We ate here two weeks ago.",
+        "fre": "Nous avons mangé ici il y a deux semaines."
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Dernier / cette / prochain",
+    "subtitle": "Last, this, and next",
+    "explanation": "Course 7 uses dernier, cette, and prochain to place events in time. Notice that the French word order changes depending on the expression.",
+    "examples": [
+      {
+        "eng": "last week",
+        "fre": "la semaine dernière"
+      },
+      {
+        "eng": "this week",
+        "fre": "cette semaine"
+      },
+      {
+        "eng": "next week",
+        "fre": "la semaine prochaine"
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Habiter + place",
+    "subtitle": "Saying where you live",
+    "explanation": "Use habiter with the same place patterns seen elsewhere: à with a city, en with many countries, and au with masculine countries.",
+    "examples": [
+      {
+        "eng": "I live in England.",
+        "fre": "J'habite en Angleterre."
+      },
+      {
+        "eng": "I live in Nottingham.",
+        "fre": "J'habite à Nottingham."
+      },
+      {
+        "eng": "I live in Mexico",
+        "fre": "J'habite au Mexique"
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Depuis",
+    "subtitle": "An action continuing until now",
+    "explanation": "Use depuis with an action or situation that started in the past and is still true now. French often keeps the present tense where English uses 'have been'.",
+    "examples": [
+      {
+        "eng": "I've been living here for three months ( I live here since three months)",
+        "fre": "J'habite ici depuis trois mois"
+      },
+      {
+        "eng": "I've been here for two hours.",
+        "fre": "Je suis ici depuis deux heures."
+      },
+      {
+        "eng": "I've been living here in Paris for two months.",
+        "fre": "J'habite ici à Paris depuis deux mois."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Depuis quand",
+    "subtitle": "Asking “how long?”",
+    "explanation": "Use depuis quand to ask when an ongoing situation started. It literally means 'since when'.",
+    "examples": [
+      {
+        "eng": "How long have you been living here? (Since when do you live here?)",
+        "fre": "Depuis quand habitez-vous ici?"
+      },
+      {
+        "eng": "How long have you been living in France? (Since when do you live in France?)",
+        "fre": "Depuis quand habitez-vous en France?"
+      },
+      {
+        "eng": "How long have you been living abroad?",
+        "fre": "Depuis quand habites-tu à l'étranger? / Depuis quand habitez-vous à l'étranger?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Jusqu'à / jusqu'au",
+    "subtitle": "Saying “until”",
+    "explanation": "Use jusqu'à to mark the end point of a period. It combines with the expression that follows, such as jusqu'à la semaine prochaine or jusqu'au mois prochain.",
+    "examples": [
+      {
+        "eng": "I am here until next week.",
+        "fre": "Je suis ici jusqu'à la semaine prochaine."
+      },
+      {
+        "eng": "I'm here until next month",
+        "fre": "Je suis ici jusqu'au mois prochain"
+      },
+      {
+        "eng": "I am here until tonight.",
+        "fre": "Je suis ici jusqu'à ce soir."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Days: dernier, prochain, tous les",
+    "subtitle": "Last, next, and every day",
+    "explanation": "With weekdays, dernier and prochain can mean last and next. Tous les + plural weekday is used for a repeated day such as every Friday.",
+    "examples": [
+      {
+        "eng": "last Tuesday",
+        "fre": "mardi dernier"
+      },
+      {
+        "eng": "next Tuesday",
+        "fre": "mardi prochain"
+      },
+      {
+        "eng": "You see Marie every Friday.",
+        "fre": "Vous voyez Marie tous les vendredis."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Est-ce que c'est... ?",
+    "subtitle": "Asking “is it...?”",
+    "explanation": "Use est-ce que c'est to ask a clear yes/no question about something.",
+    "examples": [
+      {
+        "eng": "Is it good?",
+        "fre": "Est-ce que c'est bon?"
+      },
+      {
+        "eng": "Is it for me?",
+        "fre": "Est-ce que c'est pour moi?"
+      },
+      {
+        "eng": "Is it too big?",
+        "fre": "Est-ce que c'est trop grand?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "C'était / ce n'était pas",
+    "subtitle": "Talking about what something was",
+    "explanation": "Use c'était for 'it was' and ce n'était pas for 'it wasn't'. Course 7 also uses est-ce que to turn these into questions.",
+    "examples": [
+      {
+        "eng": "Was it good?",
+        "fre": "Est-ce que c'était bon?"
+      },
+      {
+        "eng": "Was it very expensive?",
+        "fre": "Est-ce que c'était très cher?"
+      },
+      {
+        "eng": "Wasn't it very good?",
+        "fre": "Est-ce que ce n'était pas très bon?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Assez",
+    "subtitle": "Quite or enough",
+    "explanation": "Assez can mean 'quite' before an adjective, or 'enough' when talking about an amount. With a noun, Course 7 shows assez de.",
+    "examples": [
+      {
+        "eng": "it is quite good / it is rather good",
+        "fre": "c'est assez bon"
+      },
+      {
+        "eng": "it's enough for me",
+        "fre": "C'est assez pour moi"
+      },
+      {
+        "eng": "there is enough food",
+        "fre": "il y a assez de nourriture"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Devant / derrière",
+    "subtitle": "In front of and behind",
+    "explanation": "Use devant for 'in front of' and derrière for 'behind'. They can be followed by a noun or a person.",
+    "examples": [
+      {
+        "eng": "It's in front of the restaurant.",
+        "fre": "C'est devant le restaurant."
+      },
+      {
+        "eng": "It's behind the restaurant.",
+        "fre": "C'est derrière le restaurant."
+      },
+      {
+        "eng": "I'm behind him.",
+        "fre": "Je suis derrière lui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "À côté de",
+    "subtitle": "Saying “next to”",
+    "explanation": "Use à côté de for 'next to'. Before le and les, de combines to make du and des.",
+    "examples": [
+      {
+        "eng": "It's next to the restaurant.",
+        "fre": "C'est à côté du restaurant."
+      },
+      {
+        "eng": "The cinema is next to the hotel.",
+        "fre": "Le cinéma est à côté de l'hôtel."
+      },
+      {
+        "eng": "The toilets are next to the bar",
+        "fre": "Les toilettes sont à côté du bar"
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "À + distance + de",
+    "subtitle": "Saying how far away something is",
+    "explanation": "Use être or habiter + à + distance + de to say how far a place or person is from another point.",
+    "examples": [
+      {
+        "eng": "It's 2 kilometres from here.",
+        "fre": "C'est à deux kilomètres d'ici."
+      },
+      {
+        "eng": "I live 5 kilometres from the Eiffel Tower.",
+        "fre": "J'habite à cinq kilomètres de la Tour Eiffel."
+      },
+      {
+        "eng": "It's thirty kilometres from the hotel",
+        "fre": "C'est à trente kilomètres de l'hôtel"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "En + transport / à pied",
+    "subtitle": "Saying how you travel",
+    "explanation": "Use en with many vehicles, such as en car or en train. Use à pied for travelling on foot.",
+    "examples": [
+      {
+        "eng": "on foot (walk)",
+        "fre": "à pied"
+      },
+      {
+        "eng": "by coach",
+        "fre": "en car"
+      },
+      {
+        "eng": "I'm going there on the train tomorrow.",
+        "fre": "Je vais là en train demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Le trajet dure",
+    "subtitle": "Saying how long a journey takes",
+    "explanation": "Use le trajet dure + time to say how long a journey lasts or takes.",
+    "examples": [
+      {
+        "eng": "The journey takes five minutes.",
+        "fre": "Le trajet dure cinq minutes."
+      },
+      {
+        "eng": "The journey takes an hour by coach",
+        "fre": "Le trajet dure une heure en car"
+      },
+      {
+        "eng": "The journey takes five hours by boat",
+        "fre": "Le trajet dure cinq heures en bateau"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Present tense with vous",
+    "subtitle": "Talking to one person formally or several people",
+    "explanation": "Course 7 practises many present-tense verbs with vous. The verb ending changes, but vous stays before the verb in a normal statement.",
+    "examples": [
+      {
+        "eng": "You have a lot of food.",
+        "fre": "Vous avez beaucoup de nourriture."
+      },
+      {
+        "eng": "You drink too much coffee.",
+        "fre": "Vous buvez trop de café."
+      },
+      {
+        "eng": "You choose the wine.",
+        "fre": "Vous choisissez le vin."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Vous + ne ... pas",
+    "subtitle": "Making present-tense negatives",
+    "explanation": "Put ne before the vous-form verb and pas after it to make a negative statement.",
+    "examples": [
+      {
+        "eng": "you don't eat / you're not eating",
+        "fre": "vous ne mangez pas"
+      },
+      {
+        "eng": "You don't buy any vegetables.",
+        "fre": "Vous n'achetez pas de légumes."
+      },
+      {
+        "eng": "You don't understand.",
+        "fre": "Vous ne comprenez pas."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Vous inversion questions",
+    "subtitle": "Turning vous statements into questions",
+    "explanation": "Put the verb before vous and join them with a hyphen to form a direct question.",
+    "examples": [
+      {
+        "eng": "Do you speak French? / Are you speaking French?",
+        "fre": "Parlez-vous français?"
+      },
+      {
+        "eng": "Where are you staying this week?",
+        "fre": "Où restez-vous cette semaine?"
+      },
+      {
+        "eng": "Do you eat meat? (you eat meat?)",
+        "fre": "Mangez-vous de la viande?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Negative questions with vous",
+    "subtitle": "Asking “don’t you...?”",
+    "explanation": "For a negative inversion question, put ne before the verb and pas after vous: ne + verb-vous + pas.",
+    "examples": [
+      {
+        "eng": "Don't you eat? / aren't you eating?",
+        "fre": "ne mangez-vous pas?"
+      },
+      {
+        "eng": "Why aren't you going on holiday this year?",
+        "fre": "Pourquoi n'allez-vous pas en vacances cette année?"
+      },
+      {
+        "eng": "Why don't you do that tomorrow?",
+        "fre": "Pourquoi ne faites-vous pas cela demain?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Vous imperative",
+    "subtitle": "Giving instructions and commands",
+    "explanation": "Use the vous verb form without the subject pronoun to give a polite or plural command.",
+    "examples": [
+      {
+        "eng": "Buy everything now!",
+        "fre": "Achetez tout maintenant!"
+      },
+      {
+        "eng": "Wait here!",
+        "fre": "Attendez ici!"
+      },
+      {
+        "eng": "Try this cake; it's delicious.",
+        "fre": "Essayez ce gâteau; il est délicieux!"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Negative vous imperative",
+    "subtitle": "Telling someone not to do something",
+    "explanation": "Put ne ... pas around the command form to tell someone not to do something.",
+    "examples": [
+      {
+        "eng": "Don't buy the food until Friday.",
+        "fre": "N'achetez pas la nourriture jusqu'à vendredi."
+      },
+      {
+        "eng": "Don't go without me.",
+        "fre": "N'allez pas sans moi."
+      },
+      {
+        "eng": "Don't eat too much; we're going to the restaurant later",
+        "fre": "Ne mangez pas trop; nous allons au restaurant plus tard"
+      }
+    ]
+  }
+]

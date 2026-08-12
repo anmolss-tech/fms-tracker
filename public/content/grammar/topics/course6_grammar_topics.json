@@ -1,0 +1,662 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Passé composé with avoir",
+    "subtitle": "Talking about completed actions",
+    "explanation": "Use avoir in the present tense plus a past participle to say that something happened. In English this can mean either “have done” or simple past like “did”.",
+    "examples": [
+      {
+        "eng": "I have eaten",
+        "fre": "j'ai mangé"
+      },
+      {
+        "eng": "I booked a table for everybody.",
+        "fre": "j'ai réservé une table pour tout le monde."
+      },
+      {
+        "eng": "We have lost the card.",
+        "fre": "Nous avons perdu la carte."
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Negative passé composé",
+    "subtitle": "Saying did not / have not",
+    "explanation": "Put ne and pas around the avoir part. The past participle stays after avoir.",
+    "examples": [
+      {
+        "eng": "I haven't eaten",
+        "fre": "je n'ai pas mangé"
+      },
+      {
+        "eng": "They didn't make a reservation.",
+        "fre": "Ils n'ont pas fait une réservation."
+      },
+      {
+        "eng": "We didn't bring any food but we've ordered a pizza.",
+        "fre": "Nous n'avons pas apporté de nourriture mais nous avons commandé une pizza."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Passé composé questions",
+    "subtitle": "Asking did you / have you",
+    "explanation": "To ask a formal question, put the avoir verb before the subject: avez-vous, a-t-il, ont-ils. This is very common in course examples.",
+    "examples": [
+      {
+        "eng": "Have you ordered?",
+        "fre": "Avez-vous commandé?"
+      },
+      {
+        "eng": "Has he seen the car?",
+        "fre": "A-t-il vu la voiture?"
+      },
+      {
+        "eng": "Have they eaten?",
+        "fre": "Ont-ils mangé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "As-tu / Avez-vous",
+    "subtitle": "Informal and formal you",
+    "explanation": "Use as-tu for one person you know well. Use avez-vous for polite speech, formal speech, or more than one person.",
+    "examples": [
+      {
+        "eng": "Have you eaten?",
+        "fre": "As-tu mangé? / Avez-vous mangé?"
+      },
+      {
+        "eng": "Have you finished?",
+        "fre": "As-tu fini? / Avez-vous fini?"
+      },
+      {
+        "eng": "Have you understood?",
+        "fre": "As-tu compris? / Avez-vous compris?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Negative questions",
+    "subtitle": "Asking haven’t you / didn’t you",
+    "explanation": "In negative questions, ne and pas go around the avoir verb and subject pattern. This creates forms like n'avez-vous pas and n'ont-ils pas.",
+    "examples": [
+      {
+        "eng": "Haven't you eaten?",
+        "fre": "N'avez-vous pas mangé?"
+      },
+      {
+        "eng": "Haven't they ordered?",
+        "fre": "N'ont-ils pas commandé?"
+      },
+      {
+        "eng": "Haven't we paid for everything?",
+        "fre": "N'avons-nous pas payé tout?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Irregular past participles",
+    "subtitle": "Common completed-action forms",
+    "explanation": "Some past participles do not follow a simple -é pattern. Course 6 uses useful forms like fait, vu, pris, bu, perdu, choisi, and compris.",
+    "examples": [
+      {
+        "eng": "Have we done everything for tomorrow?",
+        "fre": "Avons-nous fait tout pour demain?"
+      },
+      {
+        "eng": "Has he seen the car?",
+        "fre": "A-t-il vu la voiture?"
+      },
+      {
+        "eng": "Have you understood?",
+        "fre": "As-tu compris? / Avez-vous compris?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Direct object pronouns",
+    "subtitle": "Saying it / him / her / them",
+    "explanation": "Words like le, la, l', and les can replace a thing or person already known. They usually go before the verb they belong to.",
+    "examples": [
+      {
+        "eng": "I'm going to change it now.",
+        "fre": "Je vais le changer maintenant."
+      },
+      {
+        "eng": "You can buy it in Marseille.",
+        "fre": "Vous pouvez l'acheter à Marseille."
+      },
+      {
+        "eng": "I couldn't do it yesterday.",
+        "fre": "Je ne pouvais pas le faire hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Object pronouns with passé composé",
+    "subtitle": "Putting it before avoir",
+    "explanation": "With passé composé, direct object pronouns go before the avoir verb: je l'ai, nous l'avons, vous l'avez. This lets you say things like “I saw it” or “we ate it”.",
+    "examples": [
+      {
+        "eng": "I had it.",
+        "fre": "Je l'avais."
+      },
+      {
+        "eng": "I didn't have it.",
+        "fre": "Je ne l'avais pas."
+      },
+      {
+        "eng": "I couldn't find her.",
+        "fre": "Je ne pouvais pas la trouver."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Quelque chose",
+    "subtitle": "Saying something",
+    "explanation": "Use quelque chose to say something. It can be followed by de plus adjective when describing the thing.",
+    "examples": [
+      {
+        "eng": "I would like something a bit bigger.",
+        "fre": "Je voudrais quelque chose d'un peu plus grand."
+      },
+      {
+        "eng": "I'm going to find something for Pierre.",
+        "fre": "Je vais trouver quelque chose pour Pierre."
+      },
+      {
+        "eng": "Have you found something for me?",
+        "fre": "Avez-vous trouvé quelque chose pour moi?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Il y a",
+    "subtitle": "There is / there are",
+    "explanation": "Use il y a to say there is or there are. It works for singular and plural ideas.",
+    "examples": [
+      {
+        "eng": "There is a good restaurant here.",
+        "fre": "Il y a un bon restaurant ici."
+      },
+      {
+        "eng": "There's a supermarket near here.",
+        "fre": "Il y a un supermarché près d'ici."
+      },
+      {
+        "eng": "There are some good restaurants here.",
+        "fre": "Il y a de bons restaurants ici."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Qu'y a-t-il",
+    "subtitle": "Asking what there is",
+    "explanation": "Use qu'y a-t-il to ask what there is. It is useful for asking what exists or what there is to do in a place.",
+    "examples": [
+      {
+        "eng": "What is there to do in La Rochelle for two weeks?",
+        "fre": "Qu'y a-t-il à faire à La Rochelle pour deux semaines?"
+      },
+      {
+        "eng": "Are there any good restaurants near here?",
+        "fre": "Y a-t-il de bons restaurants près d'ici?"
+      },
+      {
+        "eng": "There are no croissants",
+        "fre": "Il n'y a pas de croissants"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Partitive articles",
+    "subtitle": "Saying some / any",
+    "explanation": "Use du, de la, de l', and des when talking about some of something, especially food, drink, and money.",
+    "examples": [
+      {
+        "eng": "I would like some cheese",
+        "fre": "Je voudrais du fromage"
+      },
+      {
+        "eng": "May I have some bread?",
+        "fre": "Puis-je prendre du pain?"
+      },
+      {
+        "eng": "I have some money with me.",
+        "fre": "j'ai de l'argent avec moi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Pas de",
+    "subtitle": "Not any after negatives",
+    "explanation": "After a negative like je n'ai pas, French often uses de or d' instead of du, de la, or des.",
+    "examples": [
+      {
+        "eng": "I don't have any wine",
+        "fre": "je n'ai pas de vin"
+      },
+      {
+        "eng": "I don't have any money.",
+        "fre": "je n'ai pas d'argent."
+      },
+      {
+        "eng": "I haven't eaten any chocolate today.",
+        "fre": "je n'ai pas mangé de chocolat aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Des becomes de before adjectives",
+    "subtitle": "Some good / beautiful things",
+    "explanation": "When a plural adjective comes before the noun, des often becomes de. That is why you see de bons restaurants and de belles choses.",
+    "examples": [
+      {
+        "eng": "Are there any good restaurants near here?",
+        "fre": "Y a-t-il de bons restaurants près d'ici?"
+      },
+      {
+        "eng": "I have seen some beautiful things in France.",
+        "fre": "j'ai vu de belles choses en France."
+      },
+      {
+        "eng": "I have some small carrots",
+        "fre": "j'ai de petites carottes"
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Imperfect tense",
+    "subtitle": "Was / had / wanted / could",
+    "explanation": "Course 6 introduces imperfect forms for background past situations: j'étais, j'avais, je voulais, and je pouvais.",
+    "examples": [
+      {
+        "eng": "I had everything.",
+        "fre": "J'avais tout."
+      },
+      {
+        "eng": "I was here at four o'clock.",
+        "fre": "J'étais ici à quatre heures."
+      },
+      {
+        "eng": "I wanted to buy some French cheese.",
+        "fre": "Je voulais acheter du fromage français."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Negative imperfect",
+    "subtitle": "Was not / did not have / could not",
+    "explanation": "Use ne... pas around the imperfect verb to make it negative: je n'étais pas, je n'avais pas, je ne pouvais pas.",
+    "examples": [
+      {
+        "eng": "I wasn't here yesterday.",
+        "fre": "Je n'étais pas ici hier."
+      },
+      {
+        "eng": "I didn't have the key for the car.",
+        "fre": "Je n'avais pas la clé pour la voiture."
+      },
+      {
+        "eng": "I couldn't find the hotel.",
+        "fre": "Je ne pouvais pas trouver l'hôtel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Pouvoir",
+    "subtitle": "Can / may / be able to",
+    "explanation": "Pouvoir is used to say can or may. In polite questions, puis-je means may I or can I.",
+    "examples": [
+      {
+        "eng": "Can I pay by card?",
+        "fre": "Puis-je payer par carte?"
+      },
+      {
+        "eng": "You can buy it in Marseille.",
+        "fre": "Vous pouvez l'acheter à Marseille."
+      },
+      {
+        "eng": "I can bring it tomorrow.",
+        "fre": "Je peux l'apporter demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Vouloir",
+    "subtitle": "Want / would like",
+    "explanation": "Vouloir gives forms like je veux and voulez-vous. Je voudrais is the polite “I would like” form used often in travel situations.",
+    "examples": [
+      {
+        "eng": "I want to eat something.",
+        "fre": "Je veux manger quelque chose."
+      },
+      {
+        "eng": "Do you want some money?",
+        "fre": "Voulez-vous de l'argent?"
+      },
+      {
+        "eng": "I would like a bottle of water, please.",
+        "fre": "Je voudrais une bouteille d'eau, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Devoir",
+    "subtitle": "Must / have to",
+    "explanation": "Use devoir before another verb to say must or have to. The second verb stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "I must find the hotel.",
+        "fre": "Je dois trouver l'hôtel."
+      },
+      {
+        "eng": "You must drink something.",
+        "fre": "Vous devez boire quelque chose."
+      },
+      {
+        "eng": "You have to be in Aix-en-Provence tomorrow.",
+        "fre": "Vous devez être à Aix-en-Provence demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Aller + infinitive",
+    "subtitle": "Going to do something",
+    "explanation": "Use aller plus an infinitive to talk about a near-future plan: je vais faire, je vais acheter, je vais payer.",
+    "examples": [
+      {
+        "eng": "I'm going to do that tomorrow.",
+        "fre": "Je vais faire cela / ça demain."
+      },
+      {
+        "eng": "I'm going to buy it today.",
+        "fre": "Je vais l'acheter aujourd'hui."
+      },
+      {
+        "eng": "I'm going to pay later.",
+        "fre": "Je vais payer plus tard."
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Infinitives after verbs",
+    "subtitle": "Two verbs together",
+    "explanation": "After verbs like vouloir, pouvoir, devoir, and aller, the next verb usually stays in the infinitive form.",
+    "examples": [
+      {
+        "eng": "I didn't want to go to Paris.",
+        "fre": "Je ne voulais pas aller à Paris."
+      },
+      {
+        "eng": "I can bring it tomorrow.",
+        "fre": "Je peux l'apporter demain."
+      },
+      {
+        "eng": "I must change the reservation.",
+        "fre": "Je dois changer la réservation."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "À quelle heure",
+    "subtitle": "Asking at what time",
+    "explanation": "Use à quelle heure to ask what time something happens or happened.",
+    "examples": [
+      {
+        "eng": "What time is breakfast?",
+        "fre": "À quelle heure est le petit déjeuner?"
+      },
+      {
+        "eng": "The dinner is at quarter to eight.",
+        "fre": "Le dîner est à huit heures moins le quart."
+      },
+      {
+        "eng": "It's at half past two.",
+        "fre": "C'est à deux heures et demie."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Past time words",
+    "subtitle": "Hier, aujourd'hui, demain",
+    "explanation": "Time words help place actions in time. Course 6 uses hier for yesterday, aujourd'hui for today, and demain for tomorrow.",
+    "examples": [
+      {
+        "eng": "Did you wait here yesterday?",
+        "fre": "Avez-vous attendu ici hier?"
+      },
+      {
+        "eng": "Have you seen Pierre today?",
+        "fre": "Avez-vous / As-tu vu Pierre aujourd'hui?"
+      },
+      {
+        "eng": "I'm going to do that tomorrow.",
+        "fre": "Je vais faire cela / ça demain."
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Où / que / comment / quand",
+    "subtitle": "Useful question words",
+    "explanation": "French question words help ask for place, object, method, or time. Course 6 uses où, que, comment, and quand in practical questions.",
+    "examples": [
+      {
+        "eng": "Where is the train station?",
+        "fre": "Où est la gare?"
+      },
+      {
+        "eng": "What have you found?",
+        "fre": "Qu'avez-vous trouvé?"
+      },
+      {
+        "eng": "When did you lose the key?",
+        "fre": "Quand avez-vous perdu la clé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Parce que and mais",
+    "subtitle": "Connecting ideas",
+    "explanation": "Use parce que to say because and mais to say but. These help you build longer sentences with reasons and contrasts.",
+    "examples": [
+      {
+        "eng": "I'm not going to hire a car because the bus is always very good.",
+        "fre": "Je ne vais pas louer une voiture parce que le bus est toujours très bon."
+      },
+      {
+        "eng": "I wasn't tired but I was very busy.",
+        "fre": "Je n'étais pas fatigué mais j'étais très occupé."
+      },
+      {
+        "eng": "I didn't want to take the train but I was in a hurry.",
+        "fre": "Je ne voulais pas prendre le train mais j'étais pressé."
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Trop, plus, moins",
+    "subtitle": "Too much, more, less",
+    "explanation": "Use trop for too much or too, plus for more, and moins for less. These words help compare or adjust what you want.",
+    "examples": [
+      {
+        "eng": "I would like something a bit bigger.",
+        "fre": "Je voudrais quelque chose d'un peu plus grand."
+      },
+      {
+        "eng": "You're going to spend too much money.",
+        "fre": "Vous allez dépenser trop d'argent."
+      },
+      {
+        "eng": "A bit less for him.",
+        "fre": "Un peu moins pour lui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Demonstratives",
+    "subtitle": "This / these",
+    "explanation": "Use ce, cette, and ces to point to this or these. The form changes with the noun.",
+    "examples": [
+      {
+        "eng": "These carrots are absolutely terrible.",
+        "fre": "Ces carottes sont absolument terribles."
+      },
+      {
+        "eng": "I would like a bigger television because this television is too small for me.",
+        "fre": "Je voudrais une plus grande télévision parce que cette télévision est trop petite."
+      },
+      {
+        "eng": "That was delicious, thank you.",
+        "fre": "Ça c'était délicieux, merci."
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Possessive adjectives",
+    "subtitle": "My / your / Pierre's",
+    "explanation": "Words like mon, ma, and mes show possession. For names, French often uses de, such as la clé de Pierre.",
+    "examples": [
+      {
+        "eng": "I have lost my card.",
+        "fre": "j'ai perdu ma carte."
+      },
+      {
+        "eng": "Have we taken Pierre's key?",
+        "fre": "Avons-nous pris la clé de Pierre?"
+      },
+      {
+        "eng": "I didn't have the hotel's address.",
+        "fre": "Je n'avais pas l'adresse de l'hôtel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "Adjective agreement",
+    "subtitle": "Changing adjective endings",
+    "explanation": "French adjectives often change to match the noun. You see changes like bon/bons, belle/belles, and grande/grand.",
+    "examples": [
+      {
+        "eng": "These carrots are absolutely terrible.",
+        "fre": "Ces carottes sont absolument terribles."
+      },
+      {
+        "eng": "I have seen some beautiful things in France.",
+        "fre": "j'ai vu de belles choses en France."
+      },
+      {
+        "eng": "The car is very big.",
+        "fre": "La voiture est très grande."
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "Polite travel requests",
+    "subtitle": "Je voudrais and puis-je",
+    "explanation": "Je voudrais means I would like. Puis-je means may I or can I. Together they make polite, useful travel sentences.",
+    "examples": [
+      {
+        "eng": "I would like a bottle of water, please.",
+        "fre": "Je voudrais une bouteille d'eau, s'il vous plaît."
+      },
+      {
+        "eng": "Can I pay by card?",
+        "fre": "Puis-je payer par carte?"
+      },
+      {
+        "eng": "Can I change my reservation, please? It's for three people now.",
+        "fre": "Puis-je changer ma réservation, s'il vous plaît? C'est pour trois personnes maintenant."
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Être in the past",
+    "subtitle": "J'étais / c'était",
+    "explanation": "Use j'étais for I was and c'était for it was / that was. These are imperfect forms for describing past situations.",
+    "examples": [
+      {
+        "eng": "That was delicious, thank you.",
+        "fre": "Ça c'était délicieux, merci."
+      },
+      {
+        "eng": "I was here at four o'clock.",
+        "fre": "J'étais ici à quatre heures."
+      },
+      {
+        "eng": "I wasn't busy but I was very tired.",
+        "fre": "Je n'étais pas occupé mais j'étais très fatigué."
+      }
+    ]
+  },
+  {
+    "id": "grammar-32",
+    "title": "Avoir in the imperfect",
+    "subtitle": "J'avais / je n'avais pas",
+    "explanation": "Use j'avais to say I had. In the negative, use je n'avais pas to say I did not have.",
+    "examples": [
+      {
+        "eng": "I had everything.",
+        "fre": "J'avais tout."
+      },
+      {
+        "eng": "I didn't have the time.",
+        "fre": "Je n'avais pas le temps."
+      },
+      {
+        "eng": "I didn't have the hotel's address.",
+        "fre": "Je n'avais pas l'adresse de l'hôtel."
+      }
+    ]
+  },
+  {
+    "id": "grammar-33",
+    "title": "Directions and commands",
+    "subtitle": "Telling someone where to go",
+    "explanation": "Course 6 uses command forms like prenez and allez for directions. These are useful when giving instructions.",
+    "examples": [
+      {
+        "eng": "Take the exit towards Marseille at the roundabout.",
+        "fre": "Prenez la sortie vers Marseille au rond point."
+      },
+      {
+        "eng": "Go straight on, take the third road on the right and then it's on the left.",
+        "fre": "Allez tout droit, prenez la troisième rue à droite et puis c'est à gauche."
+      },
+      {
+        "eng": "How do I get to the restaurant?",
+        "fre": "Pour aller au restaurant?"
+      }
+    ]
+  }
+]

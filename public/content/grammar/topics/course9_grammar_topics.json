@@ -1,0 +1,622 @@
+[
+  {
+    "id": "grammar-1",
+    "title": "Passé composé with avoir",
+    "subtitle": "Building the past with avoir",
+    "explanation": "Use a form of avoir plus a past participle to talk about completed past actions. Course 9 reviews this pattern before moving to verbs that use être.",
+    "examples": [
+      {
+        "eng": "I have eaten",
+        "fre": "j'ai mangé"
+      },
+      {
+        "eng": "I have finished",
+        "fre": "j'ai fini"
+      },
+      {
+        "eng": "I have waited",
+        "fre": "j'ai attendu"
+      }
+    ]
+  },
+  {
+    "id": "grammar-2",
+    "title": "Passé composé with être",
+    "subtitle": "Movement verbs in the past",
+    "explanation": "Some movement verbs use être instead of avoir in the passé composé. The course practises this with verbs such as aller, partir, arriver, and venir.",
+    "examples": [
+      {
+        "eng": "I have gone / I went",
+        "fre": "Je suis allé."
+      },
+      {
+        "eng": "Pierre left this morning.",
+        "fre": "Pierre est parti ce matin."
+      },
+      {
+        "eng": "I arrived in France yesterday.",
+        "fre": "Je suis arrivé en France hier."
+      }
+    ]
+  },
+  {
+    "id": "grammar-3",
+    "title": "Agreement with être",
+    "subtitle": "Adding e and s in the past",
+    "explanation": "With passé composé verbs that use être, the past participle changes to match the person when needed. Add e for feminine forms and s for plural forms.",
+    "examples": [
+      {
+        "eng": "Marie has left.",
+        "fre": "Marie est partie."
+      },
+      {
+        "eng": "Marie and Pierre went up.",
+        "fre": "Marie et Pierre sont montés."
+      },
+      {
+        "eng": "Marie and Sophie left early",
+        "fre": "Marie et Sophie sont parties tôt"
+      }
+    ]
+  },
+  {
+    "id": "grammar-4",
+    "title": "Inversion with être in the past",
+    "subtitle": "Asking passé composé questions",
+    "explanation": "To ask a direct question, invert the form of être and the subject. The past participle stays after them.",
+    "examples": [
+      {
+        "eng": "When did he arrive?",
+        "fre": "Quand est-il arrivé?"
+      },
+      {
+        "eng": "Have they gone?",
+        "fre": "Sont-ils allés? / Sont-elles allées?"
+      },
+      {
+        "eng": "Has she left?",
+        "fre": "Est-elle partie?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-5",
+    "title": "Negative passé composé with être",
+    "subtitle": "Saying someone did not go, leave, or arrive",
+    "explanation": "Put ne before the form of être and pas after it to make these past forms negative.",
+    "examples": [
+      {
+        "eng": "I haven't left.",
+        "fre": "Je ne suis pas parti."
+      },
+      {
+        "eng": "They haven't arrived. / They didn't arrive.",
+        "fre": "Ils ne sont pas arrivés."
+      },
+      {
+        "eng": "Marie didn't come back.",
+        "fre": "Marie n'est pas revenue."
+      }
+    ]
+  },
+  {
+    "id": "grammar-6",
+    "title": "Dépenser",
+    "subtitle": "Talking about spending money",
+    "explanation": "Use dépenser for spending money. In the passé composé, use avoir + dépensé.",
+    "examples": [
+      {
+        "eng": "How much did you spend?",
+        "fre": "Combien as-tu dépensé? / Combien avez-vous dépensé?"
+      },
+      {
+        "eng": "They have spent two hundred euros.",
+        "fre": "Ils ont dépensé deux cents euros."
+      },
+      {
+        "eng": "I spent too much money yesterday",
+        "fre": "J'ai dépensé trop d'argent hier"
+      }
+    ]
+  },
+  {
+    "id": "grammar-7",
+    "title": "Comprendre",
+    "subtitle": "Saying you understand",
+    "explanation": "Use comprendre for 'to understand'. Course 9 practises it in the present and the past, including with object pronouns.",
+    "examples": [
+      {
+        "eng": "I understand Pierre.",
+        "fre": "Je comprends Pierre."
+      },
+      {
+        "eng": "She understands me.",
+        "fre": "Elle me comprend."
+      },
+      {
+        "eng": "I didn't understand.",
+        "fre": "Je n'ai pas compris."
+      }
+    ]
+  },
+  {
+    "id": "grammar-8",
+    "title": "Ce que",
+    "subtitle": "Saying what inside a sentence",
+    "explanation": "Use ce que for 'what' when it appears inside a longer sentence rather than at the start of a direct question.",
+    "examples": [
+      {
+        "eng": "what (in the middle of a sentence)",
+        "fre": "ce que"
+      },
+      {
+        "eng": "I don't understand what you're doing",
+        "fre": "je ne comprends pas ce que tu fais"
+      },
+      {
+        "eng": "I don't know what I want.",
+        "fre": "Je ne sais pas ce que je veux."
+      }
+    ]
+  },
+  {
+    "id": "grammar-9",
+    "title": "Vouloir in the conditional",
+    "subtitle": "Saying would like",
+    "explanation": "Use voudrais, voudrait, voudrions, voudriez, or voudraient to say what someone would like. This is a useful polite pattern for requests.",
+    "examples": [
+      {
+        "eng": "I would like to go to France.",
+        "fre": "Je voudrais aller en France."
+      },
+      {
+        "eng": "He would like to come with us.",
+        "fre": "Il voudrait venir avec nous."
+      },
+      {
+        "eng": "Where would they like to go?",
+        "fre": "Où voudraient-ils / voudraient-elles aller?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-10",
+    "title": "Passer + time",
+    "subtitle": "Spending time or holidays",
+    "explanation": "Use passer to talk about spending time somewhere or spending a holiday. The amount of time can follow passer directly.",
+    "examples": [
+      {
+        "eng": "I spent the holidays in France.",
+        "fre": "J'ai passé les vacances en France."
+      },
+      {
+        "eng": "Pierre spent a week with Marie.",
+        "fre": "Pierre a passé une semaine avec Marie."
+      },
+      {
+        "eng": "We spent two days in Paris.",
+        "fre": "Nous avons passé deux jours à Paris. / On a passé deux jours à Paris."
+      }
+    ]
+  },
+  {
+    "id": "grammar-11",
+    "title": "Combien de temps",
+    "subtitle": "Asking how long",
+    "explanation": "Use combien de temps to ask about a length of time. The same expression works with past, present, and other verb forms.",
+    "examples": [
+      {
+        "eng": "How long did you spend in France",
+        "fre": "Combien de temps as-tu / avez-vous passé en France"
+      },
+      {
+        "eng": "How much time would you like to spend abroad?",
+        "fre": "Combien de temps voudrais-tu / voudriez-vous passer à l'étranger?"
+      },
+      {
+        "eng": "How long has he been waiting here?",
+        "fre": "Depuis combien de temps attend-il ici?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-12",
+    "title": "Seulement",
+    "subtitle": "Saying only",
+    "explanation": "Use seulement to say 'only'. It can limit an amount, a length of time, or another part of the sentence.",
+    "examples": [
+      {
+        "eng": "I'm only spending two days here.",
+        "fre": "Je passe seulement deux jours ici."
+      },
+      {
+        "eng": "Pierre only wants a bit.",
+        "fre": "Pierre veut seulement un peu."
+      },
+      {
+        "eng": "It's only two euros.",
+        "fre": "C'est seulement deux euros."
+      }
+    ]
+  },
+  {
+    "id": "grammar-13",
+    "title": "Si seulement + imperfect",
+    "subtitle": "Saying if only",
+    "explanation": "Use si seulement with an imperfect form for wishes such as 'if only I could' or 'if only it were'.",
+    "examples": [
+      {
+        "eng": "If only it were possible.",
+        "fre": "Si seulement c'était possible."
+      },
+      {
+        "eng": "If only I could finish it today.",
+        "fre": "Si seulement je pouvais le finir aujourd'hui."
+      },
+      {
+        "eng": "If only we could see it.",
+        "fre": "Si seulement nous pouvions le voir. / Si seulement on pouvait le voir."
+      }
+    ]
+  },
+  {
+    "id": "grammar-14",
+    "title": "Espérer + infinitive",
+    "subtitle": "Hoping to do something",
+    "explanation": "Use espérer followed by an infinitive when the same person hopes to do an action.",
+    "examples": [
+      {
+        "eng": "I hope to go to France.",
+        "fre": "J'espère aller en France."
+      },
+      {
+        "eng": "I hope to speak with Marie tomorrow.",
+        "fre": "J'espère parler avec Marie demain."
+      },
+      {
+        "eng": "I hope to leave at 8 o'clock this evening.",
+        "fre": "J'espère partir à vingt heures ce soir."
+      }
+    ]
+  },
+  {
+    "id": "grammar-15",
+    "title": "Espérer que",
+    "subtitle": "Hoping that something happens",
+    "explanation": "Use espérer que before a full idea with its own subject and verb.",
+    "examples": [
+      {
+        "eng": "I hope it's good.",
+        "fre": "J'espère que c'est bon."
+      },
+      {
+        "eng": "I hope Pierre goes too.",
+        "fre": "J'espère que Pierre va aussi."
+      },
+      {
+        "eng": "We hope that Marie is doing well.",
+        "fre": "Nous espérons que Marie va bien. / On espère que Marie va bien."
+      }
+    ]
+  },
+  {
+    "id": "grammar-16",
+    "title": "Combien de + noun",
+    "subtitle": "Asking how many or how much",
+    "explanation": "Use combien de before a noun to ask how many or how much of something there is.",
+    "examples": [
+      {
+        "eng": "how many cars",
+        "fre": "combien de voitures"
+      },
+      {
+        "eng": "How many shoes do you have?",
+        "fre": "Combien de chaussures as-tu / avez-vous?"
+      },
+      {
+        "eng": "How many bottles of wine do you want:",
+        "fre": "Combien de bouteilles de vin veux-tu / voulez-vous?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-17",
+    "title": "Quel / quelle / quels / quelles",
+    "subtitle": "Choosing the correct form of which",
+    "explanation": "Quel changes to match the noun: quel, quelle, quels, or quelles. Use the matching form when asking 'which'.",
+    "examples": [
+      {
+        "eng": "Which wine do you want?",
+        "fre": "Quel vin veux-tu? / Quel vin voulez-vous?"
+      },
+      {
+        "eng": "Which car does she have?",
+        "fre": "Quelle voiture a-t-elle?"
+      },
+      {
+        "eng": "Which ones did you try?",
+        "fre": "Quels as-tu essayé? / Quels avez-vous essayé?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-18",
+    "title": "Préférer",
+    "subtitle": "Talking about preferences",
+    "explanation": "Use préférer to say what you prefer. It can be followed by a noun or by an infinitive.",
+    "examples": [
+      {
+        "eng": "I prefer France",
+        "fre": "Je préfère la France"
+      },
+      {
+        "eng": "Which car do you prefer?",
+        "fre": "Quelle voiture préfères-tu? / Quelle voiture préférez-vous?"
+      },
+      {
+        "eng": "Do you prefer going to France or to Spain?",
+        "fre": "Préfères-tu aller en France ou en Espagne? / Préférez-vous aller en France ou en Espagne?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-19",
+    "title": "Devenir and revenir",
+    "subtitle": "Become and come back in the past",
+    "explanation": "Devenir and revenir are practised with être in the passé composé. Their past participles are devenu and revenu.",
+    "examples": [
+      {
+        "eng": "Pierre has become friends with Louis.",
+        "fre": "Pierre est devenu ami avec Louis."
+      },
+      {
+        "eng": "Has he come back?",
+        "fre": "Est-il revenu?"
+      },
+      {
+        "eng": "Marie didn't come back.",
+        "fre": "Marie n'est pas revenue."
+      }
+    ]
+  },
+  {
+    "id": "grammar-20",
+    "title": "Devoir",
+    "subtitle": "Saying must or have to",
+    "explanation": "Use devoir to say that someone must or has to do something. Follow the conjugated form with an infinitive.",
+    "examples": [
+      {
+        "eng": "I have to leave now.",
+        "fre": "Je dois partir maintenant."
+      },
+      {
+        "eng": "We have to pay the bill.",
+        "fre": "Nous devons payer l'addition."
+      },
+      {
+        "eng": "What do you have to do?",
+        "fre": "Que dois-tu faire? / Que devez-vous faire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-21",
+    "title": "Ne ... pas with devoir",
+    "subtitle": "Saying must not",
+    "explanation": "Put ne ... pas around devoir to say that someone must not do something.",
+    "examples": [
+      {
+        "eng": "I mustn't leave late.",
+        "fre": "Je ne dois pas partir tard."
+      },
+      {
+        "eng": "We mustn't arrive too early.",
+        "fre": "Nous ne devons pas arriver trop tôt."
+      },
+      {
+        "eng": "He mustn't go to Paris.",
+        "fre": "Il ne doit pas aller à Paris."
+      }
+    ]
+  },
+  {
+    "id": "grammar-22",
+    "title": "Ne pas avoir à",
+    "subtitle": "Saying do not have to",
+    "explanation": "Use ne pas avoir à + infinitive when something is not necessary. This is different from ne pas devoir, which means 'must not'.",
+    "examples": [
+      {
+        "eng": "I don't have to leave until tomorrow.",
+        "fre": "Je n'ai pas à partir jusqu'à demain."
+      },
+      {
+        "eng": "You don't have to come with me.",
+        "fre": "Tu n'as pas à venir avec moi. / Vous n'avez pas à venir avec moi."
+      },
+      {
+        "eng": "We don't have to go to the supermarket today.",
+        "fre": "Nous n'avons pas à aller au supermarché aujourd'hui."
+      }
+    ]
+  },
+  {
+    "id": "grammar-23",
+    "title": "Vouloir in the present",
+    "subtitle": "Saying want and do not want",
+    "explanation": "Use vouloir for what someone wants. Put ne ... pas around the verb to say what someone does not want.",
+    "examples": [
+      {
+        "eng": "I want to leave now.",
+        "fre": "Je veux partir maintenant."
+      },
+      {
+        "eng": "I don't want to buy it; it's too expensive",
+        "fre": "Je ne veux pas l'acheter; c'est trop cher"
+      },
+      {
+        "eng": "What do you want to do?",
+        "fre": "Que veux-tu faire? / Que voulez-vous faire?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-24",
+    "title": "Pouvoir",
+    "subtitle": "Saying can or be able to",
+    "explanation": "Use pouvoir to say that someone can or is able to do something. Follow it with an infinitive.",
+    "examples": [
+      {
+        "eng": "I can / I'm able to",
+        "fre": "je peux"
+      },
+      {
+        "eng": "I can see it.",
+        "fre": "Je peux le voir."
+      },
+      {
+        "eng": "Marie can go too.",
+        "fre": "Marie peut aller aussi."
+      }
+    ]
+  },
+  {
+    "id": "grammar-25",
+    "title": "Pouvoir questions and negatives",
+    "subtitle": "Can, cannot, and can’t you?",
+    "explanation": "Course 9 practises pouvoir in direct questions and negative questions as well as ordinary negative statements.",
+    "examples": [
+      {
+        "eng": "Can I leave now?",
+        "fre": "Puis-je partir maintenant?"
+      },
+      {
+        "eng": "They can't see it.",
+        "fre": "Ils ne peuvent pas le voir. / Elles ne peuvent pas le voir."
+      },
+      {
+        "eng": "Can't you see me?",
+        "fre": "Ne peux-tu pas me voir? / Ne pouvez-vous pas me voir?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-26",
+    "title": "Savoir + infinitive",
+    "subtitle": "Knowing how to do something",
+    "explanation": "Use savoir + infinitive to say that someone knows how to do something, which can often be translated as 'can'.",
+    "examples": [
+      {
+        "eng": "I can speak English / (I know how to speak English)",
+        "fre": "je sais parler anglais"
+      },
+      {
+        "eng": "Can you speak English?",
+        "fre": "Sais-tu parler anglais? / Savez-vous parler anglais?"
+      },
+      {
+        "eng": "Does he know how to speak German?",
+        "fre": "Sait-il parler allemand?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-27",
+    "title": "Imperfect carrier verbs",
+    "subtitle": "Could, wanted, had to, and was going to",
+    "explanation": "Course 9 uses imperfect forms such as pouvais, voulais, devais, and allais before an infinitive to build past ideas like 'could', 'wanted to', 'had to', and 'was going to'.",
+    "examples": [
+      {
+        "eng": "I could see Pierre.",
+        "fre": "Je pouvais voir Pierre."
+      },
+      {
+        "eng": "I was going to buy it.",
+        "fre": "j'allais l'acheter."
+      },
+      {
+        "eng": "I had to",
+        "fre": "je devais"
+      }
+    ]
+  },
+  {
+    "id": "grammar-28",
+    "title": "Question words + imperfect inversion",
+    "subtitle": "Asking what someone had to or wanted to do",
+    "explanation": "Put a question word before an inverted imperfect form to ask about past plans, ability, wants, or obligations.",
+    "examples": [
+      {
+        "eng": "What did you have to do?",
+        "fre": "Que devais-tu faire? / Que deviez-vous faire?"
+      },
+      {
+        "eng": "How did you want to pay?",
+        "fre": "Comment voulais-tu payer? / Comment vouliez-vous payer?"
+      },
+      {
+        "eng": "Where were you going to stay tonight?",
+        "fre": "Où allais-tu rester ce soir? / Où alliez-vous rester ce soir?"
+      }
+    ]
+  },
+  {
+    "id": "grammar-29",
+    "title": "On = one / we",
+    "subtitle": "Using on for general people or for we",
+    "explanation": "On can mean 'one' in a general statement, and it is also commonly used for 'we'. It takes a singular verb form.",
+    "examples": [
+      {
+        "eng": "Can you smoke here?",
+        "fre": "Peut-on fumer ici?"
+      },
+      {
+        "eng": "We (using on\") live in Paris",
+        "fre": "On habite à Paris"
+      },
+      {
+        "eng": "we are French",
+        "fre": "on est français"
+      }
+    ]
+  },
+  {
+    "id": "grammar-30",
+    "title": "On m'a dit / on dit",
+    "subtitle": "Reporting what people say",
+    "explanation": "Use on m'a dit que for 'I was told that' and on dit que for 'it is said that'. These patterns let you report information without naming the speaker.",
+    "examples": [
+      {
+        "eng": "I was told that Pierre was dead",
+        "fre": "on m'a dit que Pierre était mort"
+      },
+      {
+        "eng": "I've been told that the food here is fantastic.",
+        "fre": "On m'a dit que la nourriture ici est fantastique."
+      },
+      {
+        "eng": "It is said that the streets are very beautiful here",
+        "fre": "On dit que les rues sont très belles ici"
+      }
+    ]
+  },
+  {
+    "id": "grammar-31",
+    "title": "Question words + passé composé",
+    "subtitle": "Asking detailed questions about completed actions",
+    "explanation": "Course 9 finishes with question words such as où, que, pourquoi, quand, and combien combined with passé composé forms.",
+    "examples": [
+      {
+        "eng": "Where have you eaten?",
+        "fre": "Où as-tu mangé? / Où avez-vous mangé?"
+      },
+      {
+        "eng": "What has he ordered?",
+        "fre": "Qu'a-t-il commandé?"
+      },
+      {
+        "eng": "What did you take with you yesterday?",
+        "fre": "Qu'as-tu pris avec toi hier? / Qu'avez-vous pris avec vous hier?"
+      }
+    ]
+  }
+]
