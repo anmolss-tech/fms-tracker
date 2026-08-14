@@ -49,3 +49,7 @@ weekly_activity
 ```
 
 The old raw-event collections may remain while you verify migration.
+
+
+## v1.4
+Weekly summaries now also accept Panda check-in counts and distinguish Heart checkpoint syncs from scheduled weekly syncs.

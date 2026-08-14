@@ -108,7 +108,7 @@ app.get("/", (_req, res) => {
     ok: true,
     service: "French Made Simple tracker API",
     hosting: process.env.VERCEL ? "vercel" : "node",
-    syncPolicy: "weekly-summary",
+    syncPolicy: "weekly-summary-with-heart-checkpoints",
     contentManifest: "/content/manifest.json",
   });
 });
@@ -214,6 +214,11 @@ function normalizeWeek(week, identity) {
     sessions: Math.max(0, Math.round(finite(day?.sessions))),
   })) : [];
 
+  const pandaDays = Array.isArray(week?.panda?.days) ? week.panda.days.slice(0, 7).map((day) => ({
+    date: cleanText(day?.date, 20),
+    count: Math.max(0, Math.round(finite(day?.count))),
+  })).filter((day) => day.date) : [];
+
   return {
     userId: identity.userId,
     userName: identity.userName,
@@ -230,6 +235,10 @@ function normalizeWeek(week, identity) {
       sessions: Math.max(0, Math.round(finite(week?.french?.sessions))),
       days: frenchDays,
     },
+    panda: {
+      checkins: Math.max(0, Math.round(finite(week?.panda?.checkins))),
+      days: pandaDays,
+    },
     updatedAt: new Date(),
   };
 }
@@ -242,10 +251,12 @@ app.post("/api/v1/sync/weekly", requireDevice, async (req, res) => {
     if (userId !== device.userId || deviceId !== device.deviceId) {
       return res.status(403).json({ ok: false, error: "Identity does not match registered device" });
     }
+    const syncReason = cleanText(req.body?.syncReason, 40) || "weekly";
     const weeks = (Array.isArray(req.body?.weeks) ? req.body.weeks : [])
       .slice(0, MAX_WEEKS_PER_REQUEST)
       .map((week) => normalizeWeek(week, device))
-      .filter(Boolean);
+      .filter(Boolean)
+      .map((week) => ({ ...week, lastSyncReason: syncReason }));
     if (!weeks.length) return res.json({ ok: true, acceptedWeekStarts: [] });
 
     const { collections } = await getMongo();
@@ -260,7 +271,10 @@ app.post("/api/v1/sync/weekly", requireDevice, async (req, res) => {
     const now = new Date();
     await Promise.all([
       collections.users.updateOne({ userId: device.userId }, { $set: { lastSyncAt: now, userName: device.userName } }),
-      collections.devices.updateOne({ deviceId: device.deviceId }, { $set: { lastSyncAt: now, lastSeenIp: req.ip } }),
+      collections.devices.updateOne(
+        { deviceId: device.deviceId },
+        { $set: { lastSyncAt: now, lastSyncReason: syncReason, ...(syncReason === "heart-checkpoint" ? { lastCheckpointAt: now } : {}), lastSeenIp: req.ip } }
+      ),
     ]);
     res.json({ ok: true, acceptedWeekStarts: weeks.map((week) => week.weekStart) });
   } catch (error) {
