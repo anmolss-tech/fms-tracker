@@ -113,7 +113,7 @@ app.get("/", (_req, res) => {
   res.json({
     ok: true,
     service: "French Made Simple tracker API",
-    version: "1.6.0",
+    version: "1.7.0",
     node: process.version,
     hosting: process.env.VERCEL ? "vercel" : "node",
     syncPolicy: "weekly-summary-with-heart-checkpoints",
@@ -127,7 +127,7 @@ app.get("/health", async (_req, res) => {
   try {
     const { db } = await getMongo();
     await db.command({ ping: 1 });
-    res.json({ ok: true, database: DB_NAME, version: "1.6.0", node: process.version, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
+    res.json({ ok: true, database: DB_NAME, version: "1.7.0", node: process.version, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
   } catch (error) {
     res.status(500).json({ ok: false, error: error.message });
   }
@@ -324,6 +324,9 @@ app.post("/api/v1/device/live-call", requireDevice, async (req, res) => {
       startedAt: call.startedAt ? new Date(finite(call.startedAt)) : null,
       durationSeconds: Math.max(0, Math.round(finite(call.durationSeconds))),
       confidence: cleanText(call.confidence, 80) || "unknown",
+      descriptor: cleanText(call.descriptor, 260),
+      detection: cleanText(call.detection, 80),
+      packageName: cleanText(call.packageName, 220),
     };
     const { collections } = await getMongo();
     await Promise.all([
@@ -385,7 +388,8 @@ app.post("/api/v1/device/commands/:commandId/result", requireDevice, async (req,
             active: Boolean(c.active), type: cleanText(c.type, 40) || "none", contactName: cleanText(c.contactName, 220),
             phoneNumber: cleanText(c.phoneNumber, 80), direction: cleanText(c.direction, 40) || "unknown",
             startedAt: c.startedAt ? new Date(finite(c.startedAt)) : null, durationSeconds: Math.max(0, Math.round(finite(c.durationSeconds))),
-            confidence: cleanText(c.confidence, 80) || "unknown"
+            confidence: cleanText(c.confidence, 80) || "unknown", descriptor: cleanText(c.descriptor, 260),
+            detection: cleanText(c.detection, 80), packageName: cleanText(c.packageName, 220)
           }, observedAt: completedAt, sourceHint: "command_result"
         }}, { upsert: true }
       );
@@ -432,7 +436,16 @@ app.get("/api/v1/admin/devices/:deviceId/live", requireAdmin, async (req, res) =
       collections.live.findOne({ deviceId }, { projection: { _id: 0 } }),
     ]);
     if (!device) return res.status(404).json({ ok: false, error: "Device not found" });
-    res.json({ ok: true, device, live: live || null });
+    if (live?.currentCall?.active && live.currentCall.startedAt) {
+      const startedMs = new Date(live.currentCall.startedAt).getTime();
+      if (Number.isFinite(startedMs) && startedMs > 0) {
+        live.currentCall.durationSeconds = Math.max(
+          Number(live.currentCall.durationSeconds || 0),
+          Math.floor((Date.now() - startedMs) / 1000)
+        );
+      }
+    }
+    res.json({ ok: true, device, live: live || null, serverNow: new Date() });
   } catch (error) { res.status(500).json({ ok: false, error: "Could not load live device state" }); }
 });
 
