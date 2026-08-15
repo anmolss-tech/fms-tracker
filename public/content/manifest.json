@@ -144,6 +144,15 @@
       "cardCount": 978,
       "youtubeUrl": "https://youtu.be/b6w6hPQHuVM",
       "url": "/content/kieranBall/course15.json"
+    },
+    {
+      "id": "course16",
+      "type": "kieranBall",
+      "title": "Course 16 - KieranBall",
+      "version": 1,
+      "cardCount": 714,
+      "youtubeUrl": "https://youtu.be/b6w6hPQHuVM",
+      "url": "/content/kieranBall/course16.json"
     }
   ],
   "grammar": [
