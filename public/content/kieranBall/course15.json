@@ -5,15 +5,15 @@
   },
   {
     "eng": "The first time I went to Paris was last year.",
-    "fre": "La première fois que je suis allé à Paris était l'année dernière."
+    "fre": "La première fois que je suis allé à Paris, c'était l'année dernière."
   },
   {
     "eng": "Everything was better here last time.",
-    "fre": "Tout était meilleur ici la dernière fois."
+    "fre": "Tout était mieux ici la dernière fois."
   },
   {
     "eng": "Do you want to go together?",
-    "fre": "Veux-tu / Voulez-vous aller ensemble?"
+    "fre": "Veux-tu aller ensemble ? / Voulez-vous aller ensemble ?"
   },
   {
     "eng": "I've eaten here once.",
@@ -21,7 +21,7 @@
   },
   {
     "eng": "I went to Paris once and it was very beautiful.",
-    "fre": "Je suis allé à Paris une fois et il était très beau."
+    "fre": "Je suis allé à Paris une fois et c'était très beau."
   },
   {
     "eng": "I've seen Marie once today.",
@@ -81,23 +81,23 @@
   },
   {
     "eng": "Do you live here?",
-    "fre": "Habites-tu ici? / Habitez-vous ici?"
+    "fre": "Habites-tu ici ? / Habitez-vous ici ?"
   },
   {
     "eng": "Which car do you prefer?",
-    "fre": "Quelle voiture preferes-tu? / Quelle voiture préférez-vous?"
+    "fre": "Quelle voiture préfères-tu ? / Quelle voiture préférez-vous ?"
   },
   {
     "eng": "I'm going to tell somebody where we are.",
-    "fre": "Je vais dire a quelqu'un où nous sommes."
+    "fre": "Je vais dire à quelqu'un où nous sommes."
   },
   {
     "eng": "May I have some raspberries, please?",
-    "fre": "Puis-je avoir des framboises, s'il vous plaît?"
+    "fre": "Puis-je avoir des framboises, s'il vous plaît ?"
   },
   {
     "eng": "Do you want to leave today?",
-    "fre": "Veux-tu / Voulez-vous partir aujourd'hui?"
+    "fre": "Veux-tu partir aujourd'hui ? / Voulez-vous partir aujourd'hui ?"
   },
   {
     "eng": "When did they pack their suitcases?",
@@ -128,8 +128,8 @@
     "fre": "Où vas-tu demain?"
   },
   {
-    "eng": "I've heard that this is the worst film of the year.",
-    "fre": "On m'a dit que ceci est le pire film de l'année."
+    "eng": "I've been told that this is the worst film of the year.",
+    "fre": "On m'a dit que c'est le pire film de l'année."
   },
   {
     "eng": "Turn left at the roundabout.",
@@ -165,47 +165,47 @@
   },
   {
     "eng": "to know \"a fact\"",
-    "fre": "Savoir"
-  },
-  {
-    "eng": "to know a person / a place / a thing @",
-    "fre": "connaitre"
-  },
-  {
-    "eng": "I don't know when he left (fact)",
-    "fre": "je ne sais pas quand il est parti"
-  },
-  {
-    "eng": "I don't know Pierre (person);",
-    "fre": "je ne connais pas Pierre"
-  },
-  {
-    "eng": "question word / that / if",
     "fre": "savoir"
   },
   {
-    "eng": "person / place / thing",
+    "eng": "to know a person / a place / a thing",
     "fre": "connaître"
   },
   {
-    "eng": "I don't know if Pierre is here",
-    "fre": "je ne sais pas si Pierre est ici"
+    "eng": "I don't know when he left. (a fact)",
+    "fre": "Je ne sais pas quand il est parti."
   },
   {
-    "eng": "I know that it's difficult",
-    "fre": "je sais que c'est difficile"
+    "eng": "I don't know Pierre. (a person)",
+    "fre": "Je ne connais pas Pierre."
   },
   {
-    "eng": "I don't know when he's coming",
-    "fre": "je ne sais pas quand il vient"
+    "eng": "question word / that / if → to know",
+    "fre": "savoir"
   },
   {
-    "eng": "I don't know Madrid",
-    "fre": "je ne connais pas Madrid"
+    "eng": "person / place / thing → to know",
+    "fre": "connaître"
   },
   {
-    "eng": "I know Marie;",
-    "fre": "je connais Marie"
+    "eng": "I don't know if Pierre is here.",
+    "fre": "Je ne sais pas si Pierre est ici."
+  },
+  {
+    "eng": "I know that it's difficult.",
+    "fre": "Je sais que c'est difficile."
+  },
+  {
+    "eng": "I don't know when he's coming.",
+    "fre": "Je ne sais pas quand il vient."
+  },
+  {
+    "eng": "I don't know Madrid.",
+    "fre": "Je ne connais pas Madrid."
+  },
+  {
+    "eng": "I know Marie.",
+    "fre": "Je connais Marie."
   },
   {
     "eng": "I know Pierre.",
@@ -213,34 +213,34 @@
   },
   {
     "eng": "Do you know Marie?",
-    "fre": "Connais-tu Marie? / Connaissez-vous Marie?"
+    "fre": "Connais-tu Marie ? / Connaissez-vous Marie ?"
   },
   {
-    "eng": "LU ININALL AL to know je connais I know tu connais you know il connait he knows elle connait she knows on connait one knows",
-    "fre": "nous connaissons we know"
+    "eng": "I know / you know / he knows / she knows / one knows / we know",
+    "fre": "je connais / tu connais / il connaît / elle connaît / on connaît / nous connaissons"
   },
   {
-    "eng": "LU ININALL AL to know jai connu I knew tu as connu you knew il a connu he knew elle a connu she knew on a connu one knew",
-    "fre": "nous avons connu we knew"
+    "eng": "I knew / you knew / he knew / she knew / one knew / we knew",
+    "fre": "j'ai connu / tu as connu / il a connu / elle a connu / on a connu / nous avons connu"
   },
   {
-    "eng": "I know Paris (I've been there)",
-    "fre": "je connais Paris"
+    "eng": "I know Paris. (I've been there.)",
+    "fre": "Je connais Paris."
   },
   {
-    "eng": "Have you been to Algeria?",
-    "fre": "Connais-tu l'Algérie?"
+    "eng": "Do you know Algeria? / Have you been to Algeria?",
+    "fre": "Connais-tu l'Algérie ? / Connaissez-vous l'Algérie ?"
   },
   {
-    "eng": "Have you been to Mongolia?",
-    "fre": "Connais-tu la Mongolie?"
+    "eng": "Do you know Mongolia? / Have you been to Mongolia?",
+    "fre": "Connais-tu la Mongolie ? / Connaissez-vous la Mongolie ?"
   },
   {
-    "eng": "Have you been to Japan?",
-    "fre": "Connais-tu le Japon? / Connaissez-vous le Japon?"
+    "eng": "Do you know Japan? / Have you been to Japan?",
+    "fre": "Connais-tu le Japon ? / Connaissez-vous le Japon ?"
   },
   {
-    "eng": "I've been to Paris. / I Know Paris.",
+    "eng": "I've been to Paris. / I know Paris.",
     "fre": "Je connais Paris."
   },
   {
@@ -252,7 +252,7 @@
     "fre": "Cet endroit est bien connu."
   },
   {
-    "eng": "He isn't very well Known here.",
+    "eng": "He isn't very well known here.",
     "fre": "Il n'est pas très bien connu ici."
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "eng": "Is he well known?",
-    "fre": "Est-il bien connu?"
+    "fre": "Est-il bien connu ?"
   },
   {
     "eng": "This restaurant is very well known in Paris.",
@@ -273,7 +273,7 @@
   },
   {
     "eng": "This restaurant is well known for its delicious food.",
-    "fre": "Ce restaurant est bien connu pour sa nourriture délicieuse."
+    "fre": "Ce restaurant est bien connu pour sa cuisine délicieuse."
   },
   {
     "eng": "The hotel is well known for its breakfast.",
@@ -284,31 +284,31 @@
     "fre": "peu connu"
   },
   {
-    "eng": "The French traditions are not very well known.",
+    "eng": "French traditions are little known.",
     "fre": "Les traditions françaises sont peu connues."
   },
   {
-    "eng": "The French traditions are not very well known.",
-    "fre": "Les traditions françaises ne sont pas très bien connues. rf"
+    "eng": "French traditions aren't very well known.",
+    "fre": "Les traditions françaises ne sont pas très bien connues."
   },
   {
     "eng": "to know (a person / a place)",
-    "fre": "connaitre"
+    "fre": "connaître"
   },
   {
     "eng": "to know (a fact)",
-    "fre": "Savoir"
+    "fre": "savoir"
   },
   {
-    "eng": "I know Paris / I've been to Paris",
-    "fre": "je connais Paris"
+    "eng": "I know Paris / I've been to Paris.",
+    "fre": "je connais Paris."
   },
   {
     "eng": "Pierre isn't well known.",
-    "fre": "Pierre est peu Connu. / Pierre n'est pas bien connu."
+    "fre": "Pierre est peu connu. / Pierre n'est pas bien connu."
   },
   {
-    "eng": "It's little Known outside of Paris.",
+    "eng": "It's little known outside Paris.",
     "fre": "C'est peu connu en dehors de Paris."
   },
   {
@@ -317,55 +317,51 @@
   },
   {
     "eng": "She sings very well, but she isn't well known.",
-    "fre": "Elle chante très bien, mais elle est peu connue. / Elle chante très bien, mais elle n'est pas bien connue. @"
+    "fre": "Elle chante très bien, mais elle est peu connue. / Elle chante très bien, mais elle n'est pas bien connue."
   },
   {
-    "eng": "This wine isn't well Known.",
-    "fre": "Ce vin est peu Connu. / Ce vin n'est pas bien connu."
+    "eng": "This wine isn't well known.",
+    "fre": "Ce vin est peu connu. / Ce vin n'est pas bien connu."
   },
   {
     "eng": "This place isn't well known.",
     "fre": "Cet endroit est peu connu. / Cet endroit n'est pas bien connu."
   },
   {
-    "eng": "I went there",
-    "fre": "j'y suis allé"
+    "eng": "I went there.",
+    "fre": "J'y suis allé."
   },
   {
-    "eng": "I went there",
-    "fre": "je suis allé là / j'y suis allé"
+    "eng": "I went there. / I went to that place.",
+    "fre": "Je suis allé là. / J'y suis allé."
   },
   {
-    "eng": "I'm staying there",
-    "fre": "je reste là / jy reste"
-  },
-  {
-    "eng": "I'm going there",
-    "fre": "j'y vais"
-  },
-  {
-    "eng": "we went there",
-    "fre": "nous y sommes allés"
-  },
-  {
-    "eng": "I'm going to go there",
-    "fre": "je vais y aller"
-  },
-  {
-    "eng": "there is / there are",
-    "fre": "ilya"
-  },
-  {
-    "eng": "let's go",
-    "fre": "on y Va"
-  },
-  {
-    "eng": "I'm going / I'm off",
-    "fre": "Jy vais"
+    "eng": "I'm staying there.",
+    "fre": "Je reste là. / J'y reste."
   },
   {
     "eng": "I'm going there.",
-    "fre": "Jy vais."
+    "fre": "J'y vais."
+  },
+  {
+    "eng": "We went there.",
+    "fre": "Nous y sommes allés."
+  },
+  {
+    "eng": "I'm going to go there.",
+    "fre": "Je vais y aller."
+  },
+  {
+    "eng": "there is / there are",
+    "fre": "il y a"
+  },
+  {
+    "eng": "let's go",
+    "fre": "on y va"
+  },
+  {
+    "eng": "I'm going. / I'm off.",
+    "fre": "J'y vais."
   },
   {
     "eng": "We went there yesterday.",
@@ -373,7 +369,7 @@
   },
   {
     "eng": "They're going to stay there.",
-    "fre": "lls vont y rester."
+    "fre": "Ils vont y rester."
   },
   {
     "eng": "Luckily, they arrived there.",
@@ -381,15 +377,15 @@
   },
   {
     "eng": "I'm off now.",
-    "fre": "Jy vais maintenant."
+    "fre": "J'y vais maintenant."
   },
   {
     "eng": "Why did you go there?",
-    "fre": "Pourquoi y es-tu allé? / Pourquoi y êtes-vous allé?"
+    "fre": "Pourquoi y es-tu allé ? / Pourquoi y êtes-vous allé ?"
   },
   {
     "eng": "They're going there tonight.",
-    "fre": "lls y vont ce soir."
+    "fre": "Ils y vont ce soir."
   },
   {
     "eng": "We have to go there tomorrow.",
@@ -397,11 +393,11 @@
   },
   {
     "eng": "He has a lot to do, but he wants to watch a film.",
-    "fre": "Il a beaucoup à faire, mais il veut regarder un film. rf"
+    "fre": "Il a beaucoup à faire, mais il veut regarder un film."
   },
   {
     "eng": "Instead of wine, I would like a cocktail.",
-    "fre": "Au lieu de vin, je voudrais un cocktail."
+    "fre": "Au lieu du vin, je voudrais un cocktail."
   },
   {
     "eng": "We went by bus, but the journey was very boring.",
@@ -409,15 +405,15 @@
   },
   {
     "eng": "They're trying to decide where to eat tonight.",
-    "fre": "lls essayent de décider où manger ce soir."
+    "fre": "Ils essaient de décider où manger ce soir."
   },
   {
     "eng": "How do you spell the name of the hotel?",
-    "fre": "Comment s'écrit le nom de l'hôtel?"
+    "fre": "Comment s'écrit le nom de l'hôtel ?"
   },
   {
     "eng": "You've given me two teas, but I ordered one tea and one coffee.",
-    "fre": "Tu m'as / vous m'avez donné deux thés, mais j'ai commandé un thé et un Th"
+    "fre": "Tu m'as donné deux thés, mais j'ai commandé un thé et un café. / Vous m'avez donné deux thés, mais j'ai commandé un thé et un café."
   },
   {
     "eng": "It's quarter past eight.",
@@ -425,11 +421,11 @@
   },
   {
     "eng": "How old is he?",
-    "fre": "Quel age a-t-il?"
+    "fre": "Quel âge a-t-il ?"
   },
   {
     "eng": "It's the most delicious cake I've tried today.",
-    "fre": "C'est le gâteau le plus délicieux que j'ai essayé aujourd'hui."
+    "fre": "C'est le gâteau le plus délicieux que j'ai goûté aujourd'hui."
   },
   {
     "eng": "I would like a black coat, please.",
@@ -437,23 +433,23 @@
   },
   {
     "eng": "Do you have this coat in white?",
-    "fre": "Avez-vous ce manteau en blanc?"
+    "fre": "Avez-vous ce manteau en blanc ?"
   },
   {
-    "eng": "Where did he work last week, because he wasn't here?",
-    "fre": "Où a-t-il travaillé la semaine dernière, parce qu'il n'était pas ici?"
+    "eng": "Where did he work last week? He wasn't here.",
+    "fre": "Où a-t-il travaillé la semaine dernière ? Il n'était pas ici."
   },
   {
     "eng": "What is the date today?",
-    "fre": "Quelle est la date d'aujourd'hui?"
+    "fre": "Quelle est la date d'aujourd'hui ?"
   },
   {
     "eng": "Where is the hospital?",
-    "fre": "Où est l'hôpital?"
+    "fre": "Où est l'hôpital ?"
   },
   {
     "eng": "I was going to speak English, but I didn't know if you could understand it.",
-    "fre": "j'allais parler anglais, mais je ne savais pas si vous pouviez le comprendre."
+    "fre": "J'allais parler anglais, mais je ne savais pas si vous pouviez le comprendre."
   },
   {
     "eng": "Excuse me, I would like a coffee, please.",
@@ -521,7 +517,7 @@
   },
   {
     "eng": "Once, we went to Spain and we ate lots of paella.",
-    "fre": "Une fois, nous sommes allés en Espagne et nous avons mange beaucoup de io"
+    "fre": "Une fois, nous sommes allés en Espagne et nous avons mangé beaucoup de paella."
   },
   {
     "eng": "They go to the supermarket once per week.",
@@ -529,7 +525,7 @@
   },
   {
     "eng": "She went to the shop once today.",
-    "fre": "Elle est allee au magasin une fois aujourd'hui."
+    "fre": "Elle est allée au magasin une fois aujourd'hui."
   },
   {
     "eng": "I went to Paris twice.",
@@ -540,8 +536,8 @@
     "fre": "J'ai appelé Marie deux fois, mais elle n'était pas là."
   },
   {
-    "eng": "I've visited this restaurant two times.",
-    "fre": "J'ai visité ce restaurant deux fois."
+    "eng": "I've been to this restaurant twice.",
+    "fre": "Je suis allé dans ce restaurant deux fois."
   },
   {
     "eng": "I've seen Marie only two times.",
@@ -556,12 +552,12 @@
     "fre": "Mon ami m'a appelé deux fois aujourd'hui."
   },
   {
-    "eng": "it's as simple as hello",
-    "fre": "c'est simple comme bonjour"
+    "eng": "It's as simple as hello.",
+    "fre": "C'est simple comme bonjour."
   },
   {
     "eng": "I've visited Paris lots of times.",
-    "fre": "J'ai visite Paris beaucoup de fois."
+    "fre": "J'ai visité Paris beaucoup de fois."
   },
   {
     "eng": "He has done it too many times.",
@@ -585,7 +581,7 @@
   },
   {
     "eng": "The first time that I went to France was last year.",
-    "fre": "La première fois que je suis allé en France était l'année a"
+    "fre": "La première fois que je suis allé en France, c'était l'année dernière."
   },
   {
     "eng": "It was my first time in Paris.",
@@ -593,23 +589,23 @@
   },
   {
     "eng": "It's the first time that I've tried French cheese.",
-    "fre": "C'est la première fois que j'ai essayé le fromage français."
+    "fre": "C'est la première fois que j'essaie du fromage français."
   },
   {
     "eng": "The first time we visited La Rochelle was five years ago.",
-    "fre": "La première fois que nous avons visite La Rochelle était il y a cing ans. rf"
+    "fre": "La première fois que nous avons visité La Rochelle, c'était il y a cinq ans."
   },
   {
     "eng": "When was the first time you went to Spain?",
-    "fre": "Quand était la première fois que tu es allé en Espagne? / Quand était la première fois que vous êtes allé an Espagne? @"
+    "fre": "Quand es-tu allé en Espagne pour la première fois ? / Quand êtes-vous allé en Espagne pour la première fois ?"
   },
   {
     "eng": "It's the first time that Pierre has visited me here in England.",
-    "fre": "C'est la première fois que Pierre m'a visité ici en Angleterre. rf"
+    "fre": "C'est la première fois que Pierre me rend visite ici en Angleterre."
   },
   {
     "eng": "The last time that I went to Paris was terrible.",
-    "fre": "La dernière fois que je suis allé à Paris était terrible."
+    "fre": "La dernière fois que je suis allé à Paris, c'était terrible."
   },
   {
     "eng": "It was the last time that I saw Pierre.",
@@ -617,11 +613,11 @@
   },
   {
     "eng": "He played better the last time.",
-    "fre": "Il a joué mieux la dernière fois."
+    "fre": "Il a mieux joué la dernière fois."
   },
   {
     "eng": "It's the last time that I do this.",
-    "fre": "C'est la dernière fois que je fais ceci."
+    "fre": "C'est la dernière fois que je fais ça."
   },
   {
     "eng": "The last time I ate here, the food was delicious.",
@@ -629,11 +625,11 @@
   },
   {
     "eng": "When I saw my grandmother for the last time, she was very ill.",
-    "fre": "Quand j'ai vu ma grand-mère pour la dernière fois, elle était très ro"
+    "fre": "Quand j'ai vu ma grand-mère pour la dernière fois, elle était très malade."
   },
   {
     "eng": "For the last time: go and wash the car!",
-    "fre": "Pour la dernière fois: va / allez laver la voiture!"
+    "fre": "Pour la dernière fois : va laver la voiture ! / Pour la dernière fois : allez laver la voiture !"
   },
   {
     "eng": "It really was the last time.",
@@ -657,31 +653,27 @@
   },
   {
     "eng": "They've lost the passports several times this week.",
-    "fre": "lls ont perdu les passeports plusieurs fois cette semaine."
+    "fre": "Ils ont perdu les passeports plusieurs fois cette semaine."
   },
   {
     "eng": "I've tried to tell you several times.",
-    "fre": "J'ai essayé de te / vous dire plusieurs fois."
+    "fre": "J'ai essayé de te le dire plusieurs fois. / J'ai essayé de vous le dire plusieurs fois."
   },
   {
     "eng": "We can go together, if you want.",
-    "fre": "Nous pouvons aller ensemble, si tu veux. / Nous pouvons aller ensemble, Si vous voulez."
+    "fre": "Nous pouvons aller ensemble, si tu veux. / Nous pouvons aller ensemble, si vous voulez."
   },
   {
     "eng": "Did they eat together?",
-    "fre": "Ont-ils mange ensemble?"
+    "fre": "Ont-ils mangé ensemble ?"
   },
   {
     "eng": "Why didn't you go together?",
-    "fre": "Pourquoi nétes-vous pas allés ensemble?"
+    "fre": "Pourquoi n'êtes-vous pas allés ensemble ? / Pourquoi n'êtes-vous pas allées ensemble ?"
   },
   {
     "eng": "My wife and I went together to see the Eiffel Tower in Paris.",
-    "fre": "Ma femme et moi sommes allés ensemble voir la Tour Eiffel a ny"
-  },
-  {
-    "eng": "tne first time",
-    "fre": "la première fois"
+    "fre": "Ma femme et moi sommes allés ensemble voir la tour Eiffel à Paris."
   },
   {
     "eng": "The children are going to the park together.",
@@ -693,19 +685,23 @@
   },
   {
     "eng": "Together, we can finish everything before tomorrow.",
-    "fre": "Ensemble, nous pouvons tout finir avant demain. rf"
+    "fre": "Ensemble, nous pouvons tout finir avant demain."
   },
   {
-    "eng": "I don't want to eat together with everybody because they annoy me.",
-    "fre": "Je ne veux pas manger ensemble avec tout le monde parce qu'ils To"
+    "eng": "I don't want to eat with everybody because they annoy me.",
+    "fre": "Je ne veux pas manger avec tout le monde parce qu'ils m'ennuient."
   },
   {
     "eng": "They don't live together.",
-    "fre": "lls n'habitent pas ensemble."
+    "fre": "Ils n'habitent pas ensemble."
   },
   {
     "eng": "the seasons",
-    "fre": "les Saisons"
+    "fre": "les saisons"
+  },
+  {
+    "eng": "There are four seasons.",
+    "fre": "Il y a quatre saisons."
   },
   {
     "eng": "the summer",
@@ -713,14 +709,14 @@
   },
   {
     "eng": "in (the) summer",
-    "fre": "en ete"
+    "fre": "en été"
   },
   {
-    "eng": "(to) finish",
+    "eng": "to finish (something)",
     "fre": "terminer"
   },
   {
-    "eng": "(to) finish",
+    "eng": "to end / to finish",
     "fre": "se terminer"
   },
   {
@@ -732,12 +728,32 @@
     "fre": "au printemps"
   },
   {
+    "eng": "The flowers are beautiful in spring.",
+    "fre": "Les fleurs sont belles au printemps."
+  },
+  {
+    "eng": "We go to the park in spring.",
+    "fre": "Nous allons au parc au printemps."
+  },
+  {
+    "eng": "My favourite season is spring.",
+    "fre": "Ma saison préférée est le printemps."
+  },
+  {
     "eng": "(the) autumn",
     "fre": "l'automne"
   },
   {
-    "eng": "In (the) autumn",
+    "eng": "in (the) autumn",
     "fre": "en automne"
+  },
+  {
+    "eng": "The leaves are beautiful in autumn.",
+    "fre": "Les feuilles sont belles en automne."
+  },
+  {
+    "eng": "It often rains in autumn.",
+    "fre": "Il pleut souvent en automne."
   },
   {
     "eng": "the winter",
@@ -749,23 +765,23 @@
   },
   {
     "eng": "the health",
-    "fre": "la Santé"
+    "fre": "la santé"
   },
   {
-    "eng": "It's delicious, but it isn't very good for the health.",
+    "eng": "It's delicious, but it isn't very good for your health.",
     "fre": "C'est délicieux, mais ce n'est pas très bon pour la santé."
   },
   {
-    "eng": "I like doing sport, because it's good for the health.",
-    "fre": "J'aime faire du sport, parce que c'est bon pour la santé."
+    "eng": "I like doing sport because it's good for your health.",
+    "fre": "J'aime faire du sport parce que c'est bon pour la santé."
   },
   {
-    "eng": "it's good for your health",
-    "fre": "c'est bon pour la sante"
+    "eng": "It's good for your health.",
+    "fre": "C'est bon pour la santé."
   },
   {
     "eng": "I eat fruit because it's good for my health.",
-    "fre": "Je mange de la fruit parce que c'est bon pour la santé."
+    "fre": "Je mange des fruits parce que c'est bon pour ma santé."
   },
   {
     "eng": "It isn't good for your health.",
@@ -785,30 +801,26 @@
   },
   {
     "eng": "Unfortunately, she has many health problems.",
-    "fre": "Malheureusement, elle a beaucoup de problèmes de ma"
+    "fre": "Malheureusement, elle a beaucoup de problèmes de santé."
   },
   {
     "eng": "How is your health?",
-    "fre": "Comment va ta santé? / Comment va votre santé?"
+    "fre": "Comment va ta santé ? / Comment va votre santé ?"
   },
   {
     "eng": "Generally, the people of this country are in good health.",
-    "fre": "Généralement, les personnes de ce pays sont en bonne ao"
+    "fre": "Généralement, les habitants de ce pays sont en bonne santé."
   },
   {
     "eng": "The doctor told me that I'm in good health.",
-    "fre": "Le médecin m'a dit que je suis en bonne santé."
+    "fre": "Le médecin m'a dit que j'étais en bonne santé."
   },
   {
     "eng": "It's bad for your health.",
     "fre": "C'est mauvais pour la santé."
   },
   {
-    "eng": "I've heard Pierre is in bad health.",
-    "fre": "On m'a dit que Pierre est en mauvaise santé. rf"
-  },
-  {
-    "eng": "I've heard Pierre is in bad health.",
+    "eng": "I've been told that Pierre is in bad health.",
     "fre": "On m'a dit que Pierre est en mauvaise santé."
   },
   {
@@ -837,95 +849,91 @@
   },
   {
     "eng": "I think he's lost his mind.",
-    "fre": "Je pense qu'il a perdu l'esprit."
+    "fre": "Je pense qu'il a perdu la tête."
   },
   {
     "eng": "It's good for your mind.",
-    "fre": "C'est bon pour ton / votre esprit. / C'est bon pour l'esprit."
+    "fre": "C'est bon pour ton esprit. / C'est bon pour votre esprit. / C'est bon pour l'esprit."
   },
   {
     "eng": "It's good for your health and good for your mind.",
-    "fre": "C'est bon pour ta / votre santé et c'est bon pour ton / votre esprit. / C'est bon pour la santé et c'est bon pour l'esprit. @"
+    "fre": "C'est bon pour ta santé et pour ton esprit. / C'est bon pour votre santé et pour votre esprit."
   },
   {
     "eng": "You should open your mind.",
-    "fre": "Tu devrais ouvrir ton esprit. / vous devriez ouvrir votre esprit."
+    "fre": "Tu devrais ouvrir ton esprit. / Vous devriez ouvrir votre esprit."
   },
   {
     "eng": "He has completely closed his mind to this.",
-    "fre": "Il a complètement fermé son esprit a ceci."
+    "fre": "Il a complètement fermé son esprit à cela."
   },
   {
     "eng": "In my opinion",
-    "fre": "amon avis"
+    "fre": "à mon avis"
   },
   {
     "eng": "In my opinion, French food is delicious.",
     "fre": "À mon avis, la nourriture française est délicieuse."
   },
   {
-    "eng": "the health",
-    "fre": "la sante"
-  },
-  {
-    "eng": "In my opinion, Pierre isnt very nice.",
-    "fre": "A mon avis, Pierre n'est pas très sympa."
+    "eng": "In my opinion, Pierre isn't very nice.",
+    "fre": "À mon avis, Pierre n'est pas très sympa."
   },
   {
     "eng": "In my opinion, everything is going very well.",
-    "fre": "A mon avis, tout va très bien."
+    "fre": "À mon avis, tout va très bien."
   },
   {
     "eng": "This restaurant, in my opinion, is perfect.",
-    "fre": "Ce restaurant, a mon avis, est parfait."
+    "fre": "Ce restaurant, à mon avis, est parfait."
   },
   {
     "eng": "She sings very well, in my opinion.",
-    "fre": "Elle chante très bien, a mon avis."
+    "fre": "Elle chante très bien, à mon avis."
   },
   {
     "eng": "This wine is the best, in my opinion.",
-    "fre": "Ce vin est le meilleur, a mon avis."
+    "fre": "Ce vin est le meilleur, à mon avis."
   },
   {
-    "eng": "pour moi I think / in my opinion",
-    "fre": "je pense que I think (that)"
+    "eng": "I think / in my opinion",
+    "fre": "je pense que / pour moi"
   },
   {
-    "eng": "selon moi according to me",
-    "fre": "d'après moi in my view il me semble que it seems to me that pour ma part for my part quant à moi as for me en ce qui me concerne as far as I'm concerned"
+    "eng": "in my view / in my opinion",
+    "fre": "selon moi / d'après moi"
   },
   {
-    "eng": "selon moi according to me",
-    "fre": "d'après moi in my view il me semble que it seems to me that pour ma part for my part quant à moi as for me en ce qui me concerne as far as I'm concerned de mon point de vue from my point of view"
+    "eng": "it seems to me that / for my part / as for me / as far as I'm concerned / from my point of view",
+    "fre": "il me semble que / pour ma part / quant à moi / en ce qui me concerne / de mon point de vue"
   },
   {
     "eng": "Everything was, in my opinion, fantastic.",
-    "fre": "Tout était, a mon avis, fantastique."
+    "fre": "Tout était, à mon avis, fantastique."
   },
   {
     "eng": "in your opinion",
-    "fre": "a ton avis / a votre avis"
+    "fre": "à ton avis / à votre avis"
   },
   {
     "eng": "In your opinion, is Marie nice?",
-    "fre": "A ton avis, est-ce que Marie est sympa? / A votre avis, est-ce que Marie est sympa?"
+    "fre": "À ton avis, est-ce que Marie est sympa ? / À votre avis, est-ce que Marie est sympa ?"
   },
   {
     "eng": "Is the pizza good, in your opinion?",
-    "fre": "Est-ce que la pizza est bonne, a ton / votre avis?"
+    "fre": "Est-ce que la pizza est bonne, à ton avis ? / Est-ce que la pizza est bonne, à votre avis ?"
   },
   {
-    "eng": "In your opinion, do I buy the red car or the blue car?",
-    "fre": "À ton / votre avis, est-ce que j'achète la voiture rouge où la voiture ao"
+    "eng": "In your opinion, should I buy the red car or the blue car?",
+    "fre": "À ton avis, est-ce que j'achète la voiture rouge ou la voiture bleue ? / À votre avis, est-ce que j'achète la voiture rouge ou la voiture bleue ?"
   },
   {
-    "eng": "you asked for my opinion",
-    "fre": "tu m'as demandé mon avis"
+    "eng": "You asked for my opinion.",
+    "fre": "Tu m'as demandé mon avis."
   },
   {
-    "eng": "I need your opinion;",
-    "fre": "j'ai besoin de ton avis"
+    "eng": "I need your opinion.",
+    "fre": "J'ai besoin de ton avis."
   },
   {
     "eng": "In your opinion",
@@ -933,7 +941,7 @@
   },
   {
     "eng": "an opinion",
-    "fre": "UN avis"
+    "fre": "un avis"
   },
   {
     "eng": "I didn't ask you for your opinion.",
@@ -941,15 +949,15 @@
   },
   {
     "eng": "Do you want to give us your opinion?",
-    "fre": "Veux-tu nous donner ton avis? / Voulez-vous nous donner votre avis?"
+    "fre": "Veux-tu nous donner ton avis ? / Voulez-vous nous donner votre avis ?"
   },
   {
-    "eng": "Would you like to have my opinion?",
-    "fre": "Voudrais-tu avoir mon avis? / Voudriez-vous avoir mon avis?"
+    "eng": "Would you like my opinion?",
+    "fre": "Voudrais-tu avoir mon avis ? / Voudriez-vous avoir mon avis ?"
   },
   {
     "eng": "I've changed my opinion.",
-    "fre": "Jai changé d'avis."
+    "fre": "J'ai changé d'avis."
   },
   {
     "eng": "I think Pierre is of a different opinion.",
@@ -957,11 +965,11 @@
   },
   {
     "eng": "I don't want your opinion.",
-    "fre": "Je ne veux pas ton avis / votre avis."
+    "fre": "Je ne veux pas ton avis. / Je ne veux pas votre avis."
   },
   {
     "eng": "He listens to his parents' opinions.",
-    "fre": "Il ecoute les avis de ses parents."
+    "fre": "Il écoute les avis de ses parents."
   },
   {
     "eng": "I would like to hear Marie's opinion.",
@@ -980,8 +988,8 @@
     "fre": "C'est important de rester en forme."
   },
   {
-    "eng": "I'm eating lots of vegetables because I must stay in Shape.",
-    "fre": "Je mange beaucoup de legumes parce que je dois rester en NS"
+    "eng": "I'm eating lots of vegetables because I must stay in shape.",
+    "fre": "Je mange beaucoup de légumes parce que je dois rester en forme."
   },
   {
     "eng": "I want to stay in shape this year.",
@@ -993,35 +1001,35 @@
   },
   {
     "eng": "We do sports every day because we like to stay in shape.",
-    "fre": "Nous faisons du sport tous les jours parce que nous aimons rester en D"
+    "fre": "Nous faisons du sport tous les jours parce que nous aimons rester en forme."
   },
   {
-    "eng": "Marie said she's trying to stay in shape, So she doesn't want any chocolate.",
-    "fre": "Marie a dit quelle essaie de rester en forme, donc elle ne veut pas de 70"
+    "eng": "Marie said she's trying to stay in shape, so she doesn't want any chocolate.",
+    "fre": "Marie a dit qu'elle essaie de rester en forme, donc elle ne veut pas de chocolat."
   },
   {
-    "eng": "How do you stay in Shape?",
-    "fre": "Comment restes-tu en forme? / Comment restez-vous en forme?"
+    "eng": "How do you stay in shape?",
+    "fre": "Comment restes-tu en forme ? / Comment restez-vous en forme ?"
   },
   {
-    "eng": "doing sport is good for staying in shape",
-    "fre": "faire du sport est bon pour rester en forme"
+    "eng": "Doing sport is good for staying in shape.",
+    "fre": "Faire du sport est bon pour rester en forme."
   },
   {
-    "eng": "chocolate isn't good for staying in shape;",
-    "fre": "le chocolat n'est pas bon pour rester en forme"
+    "eng": "Chocolate isn't good for staying in shape.",
+    "fre": "Le chocolat n'est pas bon pour rester en forme."
   },
   {
-    "eng": "it's good for washing the car",
-    "fre": "c'est bon pour laver la voiture"
+    "eng": "It's good for washing the car.",
+    "fre": "C'est bon pour laver la voiture."
   },
   {
-    "eng": "it's useful for doing the cooking",
-    "fre": "c'est utile pour faire la cuisine"
+    "eng": "It's useful for doing the cooking.",
+    "fre": "C'est utile pour faire la cuisine."
   },
   {
-    "eng": "I bought you a car for going to work.",
-    "fre": "Je tai / Je vous ai acheté une voiture pour aller au travail."
+    "eng": "I bought you a car to go to work.",
+    "fre": "Je t'ai acheté une voiture pour aller au travail. / Je vous ai acheté une voiture pour aller au travail."
   },
   {
     "eng": "This is good for making cakes.",
@@ -1029,7 +1037,7 @@
   },
   {
     "eng": "Today is perfect for going to the beach.",
-    "fre": "Aujourd'hui est parfait pour aller à la plage."
+    "fre": "Aujourd'hui, c'est parfait pour aller à la plage."
   },
   {
     "eng": "to lose weight",
@@ -1041,7 +1049,7 @@
   },
   {
     "eng": "You must not eat chocolate if you want to lose weight.",
-    "fre": "Tu ne dois pas manger de chocolat si tu veux perdre du poids. / vous ne devez pas manger de chocolat Si vous voulez perdre du poids. @"
+    "fre": "Tu ne dois pas manger de chocolat si tu veux perdre du poids. / Vous ne devez pas manger de chocolat si vous voulez perdre du poids."
   },
   {
     "eng": "Marie wants to lose weight.",
@@ -1056,16 +1064,16 @@
     "fre": "maigrir"
   },
   {
-    "eng": "I have lost weight",
-    "fre": "jai maigri"
+    "eng": "I have lost weight.",
+    "fre": "J'ai maigri."
   },
   {
-    "eng": "I have lost weight;",
-    "fre": "j'ai perdu du poids"
+    "eng": "I have lost weight.",
+    "fre": "J'ai perdu du poids."
   },
   {
     "eng": "Can you help me lose weight?",
-    "fre": "Peux-tu / Pouvez-vous m'aider a perdre du poids?"
+    "fre": "Peux-tu m'aider à perdre du poids ? / Pouvez-vous m'aider à perdre du poids ?"
   },
   {
     "eng": "He didn't lose any weight last week.",
@@ -1077,23 +1085,23 @@
   },
   {
     "eng": "It's easy to gain weight when you eat too much chocolate.",
-    "fre": "C'est facile de prendre du poids quand tu manges / vous mangez trop de Oy"
+    "fre": "C'est facile de prendre du poids quand tu manges trop de chocolat. / C'est facile de prendre du poids quand vous mangez trop de chocolat."
   },
   {
     "eng": "They've put on weight.",
-    "fre": "lls ont pris du poids."
+    "fre": "Ils ont pris du poids."
   },
   {
     "eng": "I put on too much weight during the winter.",
     "fre": "J'ai pris trop de poids pendant l'hiver."
   },
   {
-    "eng": "He said he didn't gain any weignt, but he ate three pizzas yesterday.",
-    "fre": "Il a dit qu'il n'a pas pris de poids, mais il a mangé trois pizzas no"
+    "eng": "He said he didn't gain any weight, but he ate three pizzas yesterday.",
+    "fre": "Il a dit qu'il n'avait pas pris de poids, mais il a mangé trois pizzas hier."
   },
   {
     "eng": "I go there quite often with Marie.",
-    "fre": "Jy vais assez souvent avec Marie."
+    "fre": "J'y vais assez souvent avec Marie."
   },
   {
     "eng": "We often go to the cinema together.",
@@ -1121,11 +1129,11 @@
   },
   {
     "eng": "Do you come here often?",
-    "fre": "Viens-tu souvent ici? / Venez-vous souvent ici?"
+    "fre": "Viens-tu souvent ici ? / Venez-vous souvent ici ?"
   },
   {
     "eng": "Do you often go to the pool?",
-    "fre": "Vas-tu souvent à la piscine? / Allez-vous souvent à la piscine? / Est-ce que tu vas souvent à la piscine? / Est-ce que vous allez souvent à la No"
+    "fre": "Vas-tu souvent à la piscine ? / Allez-vous souvent à la piscine ? / Est-ce que tu vas souvent à la piscine ? / Est-ce que vous allez souvent à la piscine ?"
   },
   {
     "eng": "He doesn't drink wine often.",
@@ -1133,7 +1141,7 @@
   },
   {
     "eng": "My sister has dinner at mine quite often, but she doesn't stay long.",
-    "fre": "Ma sœur prend assez souvent le dîner chez moi, mais elle ne reste pas To"
+    "fre": "Ma sœur dîne assez souvent chez moi, mais elle ne reste pas longtemps."
   },
   {
     "eng": "I drink wine too often.",
@@ -1141,7 +1149,7 @@
   },
   {
     "eng": "to go skiing",
-    "fre": "faire du Ski"
+    "fre": "faire du ski"
   },
   {
     "eng": "When I am in France, I like to go skiing.",
@@ -1157,14 +1165,14 @@
   },
   {
     "eng": "Do you ski?",
-    "fre": "Fais-tu du ski? / Faites-vous du ski?"
+    "fre": "Fais-tu du ski ? / Faites-vous du ski ?"
   },
   {
     "eng": "I hope we can go skiing next week.",
-    "fre": "J'espère que nous pouvons faire du ski la semaine prochaine. / J'espère qu'on peut faire du ski la semaine meh"
+    "fre": "J'espère que nous pouvons faire du ski la semaine prochaine. / J'espère qu'on peut faire du ski la semaine prochaine."
   },
   {
-    "eng": "I know how to Ski.",
+    "eng": "I know how to ski.",
     "fre": "Je sais faire du ski."
   },
   {
@@ -1200,16 +1208,16 @@
     "fre": "J'aime faire du ski, mais je préfère jouer au foot."
   },
   {
-    "eng": "I hope we can play football this evening",
-    "fre": "J'espère que nous pouvons jouer au foot ce soir. / J'espère qu'on peut jouer au foot ce soir. @"
+    "eng": "I hope we can play football this evening.",
+    "fre": "J'espère que nous pouvons jouer au foot ce soir. / J'espère qu'on peut jouer au foot ce soir."
   },
   {
     "eng": "I'm not going to play football with my brother because he doesn't play very well.",
-    "fre": "Je ne vais pas jouer au foot avec mon frere parce qu'il ne joue pas très ao"
+    "fre": "Je ne vais pas jouer au foot avec mon frère parce qu'il ne joue pas très bien."
   },
   {
     "eng": "They play football together quite often.",
-    "fre": "lls jouent au foot ensemble assez souvent."
+    "fre": "Ils jouent au foot ensemble assez souvent."
   },
   {
     "eng": "We play football on Thursdays at 6pm.",
@@ -1217,11 +1225,11 @@
   },
   {
     "eng": "The children went to the park because they decided to play football.",
-    "fre": "Les enfants sont allés au parc parce qu'ils ont décidé de jouer au wo"
+    "fre": "Les enfants sont allés au parc parce qu'ils ont décidé de jouer au foot."
   },
   {
     "eng": "Who wants to play football with me?",
-    "fre": "Qui veut jouer au foot avec moi?"
+    "fre": "Qui veut jouer au foot avec moi ?"
   },
   {
     "eng": "to play football",
@@ -1237,19 +1245,19 @@
   },
   {
     "eng": "Where do you go during your holidays?",
-    "fre": "Où vas-tu pendant tes vacances? / Où allez-vous pendant vos To"
+    "fre": "Où vas-tu pendant tes vacances ? / Où allez-vous pendant vos vacances ?"
   },
   {
     "eng": "We are going skiing during the winter.",
-    "fre": "Nous faisons du ski pendant l'hiver. / On fait du ski pendant l'hiver."
+    "fre": "Nous allons faire du ski pendant l'hiver. / On va faire du ski pendant l'hiver."
   },
   {
     "eng": "Pierre fell asleep during the film.",
-    "fre": "Pierre sest endormi pendant le film."
+    "fre": "Pierre s'est endormi pendant le film."
   },
   {
     "eng": "Is everything OK? You didn't speak during breakfast.",
-    "fre": "Est-ce que tout va bien? Tu n'as pas / vous n'avez pas parlé pendant le ec"
+    "fre": "Est-ce que tout va bien ? Tu n'as pas parlé pendant le petit-déjeuner. / Vous n'avez pas parlé pendant le petit-déjeuner."
   },
   {
     "eng": "I'm going to tell you something important during dinner.",
@@ -1257,7 +1265,7 @@
   },
   {
     "eng": "What do you want to do during the journey?",
-    "fre": "Que veux-tu / voulez-vous faire pendant le trajet?"
+    "fre": "Que veux-tu faire pendant le trajet ? / Que voulez-vous faire pendant le trajet ?"
   },
   {
     "eng": "It's less expensive here during the week.",
@@ -1269,14 +1277,14 @@
   },
   {
     "eng": "I'm going to do it during the evening.",
-    "fre": "Je vais le faire pendant le soir."
+    "fre": "Je vais le faire pendant la soirée."
   },
   {
     "eng": "Usually, he doesn't work during the weekend.",
-    "fre": "D'habitude, il ne travaille pas pendant le weekend."
+    "fre": "D'habitude, il ne travaille pas pendant le week-end."
   },
   {
-    "eng": "We went there during the holiday.",
+    "eng": "We went there during the holidays.",
     "fre": "Nous y sommes allés pendant les vacances. / On y est allés pendant les vacances."
   },
   {
@@ -1284,12 +1292,12 @@
     "fre": "mon temps libre"
   },
   {
-    "eng": "Bui iy ity fee I I I hee LU play with my friends Pendamt mon temps libre, jaime",
-    "fre": "jouer au foot avec mes amis.."
+    "eng": "During my free time, I like to play football with my friends.",
+    "fre": "Pendant mon temps libre, j'aime jouer au foot avec mes amis."
   },
   {
     "eng": "What do you like to do during your free time?",
-    "fre": "Qu'aimes-tu faire pendant ton temps libre? / Qu'aimez-vous faire pendant votre temps libre? @"
+    "fre": "Qu'aimes-tu faire pendant ton temps libre ? / Qu'aimez-vous faire pendant votre temps libre ?"
   },
   {
     "eng": "In my free time, I like to watch films.",
@@ -1301,7 +1309,7 @@
   },
   {
     "eng": "You can't tell me what to do during my free time.",
-    "fre": "Tu ne peux pas / vous ne pouvez pas me dire quoi faire pendant mon temps is"
+    "fre": "Tu ne peux pas me dire quoi faire pendant mon temps libre. / Vous ne pouvez pas me dire quoi faire pendant mon temps libre."
   },
   {
     "eng": "We have some free time this evening.",
@@ -1313,23 +1321,23 @@
   },
   {
     "eng": "Do you have any free time this week?",
-    "fre": "As-tu du temps libre cette semaine? / Avez-vous du temps libre cette ae"
+    "fre": "As-tu du temps libre cette semaine ? / Avez-vous du temps libre cette semaine ?"
   },
   {
     "eng": "to play",
     "fre": "jouer"
   },
   {
-    "eng": "I go skiing",
-    "fre": "je fais du ski"
+    "eng": "I go skiing.",
+    "fre": "je fais du ski."
   },
   {
-    "eng": "I 80 jogging",
-    "fre": "je fais du jogging"
+    "eng": "I go jogging.",
+    "fre": "Je fais du jogging."
   },
   {
-    "eng": "I do Sport @",
-    "fre": "je fais du sport"
+    "eng": "I do sport.",
+    "fre": "Je fais du sport."
   },
   {
     "eng": "I like doing sport.",
@@ -1340,8 +1348,12 @@
     "fre": "Pierre fait très souvent du jogging."
   },
   {
+    "eng": "I go jogging with Pierre from time to time.",
+    "fre": "Je fais du jogging avec Pierre de temps en temps."
+  },
+  {
     "eng": "Marie and Pierre go skiing quite often.",
-    "fre": "Marie and Pierre font assez souvent du Ski."
+    "fre": "Marie et Pierre font assez souvent du ski."
   },
   {
     "eng": "In my free time, I like playing on the Playstation.",
@@ -1349,7 +1361,7 @@
   },
   {
     "eng": "Do you know how to play chess?",
-    "fre": "Sais-tu / Savez-vous jouer aux echecs?"
+    "fre": "Sais-tu jouer aux échecs ? / Savez-vous jouer aux échecs ?"
   },
   {
     "eng": "Marie plays the piano very well.",
@@ -1357,11 +1369,11 @@
   },
   {
     "eng": "Usually, we play tennis during the summer.",
-    "fre": "D'habitude, nous jouons / on joue au tennis pendant l'été."
+    "fre": "D'habitude, nous jouons au tennis pendant l'été. / D'habitude, on joue au tennis pendant l'été."
   },
   {
     "eng": "to play + sport",
-    "fre": "jouer a + sport"
+    "fre": "jouer à + sport"
   },
   {
     "eng": "to play + instrument",
@@ -1369,7 +1381,7 @@
   },
   {
     "eng": "to do + activity",
-    "fre": "faire de + activity"
+    "fre": "faire de + activité"
   },
   {
     "eng": "My favourite sport is tennis.",
@@ -1377,43 +1389,35 @@
   },
   {
     "eng": "What is your favourite food and your favourite colour?",
-    "fre": "Quelle est votre / ta nourriture preférée et votre / ta couleur ae"
+    "fre": "Quelle est ta nourriture préférée et ta couleur préférée ? / Quelle est votre nourriture préférée et votre couleur préférée ?"
   },
   {
     "eng": "Pierre said his favourite country is France.",
-    "fre": "Pierre a dit que son pays préféré est la France?"
+    "fre": "Pierre a dit que son pays préféré est la France."
   },
   {
     "eng": "We think the food here is quite good and we come here often.",
-    "fre": "Nous pensons que la nourriture ici est assez bonne et nous venons ny"
+    "fre": "Nous pensons que la nourriture ici est assez bonne et nous venons souvent ici."
   },
   {
     "eng": "They often go abroad during the summer.",
-    "fre": "lls vont souvent à l'étranger pendant l'été."
+    "fre": "Ils vont souvent à l'étranger pendant l'été."
   },
   {
     "eng": "I would like to go to France more often, but I don't have a lot of free time.",
-    "fre": "Je voudrais aller plus souvent en France, mais je n'ai pas beaucoup de temps D"
+    "fre": "Je voudrais aller plus souvent en France, mais je n'ai pas beaucoup de temps libre."
   },
   {
     "eng": "Do you want to go skiing with me and my family next month?",
-    "fre": "Veux-tu / Voulez-vous faire du ski avec moi et ma famille le mois ae"
+    "fre": "Veux-tu faire du ski avec moi et ma famille le mois prochain ? / Voulez-vous faire du ski avec moi et ma famille le mois prochain ?"
   },
   {
     "eng": "They went skiing in Italy last year and they said it was quite good.",
-    "fre": "lls ont fait du ski en Italie l'année dernière et ils ont dit que c'était assez ac"
-  },
-  {
-    "eng": "During my free time, I like to play football with my friends.",
-    "fre": "Pendant mon temps libre, j'aime jouer au foot avec mes amis."
-  },
-  {
-    "eng": "What do you like to do during your free time?",
-    "fre": "Qu'aimes-tu / Qu'aimez-vous faire pendant ton / votre temps ao"
+    "fre": "Ils ont fait du ski en Italie l'année dernière et ils ont dit que c'était assez bien."
   },
   {
     "eng": "My favourite food is cheese, but I eat it too much.",
-    "fre": "Ma nourriture preferee est le fromage, mais je le mange trop."
+    "fre": "Ma nourriture préférée est le fromage, mais j'en mange trop."
   },
   {
     "eng": "It's quite expensive, but I like it a lot.",
@@ -1421,63 +1425,63 @@
   },
   {
     "eng": "Do you play tennis?",
-    "fre": "Joues-tu au tennis?"
+    "fre": "Joues-tu au tennis ?"
   },
   {
-    "eng": "During the week, I finish at 5pm, so I don't have much free time. rf",
+    "eng": "During the week, I finish at 5 p.m., so I don't have much free time.",
     "fre": "Pendant la semaine, je finis à dix-sept heures, donc je n'ai pas beaucoup de temps libre."
   },
   {
     "eng": "Do you play the guitar?",
-    "fre": "Jouez-vous de la guitare?"
+    "fre": "Jouez-vous de la guitare ?"
   },
   {
     "eng": "We went skiing last week.",
-    "fre": "On a fait du ski la semaine dernière?"
+    "fre": "On a fait du ski la semaine dernière."
   },
   {
     "eng": "They often eat here and they say that the food is delicious.",
-    "fre": "Is mangent souvent ici et ils disent que la nourriture est délicieuse."
+    "fre": "Ils mangent souvent ici et ils disent que la nourriture est délicieuse."
   },
   {
     "eng": "They don't like to play football.",
-    "fre": "Is n'aiment pas jouer au foot."
+    "fre": "Ils n'aiment pas jouer au foot."
   },
   {
     "eng": "I've gained some weight and now I feel fantastic.",
-    "fre": "Jai pris du poids et maintenant je me sens fantastique. ch"
+    "fre": "J'ai pris du poids et maintenant je me sens fantastique."
   },
   {
     "eng": "for staying in shape",
     "fre": "pour rester en forme"
   },
   {
-    "eng": "for staying in shape / (in order) to stay in NAPE",
+    "eng": "for staying in shape / (in order) to stay in shape",
     "fre": "pour rester en forme"
   },
   {
-    "eng": "(in order) to stay in shape, you must do sport",
-    "fre": "pour rester en forme, tu dois faire du sport"
+    "eng": "In order to stay in shape, you must do sport.",
+    "fre": "Pour rester en forme, tu dois faire du sport."
   },
   {
-    "eng": "I am here (in order) to help",
-    "fre": "je Suis ici pour aider"
+    "eng": "I am here to help.",
+    "fre": "Je suis ici pour aider."
   },
   {
     "eng": "What can I do (in order) to help?",
-    "fre": "Que puis-je faire pour aider?"
+    "fre": "Que puis-je faire pour aider ?"
   },
   {
     "eng": "What can I do (in order) to lose weight?",
-    "fre": "Que puis-je faire pour perdre du poids?"
+    "fre": "Que puis-je faire pour perdre du poids ?"
   },
   {
     "eng": "In order to understand, you must listen attentively.",
-    "fre": "Pour comprendre, tu dois écouter attentivement. / Pour comprendre, vous devez écouter attentivement. @"
+    "fre": "Pour comprendre, tu dois écouter attentivement. / Pour comprendre, vous devez écouter attentivement."
   },
   {
     "eng": "She bought some flour to make a cake.",
-    "fre": "Elle a achete de la farine pour faire un gâteau."
+    "fre": "Elle a acheté de la farine pour faire un gâteau."
   },
   {
     "eng": "We're going to the cinema to see a film.",
@@ -1485,11 +1489,11 @@
   },
   {
     "eng": "To go there, you need to take the bus.",
-    "fre": "Pour y aller, tu as / vous avez besoin de prendre le bus. rf"
+    "fre": "Pour y aller, tu as besoin de prendre le bus. / Pour y aller, vous avez besoin de prendre le bus."
   },
   {
     "eng": "I'm reading this book to learn French.",
-    "fre": "Je lis ce livre pour apprendre le francais."
+    "fre": "Je lis ce livre pour apprendre le français."
   },
   {
     "eng": "I'm going upstairs to get into bed.",
@@ -1497,7 +1501,7 @@
   },
   {
     "eng": "We're going to the theme park to have a good time.",
-    "fre": "Nous allons au parc d'attractions pour nous mh"
+    "fre": "Nous allons au parc d'attractions pour nous amuser."
   },
   {
     "eng": "I'm going upstairs to have a wash.",
@@ -1512,12 +1516,8 @@
     "fre": "Je suis ici pour apprendre."
   },
   {
-    "eng": "In your opinion",
-    "fre": "à ton avis / a votre avis"
-  },
-  {
-    "eng": "in order to + Infinitive",
-    "fre": "pour + infinitive"
+    "eng": "in order to + infinitive",
+    "fre": "pour + infinitif"
   },
   {
     "eng": "I like going skiing and also, it's good for your health.",
@@ -1525,15 +1525,15 @@
   },
   {
     "eng": "It's important to read often because it's good for your mind.",
-    "fre": "C'est important de lire souvent parce que c'est bon pour To"
+    "fre": "C'est important de lire souvent parce que c'est bon pour l'esprit."
   },
   {
     "eng": "In my opinion, the food here is the best in the world.",
-    "fre": "A mon avis, la nourriture ici est la meilleure du monde. rf"
+    "fre": "À mon avis, la nourriture ici est la meilleure du monde."
   },
   {
     "eng": "I would like to hear your opinion.",
-    "fre": "Je voudrais entendre ton / votre opinion."
+    "fre": "Je voudrais entendre ton avis. / Je voudrais entendre votre avis."
   },
   {
     "eng": "What do you do to stay in shape?",
@@ -1541,55 +1541,55 @@
   },
   {
     "eng": "I need to lose weight, but I love chocolate, so it's difficult.",
-    "fre": "J'ai besoin de perdre du poids, mais j'adore le chocolat, donc c'est"
+    "fre": "J'ai besoin de perdre du poids, mais j'adore le chocolat, donc c'est difficile."
   },
   {
     "eng": "I think Pierre and Michel have gained weight recently.",
-    "fre": "Je pense que Pierre et Michel ont pris du poids recemment. rf"
+    "fre": "Je pense que Pierre et Michel ont pris du poids récemment."
   },
   {
     "eng": "I came here to speak with Marie, but she isn't here today.",
-    "fre": "Je suis venu ici pour parler avec Marie, mais elle n'est pas ici ae"
+    "fre": "Je suis venu ici pour parler avec Marie, mais elle n'est pas ici aujourd'hui."
   },
   {
     "eng": "To make it easier, I'm going to help you.",
-    "fre": "Pour le faire plus facile, je vais t'aider / vous aider."
+    "fre": "Pour rendre ça plus facile, je vais t'aider. / Pour rendre ça plus facile, je vais vous aider."
   },
   {
     "eng": "Do you have an opinion?",
-    "fre": "As-tu / Avez-vous un avis?"
+    "fre": "As-tu un avis ? / Avez-vous un avis ?"
   },
   {
     "eng": "I've lost weight, and I feel a lot better.",
     "fre": "J'ai perdu du poids, et je me sens beaucoup mieux."
   },
   {
-    "eng": "In your opinion, do I buy the red car or the black car? fh",
-    "fre": "À ton avis, j'achète la voiture rouge où la voiture noire?"
+    "eng": "In your opinion, should I buy the red car or the black car?",
+    "fre": "À ton avis, est-ce que j'achète la voiture rouge ou la voiture noire ? / À votre avis, est-ce que j'achète la voiture rouge ou la voiture noire ?"
   },
   {
     "eng": "The first thing that comes to mind is the hotel next to the sea.",
-    "fre": "La première chose qui me vient à l'esprit est l'hôtel a côté du mer."
+    "fre": "La première chose qui me vient à l'esprit est l'hôtel à côté de la mer."
   },
   {
-    "eng": "They went to the beach to have a good time. rf",
-    "fre": "lls sont allés à la plage pour s'amuser."
+    "eng": "They went to the beach to have a good time.",
+    "fre": "Ils sont allés à la plage pour s'amuser."
   },
   {
     "eng": "What did she do to lose weight?",
-    "fre": "Qu'a-t-elle fait pour perdre du poids?"
+    "fre": "Qu'a-t-elle fait pour perdre du poids ?"
   },
   {
     "eng": "Have you lost weight?",
-    "fre": "As-tu perdu du poids?"
+    "fre": "As-tu perdu du poids ?"
   },
   {
     "eng": "I think I've gained too much weight.",
     "fre": "Je pense que j'ai pris trop de poids."
   },
   {
-    "eng": "It's important to stay in shape, So I go cycling every day.",
-    "fre": "C'est important de rester en forme, donc je fais du velo tous les jours."
+    "eng": "It's important to stay in shape, so I go cycling every day.",
+    "fre": "C'est important de rester en forme, donc je fais du vélo tous les jours."
   },
   {
     "eng": "We are here to help you.",
@@ -1597,19 +1597,19 @@
   },
   {
     "eng": "In my opinion, we must do more to help.",
-    "fre": "A mon avis, nous devons faire plus pour aider."
+    "fre": "À mon avis, nous devons faire plus pour aider."
   },
   {
     "eng": "I think it's very good.",
     "fre": "Je pense que c'est très bon."
   },
   {
-    "eng": "I'm sorry but I don't Know what it is.",
+    "eng": "I'm sorry but I don't know what it is.",
     "fre": "Je suis désolé mais je ne sais pas ce que c'est."
   },
   {
     "eng": "I'm sorry but I don't understand what you're saying to me.",
-    "fre": "Je suis désolé mais je ne comprends pas ce que tu me dis / vous me"
+    "fre": "Je suis désolé mais je ne comprends pas ce que tu me dis. / Je suis désolé mais je ne comprends pas ce que vous me dites."
   },
   {
     "eng": "She's here.",
@@ -1617,7 +1617,7 @@
   },
   {
     "eng": "May I try these shoes on?",
-    "fre": "Puis-je essayer ces chaussures?"
+    "fre": "Puis-je essayer ces chaussures ?"
   },
   {
     "eng": "I would like a trolley.",
@@ -1625,11 +1625,11 @@
   },
   {
     "eng": "What do I pay with?",
-    "fre": "Avec quoi est-ce que je paye?"
+    "fre": "Avec quoi est-ce que je paye ?"
   },
   {
     "eng": "I'm going to have dinner here.",
-    "fre": "Je vais prendre le dîner ici."
+    "fre": "Je vais dîner ici."
   },
   {
     "eng": "He didn't understand.",
@@ -1640,8 +1640,8 @@
     "fre": "Ils sont perdus."
   },
   {
-    "eng": "We're leaving at 12 o'clock, but they need to pack their ae",
-    "fre": "Nous partons a douze heures, mais ils ont besoin de faire leur valise."
+    "eng": "We're leaving at 12 o'clock, but they need to pack their suitcases.",
+    "fre": "Nous partons à douze heures, mais ils ont besoin de faire leurs valises."
   },
   {
     "eng": "They bought a car last week.",
@@ -1649,22 +1649,22 @@
   },
   {
     "eng": "Do you have long hair or short hair?",
-    "fre": "Avez-vous les cheveux longs où les cheveux courts?"
+    "fre": "Avez-vous les cheveux longs ou les cheveux courts ?"
   },
   {
     "eng": "Do you dance better than Sophie?",
-    "fre": "Danses-tu mieux que Sophie?"
+    "fre": "Danses-tu mieux que Sophie ?"
   },
   {
     "eng": "What colour is this bottle?",
-    "fre": "De quelle couleur est cette bouteille?"
+    "fre": "De quelle couleur est cette bouteille ?"
   },
   {
     "eng": "I'm going to let somebody know where we are.",
-    "fre": "Je vais faire savoir a quelqu'un où nous sommes."
+    "fre": "Je vais faire savoir à quelqu'un où nous sommes."
   },
   {
-    "eng": "It was windy out, but we went to the beach. rf",
+    "eng": "It was windy out, but we went to the beach.",
     "fre": "Il y avait du vent, mais nous sommes allés à la plage."
   },
   {
@@ -1673,19 +1673,19 @@
   },
   {
     "eng": "They finish at seven o'clock.",
-    "fre": "lls finissent à sept heures."
+    "fre": "Ils finissent à sept heures."
   },
   {
     "eng": "my",
     "fre": "mon/ma/mes"
   },
   {
-    "eng": "[his [son I s I ss - her sm I ss I ss [ones sm I = I ss",
-    "fre": "eus [scan I rene I uma"
+    "eng": "his / her / one's",
+    "fre": "son / sa / ses"
   },
   {
-    "eng": "our I moe I moe I ns",
-    "fre": "ee ae TN"
+    "eng": "our",
+    "fre": "notre / nos"
   },
   {
     "eng": "My book is here.",
@@ -1701,7 +1701,7 @@
   },
   {
     "eng": "My coffee is on the left.",
-    "fre": "Mon cafe est à gauche."
+    "fre": "Mon café est à gauche."
   },
   {
     "eng": "My children are playing football.",
@@ -1713,11 +1713,11 @@
   },
   {
     "eng": "Where are my keys?",
-    "fre": "Où sont mes clés?"
+    "fre": "Où sont mes clés ?"
   },
   {
     "eng": "Where did I leave my key?",
-    "fre": "Où est-ce que j'ai laissé ma clé?"
+    "fre": "Où est-ce que j'ai laissé ma clé ?"
   },
   {
     "eng": "You're my favourite daughter.",
@@ -1729,11 +1729,11 @@
   },
   {
     "eng": "My brother is two years older than me.",
-    "fre": "Mon frère à deux ans de plus que moi."
+    "fre": "Mon frère a deux ans de plus que moi."
   },
   {
     "eng": "You are my favourite person.",
-    "fre": "Tu es ma personne préférée. / vous êtes ma personne préférée."
+    "fre": "Tu es ma personne préférée. / Vous êtes ma personne préférée."
   },
   {
     "eng": "your",
@@ -1765,83 +1765,79 @@
   },
   {
     "eng": "Where are your keys?",
-    "fre": "Où sont tes clés?"
+    "fre": "Où sont tes clés ?"
   },
   {
     "eng": "Where did you leave your key?",
-    "fre": "Où est-ce que tu as laissé ta clé? / Où as-tu laissé ta clé? rf"
+    "fre": "Où est-ce que tu as laissé ta clé ? / Où as-tu laissé ta clé ?"
   },
   {
     "eng": "Who is your favourite daughter?",
-    "fre": "Qui est ta fille preferée?"
+    "fre": "Qui est ta fille préférée ?"
   },
   {
     "eng": "Do your grandparents live in Paris?",
-    "fre": "Est-ce que tes grands-parents habitent à Paris? / Tes grands-parents habitent-ils a"
+    "fre": "Est-ce que tes grands-parents habitent à Paris ? / Tes grands-parents habitent-ils à Paris ?"
   },
   {
     "eng": "Your brother is two years older than me.",
-    "fre": "Ton frere à deux ans de plus que moi."
+    "fre": "Ton frère a deux ans de plus que moi."
   },
   {
     "eng": "Who is your favourite person?",
-    "fre": "Qui est ta personne préférée?"
+    "fre": "Qui est ta personne préférée ?"
   },
   {
     "eng": "his / her / one's",
     "fre": "son/sa/ses"
   },
   {
-    "eng": "His book is here. / Her book is here. / One's book is here. @",
+    "eng": "His book is here. / Her book is here. / One's book is here.",
     "fre": "Son livre est ici."
   },
   {
-    "eng": "His car is red. / Her car is red. / One's car is red. @",
+    "eng": "His car is red. / Her car is red. / One's car is red.",
     "fre": "Sa voiture est rouge."
   },
   {
-    "eng": "His friends have arrived. / Her friends have arrived. / One's friends have arrived. @",
+    "eng": "His friends have arrived. / Her friends have arrived. / One's friends have arrived.",
     "fre": "Ses amis sont arrivés."
   },
   {
-    "eng": "His coffee is on the left. / Her coffee is on the left. / One's coffee is on the left. @",
+    "eng": "His coffee is on the left. / Her coffee is on the left. / One's coffee is on the left.",
     "fre": "Son café est à gauche."
   },
   {
-    "eng": "His children are playing football. / Her children are playing football. / One's children are playing",
+    "eng": "His children are playing football. / Her children are playing football. / One's children are playing football.",
     "fre": "Ses enfants jouent au foot."
   },
   {
-    "eng": "His pizza is delicious. / Her pizza is delicious. / One's pizza is delicious. @",
-    "fre": "Sa pizza est delicieuse."
+    "eng": "His pizza is delicious. / Her pizza is delicious. / One's pizza is delicious.",
+    "fre": "Sa pizza est délicieuse."
   },
   {
-    "eng": "Where are his keys? / Where are her keys? / Where are one's keys? @",
-    "fre": "Où sont ses clés?"
+    "eng": "Where are his keys? / Where are her keys? / Where are one's keys?",
+    "fre": "Où sont ses clés ?"
   },
   {
     "eng": "Where did I leave his key? / Where did I leave her key?",
-    "fre": "Où est-ce que jai laisse sa cle?"
+    "fre": "Où est-ce que j'ai laissé sa clé ?"
   },
   {
     "eng": "She is his favourite daughter. / She is her favourite daughter. / She is one's favourite daughter.",
     "fre": "Elle est sa fille préférée."
   },
   {
-    "eng": "Where do his grandparents live? / Where do her grandparents live? / Where do one's grandparents",
-    "fre": "Où est-ce que ses grands-parents habitent?"
+    "eng": "Where do his grandparents live? / Where do her grandparents live? / Where do one's grandparents live?",
+    "fre": "Où est-ce que ses grands-parents habitent ?"
   },
   {
-    "eng": "His brother is two years older than me. / Her brother is two years older than is",
-    "fre": "Son frère à deux ans de plus que moi."
+    "eng": "His brother is two years older than me. / Her brother is two years older than me.",
+    "fre": "Son frère a deux ans de plus que moi."
   },
   {
     "eng": "Who is his favourite person? / Who is her favourite person? / Who is one's favourite person?",
-    "fre": "Qui est Sa personne preferee?"
-  },
-  {
-    "eng": "OUl",
-    "fre": "notre / nos"
+    "fre": "Qui est sa personne préférée ?"
   },
   {
     "eng": "Our books are here.",
@@ -1869,11 +1865,11 @@
   },
   {
     "eng": "Where are our keys?",
-    "fre": "Où sont nos clés?"
+    "fre": "Où sont nos clés ?"
   },
   {
     "eng": "Where did you leave our key?",
-    "fre": "Où est-ce que tu as / vous avez laissé notre clé? / Où as-tu / avez-vous laissé notre ta"
+    "fre": "Où est-ce que tu as laissé notre clé ? / Où as-tu laissé notre clé ? / Où est-ce que vous avez laissé notre clé ? / Où avez-vous laissé notre clé ?"
   },
   {
     "eng": "You're our favourite daughter.",
@@ -1889,7 +1885,7 @@
   },
   {
     "eng": "You are our favourite person.",
-    "fre": "Tu es notre personne préférée. / vous êtes notre personne préférée."
+    "fre": "Tu es notre personne préférée. / Vous êtes notre personne préférée."
   },
   {
     "eng": "your",
@@ -1921,19 +1917,19 @@
   },
   {
     "eng": "Where are your keys?",
-    "fre": "Où sont vos clés?"
+    "fre": "Où sont vos clés ?"
   },
   {
     "eng": "Where did you leave your key?",
-    "fre": "Où est-ce que vous avez laissé votre clé? / Où avez-vous laissé votre clé?"
+    "fre": "Où est-ce que vous avez laissé votre clé ? / Où avez-vous laissé votre clé ?"
   },
   {
     "eng": "Who is your favourite daughter?",
-    "fre": "Qui est votre fille préférée?"
+    "fre": "Qui est votre fille préférée ?"
   },
   {
     "eng": "Do your grandparents live in Paris?",
-    "fre": "Est-ce que vos grands-parents habitent à Paris? / Vos grands-parents habitent-ils a Lo"
+    "fre": "Est-ce que vos grands-parents habitent à Paris ? / Vos grands-parents habitent-ils à Paris ?"
   },
   {
     "eng": "Your brother is two years older than me.",
@@ -1941,7 +1937,7 @@
   },
   {
     "eng": "Who is your favourite person?",
-    "fre": "Qui est votre personne préférée?"
+    "fre": "Qui est votre personne préférée ?"
   },
   {
     "eng": "their",
@@ -1961,7 +1957,7 @@
   },
   {
     "eng": "Their coffees are on the left.",
-    "fre": "Leurs cafes sont à gauche."
+    "fre": "Leurs cafés sont à gauche."
   },
   {
     "eng": "Their children are playing football.",
@@ -1973,71 +1969,71 @@
   },
   {
     "eng": "Where are their keys?",
-    "fre": "Où sont leurs clés?"
+    "fre": "Où sont leurs clés ?"
   },
   {
     "eng": "Where did they leave their key?",
-    "fre": "Où est-ce qu'ils ont laissé leur clé? / Où ont-ils laissé leur clé?"
+    "fre": "Où est-ce qu'ils ont laissé leur clé ? / Où ont-ils laissé leur clé ?"
   },
   {
     "eng": "Who is their favourite daughter?",
-    "fre": "Qui est leur fille préférée?"
+    "fre": "Qui est leur fille préférée ?"
   },
   {
     "eng": "Do their grandparents live in Paris?",
-    "fre": "Est-ce que leurs grands-parents habitent à Paris? / Leurs grands-parents habitent-ils a io"
+    "fre": "Est-ce que leurs grands-parents habitent à Paris ? / Leurs grands-parents habitent-ils à Paris ?"
   },
   {
     "eng": "Their brother is two years older than me.",
-    "fre": "Leur frere à deux ans de plus que moi."
+    "fre": "Leur frère a deux ans de plus que moi."
   },
   {
     "eng": "Who is their favourite person?",
-    "fre": "Qui est leur personne préférée?"
+    "fre": "Qui est leur personne préférée ?"
   },
   {
-    "eng": "your story is interesting",
-    "fre": "ton histoire est intéressante"
+    "eng": "Your story is interesting.",
+    "fre": "Ton histoire est intéressante."
   },
   {
-    "eng": "her wardrobe is enormous I,",
-    "fre": "son armoire est énorme"
+    "eng": "Her wardrobe is enormous.",
+    "fre": "Son armoire est énorme."
   },
   {
-    "eng": "SINGULAR I SINGULAR PLURAL PLURAL",
-    "fre": "Trine [eme Lame [mers [rene"
+    "eng": "singular / plural possessive pronouns",
+    "fre": "pronoms possessifs au singulier / au pluriel"
   },
   {
     "eng": "Is it his? / Is it hers?",
-    "fre": "Est-ce que c'est le sien?"
+    "fre": "Est-ce que c'est le sien ? / Est-ce que c'est la sienne ?"
   },
   {
-    "eng": "Is it his car? No; it's mine",
-    "fre": "Est-ce que c'est Sa voiture? Non; c'est la mienne"
+    "eng": "Is it his car? No, it's mine.",
+    "fre": "Est-ce que c'est sa voiture ? Non, c'est la mienne."
   },
   {
-    "eng": "I think it's ours",
-    "fre": "je pense que c'est le nôtre @"
+    "eng": "I think it's ours.",
+    "fre": "Je pense que c'est le nôtre."
   },
   {
-    "eng": "it isn't mine; mine is red",
-    "fre": "ce n'est pas le mien; le mien est rouge"
+    "eng": "It isn't mine; mine is red.",
+    "fre": "Ce n'est pas le mien ; le mien est rouge."
   },
   {
-    "eng": "theirs isn't here",
-    "fre": "le leur n'est pas ici"
+    "eng": "Theirs isn't here.",
+    "fre": "Le leur n'est pas ici."
   },
   {
-    "eng": "I think yours is in the restaurant",
-    "fre": "je pense que le vôtre est dans le restauran"
+    "eng": "I think yours is in the restaurant.",
+    "fre": "Je pense que le vôtre est dans le restaurant."
   },
   {
-    "eng": "Our",
+    "eng": "our",
     "fre": "notre"
   },
   {
     "eng": "ours",
-    "fre": "nôtre"
+    "fre": "le nôtre / la nôtre / les nôtres"
   },
   {
     "eng": "your",
@@ -2045,11 +2041,11 @@
   },
   {
     "eng": "yours",
-    "fre": "vôtre"
+    "fre": "le vôtre / la vôtre / les vôtres"
   },
   {
     "eng": "mine",
-    "fre": "les miens, les miennes"
+    "fre": "le mien / la mienne / les miens / les miennes"
   },
   {
     "eng": "The book is mine.",
@@ -2069,11 +2065,11 @@
   },
   {
     "eng": "I think that is mine.",
-    "fre": "Je pense que ça c'est le mien."
+    "fre": "Je pense que c'est le mien."
   },
   {
     "eng": "If you have lost your key, you can take mine.",
-    "fre": "Si tu as perdu ta clé, tu peux prendre la mienne. / Si vous avez perdu votre clé, vous pouvez prendre la mienne. ch"
+    "fre": "Si tu as perdu ta clé, tu peux prendre la mienne. / Si vous avez perdu votre clé, vous pouvez prendre la mienne."
   },
   {
     "eng": "I have a black coat, so it's not mine.",
@@ -2085,7 +2081,7 @@
   },
   {
     "eng": "yours",
-    "fre": "les tiens, les tiennes"
+    "fre": "le tien / la tienne / les tiens / les tiennes"
   },
   {
     "eng": "The book is yours.",
@@ -2105,15 +2101,15 @@
   },
   {
     "eng": "I think that is yours.",
-    "fre": "Je pense que ça c'est le tien."
+    "fre": "Je pense que c'est le tien."
   },
   {
     "eng": "I've lost my key, so can I take yours?",
-    "fre": "J'ai perdu ma clé, donc puis-je prendre la tienne?"
+    "fre": "J'ai perdu ma clé, donc puis-je prendre la tienne ?"
   },
   {
     "eng": "There is a coffee there. Is it yours or mine?",
-    "fre": "Il y a un café là. Est-ce que c'est le tien où le mien?"
+    "fre": "Il y a un café là. Est-ce que c'est le tien ou le mien ?"
   },
   {
     "eng": "Yours is blue and mine is red.",
@@ -2129,11 +2125,11 @@
   },
   {
     "eng": "Is this dog yours?",
-    "fre": "Est-ce que ce chien est le tien?"
+    "fre": "Est-ce que ce chien est le tien ?"
   },
   {
     "eng": "Where's yours?",
-    "fre": "Où est le tien?"
+    "fre": "Où est le tien ?"
   },
   {
     "eng": "I don't understand yours.",
@@ -2145,10 +2141,10 @@
   },
   {
     "eng": "his / hers",
-    "fre": "les siens, les siennes"
+    "fre": "le sien / la sienne / les siens / les siennes"
   },
   {
-    "eng": "The book is his. / The book is hers. rf",
+    "eng": "The book is his. / The book is hers.",
     "fre": "Le livre est le sien."
   },
   {
@@ -2156,7 +2152,7 @@
     "fre": "La voiture est la sienne."
   },
   {
-    "eng": "The books are his. / The books are hers. rf",
+    "eng": "The books are his. / The books are hers.",
     "fre": "Les livres sont les siens."
   },
   {
@@ -2165,15 +2161,15 @@
   },
   {
     "eng": "I think that is his. / I think that is hers.",
-    "fre": "Je pense que ça c'est le sien."
+    "fre": "Je pense que c'est le sien."
   },
   {
-    "eng": "I've lost my key, so can I take his? / I've lost my key, so can I take co",
-    "fre": "J'ai perdu ma clé, donc puis-je prendre la sienne?"
+    "eng": "I've lost my key, so can I take his? / I've lost my key, so can I take hers?",
+    "fre": "J'ai perdu ma clé, donc puis-je prendre la sienne ?"
   },
   {
-    "eng": "There's a coffee there. Is it his or mine? / There's a coffee there. Is it hers or",
-    "fre": "Il ya un cafe la. Est-ce que c'est le sien où le mien?"
+    "eng": "There's a coffee there. Is it his or mine? / There's a coffee there. Is it hers or mine?",
+    "fre": "Il y a un café là. Est-ce que c'est le sien ou le mien ?"
   },
   {
     "eng": "His is blue and yours is red. / Hers is blue and yours is red.",
@@ -2181,15 +2177,11 @@
   },
   {
     "eng": "I spent my holidays here, but he spent his abroad.",
-    "fre": "J'ai passé mes vacances ici, mais il a passé les siennes"
+    "fre": "J'ai passé mes vacances ici, mais il a passé les siennes à l'étranger."
   },
   {
     "eng": "Pierre took his passport with him, but Marie has left hers here.",
-    "fre": "Pierre a pris Son passeport avec lui, mais Marie a laissé le sien ici. rf"
-  },
-  {
-    "eng": "OUIS",
-    "fre": "le nôtre, la nôtre, les nôtrès"
+    "fre": "Pierre a pris son passeport avec lui, mais Marie a laissé le sien ici."
   },
   {
     "eng": "That book is ours.",
@@ -2201,47 +2193,43 @@
   },
   {
     "eng": "The books are ours.",
-    "fre": "Les livres sont les nôtrès."
+    "fre": "Les livres sont les nôtres."
   },
   {
-    "eng": "The cars are Ours.",
-    "fre": "Les voitures sont les nôtrès."
+    "eng": "The cars are ours.",
+    "fre": "Les voitures sont les nôtres."
   },
   {
     "eng": "I think that is ours.",
-    "fre": "Je pense que ça c'est le notre."
+    "fre": "Je pense que c'est le nôtre."
   },
   {
     "eng": "If you have lost your key, you can take ours.",
-    "fre": "Si tu as perdu ta clé, tu peux prendre la nôtre. / Si vous avez perdu votre clé, vous pouvez prendre la nôtre. @"
+    "fre": "Si tu as perdu ta clé, tu peux prendre la nôtre. / Si vous avez perdu votre clé, vous pouvez prendre la nôtre."
   },
   {
-    "eng": "We have a black car, so it's not mine.",
+    "eng": "We have a black car, so it's not ours.",
     "fre": "Nous avons une voiture noire, donc ce n'est pas la nôtre."
   },
   {
-    "eng": "I'M sorry but it's ours now.",
+    "eng": "I'm sorry but it's ours now.",
     "fre": "Je suis désolé mais c'est le nôtre maintenant."
   },
   {
     "eng": "Have you seen ours?",
-    "fre": "As-tu vu le nôtre? / Avez-vous vu le nôtre?"
+    "fre": "As-tu vu le nôtre ? / Avez-vous vu le nôtre ?"
   },
   {
     "eng": "Your children are playing football and ours are playing tennis.",
-    "fre": "Tes enfants jouent au foot et les nôtrès jouent au tennis. / Vos enfants jouent au foot et les nôtrès jouent au do"
-  },
-  {
-    "eng": "yours",
-    "fre": "le votre, la votre, les vôtrès"
+    "fre": "Tes enfants jouent au foot et les nôtres jouent au tennis. / Vos enfants jouent au foot et les nôtres jouent au tennis."
   },
   {
     "eng": "The book is yours.",
-    "fre": "Le livre est le votre."
+    "fre": "Le livre est le vôtre."
   },
   {
     "eng": "The car is yours.",
-    "fre": "La voiture est la votre."
+    "fre": "La voiture est la vôtre."
   },
   {
     "eng": "There are no flowers here.",
@@ -2261,11 +2249,11 @@
   },
   {
     "eng": "They aren't monsters.",
-    "fre": "Ils ne sont pas des monstrès."
+    "fre": "Ils ne sont pas des monstres."
   },
   {
     "eng": "They aren't dangerous animals.",
-    "fre": "lls ne sont pas des animaux dangereux."
+    "fre": "Ils ne sont pas des animaux dangereux."
   },
   {
     "eng": "I need a car.",
@@ -2281,7 +2269,7 @@
   },
   {
     "eng": "I fancy some sweets.",
-    "fre": "J'ai envie des bonbons."
+    "fre": "J'ai envie de bonbons."
   },
   {
     "eng": "There are a lot of cars here.",
@@ -2301,7 +2289,7 @@
   },
   {
     "eng": "Do you have any other questions?",
-    "fre": "As-tu d'autrès questions? / Avez-vous d'autrès questions?"
+    "fre": "As-tu d'autres questions ? / Avez-vous d'autres questions ?"
   },
   {
     "eng": "I ate some soup.",
@@ -2329,7 +2317,7 @@
   },
   {
     "eng": "Do you have any money?",
-    "fre": "As-tu de l'argent? / Avez-vous de l'argent?"
+    "fre": "As-tu de l'argent ? / Avez-vous de l'argent ?"
   },
   {
     "eng": "Pierre is lucky. (Pierre has luck)",
@@ -2349,7 +2337,7 @@
   },
   {
     "eng": "Do you take sugar?",
-    "fre": "Prends-tu du sucre? / Prenez-vous du sucre?"
+    "fre": "Prends-tu du sucre ? / Prenez-vous du sucre ?"
   },
   {
     "eng": "I don't take sugar.",
@@ -2357,7 +2345,7 @@
   },
   {
     "eng": "Is there any water?",
-    "fre": "Y a-t-il de l'eau?"
+    "fre": "Y a-t-il de l'eau ?"
   },
   {
     "eng": "There isn't any water.",
@@ -2376,12 +2364,12 @@
     "fre": "Ce n'est pas du thé; c'est du café."
   },
   {
-    "eng": "VAIN TUL I",
-    "fre": "potatoes cups coins books clocks houses télévisions tables chairs clouds bottles leaves trees pictures photos windows frogs"
+    "eng": "potatoes / cups / coins / books / clocks / houses / televisions / tables / chairs / clouds / bottles / leaves / trees / pictures / photos / windows / frogs",
+    "fre": "pommes de terre / tasses / pièces / livres / horloges / maisons / télévisions / tables / chaises / nuages / bouteilles / feuilles / arbres / images / photos / fenêtres / grenouilles"
   },
   {
-    "eng": "potatoes sugar cups milk coins water books mud clocks soil houses air televisions syrup tables sauce chairs respect clouds luck bottles paper leaves paint trees salt pictures beef photos flour windows ice frogs sand",
-    "fre": "TL he Le ee"
+    "eng": "sugar / milk / water / mud / soil / air / syrup / sauce / respect / luck / paper / paint / salt / beef / flour / ice / sand",
+    "fre": "sucre / lait / eau / boue / terre / air / sirop / sauce / respect / chance / papier / peinture / sel / bœuf / farine / glace / sable"
   },
   {
     "eng": "some chicken",
@@ -2389,15 +2377,11 @@
   },
   {
     "eng": "some chickens",
-    "fre": "des poulets;"
+    "fre": "des poulets"
   },
   {
     "eng": "I go to my uncle's house on Sundays.",
     "fre": "Je vais chez mon oncle le dimanche."
-  },
-  {
-    "eng": "I ate some soup.",
-    "fre": "J'ai mange de la soupe."
   },
   {
     "eng": "We're going to have some ice cream.",
@@ -2413,7 +2397,7 @@
   },
   {
     "eng": "I have less ice cream than Pierre.",
-    "fre": "Jai moins de glace que Pierre."
+    "fre": "J'ai moins de glace que Pierre."
   },
   {
     "eng": "Marie ate the cake.",
@@ -2429,7 +2413,7 @@
   },
   {
     "eng": "Do you want to buy some books?",
-    "fre": "Veux-tu / Voulez-vous acheter des livres?"
+    "fre": "Veux-tu acheter des livres ? / Voulez-vous acheter des livres ?"
   },
   {
     "eng": "I need some water.",
@@ -2457,7 +2441,7 @@
   },
   {
     "eng": "Do you have any stamps?",
-    "fre": "As-tu / Avez-vous des timbres?"
+    "fre": "As-tu des timbres ? / Avez-vous des timbres ?"
   },
   {
     "eng": "Teachers work a lot.",
@@ -2465,11 +2449,11 @@
   },
   {
     "eng": "There are some people next to the café.",
-    "fre": "Il y a des gens / des personnes côté du café."
+    "fre": "Il y a des gens à côté du café."
   },
   {
     "eng": "I come from the United States.",
-    "fre": "Je viens des Etats-Unis."
+    "fre": "Je viens des États-Unis."
   },
   {
     "eng": "France is very beautiful.",
@@ -2481,7 +2465,7 @@
   },
   {
     "eng": "Did you drink some coffee?",
-    "fre": "As-tu bu du café? / Avez-vous bu du café?"
+    "fre": "As-tu bu du café ? / Avez-vous bu du café ?"
   },
   {
     "eng": "We don't have any cousins.",
@@ -2497,15 +2481,15 @@
   },
   {
     "eng": "I didn't eat any soup.",
-    "fre": "Je n'ai pas mange de soupe."
+    "fre": "Je n'ai pas mangé de soupe."
   },
   {
     "eng": "Do you speak French?",
-    "fre": "Parlez-vous français?"
+    "fre": "Parlez-vous français ?"
   },
   {
     "eng": "Cars are very expensive.",
-    "fre": "Les voitures sont très cheres."
+    "fre": "Les voitures sont très chères."
   },
   {
     "eng": "I don't have any time.",
@@ -2533,7 +2517,7 @@
   },
   {
     "eng": "Have you got any brothers?",
-    "fre": "Avez-vous des freres?"
+    "fre": "Avez-vous des frères ?"
   },
   {
     "eng": "I don't take milk.",
@@ -2549,7 +2533,7 @@
   },
   {
     "eng": "Do you have any cheese?",
-    "fre": "Avez-vous du fromage?"
+    "fre": "Avez-vous du fromage ?"
   },
   {
     "eng": "I'm going to Spain next month.",
@@ -2557,7 +2541,7 @@
   },
   {
     "eng": "There's lots of coffee here.",
-    "fre": "Il ya beaucoup de café ici."
+    "fre": "Il y a beaucoup de café ici."
   },
   {
     "eng": "I've been learning French for three years.",
@@ -2565,7 +2549,7 @@
   },
   {
     "eng": "This region has some very pretty villages.",
-    "fre": "Cette region a de très jolis villages."
+    "fre": "Cette région a de très jolis villages."
   },
   {
     "eng": "He ate a cake.",
@@ -2593,7 +2577,7 @@
   },
   {
     "eng": "Did you eat some cake?",
-    "fre": "As-tu mange du gâteau?"
+    "fre": "As-tu mangé du gâteau ?"
   },
   {
     "eng": "I'm a teacher.",
@@ -2601,7 +2585,7 @@
   },
   {
     "eng": "Are there any letters for me?",
-    "fre": "Y a-t-il des lettrès pour moi?"
+    "fre": "Y a-t-il des lettres pour moi ?"
   },
   {
     "eng": "It's extremely warm today.",
@@ -2625,19 +2609,15 @@
   },
   {
     "eng": "Is there a postbox near the hotel? I want to send my postcards.",
-    "fre": "Y a-t-il / Est-ce qu'il y a une boîte aux lettrès pres de l'hôtel? Je veux envoyer mes cartes postales}"
-  },
-  {
-    "eng": "I need to lose weight, but I love chocolate, so it's difficult.",
-    "fre": "J'ai besoin de perdre du poids, mais j'adore le chocolat, donc c'est Oy"
+    "fre": "Y a-t-il une boîte aux lettres près de l'hôtel ? Je veux envoyer mes cartes postales."
   },
   {
     "eng": "Tell Sophie if you find the key for the room.",
-    "fre": "Dis a Sophie si tu trouves la clé pour la chambre / Dites a Sophie si vous trouvez la cle pour la chambre."
+    "fre": "Dis à Sophie si tu trouves la clé de la chambre. / Dites à Sophie si vous trouvez la clé de la chambre."
   },
   {
     "eng": "My address is \"15 Rue de Marseille\".",
-    "fre": "Mon adresse est \"quinze Rue de Marseille\"."
+    "fre": "Mon adresse est \"15 Rue de Marseille\"."
   },
   {
     "eng": "I would like to pay the bill for him, please.",
@@ -2648,160 +2628,124 @@
     "fre": "un / une / des"
   },
   {
-    "eng": "I bought a car",
-    "fre": "j'ai acheté une voiture"
+    "eng": "I bought a car.",
+    "fre": "j'ai acheté une voiture."
   },
   {
-    "eng": "Pierre has found a dog",
-    "fre": "Pierre a trouvé un chien"
+    "eng": "Pierre has found a dog.",
+    "fre": "Pierre a trouvé un chien."
   },
   {
-    "eng": "Marie gave me some magazines @",
-    "fre": "Marie m'a donne des magazines"
+    "eng": "Marie gave me some magazines.",
+    "fre": "Marie m'a donné des magazines."
   },
   {
-    "eng": "I a…m a teacher",
-    "fre": "je suis professeur"
+    "eng": "I am a teacher.",
+    "fre": "Je suis professeur."
   },
   {
-    "eng": "Pierre is a doctor",
-    "fre": "Pierre est médecin"
+    "eng": "Pierre is a doctor.",
+    "fre": "Pierre est médecin."
   },
   {
-    "eng": "Marie wants to be a singer @",
-    "fre": "Marie veut être chanteuse"
+    "eng": "Marie wants to be a singer.",
+    "fre": "Marie veut être chanteuse."
   },
   {
-    "eng": "he sent me (some) flowers",
-    "fre": "il m'a envoyé des fleurs"
+    "eng": "He sent me some flowers.",
+    "fre": "Il m'a envoyé des fleurs."
   },
   {
-    "eng": "they gave me (some) sweets",
-    "fre": "ils m'ont donné des bonbons"
+    "eng": "They gave me some sweets.",
+    "fre": "Ils m'ont donné des bonbons."
   },
   {
-    "eng": "sne brougnt (some) DISCUITS WITN ner",
-    "fre": "elle a apporté des biscuits avec elle"
+    "eng": "She brought some biscuits with her.",
+    "fre": "Elle a apporté des biscuits avec elle."
   },
   {
-    "eng": "I have (Some) questions",
-    "fre": "j'ai des questions"
+    "eng": "I have some questions.",
+    "fre": "J'ai des questions."
   },
   {
-    "eng": "my uncle sells (Some) cars",
-    "fre": "mon oncle vend des voitures -"
+    "eng": "My uncle sells cars.",
+    "fre": "Mon oncle vend des voitures."
   },
   {
-    "eng": "I see (Some) cockroaches everyne'er)",
-    "fre": "je vois des cafards partout"
+    "eng": "I see cockroaches everywhere.",
+    "fre": "Je vois des cafards partout."
   },
   {
-    "eng": "I have a banana",
-    "fre": "j'ai une banane"
+    "eng": "I have a banana.",
+    "fre": "J'ai une banane."
   },
   {
-    "eng": "I don't have any bananas",
-    "fre": "je n'ai pas de bananes"
+    "eng": "I don't have any bananas.",
+    "fre": "Je n'ai pas de bananes."
   },
   {
-    "eng": "Do you have a dog? - No, I don't have a dog 7)",
-    "fre": "As-tu un chien? - Non, je n'ai pas de chien"
+    "eng": "Do you have a dog? No, I don't have a dog.",
+    "fre": "As-tu un chien ? Non, je n'ai pas de chien."
   },
   {
-    "eng": "there are flowers everywhere",
-    "fre": "Il Y à des leurs partout"
+    "eng": "There are flowers everywhere.",
+    "fre": "Il y a des fleurs partout."
   },
   {
-    "eng": "I have a question je n'ai pas de questions @ I don't have any questions",
-    "fre": "j'ai une question"
+    "eng": "I have a question.",
+    "fre": "J'ai une question."
   },
   {
-    "eng": "it isn't a dog; it's a cat",
-    "fre": "ce n'est pas un Chien, c'est un Chat"
+    "eng": "It isn't a dog; it's a cat.",
+    "fre": "Ce n'est pas un chien ; c'est un chat."
   },
   {
-    "eng": "they aren't dangerous animals",
-    "fre": "ils ne sont pas des animaux dangereux)"
+    "eng": "too much / too many / to need / to fancy / a lot of",
+    "fre": "trop de / avoir besoin de / avoir envie de / beaucoup de"
   },
   {
-    "eng": "trop de... too much / too many...",
-    "fre": "avoir besoin de... to need... avoir envie de... to fancy... beaucoup de... a lot of..."
+    "eng": "less / fewer / more",
+    "fre": "moins de / plus de"
   },
   {
-    "eng": "moins de... less... / fewer...;",
-    "fre": "plus de... more..."
+    "eng": "Do you have any other questions?",
+    "fre": "Avez-vous d'autres questions ?"
   },
   {
-    "eng": "I fancy a coffee @",
-    "fre": "j'ai envie d'un café"
+    "eng": "I would like some milk.",
+    "fre": "Je voudrais du lait."
   },
   {
-    "eng": "I fancy some sweets",
-    "fre": "j'ai envie de bonbons"
-  },
-  {
-    "eng": "there are a lot of cars here",
-    "fre": "il ya beaucoup de voitures ici"
-  },
-  {
-    "eng": "there are too many people here @",
-    "fre": "il ya trop de personnes ici"
-  },
-  {
-    "eng": "Do you have any other questions? @",
-    "fre": "Avez-vous d'autrès questions?"
-  },
-  {
-    "eng": "I would like some milk",
-    "fre": "je voudrais du lait"
-  },
-  {
-    "eng": "I would like some biscuits",
-    "fre": "je voudrais des biscuits"
-  },
-  {
-    "eng": "we want some ice cream @",
-    "fre": "nous voulons de la glace"
-  },
-  {
-    "eng": "I would like some spinach (some spinaches)",
-    "fre": "je voudrais des épinards"
+    "eng": "I would like some biscuits.",
+    "fre": "Je voudrais des biscuits."
   },
   {
     "eng": "Do you have any money?",
-    "fre": "Avez-vous de l'argent?"
+    "fre": "Avez-vous de l'argent ?"
   },
   {
-    "eng": "Pierre is lucky (Pierre has luck)",
-    "fre": "Pierre a de la chance"
+    "eng": "Pierre is lucky. (Pierre has luck.)",
+    "fre": "Pierre a de la chance."
   },
   {
-    "eng": "children must have respect @",
-    "fre": "les enfants doivent avoir du respect"
+    "eng": "I'm lucky. (I have luck.)",
+    "fre": "J'ai de la chance."
   },
   {
-    "eng": "I'm lucky (I have luck)",
-    "fre": "j'ai de la chance"
-  },
-  {
-    "eng": "I'm not lucky (I don't have any luck)",
-    "fre": "je n'ai pas de chance"
+    "eng": "I'm not lucky. (I don't have any luck.)",
+    "fre": "Je n'ai pas de chance."
   },
   {
     "eng": "Do you take sugar?",
-    "fre": "Prenez-vous du sucre?"
+    "fre": "Prenez-vous du sucre ?"
   },
   {
-    "eng": "No, I don't take (any) sugar",
-    "fre": "Non, je ne prends pas de sucre"
+    "eng": "No, I don't take any sugar.",
+    "fre": "Non, je ne prends pas de sucre."
   },
   {
-    "eng": "it isn't tea; it's coffee @",
-    "fre": "ce n'est pas du thé; c'est du café"
-  },
-  {
-    "eng": "trop de... too much/many...",
-    "fre": "avoir besoin de... to need... avoir envie de... to fancy... beaucoup de... a lot of..."
+    "eng": "It isn't tea; it's coffee.",
+    "fre": "Ce n'est pas du thé ; c'est du café."
   },
   {
     "eng": "I see the beach.",
@@ -2809,11 +2753,11 @@
   },
   {
     "eng": "Have you tried the cheese?",
-    "fre": "As-tu essayé le fromage? / Avez-vous essayé le fromage?"
+    "fre": "As-tu essayé le fromage ? / Avez-vous essayé le fromage ?"
   },
   {
     "eng": "What are you doing with the car?",
-    "fre": "Que fais-tu avec la voiture? / Que faites-vous avec la voiture?"
+    "fre": "Que fais-tu avec la voiture ? / Que faites-vous avec la voiture ?"
   },
   {
     "eng": "I like chocolate.",
@@ -2825,7 +2769,7 @@
   },
   {
     "eng": "French people like cheese and wine.",
-    "fre": "Les Francais aiment le fromage et le vin."
+    "fre": "Les Français aiment le fromage et le vin."
   },
   {
     "eng": "Life is beautiful.",
@@ -2833,7 +2777,7 @@
   },
   {
     "eng": "Vegetables are good for your health.",
-    "fre": "Les legumes sont bons pour la santé."
+    "fre": "Les légumes sont bons pour la santé."
   },
   {
     "eng": "Classical music is beautiful.",
@@ -2841,7 +2785,7 @@
   },
   {
     "eng": "Boys like to play football.",
-    "fre": "Les garcons aiment jouer au foot."
+    "fre": "Les garçons aiment jouer au foot."
   },
   {
     "eng": "I don't like wine.",
@@ -2853,7 +2797,7 @@
   },
   {
     "eng": "Marie prefers mussels.",
-    "fre": "Marie prefere les moules."
+    "fre": "Marie préfère les moules."
   },
   {
     "eng": "I visited France.",
@@ -2873,7 +2817,7 @@
   },
   {
     "eng": "French is quite difficult.",
-    "fre": "La français est assez difficile."
+    "fre": "Le français est assez difficile."
   },
   {
     "eng": "Pierre would like to learn German.",
@@ -2881,11 +2825,11 @@
   },
   {
     "eng": "They're studying Spanish.",
-    "fre": "lls étudient l'espagnol."
+    "fre": "Ils étudient l'espagnol."
   },
   {
     "eng": "Do you understand English?",
-    "fre": "Comprends-tu l'anglais? / Comprenez-vous l'anglais?"
+    "fre": "Comprends-tu l'anglais ? / Comprenez-vous l'anglais ?"
   },
   {
     "eng": "I come from France.",
@@ -2921,7 +2865,7 @@
   },
   {
     "eng": "We're going there on the 5th July.",
-    "fre": "Nous y allons le cing juillet."
+    "fre": "Nous y allons le cinq juillet."
   },
   {
     "eng": "Pierre was born on the 2nd April.",
@@ -2953,22 +2897,22 @@
   },
   {
     "eng": "Marie has hurt her leg.",
-    "fre": "Marie sest blessé la jambe."
+    "fre": "Marie s'est blessée à la jambe."
   },
   {
     "eng": "Last year, I went abroad.",
     "fre": "L'année dernière, je suis allé à l'étranger."
   },
   {
-    "eng": "Were going to Paris next year.",
+    "eng": "We're going to Paris next year.",
     "fre": "Nous allons à Paris l'année prochaine."
   },
   {
-    "eng": "lam at home.",
-    "fre": "Je suis à la maison. / Je suis chez moi. rf"
+    "eng": "I'm at home.",
+    "fre": "Je suis à la maison. / Je suis chez moi."
   },
   {
-    "eng": "lam at school.",
+    "eng": "I'm at school.",
     "fre": "Je suis à l'école."
   },
   {
@@ -2992,116 +2936,116 @@
     "fre": "J'ai acheté une voiture."
   },
   {
-    "eng": "Pierre has found a dog.",
-    "fre": "Pierre a trouve un chien."
-  },
-  {
-    "eng": "Marie gave me some magazines.",
-    "fre": "Marie m'a donne des magazines."
-  },
-  {
-    "eng": "Marie wants to be a singer.",
-    "fre": "Marie veut être chanteuse."
-  },
-  {
-    "eng": "He sent me some flowers.",
-    "fre": "Il m'a envoyé des fleurs."
-  },
-  {
-    "eng": "They gave me some sweets.",
-    "fre": "lls m'ont donné des bonbons."
-  },
-  {
     "eng": "There are goats in the field.",
-    "fre": "Il ya des chevres dans le champ."
-  },
-  {
-    "eng": "She brought some biscuits with her.",
-    "fre": "Elle a apporté des biscuits avec elle."
-  },
-  {
-    "eng": "I have some questions.",
-    "fre": "J'ai des questions."
-  },
-  {
-    "eng": "My uncle sells cars.",
-    "fre": "Mon oncle vend des voitures."
-  },
-  {
-    "eng": "I see cockroaches everywhere.",
-    "fre": "Je vois des cafards partout."
+    "fre": "Il y a des chèvres dans le champ."
   },
   {
     "eng": "Do you have a dog?",
-    "fre": "As-tu un chien? / Avez-vous un chien?"
+    "fre": "As-tu un chien ? / Avez-vous un chien ?"
   },
   {
     "eng": "I don't have a dog.",
     "fre": "Je n'ai pas de chien."
   },
   {
-    "eng": "There are flowers everywhere.",
-    "fre": "Il y a des fleurs partout."
-  },
-  {
     "eng": "The normality.",
     "fre": "La normalité."
   },
   {
-    "eng": "Un client.",
-    "fre": "A client."
+    "eng": "A client.",
+    "fre": "Un client."
+  },
+  {
+    "eng": "The client wants to speak with Pierre.",
+    "fre": "Le client veut parler avec Pierre."
+  },
+  {
+    "eng": "I called the client twice.",
+    "fre": "J'ai appelé le client deux fois."
   },
   {
     "eng": "The rigidity.",
-    "fre": "La rigidite."
+    "fre": "La rigidité."
   },
   {
     "eng": "The government.",
     "fre": "Le gouvernement."
   },
   {
+    "eng": "The government wants to change this.",
+    "fre": "Le gouvernement veut changer cela."
+  },
+  {
+    "eng": "In my opinion, the government must do more.",
+    "fre": "À mon avis, le gouvernement doit faire plus."
+  },
+  {
     "eng": "The faculty.",
-    "fre": "La faculte."
+    "fre": "La faculté."
   },
   {
     "eng": "Resistant.",
     "fre": "Résistant."
   },
   {
-    "eng": "Contradictoire.",
-    "fre": "Contradictory."
+    "eng": "Contradictory.",
+    "fre": "Contradictoire."
   },
   {
-    "eng": "Une mission.",
-    "fre": "A mission."
+    "eng": "A mission.",
+    "fre": "Une mission."
   },
   {
-    "eng": "Un patient.",
-    "fre": "A patient."
+    "eng": "The mission is very important.",
+    "fre": "La mission est très importante."
   },
   {
-    "eng": "Adversaire.",
-    "fre": "Adversary."
+    "eng": "We finished the mission yesterday.",
+    "fre": "Nous avons terminé la mission hier."
   },
   {
-    "eng": "Anniversaire.",
-    "fre": "Anniversary."
+    "eng": "A patient.",
+    "fre": "Un patient."
+  },
+  {
+    "eng": "The patient is in good health.",
+    "fre": "Le patient est en bonne santé."
+  },
+  {
+    "eng": "The doctor spoke with the patient.",
+    "fre": "Le médecin a parlé avec le patient."
+  },
+  {
+    "eng": "An adversary.",
+    "fre": "Un adversaire."
+  },
+  {
+    "eng": "A birthday / an anniversary.",
+    "fre": "Un anniversaire."
+  },
+  {
+    "eng": "Today is Pierre's birthday.",
+    "fre": "Aujourd'hui, c'est l'anniversaire de Pierre."
+  },
+  {
+    "eng": "We are going to the restaurant for our anniversary.",
+    "fre": "Nous allons au restaurant pour notre anniversaire."
   },
   {
     "eng": "Her Majesty.",
-    "fre": "Sa Majeste."
+    "fre": "Sa Majesté."
   },
   {
-    "eng": "Exemplaire.",
-    "fre": "Exemplary."
+    "eng": "Exemplary.",
+    "fre": "Exemplaire."
   },
   {
     "eng": "Hesitant.",
     "fre": "Hésitant."
   },
   {
-    "eng": "Purgatoire.",
-    "fre": "Purgatory."
+    "eng": "Purgatory.",
+    "fre": "Le purgatoire."
   },
   {
     "eng": "Sobriety.",
@@ -3112,8 +3056,16 @@
     "fre": "L'action."
   },
   {
-    "eng": "Observatoire.",
-    "fre": "Observatory."
+    "eng": "This action is important.",
+    "fre": "Cette action est importante."
+  },
+  {
+    "eng": "This action can help.",
+    "fre": "Cette action peut aider."
+  },
+  {
+    "eng": "An observatory.",
+    "fre": "Un observatoire."
   },
   {
     "eng": "A selection.",
@@ -3128,24 +3080,48 @@
     "fre": "La pollution."
   },
   {
-    "eng": "Un jugement.",
-    "fre": "A judgement."
+    "eng": "Pollution is bad for your health.",
+    "fre": "La pollution est mauvaise pour la santé."
+  },
+  {
+    "eng": "There is a lot of pollution here.",
+    "fre": "Il y a beaucoup de pollution ici."
+  },
+  {
+    "eng": "A judgement.",
+    "fre": "Un jugement."
   },
   {
     "eng": "The region.",
-    "fre": "La region."
+    "fre": "La région."
   },
   {
-    "eng": "Plaisant.",
-    "fre": "Pleasant."
+    "eng": "This region is very beautiful.",
+    "fre": "Cette région est très belle."
   },
   {
-    "eng": "Publicity.",
-    "fre": "Publicité."
+    "eng": "I know this region well.",
+    "fre": "Je connais bien cette région."
   },
   {
-    "eng": "Une religion.",
-    "fre": "A religion."
+    "eng": "Pleasant.",
+    "fre": "Plaisant."
+  },
+  {
+    "eng": "Advertising / publicity.",
+    "fre": "La publicité."
+  },
+  {
+    "eng": "A religion.",
+    "fre": "Une religion."
+  },
+  {
+    "eng": "This religion has many traditions.",
+    "fre": "Cette religion a beaucoup de traditions."
+  },
+  {
+    "eng": "I don't know this religion very well.",
+    "fre": "Je ne connais pas très bien cette religion."
   },
   {
     "eng": "Elementary.",
@@ -3153,7 +3129,7 @@
   },
   {
     "eng": "Elegant.",
-    "fre": "Elégant."
+    "fre": "Élégant."
   },
   {
     "eng": "Animosity.",
@@ -3164,12 +3140,16 @@
     "fre": "Un argument."
   },
   {
-    "eng": "Decadent.",
-    "fre": "Décadent."
+    "eng": "I don't understand Pierre's argument.",
+    "fre": "Je ne comprends pas l'argument de Pierre."
   },
   {
-    "eng": "Tell Sophie if you find the key for the room.",
-    "fre": "Dis a Sophie si tu trouves la clé pour la chambre / Dites a Sophie si vous trouvez la cle pour la chambre. @"
+    "eng": "His argument is very interesting.",
+    "fre": "Son argument est très intéressant."
+  },
+  {
+    "eng": "Decadent.",
+    "fre": "Décadent."
   },
   {
     "eng": "It's always absolutely perfect.",
@@ -3177,23 +3157,23 @@
   },
   {
     "eng": "Take the first road on the left and then the second road on the right.",
-    "fre": "Prenez la première rue à gauche et puis là deuxième rue à D"
+    "fre": "Prenez la première rue à gauche, puis la deuxième rue à droite."
   },
   {
     "eng": "Do everything now, if possible.",
-    "fre": "Fais / Faites tout maintenant, si possible."
+    "fre": "Fais tout maintenant, si possible. / Faites tout maintenant, si possible."
   },
   {
     "eng": "They forgot to call me yesterday.",
-    "fre": "lls ont oublié de m'appeler hier."
+    "fre": "Ils ont oublié de m'appeler hier."
   },
   {
     "eng": "Do you believe it?",
-    "fre": "Le crois-tu? / Le croyez-vous?"
+    "fre": "Le crois-tu ? / Le croyez-vous ?"
   },
   {
     "eng": "Can I eat it now?",
-    "fre": "Puis-je le manger maintenant?"
+    "fre": "Puis-je le manger maintenant ?"
   },
   {
     "eng": "I would like to do it now.",
@@ -3201,15 +3181,15 @@
   },
   {
     "eng": "I'm not sleeping well.",
-    "fre": "Je ne me dors pas bien."
+    "fre": "Je ne dors pas bien."
   },
   {
     "eng": "Is he too tired?",
-    "fre": "Est-il trop fatigue?"
+    "fre": "Est-il trop fatigué ?"
   },
   {
     "eng": "What is the address?",
-    "fre": "Quelle est l'adresse?"
+    "fre": "Quelle est l'adresse ?"
   },
   {
     "eng": "He isn't very old.",
@@ -3221,11 +3201,11 @@
   },
   {
     "eng": "There is a lot of noise above my apartment.",
-    "fre": "Il ya beaucoup de bruit au-dessus de mon appartement."
+    "fre": "Il y a beaucoup de bruit au-dessus de mon appartement."
   },
   {
     "eng": "Everything is here.",
-    "fre": "Tout est Ici."
+    "fre": "Tout est ici."
   },
   {
     "eng": "She's at the restaurant.",
@@ -3233,7 +3213,7 @@
   },
   {
     "eng": "Where did you park the car?",
-    "fre": "Où as-tu gare la voiture?"
+    "fre": "Où as-tu garé la voiture ?"
   },
   {
     "eng": "I think they're probably lost.",
@@ -3253,11 +3233,11 @@
   },
   {
     "eng": "The majority of people don't like this cheese.",
-    "fre": "La majorite de gens n'aiment pas ce fromage."
+    "fre": "La majorité des gens n'aime pas ce fromage."
   },
   {
     "eng": "What the children are doing is totally unacceptable.",
-    "fre": "Ce que les enfants font est totalement inacceptable. rf"
+    "fre": "Ce que les enfants font est totalement inacceptable."
   },
   {
     "eng": "The durability.",
@@ -3289,7 +3269,7 @@
   },
   {
     "eng": "The humanity.",
-    "fre": "l'humanité."
+    "fre": "L'humanité."
   },
   {
     "eng": "Extraordinary.",
@@ -3320,12 +3300,28 @@
     "fre": "Une option."
   },
   {
+    "eng": "This option is less expensive.",
+    "fre": "Cette option est moins chère."
+  },
+  {
+    "eng": "Which option do you prefer?",
+    "fre": "Quelle option préfères-tu ? / Quelle option préférez-vous ?"
+  },
+  {
     "eng": "A descendant.",
     "fre": "Un descendant."
   },
   {
     "eng": "The laboratory.",
     "fre": "Le laboratoire."
+  },
+  {
+    "eng": "The laboratory is near the hospital.",
+    "fre": "Le laboratoire est près de l'hôpital."
+  },
+  {
+    "eng": "He works in a laboratory.",
+    "fre": "Il travaille dans un laboratoire."
   },
   {
     "eng": "Discriminatory.",
@@ -3341,10 +3337,10 @@
   },
   {
     "eng": "There is a considerable difference now.",
-    "fre": "Il y a une différence considérable maintenant. rf"
+    "fre": "Il y a une différence considérable maintenant."
   },
   {
-    "eng": "We're planning (preparing) an excursion to Paris next month.",
+    "eng": "We're preparing an excursion to Paris next month.",
     "fre": "Nous préparons une excursion à Paris le mois prochain."
   },
   {
@@ -3353,7 +3349,7 @@
   },
   {
     "eng": "They have a comfortable life.",
-    "fre": "lls ont une vie confortable."
+    "fre": "Ils ont une vie confortable."
   },
   {
     "eng": "Unfortunately, she died of complications.",
@@ -3361,15 +3357,15 @@
   },
   {
     "eng": "Being a parent of an adolescent isn't easy.",
-    "fre": "Etre un parent d'un adolescent nest pas facile."
+    "fre": "Être parent d'un adolescent n'est pas facile."
   },
   {
     "eng": "What is your ID number?",
-    "fre": "Quel est ton / votre numéro d'identité?"
+    "fre": "Quel est ton numéro d'identité ? / Quel est votre numéro d'identité ?"
   },
   {
     "eng": "What are the publications that you read regularly at home?",
-    "fre": "Quelles sont les publications que tu lis / vous lisez régulièrement chez toi / chez vous? @"
+    "fre": "Quelles sont les publications que tu lis régulièrement chez toi ? / Quelles sont les publications que vous lisez régulièrement chez vous ?"
   },
   {
     "eng": "The colours are symbolic of the sea and the sun.",
@@ -3377,11 +3373,11 @@
   },
   {
     "eng": "Jean-Pierre wants to become a lawyer, but I think he has too much integrity.",
-    "fre": "Jean-Pierre veut devenir avocat, mais je pense qu'il a trop eS"
+    "fre": "Jean-Pierre veut devenir avocat, mais je pense qu'il a trop d'intégrité."
   },
   {
     "eng": "What quantity do you want?",
-    "fre": "Quelle quantité veux-tu / voulez-vous?"
+    "fre": "Quelle quantité veux-tu ? / Quelle quantité voulez-vous ?"
   },
   {
     "eng": "The entrance isn't accessible here.",
@@ -3389,11 +3385,11 @@
   },
   {
     "eng": "Understanding American football is a necessity if you want to live in the USA.",
-    "fre": "Comprendre le footbaIl américain est une nécessité si on veut habiter aux LS"
+    "fre": "Comprendre le football américain est une nécessité si on veut habiter aux États-Unis."
   },
   {
-    "eng": "I am sceptical about the validity of argument.",
-    "fre": "Je suis sceptique de la validité de l'argument de Pierre."
+    "eng": "I am sceptical about the validity of Pierre's argument.",
+    "fre": "Je suis sceptique quant à la validité de l'argument de Pierre."
   },
   {
     "eng": "I'm not an alcoholic.",
@@ -3404,7 +3400,7 @@
     "fre": "L'identité."
   },
   {
-    "eng": "Provisory.",
+    "eng": "Provisional.",
     "fre": "Provisoire."
   },
   {
@@ -3412,12 +3408,20 @@
     "fre": "Une réunion de famille."
   },
   {
+    "eng": "The family reunion is next week.",
+    "fre": "La réunion de famille est la semaine prochaine."
+  },
+  {
+    "eng": "We are going to a family reunion.",
+    "fre": "Nous allons à une réunion de famille."
+  },
+  {
     "eng": "The adversity.",
     "fre": "L'adversité."
   },
   {
     "eng": "The feasibility.",
-    "fre": "La faisabilite."
+    "fre": "La faisabilité."
   },
   {
     "eng": "Captivity.",
@@ -3425,11 +3429,19 @@
   },
   {
     "eng": "The reception.",
-    "fre": "La reception."
+    "fre": "La réception."
   },
   {
-    "eng": "History.",
-    "fre": "Histoire."
+    "eng": "The reception is next to the restaurant.",
+    "fre": "La réception est à côté du restaurant."
+  },
+  {
+    "eng": "I'm going to the reception.",
+    "fre": "Je vais à la réception."
+  },
+  {
+    "eng": "The history.",
+    "fre": "L'histoire."
   },
   {
     "eng": "Revolutionary.",
@@ -3445,11 +3457,27 @@
   },
   {
     "eng": "The itinerary.",
-    "fre": "l'itinéraire."
+    "fre": "L'itinéraire."
+  },
+  {
+    "eng": "The itinerary is very simple.",
+    "fre": "L'itinéraire est très simple."
+  },
+  {
+    "eng": "I have the itinerary here.",
+    "fre": "J'ai l'itinéraire ici."
   },
   {
     "eng": "The victory.",
     "fre": "La victoire."
+  },
+  {
+    "eng": "The victory was very important.",
+    "fre": "La victoire était très importante."
+  },
+  {
+    "eng": "Everybody talked about the victory.",
+    "fre": "Tout le monde a parlé de la victoire."
   },
   {
     "eng": "On the contrary.",
@@ -3457,19 +3485,23 @@
   },
   {
     "eng": "The incident.",
-    "fre": "l'incident."
+    "fre": "L'incident."
   },
   {
     "eng": "The density.",
     "fre": "La densité."
   },
   {
-    "eng": "lgnorant.",
+    "eng": "Ignorant.",
     "fre": "Ignorant."
   },
   {
     "eng": "The occasion.",
     "fre": "L'occasion."
+  },
+  {
+    "eng": "This is a special occasion.",
+    "fre": "C'est une occasion spéciale."
   },
   {
     "eng": "The commentary.",
@@ -3478,6 +3510,14 @@
   {
     "eng": "The decision.",
     "fre": "La décision."
+  },
+  {
+    "eng": "It's an important decision.",
+    "fre": "C'est une décision importante."
+  },
+  {
+    "eng": "We have to make a decision today.",
+    "fre": "Nous devons prendre une décision aujourd'hui."
   },
   {
     "eng": "The sincerity.",
@@ -3493,11 +3533,27 @@
   },
   {
     "eng": "The memory.",
-    "fre": "La memoire."
+    "fre": "La mémoire."
+  },
+  {
+    "eng": "I have a good memory.",
+    "fre": "J'ai une bonne mémoire."
+  },
+  {
+    "eng": "My memory isn't very good.",
+    "fre": "Ma mémoire n'est pas très bonne."
   },
   {
     "eng": "The champion.",
     "fre": "Le champion."
+  },
+  {
+    "eng": "Pierre is the champion.",
+    "fre": "Pierre est le champion."
+  },
+  {
+    "eng": "The champion is very well known.",
+    "fre": "Le champion est très bien connu."
   },
   {
     "eng": "Coronary.",
@@ -3516,6 +3572,14 @@
     "fre": "Un assistant."
   },
   {
+    "eng": "The assistant is here.",
+    "fre": "L'assistant est ici."
+  },
+  {
+    "eng": "I spoke with the assistant yesterday.",
+    "fre": "J'ai parlé avec l'assistant hier."
+  },
+  {
     "eng": "Favourable.",
     "fre": "Favorable."
   },
@@ -3528,8 +3592,16 @@
     "fre": "Un document."
   },
   {
+    "eng": "I need this document.",
+    "fre": "J'ai besoin de ce document."
+  },
+  {
+    "eng": "Where is the document?",
+    "fre": "Où est le document ?"
+  },
+  {
     "eng": "The familiarity.",
-    "fre": "La familiarite."
+    "fre": "La familiarité."
   },
   {
     "eng": "A question.",
@@ -3540,15 +3612,39 @@
     "fre": "La possibilité."
   },
   {
+    "eng": "There is another possibility.",
+    "fre": "Il y a une autre possibilité."
+  },
+  {
+    "eng": "This possibility is interesting.",
+    "fre": "Cette possibilité est intéressante."
+  },
+  {
     "eng": "An election.",
     "fre": "Une élection."
+  },
+  {
+    "eng": "The election is next month.",
+    "fre": "L'élection est le mois prochain."
+  },
+  {
+    "eng": "This election is important.",
+    "fre": "Cette élection est importante."
   },
   {
     "eng": "The population.",
     "fre": "La population."
   },
   {
-    "eng": "The sensibility.",
+    "eng": "The population has changed a lot.",
+    "fre": "La population a beaucoup changé."
+  },
+  {
+    "eng": "The population of this town is small.",
+    "fre": "La population de cette ville est petite."
+  },
+  {
+    "eng": "The sensitivity.",
     "fre": "La sensibilité."
   },
   {
@@ -3569,7 +3665,7 @@
   },
   {
     "eng": "Do you have an electric car?",
-    "fre": "As-tu une voiture électrique?"
+    "fre": "As-tu une voiture électrique ?"
   },
   {
     "eng": "If necessary, I can go with you.",
@@ -3577,11 +3673,11 @@
   },
   {
     "eng": "What are the conditions of the reservation?",
-    "fre": "Quelles sont les conditions de la réservation?"
+    "fre": "Quelles sont les conditions de la réservation ?"
   },
   {
     "eng": "Our society needs more diversity.",
-    "fre": "Notre société a besoin de plus de diversite."
+    "fre": "Notre société a besoin de plus de diversité."
   },
   {
     "eng": "He has some great qualities.",
@@ -3593,14 +3689,14 @@
   },
   {
     "eng": "There are a lot of historic monuments in Rome.",
-    "fre": "Il ya beaucoup de monuments historiques a Rome."
+    "fre": "Il y a beaucoup de monuments historiques à Rome."
   },
   {
     "eng": "The school is organising an excursion to the beach.",
     "fre": "L'école organise une excursion à la plage."
   },
   {
-    "eng": "I'm having an interesting discussion with this teacher. rf",
+    "eng": "I'm having an interesting discussion with this teacher.",
     "fre": "J'ai une discussion intéressante avec ce professeur."
   },
   {
@@ -3613,15 +3709,31 @@
   },
   {
     "eng": "The equality.",
-    "fre": "l'égalité."
+    "fre": "L'égalité."
+  },
+  {
+    "eng": "Equality is important in our society.",
+    "fre": "L'égalité est importante dans notre société."
+  },
+  {
+    "eng": "We need more equality.",
+    "fre": "Nous avons besoin de plus d'égalité."
   },
   {
     "eng": "The beauty.",
     "fre": "La beauté."
   },
   {
+    "eng": "This place is well known for its beauty.",
+    "fre": "Cet endroit est bien connu pour sa beauté."
+  },
+  {
+    "eng": "The beauty of this region is extraordinary.",
+    "fre": "La beauté de cette région est extraordinaire."
+  },
+  {
     "eng": "The regularity.",
-    "fre": "La regularite."
+    "fre": "La régularité."
   },
   {
     "eng": "to have just",
@@ -3629,7 +3741,7 @@
   },
   {
     "eng": "abroad",
-    "fre": "a l'étranger"
+    "fre": "à l'étranger"
   },
   {
     "eng": "the country",
@@ -3645,7 +3757,7 @@
   },
   {
     "eng": "I think French culture is very interesting.",
-    "fre": "Pour moi, la culture française est très intéressante. / Je pense que la culture française est très intéressante. CY"
+    "fre": "Pour moi, la culture française est très intéressante. / Je pense que la culture française est très intéressante."
   },
   {
     "eng": "She said she finds our culture very boring.",
@@ -3656,12 +3768,12 @@
     "fre": "On ne fait pas ça dans notre culture. / Nous ne faisons pas ça dans notre culture."
   },
   {
-    "eng": "It's very difficult to cnange a culture.",
+    "eng": "It's very difficult to change a culture.",
     "fre": "C'est très difficile de changer une culture."
   },
   {
     "eng": "What is the most interesting thing in your culture?",
-    "fre": "Quelle est la chose la plus intéressante dans ta / votre culture?"
+    "fre": "Quelle est la chose la plus intéressante dans ta culture ? / Quelle est la chose la plus intéressante dans votre culture ?"
   },
   {
     "eng": "the history",
@@ -3684,8 +3796,8 @@
     "fre": "Ça c'est une autre histoire."
   },
   {
-    "eng": "The history of this country Is very complicated.",
-    "fre": "l'histoire de ce pays est très compliquée."
+    "eng": "The history of this country is very complicated.",
+    "fre": "L'histoire de ce pays est très compliquée."
   },
   {
     "eng": "I prefer French society.",
@@ -3693,7 +3805,7 @@
   },
   {
     "eng": "Our culture and our society are very old.",
-    "fre": "Notre culture et notre société sont très vieilles."
+    "fre": "Notre culture et notre société sont très anciennes."
   },
   {
     "eng": "French society and Spanish society are very different.",
@@ -3705,59 +3817,55 @@
   },
   {
     "eng": "I think it's very important to understand the culture and the history of your society.",
-    "fre": "Je pense que c'est très important de comprendre la culture et l'histoire - de votre société."
+    "fre": "Je pense que c'est très important de comprendre la culture et l'histoire de votre société."
   },
   {
     "eng": "Our society has changed a lot.",
-    "fre": "Notre société a beaucoup change."
+    "fre": "Notre société a beaucoup changé."
   },
   {
     "eng": "I think society has started to change.",
     "fre": "Je pense que la société a commencé à changer."
   },
   {
-    "eng": "different (trom)/(to)",
-    "fre": "différent (de)"
-  },
-  {
     "eng": "The food is very different here.",
     "fre": "La nourriture est très différente ici."
   },
   {
-    "eng": "Do you find French food very different to English food?",
-    "fre": "Trouves-tu / Trouvez-vous la nourriture française très différente de la nourriture anglaise?"
+    "eng": "Do you find French food very different from English food?",
+    "fre": "Trouves-tu la nourriture française très différente de la nourriture anglaise ? / Trouvez-vous la nourriture française très différente de la nourriture anglaise ?"
   },
   {
     "eng": "The culture in France is very different from the culture in England.",
-    "fre": "La culture en France est très différente de la culture en To"
+    "fre": "La culture en France est très différente de la culture en Angleterre."
   },
   {
-    "eng": "Your house is very different to my house.",
-    "fre": "Ta maison / Votre maison est très différente de ma maison."
+    "eng": "Your house is very different from my house.",
+    "fre": "Ta maison est très différente de ma maison. / Votre maison est très différente de ma maison."
   },
   {
     "eng": "There is something very different here today.",
-    "fre": "Il ya quelque chose de très différent ici aujourd'hui."
+    "fre": "Il y a quelque chose de très différent ici aujourd'hui."
   },
   {
     "eng": "You're very different from me.",
-    "fre": "Tu es / vous êtes très différent de moi."
+    "fre": "Tu es très différent de moi. / Vous êtes très différent de moi."
   },
   {
-    "eng": "The second film that we watched was very different to the first film.",
-    "fre": "Le deuxieme film que nous avons regarde était très différent du premier D"
+    "eng": "The second film that we watched was very different from the first film.",
+    "fre": "Le deuxième film que nous avons regardé était très différent du premier film."
   },
   {
     "eng": "This is quite different from the restaurant we visited yesterday.",
-    "fre": "Ceci est assez différent du restaurant que nous avons visité"
+    "fre": "Ceci est assez différent du restaurant que nous avons visité hier."
   },
   {
     "eng": "The traditions and the culture of a country come from its history.",
-    "fre": "Les traditions et la culture d'un pays viennent de son ney"
+    "fre": "Les traditions et la culture d'un pays viennent de son histoire."
   },
   {
     "eng": "We have lots of traditions in our family.",
-    "fre": "Nous avons beaucoup de traditions dans notre famille. rf"
+    "fre": "Nous avons beaucoup de traditions dans notre famille."
   },
   {
     "eng": "I don't like this tradition.",
@@ -3765,7 +3873,7 @@
   },
   {
     "eng": "Do you have any traditions in your family?",
-    "fre": "As-tu des traditions dans ta famille? / Avez-vous des traditions dans votre famille?"
+    "fre": "As-tu des traditions dans ta famille ? / Avez-vous des traditions dans votre famille ?"
   },
   {
     "eng": "This town's traditions are very old.",
@@ -3773,15 +3881,15 @@
   },
   {
     "eng": "Traditions help us to understand a country's history.",
-    "fre": "Des traditions nous aident a comprendre l'histoire d'un ao"
+    "fre": "Les traditions nous aident à comprendre l'histoire d'un pays."
   },
   {
     "eng": "What are the most important traditions in your culture?",
-    "fre": "Quelles sont les traditions les plus importantes dans ta / votre"
+    "fre": "Quelles sont les traditions les plus importantes dans ta culture ? / Quelles sont les traditions les plus importantes dans votre culture ?"
   },
   {
     "eng": "Our traditions are important, but we change them a bit sometimes if they are too expensive.",
-    "fre": "Nos traditions sont importantes, mais nous les changeons un peu quelquefois si elles sont trop chère"
+    "fre": "Nos traditions sont importantes, mais nous les changeons un peu quelquefois si elles sont trop chères."
   },
   {
     "eng": "Sometimes, it becomes difficult to continue some traditions.",
@@ -3792,7 +3900,7 @@
     "fre": "J'aime les traditions françaises plus que les traditions anglaises."
   },
   {
-    "eng": "Their traditions are very different to our traditions.",
+    "eng": "Their traditions are very different from our traditions.",
     "fre": "Leurs traditions sont très différentes de nos traditions."
   },
   {
@@ -3809,11 +3917,11 @@
   },
   {
     "eng": "I like to write a letter to Pierre once in a while.",
-    "fre": "J'aime écrire une lettre Pierre de temps en temps."
+    "fre": "J'aime écrire une lettre à Pierre de temps en temps."
   },
   {
     "eng": "Usually, I eat at home, but once in a while, I like to go out to a restaurant.",
-    "fre": "D'habitude, je mange chez moi, mais de temps en temps, j'aime - sortir à un restaurant."
+    "fre": "D'habitude, je mange chez moi, mais de temps en temps, j'aime aller au restaurant."
   },
   {
     "eng": "He makes dinner once in a while, but usually, Marie does everything.",
@@ -3829,14 +3937,14 @@
   },
   {
     "eng": "I don't understand the story, so can you tell me everything again?",
-    "fre": "Je ne comprends pas l'histoire, donc peux-tu / pouvez-vous tout me dire"
+    "fre": "Je ne comprends pas l'histoire, donc peux-tu tout me dire encore une fois ? / Pouvez-vous tout me dire encore une fois ?"
   },
   {
     "eng": "Society has changed a lot recently.",
     "fre": "La société a beaucoup changé récemment."
   },
   {
-    "eng": "Paris is quite different to London.",
+    "eng": "Paris is quite different from London.",
     "fre": "Paris est assez différent de Londres."
   },
   {
@@ -3848,8 +3956,8 @@
     "fre": "De temps en temps, j'aime manger ici parce que la nourriture est très différente."
   },
   {
-    "eng": "It's different to what you ate before.",
-    "fre": "C'est différent de ce que tu as / vous avez mangé avant."
+    "eng": "It's different from what you ate before.",
+    "fre": "C'est différent de ce que tu as mangé avant. / C'est différent de ce que vous avez mangé avant."
   },
   {
     "eng": "Usually, we spend the holidays in Spain, but from time to time, we like to visit France.",
@@ -3885,30 +3993,22 @@
   },
   {
     "eng": "Do you have any traditions in your family?",
-    "fre": "Avez-vous des traditions dans votre famille?"
+    "fre": "Avez-vous des traditions dans votre famille ?"
   },
   {
     "eng": "Which traditions are the most important?",
-    "fre": "Quelles traditions sont les plus importantes?"
+    "fre": "Quelles traditions sont les plus importantes ?"
   },
   {
     "eng": "There is nothing interesting in our history.",
-    "fre": "Il n'y a rien d'intéressant de notre histoire."
+    "fre": "Il n'y a rien d'intéressant dans notre histoire."
   },
   {
     "eng": "Do you understand these traditions?",
-    "fre": "Comprends-tu ces traditions?"
+    "fre": "Comprends-tu ces traditions ?"
   },
   {
-    "eng": "Your society is different to our society.",
+    "eng": "Your society is different from our society.",
     "fre": "Votre société est différente de notre société."
-  },
-  {
-    "eng": "He has a lot to do, but he wants to watch a film.",
-    "fre": "Il a beaucoup à faire, mais il veut regarder un film."
-  },
-  {
-    "eng": "You've given me two teas, but I ordered one tea and one coffee.",
-    "fre": "Tu m'as / vous m'avez donné deux thés, mais j'ai commandé un thé et un café."
   }
 ]

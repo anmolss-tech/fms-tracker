@@ -1,6 +1,6 @@
 {
   "name": "fms-procrastination-tracker-api",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "private": true,
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "vercel:dev": "vercel dev"
   },
   "engines": {
-    "node": ">=20"
+    "node": "24.x"
   },
   "dependencies": {
     "cors": "^2.8.5",

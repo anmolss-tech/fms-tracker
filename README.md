@@ -53,3 +53,8 @@ The old raw-event collections may remain while you verify migration.
 
 ## v1.4
 Weekly summaries now also accept Panda check-in counts and distinguish Heart checkpoint syncs from scheduled weekly syncs.
+
+
+## Node.js 24
+
+This version pins Vercel to Node.js `24.x` through `package.json` → `engines.node`. If the Vercel dashboard has an older runtime selected, redeploy after pushing v1.5; the package setting takes precedence.

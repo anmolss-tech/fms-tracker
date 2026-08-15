@@ -20,12 +20,60 @@
     "fre": "un spectacle"
   },
   {
+    "eng": "The film starts this morning.",
+    "fre": "Le film commence ce matin."
+  },
+  {
+    "eng": "We are going to see a show tonight.",
+    "fre": "Nous allons voir un spectacle ce soir."
+  },
+  {
+    "eng": "I saw the show yesterday.",
+    "fre": "J'ai vu le spectacle hier."
+  },
+  {
+    "eng": "Which show would you like to see?",
+    "fre": "Quel spectacle voudriez-vous voir ?"
+  },
+  {
+    "eng": "The show was fantastic.",
+    "fre": "Le spectacle était fantastique."
+  },
+  {
+    "eng": "Has the show started?",
+    "fre": "Le spectacle a-t-il commencé ?"
+  },
+  {
+    "eng": "What time does the show start?",
+    "fre": "À quelle heure commence le spectacle ?"
+  },
+  {
+    "eng": "I would like to see the film tonight.",
+    "fre": "Je voudrais voir le film ce soir."
+  },
+  {
     "eng": "a film",
     "fre": "un film"
   },
   {
-    "eng": "In",
+    "eng": "in",
     "fre": "dans"
+  },
+  {
+    "eng": "The show starts this afternoon.",
+    "fre": "Le spectacle commence cet après-midi."
+  },
+  {
+    "eng": "The film starts this afternoon.",
+    "fre": "Le film commence cet après-midi."
+  },
+  {
+    "eng": "The show starts this evening.",
+    "fre": "Le spectacle commence ce soir."
+  },
+  {
+    "eng": "The show starts in one hour.",
+    "fre": "Le spectacle commence dans une heure."
   },
   {
     "eng": "I have eaten",
@@ -196,6 +244,18 @@
     "fre": "entrer"
   },
   {
+    "eng": "We went in together.",
+    "fre": "Nous sommes entrés ensemble."
+  },
+  {
+    "eng": "Did Marie go in?",
+    "fre": "Marie est-elle entrée ?"
+  },
+  {
+    "eng": "Why did they go in?",
+    "fre": "Pourquoi sont-ils entrés ? / Pourquoi sont-elles entrées ?"
+  },
+  {
     "eng": "(to) go back",
     "fre": "rentrer"
   },
@@ -204,12 +264,52 @@
     "fre": "retourner"
   },
   {
+    "eng": "I returned to Paris yesterday.",
+    "fre": "Je suis retourné à Paris hier."
+  },
+  {
+    "eng": "Marie returned to the hotel.",
+    "fre": "Marie est retournée à l'hôtel."
+  },
+  {
+    "eng": "Did they return to France?",
+    "fre": "Sont-ils retournés en France ? / Sont-elles retournées en France ?"
+  },
+  {
+    "eng": "We returned home late.",
+    "fre": "Nous sommes retournés chez nous tard."
+  },
+  {
+    "eng": "Why did she return to Paris?",
+    "fre": "Pourquoi est-elle retournée à Paris ?"
+  },
+  {
     "eng": "(to) go out",
     "fre": "sortir"
   },
   {
     "eng": "(to) fall",
     "fre": "tomber"
+  },
+  {
+    "eng": "Pierre fell yesterday.",
+    "fre": "Pierre est tombé hier."
+  },
+  {
+    "eng": "Marie fell this morning.",
+    "fre": "Marie est tombée ce matin."
+  },
+  {
+    "eng": "Did you fall?",
+    "fre": "Es-tu tombé ? / Êtes-vous tombé ?"
+  },
+  {
+    "eng": "They fell in the street.",
+    "fre": "Ils sont tombés dans la rue. / Elles sont tombées dans la rue."
+  },
+  {
+    "eng": "Why did he fall?",
+    "fre": "Pourquoi est-il tombé ?"
   },
   {
     "eng": "(to) stay",
@@ -232,8 +332,36 @@
     "fre": "descendre"
   },
   {
+    "eng": "We went down this morning.",
+    "fre": "Nous sommes descendus ce matin."
+  },
+  {
+    "eng": "Marie went down with Pierre.",
+    "fre": "Marie est descendue avec Pierre."
+  },
+  {
+    "eng": "Why did they go down?",
+    "fre": "Pourquoi sont-ils descendus ? / Pourquoi sont-elles descendues ?"
+  },
+  {
     "eng": "(to) die",
     "fre": "mourir"
+  },
+  {
+    "eng": "I went into the hotel.",
+    "fre": "Je suis entré dans l'hôtel."
+  },
+  {
+    "eng": "Pierre went into the restaurant.",
+    "fre": "Pierre est entré dans le restaurant."
+  },
+  {
+    "eng": "We went down this afternoon.",
+    "fre": "Nous sommes descendus cet après-midi."
+  },
+  {
+    "eng": "Pierre went down this morning.",
+    "fre": "Pierre est descendu ce matin."
   },
   {
     "eng": "Pierre left this morning.",
@@ -277,7 +405,7 @@
   },
   {
     "eng": "(to) be",
-    "fre": "ÊTRE"
+    "fre": "être"
   },
   {
     "eng": "have I? / did I?",
@@ -401,7 +529,7 @@
   },
   {
     "eng": "I understood him very well.",
-    "fre": "Je l'ai compris très bien."
+    "fre": "Je l'ai très bien compris."
   },
   {
     "eng": "I didn't understand.",
@@ -425,7 +553,7 @@
   },
   {
     "eng": "That isn't what I want.",
-    "fre": "Ça ce n'est pas ce que je veux."
+    "fre": "Ce n'est pas ce que je veux."
   },
   {
     "eng": "I don't know what I want.",
@@ -473,7 +601,7 @@
   },
   {
     "eng": "they understand",
-    "fre": "Ils comprennent"
+    "fre": "ils comprennent"
   },
   {
     "eng": "I don't know what he has bought",
@@ -488,7 +616,7 @@
     "fre": "Sais-tu / Savez-vous ce que je veux du supermarché?"
   },
   {
-    "eng": "He didn't understand me when I spoke",
+    "eng": "He didn't understand me when I spoke French",
     "fre": "Il ne m'a pas compris quand j'ai parlé français"
   },
   {
@@ -536,8 +664,8 @@
     "fre": "Ils ont dépensé cinq euros"
   },
   {
-    "eng": "How much money did you spend in France",
-    "fre": "Combien d'argent as-tu dépensé en France"
+    "eng": "How much money did you spend in France?",
+    "fre": "Combien d'argent as-tu dépensé en France?"
   },
   {
     "eng": "I don't know what it is",
@@ -580,7 +708,7 @@
     "fre": "C'est combien cette table?"
   },
   {
-    "eng": "I think it's delicious",
+    "eng": "For me, it's delicious",
     "fre": "Pour moi, c'est délicieux"
   },
   {
@@ -614,6 +742,26 @@
   {
     "eng": "I would like some apples",
     "fre": "Je voudrais des pommes"
+  },
+  {
+    "eng": "I bought some apples.",
+    "fre": "J'ai acheté des pommes."
+  },
+  {
+    "eng": "Do you like apples?",
+    "fre": "Aimez-vous les pommes ?"
+  },
+  {
+    "eng": "How many apples do you want?",
+    "fre": "Combien de pommes voulez-vous ?"
+  },
+  {
+    "eng": "The apples are very good.",
+    "fre": "Les pommes sont très bonnes."
+  },
+  {
+    "eng": "Can I have two apples?",
+    "fre": "Puis-je avoir deux pommes ?"
   },
   {
     "eng": "I would like a small table, please",
@@ -701,7 +849,7 @@
   },
   {
     "eng": "Would you like to eat something?",
-    "fre": "voudrais-tu manger quelque chose? / voudriez-vous manger quelque chose?"
+    "fre": "Voudrais-tu manger quelque chose? / Voudriez-vous manger quelque chose?"
   },
   {
     "eng": "I wouldn't like to do that.",
@@ -805,7 +953,7 @@
   },
   {
     "eng": "Pierre is spending two weeks in England.",
-    "fre": "Pierre passe deux semaines en Angleterre.."
+    "fre": "Pierre passe deux semaines en Angleterre."
   },
   {
     "eng": "Pierre spent a week with Marie.",
@@ -816,15 +964,15 @@
     "fre": "Nous avons passé deux jours à Paris. / On a passé deux jours à Paris."
   },
   {
-    "eng": "Did you spend 3 days in France or 2 days",
-    "fre": "As-tu / Avez-vous passé trois jours en France où deux jours?"
+    "eng": "Did you spend three days in France or two days?",
+    "fre": "As-tu / Avez-vous passé trois jours en France ou deux jours?"
   },
   {
-    "eng": "one I would like",
+    "eng": "one / we would like",
     "fre": "on voudrait"
   },
   {
-    "eng": "they I would like",
+    "eng": "they would like",
     "fre": "ils voudraient / elles voudraient"
   },
   {
@@ -853,7 +1001,7 @@
   },
   {
     "eng": "I spend the holidays here in England.",
-    "fre": "Je passe les vacances ici en Angleterre.."
+    "fre": "Je passe les vacances ici en Angleterre."
   },
   {
     "eng": "The holidays were fantastic.",
@@ -868,8 +1016,8 @@
     "fre": "combien de temps"
   },
   {
-    "eng": "How long did you spend in France",
-    "fre": "Combien de temps as-tu / avez-vous passé en France"
+    "eng": "How long did you spend in France?",
+    "fre": "Combien de temps as-tu / avez-vous passé en France?"
   },
   {
     "eng": "How long have you been living here?",
@@ -890,6 +1038,26 @@
   {
     "eng": "How long do we have to leave the cake?",
     "fre": "Combien de temps devons-nous / doit-on laisser le gâteau?"
+  },
+  {
+    "eng": "The cake is ready.",
+    "fre": "Le gâteau est prêt."
+  },
+  {
+    "eng": "Can I try the cake?",
+    "fre": "Puis-je essayer le gâteau ?"
+  },
+  {
+    "eng": "Did you make the cake?",
+    "fre": "Avez-vous fait le gâteau ?"
+  },
+  {
+    "eng": "The cake is very good.",
+    "fre": "Le gâteau est très bon."
+  },
+  {
+    "eng": "We are going to eat the cake later.",
+    "fre": "Nous allons manger le gâteau plus tard."
   },
   {
     "eng": "I hope",
@@ -917,11 +1085,11 @@
   },
   {
     "eng": "Next week, I hope to finish everything.",
-    "fre": "La semaine prochaine, j'espère tout finir"
+    "fre": "La semaine prochaine, j'espère tout finir."
   },
   {
     "eng": "Next year, I hope to visit the Eiffel Tower with my girlfriend.",
-    "fre": "L'année prochaine, j'espère visiter la Tour Eiffel avec ma petite-amie."
+    "fre": "L'année prochaine, j'espère visiter la tour Eiffel avec ma petite amie."
   },
   {
     "eng": "we hope",
@@ -1040,8 +1208,8 @@
     "fre": "J'espère que Pierre va aussi."
   },
   {
-    "eng": "I hope to go, too.",
-    "fre": "J'espère aller, aussi."
+    "eng": "I hope to go too.",
+    "fre": "J'espère y aller aussi."
   },
   {
     "eng": "I hope you've had a good holiday.",
@@ -1061,7 +1229,7 @@
   },
   {
     "eng": "I hope the hotel is good",
-    "fre": "J'espère que l'hôtel est bon"
+    "fre": "J'espère que l'hôtel est bien"
   },
   {
     "eng": "Why did they spend the holidays abroad?",
@@ -1100,8 +1268,8 @@
     "fre": "Nous espérons que la nourriture ici est délicieuse"
   },
   {
-    "eng": "A bottle of water is one euro twenty",
-    "fre": "Une bouteille d'eau est un euro vingt"
+    "eng": "A bottle of water costs one euro twenty",
+    "fre": "Une bouteille d'eau coûte un euro vingt"
   },
   {
     "eng": "A bit less",
@@ -1157,7 +1325,27 @@
   },
   {
     "eng": "Before dessert, can I try the cheese?",
-    "fre": "Avant le dessert, puis-je essayer le fromage"
+    "fre": "Avant le dessert, puis-je essayer le fromage?"
+  },
+  {
+    "eng": "I would like a dessert.",
+    "fre": "Je voudrais un dessert."
+  },
+  {
+    "eng": "Would you like a dessert?",
+    "fre": "Voudriez-vous un dessert ?"
+  },
+  {
+    "eng": "The dessert is delicious.",
+    "fre": "Le dessert est délicieux."
+  },
+  {
+    "eng": "Did you order a dessert?",
+    "fre": "Avez-vous commandé un dessert ?"
+  },
+  {
+    "eng": "We are going to have a dessert later.",
+    "fre": "Nous allons prendre un dessert plus tard."
   },
   {
     "eng": "How much is the big car?",
@@ -1200,7 +1388,7 @@
     "fre": "combien de jours"
   },
   {
-    "eng": "How many days are you spending here:",
+    "eng": "How many days are you spending here?",
     "fre": "Combien de jours passes-tu ici? / Combien de jours passez-vous ici?"
   },
   {
@@ -1216,7 +1404,7 @@
     "fre": "Combien de fromage a-t-elle acheté?"
   },
   {
-    "eng": "How many bottles of wine do you want:",
+    "eng": "How many bottles of wine do you want?",
     "fre": "Combien de bouteilles de vin veux-tu / voulez-vous?"
   },
   {
@@ -1225,7 +1413,7 @@
   },
   {
     "eng": "for how long",
-    "fre": "Pour combien de temp:"
+    "fre": "pour combien de temps"
   },
   {
     "eng": "How long are they staying here for?",
@@ -1233,7 +1421,7 @@
   },
   {
     "eng": "How many days is he hiring the car for?",
-    "fre": "Pour combien de jours loue-t-il la voiture"
+    "fre": "Pour combien de jours loue-t-il la voiture?"
   },
   {
     "eng": "which (masculine singular)",
@@ -1257,11 +1445,11 @@
   },
   {
     "eng": "Which one can I have?",
-    "fre": "Quel puis-je avoir?"
+    "fre": "Lequel puis-je avoir?"
   },
   {
     "eng": "Which ones did you try?",
-    "fre": "Quels as-tu essayé? / Quels avez-vous essayé?"
+    "fre": "Lesquels as-tu essayés? / Lesquels avez-vous essayés?"
   },
   {
     "eng": "Which car does she have?",
@@ -1269,11 +1457,11 @@
   },
   {
     "eng": "Which one do you like?",
-    "fre": "Quel aimes-tu? / Quel aimez-vous?"
+    "fre": "Lequel aimes-tu? / Lequel aimez-vous?"
   },
   {
     "eng": "Which ones do you like?",
-    "fre": "Quels aimes-tu? / Quels aimez-vous?"
+    "fre": "Lesquels aimes-tu? / Lesquels aimez-vous?"
   },
   {
     "eng": "Which film did you watch?",
@@ -1281,7 +1469,7 @@
   },
   {
     "eng": "Which bottle of wine did they order?",
-    "fre": "Quelle bouteille de vin ont-ils / ont-elles commandé?"
+    "fre": "Quelle bouteille de vin ont-ils / ont-elles commandée?"
   },
   {
     "eng": "When did he arrive?",
@@ -1313,11 +1501,11 @@
   },
   {
     "eng": "Which ones do you prefer?",
-    "fre": "Quels préfères-tu? / Quels préférez-vous?"
+    "fre": "Lesquels préfères-tu? / Lesquels préférez-vous?"
   },
   {
-    "eng": "Where do you prefer, France or Spain?",
-    "fre": "Où préfères-tu, la France ou l'Espagne? / Où préférez-vous, la France ou l'Espagne?"
+    "eng": "Which do you prefer, France or Spain?",
+    "fre": "Que préfères-tu, la France ou l'Espagne? / Que préférez-vous, la France ou l'Espagne?"
   },
   {
     "eng": "Which car do you prefer?",
@@ -1361,7 +1549,47 @@
   },
   {
     "eng": "I prefer buying postcards because souvenirs are too expensive.",
-    "fre": "Je préfère acheter les cartes postales parce que les souvenirs sont trop chers."
+    "fre": "Je préfère acheter des cartes postales parce que les souvenirs sont trop chers."
+  },
+  {
+    "eng": "I would like to buy some postcards.",
+    "fre": "Je voudrais acheter des cartes postales."
+  },
+  {
+    "eng": "Where can I buy postcards?",
+    "fre": "Où puis-je acheter des cartes postales ?"
+  },
+  {
+    "eng": "I bought three postcards.",
+    "fre": "J'ai acheté trois cartes postales."
+  },
+  {
+    "eng": "Did you buy a postcard for Marie?",
+    "fre": "Avez-vous acheté une carte postale pour Marie ?"
+  },
+  {
+    "eng": "The postcards are not expensive.",
+    "fre": "Les cartes postales ne sont pas chères."
+  },
+  {
+    "eng": "I would like to buy a souvenir.",
+    "fre": "Je voudrais acheter un souvenir."
+  },
+  {
+    "eng": "Did you buy any souvenirs?",
+    "fre": "Avez-vous acheté des souvenirs ?"
+  },
+  {
+    "eng": "The souvenirs are too expensive.",
+    "fre": "Les souvenirs sont trop chers."
+  },
+  {
+    "eng": "I bought a souvenir in Paris.",
+    "fre": "J'ai acheté un souvenir à Paris."
+  },
+  {
+    "eng": "Which souvenir do you prefer?",
+    "fre": "Quel souvenir préférez-vous ?"
   },
   {
     "eng": "for how many days",
@@ -1385,7 +1613,7 @@
   },
   {
     "eng": "Which one do you prefer?",
-    "fre": "Quel préfères-tu? / Quel préférez-vous?"
+    "fre": "Lequel préfères-tu? / Lequel préférez-vous?"
   },
   {
     "eng": "I prefer staying at home but I like going out as well",
@@ -1397,7 +1625,7 @@
   },
   {
     "eng": "Which ones would you like to try?",
-    "fre": "Quels voudrais-tu / voudriez-vous essayer?"
+    "fre": "Lesquels voudrais-tu / voudriez-vous essayer?"
   },
   {
     "eng": "How much wine have you drunk?",
@@ -1409,7 +1637,7 @@
   },
   {
     "eng": "Which one would you like to buy?",
-    "fre": "Quel voudrais-tu / voudriez-vous acheter?"
+    "fre": "Lequel voudrais-tu / voudriez-vous acheter?"
   },
   {
     "eng": "They would like to go abroad but I prefer staying in England",
@@ -1421,7 +1649,7 @@
   },
   {
     "eng": "Which car did you hire?",
-    "fre": "Quelle voiture as-tu loué?"
+    "fre": "Quelle voiture as-tu louée?"
   },
   {
     "eng": "How long did you go on holiday for?",
@@ -1441,7 +1669,7 @@
   },
   {
     "eng": "I prefer eating lunch at 2 o'clock",
-    "fre": "Je préfère manger le déjeuner à quatorze heures"
+    "fre": "Je préfère prendre le déjeuner à quatorze heures"
   },
   {
     "eng": "I don't know which wine I want for the table",
@@ -1453,7 +1681,7 @@
   },
   {
     "eng": "Which ones have they tried?",
-    "fre": "Quels ont-ils essayé?"
+    "fre": "Lesquels ont-ils essayés?"
   },
   {
     "eng": "Which cheese can I try?",
@@ -1480,6 +1708,26 @@
     "fre": "Les carottes sont très bonnes"
   },
   {
+    "eng": "I would like some carrots.",
+    "fre": "Je voudrais des carottes."
+  },
+  {
+    "eng": "Did you buy the carrots?",
+    "fre": "Avez-vous acheté les carottes ?"
+  },
+  {
+    "eng": "The carrots are for dinner.",
+    "fre": "Les carottes sont pour le dîner."
+  },
+  {
+    "eng": "Do you like carrots?",
+    "fre": "Aimez-vous les carottes ?"
+  },
+  {
+    "eng": "We bought carrots at the supermarket.",
+    "fre": "Nous avons acheté des carottes au supermarché."
+  },
+  {
     "eng": "I'm bringing that with me tomorrow",
     "fre": "J'apporte cela avec moi demain"
   },
@@ -1504,6 +1752,26 @@
     "fre": "Après le rond-point, prenez la troisième rue à droite"
   },
   {
+    "eng": "Turn right at the roundabout.",
+    "fre": "Tournez à droite au rond-point."
+  },
+  {
+    "eng": "Turn left at the roundabout.",
+    "fre": "Tournez à gauche au rond-point."
+  },
+  {
+    "eng": "The hotel is after the roundabout.",
+    "fre": "L'hôtel est après le rond-point."
+  },
+  {
+    "eng": "Is the roundabout before the hotel?",
+    "fre": "Le rond-point est-il avant l'hôtel ?"
+  },
+  {
+    "eng": "After the roundabout, go straight on.",
+    "fre": "Après le rond-point, allez tout droit."
+  },
+  {
     "eng": "I would like to make a reservation",
     "fre": "Je voudrais faire une réservation"
   },
@@ -1525,7 +1793,7 @@
   },
   {
     "eng": "I tried it but it wasn't very good",
-    "fre": "Je l'ai essayé mais ce n'était pas très bor"
+    "fre": "Je l'ai essayé mais ce n'était pas très bon"
   },
   {
     "eng": "Are you in a hurry?",
@@ -1557,7 +1825,7 @@
   },
   {
     "eng": "Why did they go together?",
-    "fre": "Pourquoi sont-ils alles ensemble?"
+    "fre": "Pourquoi sont-ils allés ensemble?"
   },
   {
     "eng": "Did Marie and Sophie come with you?",
@@ -1676,11 +1944,11 @@
     "fre": "elles sont"
   },
   {
-    "eng": "(to) 80",
+    "eng": "(to) go",
     "fre": "aller"
   },
   {
-    "eng": "gone Up / went up",
+    "eng": "gone up / went up",
     "fre": "monté"
   },
   {
@@ -1888,11 +2156,11 @@
     "fre": "Est-elle morte?"
   },
   {
-    "eng": "(to) be",
-    "fre": "ne suis-je pas"
+    "eng": "haven't I? / didn't I?",
+    "fre": "ne suis-je pas?"
   },
   {
-    "eng": "Hasn't She left?",
+    "eng": "Hasn't she left?",
     "fre": "N'est-elle pas partie?"
   },
   {
@@ -1928,16 +2196,16 @@
     "fre": "N'es-tu pas allé?"
   },
   {
-    "eng": "I've been to...",
-    "fre": "es pe pl"
+    "eng": "I've been to... / I've gone to...",
+    "fre": "je suis allé..."
   },
   {
     "eng": "I've been to France / I've gone to France",
     "fre": "Je suis allé en France."
   },
   {
-    "eng": "Have you been to France / Have you gone to France",
-    "fre": "Es-tu allé en France"
+    "eng": "Have you been to France? / Have you gone to France?",
+    "fre": "Es-tu allé en France?"
   },
   {
     "eng": "Where did you go?",
@@ -1965,7 +2233,7 @@
   },
   {
     "eng": "They returned last week",
-    "fre": "Ils sont retournés / Elles sont retournées semaine dernière"
+    "fre": "Ils sont retournés / Elles sont retournées la semaine dernière"
   },
   {
     "eng": "He left five minutes ago",
@@ -1981,7 +2249,7 @@
   },
   {
     "eng": "We went on holiday to France last year",
-    "fre": "Nous sommes allé(e)s en vacances en France l'année dernière"
+    "fre": "Nous sommes allés en vacances en France l'année dernière"
   },
   {
     "eng": "She stayed here with us",
@@ -2025,7 +2293,7 @@
   },
   {
     "eng": "Why did they go back?",
-    "fre": "Pourquoi sont-elles rentrées?"
+    "fre": "Pourquoi sont-ils rentrés? / Pourquoi sont-elles rentrées?"
   },
   {
     "eng": "Who came with you?",
@@ -2041,7 +2309,7 @@
   },
   {
     "eng": "They serve breakfast from seven o'clock until ten o'clock at the hotel",
-    "fre": "Ils servent le petit-déjeuner de sept heures jusqu'à dix heures à l'hôtel"
+    "fre": "Ils servent le petit-déjeuner de sept heures à dix heures à l'hôtel"
   },
   {
     "eng": "Is it good?",
@@ -2049,19 +2317,19 @@
   },
   {
     "eng": "How much is the breakfast?",
-    "fre": "C'est combien le petit déjeuner?"
+    "fre": "C'est combien le petit-déjeuner?"
   },
   {
     "eng": "Is she at the restaurant?",
     "fre": "Est-elle au restaurant?"
   },
   {
-    "eng": "Where do you want to have lunch later:",
+    "eng": "Where do you want to have lunch later?",
     "fre": "Où veux-tu / voulez-vous prendre le déjeuner plus tard?"
   },
   {
     "eng": "No, that isn't for her",
-    "fre": "Non, ça ce n'est pas pour elle"
+    "fre": "Non, ce n'est pas pour elle"
   },
   {
     "eng": "It isn't for me",
@@ -2070,6 +2338,26 @@
   {
     "eng": "I would like a room with a king-sized bed",
     "fre": "Je voudrais une chambre avec un grand lit"
+  },
+  {
+    "eng": "The room has a big bed.",
+    "fre": "La chambre a un grand lit."
+  },
+  {
+    "eng": "Is there a big bed in the room?",
+    "fre": "Y a-t-il un grand lit dans la chambre ?"
+  },
+  {
+    "eng": "The bed is too small.",
+    "fre": "Le lit est trop petit."
+  },
+  {
+    "eng": "I would like a room with two beds.",
+    "fre": "Je voudrais une chambre avec deux lits."
+  },
+  {
+    "eng": "Is the bed in the room big enough?",
+    "fre": "Le lit dans la chambre est-il assez grand ?"
   },
   {
     "eng": "It isn't always here",
@@ -2085,7 +2373,7 @@
   },
   {
     "eng": "Be happy",
-    "fre": "Soyez heuresux"
+    "fre": "Soyez heureux"
   },
   {
     "eng": "Are you going to pay the bill now?",
@@ -2100,8 +2388,8 @@
     "fre": "Je devais appeler Pierre hier"
   },
   {
-    "eng": "À bit smaller for me, please",
-    "fre": "Jn peu plus petit pour moi, s'il vous pla"
+    "eng": "A bit smaller for me, please",
+    "fre": "Un peu plus petit pour moi, s'il vous plaît"
   },
   {
     "eng": "What is the restaurant's address?",
@@ -2116,7 +2404,7 @@
     "fre": "tu es / vous êtes"
   },
   {
-    "eng": "they Nave (they are)",
+    "eng": "they have (they are)",
     "fre": "ils sont"
   },
   {
@@ -2169,15 +2457,15 @@
   },
   {
     "eng": "I have to leave at 9pm.",
-    "fre": "Je dois partir à vingt-et-une heures."
+    "fre": "Je dois partir à vingt et une heures."
   },
   {
     "eng": "The train must be here.",
     "fre": "Le train doit être ici."
   },
   {
-    "eng": "must / (to) have to",
-    "fre": "je ne dois pas / must not"
+    "eng": "must not / mustn't",
+    "fre": "ne pas devoir"
   },
   {
     "eng": "I must not",
@@ -2221,11 +2509,11 @@
   },
   {
     "eng": "I mustn't eat too much; I'm going to the restaurant later with Pierre for dinner.",
-    "fre": "Je ne dois pas trop manger; je vais au restaurant plus tard avec Pierre pour le"
+    "fre": "Je ne dois pas trop manger; je vais au restaurant plus tard avec Pierre pour le dîner."
   },
   {
-    "eng": "I mustn't eat too much; I'm going to the restaurant later with Pierre for dinner",
-    "fre": "Je ne dois pas trop manger; je vais au"
+    "eng": "I mustn't eat too much.",
+    "fre": "Je ne dois pas trop manger."
   },
   {
     "eng": "What do you have to do?",
@@ -2241,19 +2529,19 @@
   },
   {
     "eng": "Why do we have to leave now?",
-    "fre": "Pourquoi devons-nous partir maintenant"
+    "fre": "Pourquoi devons-nous partir maintenant?"
   },
   {
-    "eng": "What time do we have to be there tonigh",
-    "fre": "quelle heures devons-nous être là ce soi"
+    "eng": "What time do we have to be there tonight?",
+    "fre": "À quelle heure devons-nous être là ce soir?"
   },
   {
     "eng": "you have to / you must",
     "fre": "vous devez"
   },
   {
-    "eng": "to have",
-    "fre": "je n'ai pas à... / dont have to..."
+    "eng": "don't have to...",
+    "fre": "ne pas avoir à..."
   },
   {
     "eng": "I don't have to",
@@ -2289,19 +2577,19 @@
   },
   {
     "eng": "You don't have to be sarcastic.",
-    "fre": "Tu n'as pas a être sarcastique. / Vous n'avez pas à être sarcastique."
+    "fre": "Tu n'as pas à être sarcastique. / Vous n'avez pas à être sarcastique."
   },
   {
     "eng": "We don't have to go to the supermarket today.",
     "fre": "Nous n'avons pas à aller au supermarché aujourd'hui."
   },
   {
-    "eng": "Pierre doesn't have to buy a souvenir fo me; everything is very expensive.",
-    "fre": "Pierre n'a pas à acheter un souvenir pou moi; tout est très cher."
+    "eng": "Pierre doesn't have to buy a souvenir for me; everything is very expensive.",
+    "fre": "Pierre n'a pas à acheter un souvenir pour moi; tout est très cher."
   },
   {
     "eng": "I don't have to leave until tomorrow.",
-    "fre": "Je n'ai pas à partir jusqu'à demain."
+    "fre": "Je n'ai pas à partir avant demain."
   },
   {
     "eng": "You don't have to help me.",
@@ -2357,7 +2645,7 @@
   },
   {
     "eng": "She wants to buy that but it's very expensive.",
-    "fre": "File veut acheter ça mais c'est très cher"
+    "fre": "Elle veut acheter ça mais c'est très cher"
   },
   {
     "eng": "I don't want",
@@ -2401,7 +2689,7 @@
   },
   {
     "eng": "do I want?",
-    "fre": "veux-je?"
+    "fre": "Est-ce que je veux?"
   },
   {
     "eng": "do you want?",
@@ -2445,7 +2733,7 @@
   },
   {
     "eng": "I must / I have to",
-    "fre": "ie dois"
+    "fre": "je dois"
   },
   {
     "eng": "they must / they have to",
@@ -2468,20 +2756,20 @@
     "fre": "Je dois partir dans cinq minutes"
   },
   {
-    "eng": "He must not eat that pizza; it's for Sophi",
-    "fre": "Il ne doit pas manger cette pizza; elle e pour Sophie"
+    "eng": "He must not eat that pizza; it's for Sophie",
+    "fre": "Il ne doit pas manger cette pizza; elle est pour Sophie"
   },
   {
     "eng": "I don't have to go until tomorrow",
-    "fre": "Je n'ai pas à aller jusqu'à demain"
+    "fre": "Je n'ai pas à y aller avant demain"
   },
   {
     "eng": "Why do I have to go with you?",
     "fre": "Pourquoi dois-je aller avec toi / vous?"
   },
   {
-    "eng": "We don't want to eat at the hotel; we war to go to a restaurant",
-    "fre": "Nous ne voulons pas manger à l'hôtel; no voulons aller à un restaurant"
+    "eng": "We don't want to eat at the hotel; we want to go to a restaurant",
+    "fre": "Nous ne voulons pas manger à l'hôtel; nous voulons aller au restaurant"
   },
   {
     "eng": "You don't have to help me if you're busy",
@@ -2496,8 +2784,8 @@
     "fre": "Je ne veux pas l'acheter; c'est trop cher"
   },
   {
-    "eng": "They want to walk but I want to go in the «",
-    "fre": "S / Elles veulent aller à pied mais je veu aller en voiture"
+    "eng": "They want to walk, but I want to go by car",
+    "fre": "Ils / Elles veulent aller à pied, mais je veux aller en voiture"
   },
   {
     "eng": "We want to start now",
@@ -2505,7 +2793,7 @@
   },
   {
     "eng": "They don't have to do that; I can do everything",
-    "fre": "Ils n'ont pas à faire cela; je peux tout fair"
+    "fre": "Ils n'ont pas à faire cela; je peux tout faire"
   },
   {
     "eng": "He wants to take the train but it left ten minutes ago",
@@ -2545,19 +2833,19 @@
   },
   {
     "eng": "Do you have these shoes in red?",
-    "fre": "tu / Avez-vous ces chaussures en roug"
+    "fre": "As-tu ces chaussures en rouge? / Avez-vous ces chaussures en rouge?"
   },
   {
-    "eng": "Are you trying some French food later?",
-    "fre": "Essayes-tu / Essayez-vous de la nourriture française plus tard?"
+    "eng": "Are you going to try some French food later?",
+    "fre": "Vas-tu essayer de la nourriture française plus tard? / Allez-vous essayer de la nourriture française plus tard?"
   },
   {
     "eng": "Where are you going to have lunch?",
     "fre": "Où vas-tu / allez-vous prendre le déjeuner?"
   },
   {
-    "eng": "Haven't we hired the car for two weeks:",
-    "fre": "N'avons-nous pas loué la voiture pour del semaines?"
+    "eng": "Haven't we hired the car for two weeks?",
+    "fre": "N'avons-nous pas loué la voiture pour deux semaines?"
   },
   {
     "eng": "I'm going to try and arrive early",
@@ -2593,22 +2881,22 @@
   },
   {
     "eng": "Take the exit towards St Tropez and then go straight on",
-    "fre": "Prenez la sortie vers St Tropez et puis allez tout droit"
+    "fre": "Prenez la sortie vers Saint-Tropez et puis allez tout droit"
   },
   {
     "eng": "It's quarter past two",
     "fre": "Il est deux heures et quart"
   },
   {
-    "eng": "Was there enough money in the room fc the pizza?",
+    "eng": "Was there enough money in the room for the pizza?",
     "fre": "Y avait-il assez d'argent dans la chambre pour la pizza?"
   },
   {
-    "eng": "I couldn't go last year bedause I had no money",
-    "fre": "Je ne pouvais pas aller l'année dernière parce que je n'avais pas d'argent"
+    "eng": "I couldn't go last year because I had no money",
+    "fre": "Je ne pouvais pas y aller l'année dernière parce que je n'avais pas d'argent"
   },
   {
-    "eng": "'m learning French but it's quite difficult",
+    "eng": "I'm learning French but it's quite difficult",
     "fre": "J'apprends le français mais c'est assez difficile"
   },
   {
@@ -2677,7 +2965,7 @@
   },
   {
     "eng": "Marie can go too.",
-    "fre": "Marie peut aller aussi."
+    "fre": "Marie peut y aller aussi."
   },
   {
     "eng": "We can buy something for lunch at the supermarket.",
@@ -2725,7 +3013,7 @@
   },
   {
     "eng": "You can't leave until tonight.",
-    "fre": "Tu ne peux pas partir jusqu'à ce soir. / Vous ne pouvez pas partir jusqu'à ce soir."
+    "fre": "Tu ne peux pas partir avant ce soir. / Vous ne pouvez pas partir avant ce soir."
   },
   {
     "eng": "Marie can't come with us; the car is too small.",
@@ -2792,6 +3080,26 @@
     "fre": "Peux-tu trouver la clé? / Pouvez-vous trouver la clé?"
   },
   {
+    "eng": "I found the key.",
+    "fre": "J'ai trouvé la clé."
+  },
+  {
+    "eng": "Where is the key?",
+    "fre": "Où est la clé ?"
+  },
+  {
+    "eng": "Have you found the key?",
+    "fre": "Avez-vous trouvé la clé ?"
+  },
+  {
+    "eng": "Pierre has the key.",
+    "fre": "Pierre a la clé."
+  },
+  {
+    "eng": "I can't find the key.",
+    "fre": "Je ne trouve pas la clé."
+  },
+  {
     "eng": "Can Marie come with us to Paris?",
     "fre": "Marie peut-elle venir avec nous à Paris?"
   },
@@ -2849,7 +3157,7 @@
   },
   {
     "eng": "Can't you go to France without me?",
-    "fre": "Ne peux-tu pas aller en France sans moi: Ne pouvez-vous pas aller en France sans moi?"
+    "fre": "Ne peux-tu pas aller en France sans moi? / Ne pouvez-vous pas aller en France sans moi?"
   },
   {
     "eng": "I can speak English / (I know how to speak English)",
@@ -2924,7 +3232,7 @@
     "fre": "Comment sais-tu? / Comment savez-vous?"
   },
   {
-    "eng": "Does Pierre know how to speak English:",
+    "eng": "Does Pierre know how to speak English?",
     "fre": "Pierre sait-il parler anglais?"
   },
   {
@@ -3017,19 +3325,19 @@
   },
   {
     "eng": "Can they make a cake?",
-    "fre": "Peuvent-ils / Peuvent-elles faire un gâteau"
+    "fre": "Peuvent-ils / Peuvent-elles faire un gâteau?"
   },
   {
     "eng": "Where can he go tomorrow?",
     "fre": "Où peut-il aller demain?"
   },
   {
-    "eng": "Do you know how to order the wine in",
-    "fre": "Sais-tu / Savez-vous commander le vin e français?"
+    "eng": "Do you know how to order the wine in French?",
+    "fre": "Sais-tu / Savez-vous commander le vin en français?"
   },
   {
     "eng": "They don't know where we are",
-    "fre": "S / Elles ne savent pas où nous somme"
+    "fre": "Ils / Elles ne savent pas où nous sommes"
   },
   {
     "eng": "Do you know who he is?",
@@ -3040,8 +3348,8 @@
     "fre": "Ne savent-ils pas / Ne savent-elles pas qui je suis?"
   },
   {
-    "eng": "We can't take the train bedause it left fiv",
-    "fre": "US ne pouvons pas prendre le train par qu'il est parti il y a cinq minutes"
+    "eng": "We can't take the train because it left five minutes ago",
+    "fre": "Nous ne pouvons pas prendre le train parce qu'il est parti il y a cinq minutes"
   },
   {
     "eng": "They can't come with us; the car is too small",
@@ -3056,8 +3364,8 @@
     "fre": "Ils savent tout"
   },
   {
-    "eng": "an they go to the restaurant without us: want to stay here tonight",
-    "fre": "Peuvent-ils aller au restaurant sans nous? veux rester ici ce soir"
+    "eng": "Can they go to the restaurant without us? I want to stay here tonight",
+    "fre": "Peuvent-ils aller au restaurant sans nous? Je veux rester ici ce soir"
   },
   {
     "eng": "Can I show Pierre something?",
@@ -3088,6 +3396,26 @@
     "fre": "Je voudrais des raisins"
   },
   {
+    "eng": "I bought some grapes.",
+    "fre": "J'ai acheté des raisins."
+  },
+  {
+    "eng": "Do you like grapes?",
+    "fre": "Aimez-vous les raisins ?"
+  },
+  {
+    "eng": "How much are the grapes?",
+    "fre": "C'est combien, les raisins ?"
+  },
+  {
+    "eng": "The grapes are very good.",
+    "fre": "Les raisins sont très bons."
+  },
+  {
+    "eng": "Can I have some grapes?",
+    "fre": "Puis-je avoir des raisins ?"
+  },
+  {
     "eng": "Don't you speak English?",
     "fre": "Ne parles-tu pas anglais? / Ne parlez-vous pas anglais?"
   },
@@ -3097,11 +3425,35 @@
   },
   {
     "eng": "I would like a one-way ticket for Marseille please",
-    "fre": "Je voudrais un aller-simple pour Marseille s'il vous plaît"
+    "fre": "Je voudrais un aller simple pour Marseille, s'il vous plaît"
+  },
+  {
+    "eng": "I have a ticket for Marseille.",
+    "fre": "J'ai un billet pour Marseille."
+  },
+  {
+    "eng": "Where can I buy a ticket?",
+    "fre": "Où puis-je acheter un billet ?"
+  },
+  {
+    "eng": "How much is a ticket for Marseille?",
+    "fre": "C'est combien, un billet pour Marseille ?"
+  },
+  {
+    "eng": "Did you buy the ticket?",
+    "fre": "Avez-vous acheté le billet ?"
+  },
+  {
+    "eng": "I would like two tickets for Paris.",
+    "fre": "Je voudrais deux billets pour Paris."
+  },
+  {
+    "eng": "Do you have the tickets?",
+    "fre": "Avez-vous les billets ?"
   },
   {
     "eng": "Didn't you learn much today?",
-    "fre": "as-tu pas appris beaucoup aujourd'hui: N'avez-vous pas appris beaucoup aujourd'hui?"
+    "fre": "N'as-tu pas beaucoup appris aujourd'hui? / N'avez-vous pas beaucoup appris aujourd'hui?"
   },
   {
     "eng": "He's at the restaurant",
@@ -3112,12 +3464,12 @@
     "fre": "Pas pour moi, merci"
   },
   {
-    "eng": "How long have you been living here?",
+    "eng": "Since when have you lived here?",
     "fre": "Depuis quand habites-tu ici? / Depuis quand habitez-vous ici?"
   },
   {
     "eng": "Where did you stay?",
-    "fre": "Où as-tu resté?"
+    "fre": "Où es-tu resté? / Où êtes-vous resté?"
   },
   {
     "eng": "I'm buying something from Marseille for you",
@@ -3185,7 +3537,7 @@
   },
   {
     "eng": "What time did you have to leave?",
-    "fre": "À quelle heures devais-tu partir? / À quelle heures deviez-vous partir?"
+    "fre": "À quelle heure devais-tu partir? / À quelle heure deviez-vous partir?"
   },
   {
     "eng": "How did he want to pay?",
@@ -3213,7 +3565,7 @@
   },
   {
     "eng": "What time did they have to leave?",
-    "fre": "À quelle heures devaient-ils partir?"
+    "fre": "À quelle heure devaient-ils partir?"
   },
   {
     "eng": "I could see Pierre.",
@@ -3221,7 +3573,7 @@
   },
   {
     "eng": "What could you see there?",
-    "fre": "Que pouvais-tu voir la? / Que pouviez-vous voir la?"
+    "fre": "Que pouvais-tu voir là? / Que pouviez-vous voir là?"
   },
   {
     "eng": "Could they help?",
@@ -3237,7 +3589,7 @@
   },
   {
     "eng": "Why couldn't you stay here?",
-    "fre": "Pourquoi ne pouvais-tu pas rester ici? / -ourquoi ne pouviez-vous pas rester ici"
+    "fre": "Pourquoi ne pouvais-tu pas rester ici? / Pourquoi ne pouviez-vous pas rester ici?"
   },
   {
     "eng": "Couldn't they help?",
@@ -3265,7 +3617,7 @@
   },
   {
     "eng": "I was going to speak.",
-    "fre": "j'allais parler."
+    "fre": "J'allais parler."
   },
   {
     "eng": "Were you going to say something?",
@@ -3289,7 +3641,7 @@
   },
   {
     "eng": "which / which one",
-    "fre": "quel"
+    "fre": "quel / lequel"
   },
   {
     "eng": "why",
@@ -3313,7 +3665,7 @@
   },
   {
     "eng": "What time",
-    "fre": "à quelle heures"
+    "fre": "à quelle heure"
   },
   {
     "eng": "did I have to",
@@ -3489,7 +3841,7 @@
   },
   {
     "eng": "(to) see",
-    "fre": "Voir"
+    "fre": "voir"
   },
   {
     "eng": "(to) call",
@@ -3529,7 +3881,7 @@
   },
   {
     "eng": "I was going to buy it.",
-    "fre": "j'allais l'acheter."
+    "fre": "J'allais l'acheter."
   },
   {
     "eng": "They were going to come with us.",
@@ -3544,8 +3896,28 @@
     "fre": "Je voulais aller à la plage aujourd'hui"
   },
   {
+    "eng": "We are going to the beach tomorrow.",
+    "fre": "Nous allons à la plage demain."
+  },
+  {
+    "eng": "I went to the beach yesterday.",
+    "fre": "Je suis allé à la plage hier."
+  },
+  {
+    "eng": "Do you want to go to the beach?",
+    "fre": "Voulez-vous aller à la plage ?"
+  },
+  {
+    "eng": "Marie stayed at the beach all afternoon.",
+    "fre": "Marie est restée à la plage tout l'après-midi."
+  },
+  {
+    "eng": "How long did you stay at the beach?",
+    "fre": "Combien de temps êtes-vous resté à la plage ?"
+  },
+  {
     "eng": "Why did you have to leave at four o'clock in the morning?",
-    "fre": "Pourquoi devais-tu / deviez-vous partir à quatre heures le matin?"
+    "fre": "Pourquoi devais-tu / deviez-vous partir à quatre heures du matin?"
   },
   {
     "eng": "How much did they have to pay?",
@@ -3553,7 +3925,7 @@
   },
   {
     "eng": "Which one was he going to try?",
-    "fre": "Quel allait-il essayer?"
+    "fre": "Lequel allait-il essayer?"
   },
   {
     "eng": "Whom did she have to call?",
@@ -3601,7 +3973,7 @@
   },
   {
     "eng": "Could you understand me when I spoke French?",
-    "fre": "Pouviez-vous me comprendre quand j'ai parlé en français?"
+    "fre": "Pouviez-vous me comprendre quand je parlais français?"
   },
   {
     "eng": "What did she have to buy at the supermarket?",
@@ -3624,6 +3996,26 @@
     "fre": "Vas-tu / Allez-vous commander un thé?"
   },
   {
+    "eng": "I would like a tea, please.",
+    "fre": "Je voudrais un thé, s'il vous plaît."
+  },
+  {
+    "eng": "Would you like tea or coffee?",
+    "fre": "Voudriez-vous du thé ou du café ?"
+  },
+  {
+    "eng": "The tea is very good.",
+    "fre": "Le thé est très bon."
+  },
+  {
+    "eng": "Did you order tea?",
+    "fre": "Avez-vous commandé du thé ?"
+  },
+  {
+    "eng": "I'm going to have tea later.",
+    "fre": "Je vais prendre un thé plus tard."
+  },
+  {
     "eng": "It's at seven o'clock",
     "fre": "C'est à sept heures"
   },
@@ -3633,11 +4025,31 @@
   },
   {
     "eng": "What time is dinner?",
-    "fre": "À quelle heures est le dîner?"
+    "fre": "À quelle heure est le dîner?"
   },
   {
     "eng": "Turn left before the traffic lights",
     "fre": "Tournez à gauche avant les feux"
+  },
+  {
+    "eng": "Turn right at the traffic lights.",
+    "fre": "Tournez à droite aux feux."
+  },
+  {
+    "eng": "Turn left after the traffic lights.",
+    "fre": "Tournez à gauche après les feux."
+  },
+  {
+    "eng": "The hotel is after the traffic lights.",
+    "fre": "L'hôtel est après les feux."
+  },
+  {
+    "eng": "Are the traffic lights before the roundabout?",
+    "fre": "Les feux sont-ils avant le rond-point ?"
+  },
+  {
+    "eng": "Go straight on until the traffic lights.",
+    "fre": "Allez tout droit jusqu'aux feux."
   },
   {
     "eng": "The lunch is absolutely fantastic here",
@@ -3660,12 +4072,52 @@
     "fre": "Je voudrais un sac"
   },
   {
+    "eng": "Where is my bag?",
+    "fre": "Où est mon sac ?"
+  },
+  {
+    "eng": "Is this your bag?",
+    "fre": "Est-ce que c'est votre sac ?"
+  },
+  {
+    "eng": "I left my bag at the hotel.",
+    "fre": "J'ai laissé mon sac à l'hôtel."
+  },
+  {
+    "eng": "Can you bring my bag?",
+    "fre": "Pouvez-vous apporter mon sac ?"
+  },
+  {
+    "eng": "I have my bag with me.",
+    "fre": "J'ai mon sac avec moi."
+  },
+  {
     "eng": "I'm going to have dinner here",
-    "fre": "Je vais prendre le dîner ici"
+    "fre": "Je vais dîner ici"
   },
   {
     "eng": "Where is the forest?",
-    "fre": "Où est le forêt?"
+    "fre": "Où est la forêt?"
+  },
+  {
+    "eng": "The forest is thirty kilometres from the hotel.",
+    "fre": "La forêt est à trente kilomètres de l'hôtel."
+  },
+  {
+    "eng": "We are going to the forest tomorrow.",
+    "fre": "Nous allons dans la forêt demain."
+  },
+  {
+    "eng": "I went to the forest yesterday.",
+    "fre": "Je suis allé dans la forêt hier."
+  },
+  {
+    "eng": "Can we go to the forest?",
+    "fre": "Pouvons-nous aller dans la forêt ?"
+  },
+  {
+    "eng": "The forest is very beautiful.",
+    "fre": "La forêt est très belle."
   },
   {
     "eng": "Take the third road on the left and then the first road on the right",
@@ -3677,7 +4129,7 @@
   },
   {
     "eng": "May I have that in blue?",
-    "fre": "Puis-je avoir Ça en bleu?"
+    "fre": "Puis-je avoir ça en bleu?"
   },
   {
     "eng": "Did you bring the passports with you?",
@@ -3689,7 +4141,7 @@
   },
   {
     "eng": "I'm not going to take a taxi",
-    "fre": "Je ne vais pas prendre un taxi"
+    "fre": "Je ne vais pas prendre de taxi"
   },
   {
     "eng": "I wanted",
@@ -3728,8 +4180,8 @@
     "fre": "Peut-on fumer ici?"
   },
   {
-    "eng": "What can you do in France",
-    "fre": "Que peut-on faire en France"
+    "eng": "What can you do in France?",
+    "fre": "Que peut-on faire en France?"
   },
   {
     "eng": "Are you allowed to eat inside?",
@@ -3812,8 +4264,8 @@
     "fre": "Quand veulent-elles partir?"
   },
   {
-    "eng": "Do they want to come, too?",
-    "fre": "Veulent-elles venir, aussi?"
+    "eng": "Do they want to come too?",
+    "fre": "Veulent-elles venir aussi?"
   },
   {
     "eng": "Where are they going?",
@@ -3836,11 +4288,11 @@
     "fre": "Que peut-on faire à Paris?"
   },
   {
-    "eng": "Marie and Sophie are there, where are they going?",
-    "fre": "Marie et Sophie sont là, où vont-elles?"
+    "eng": "Marie and Sophie are there. Where are they going?",
+    "fre": "Marie et Sophie sont là. Où vont-elles?"
   },
   {
-    "eng": "We (using on\") live in Paris",
+    "eng": "We (using \"on\") live in Paris",
     "fre": "On habite à Paris"
   },
   {
@@ -3912,7 +4364,7 @@
     "fre": "Je vais changer la réservation; je suis trop fatigué maintenant"
   },
   {
-    "eng": "I would like to hire a car for one week, how much is it?",
+    "eng": "I would like to hire a car for one week; how much is it?",
     "fre": "Je voudrais louer une voiture pour une semaine; c'est combien?"
   },
   {
@@ -3924,8 +4376,44 @@
     "fre": "La dinde est délicieuse"
   },
   {
+    "eng": "Would you like the turkey?",
+    "fre": "Voudriez-vous la dinde ?"
+  },
+  {
+    "eng": "I ordered the turkey.",
+    "fre": "J'ai commandé la dinde."
+  },
+  {
+    "eng": "Did you try the turkey?",
+    "fre": "Avez-vous essayé la dinde ?"
+  },
+  {
+    "eng": "The turkey is for Marie.",
+    "fre": "La dinde est pour Marie."
+  },
+  {
     "eng": "I would like the duck",
     "fre": "Je voudrais le canard"
+  },
+  {
+    "eng": "The duck is very good.",
+    "fre": "Le canard est très bon."
+  },
+  {
+    "eng": "Would you like the duck or the chicken?",
+    "fre": "Voudriez-vous le canard ou le poulet ?"
+  },
+  {
+    "eng": "I ordered the duck.",
+    "fre": "J'ai commandé le canard."
+  },
+  {
+    "eng": "Did she try the duck?",
+    "fre": "A-t-elle essayé le canard ?"
+  },
+  {
+    "eng": "The duck is for Pierre.",
+    "fre": "Le canard est pour Pierre."
   },
   {
     "eng": "I'm not going to the hotel",
@@ -3934,6 +4422,26 @@
   {
     "eng": "I would like a room with a shower",
     "fre": "Je voudrais une chambre avec une douche"
+  },
+  {
+    "eng": "Where is the shower?",
+    "fre": "Où est la douche ?"
+  },
+  {
+    "eng": "There is a shower in the room.",
+    "fre": "Il y a une douche dans la chambre."
+  },
+  {
+    "eng": "Does the room have a shower?",
+    "fre": "Est-ce qu'il y a une douche dans la chambre ?"
+  },
+  {
+    "eng": "The shower doesn't work.",
+    "fre": "La douche ne marche pas."
+  },
+  {
+    "eng": "I have to take a shower.",
+    "fre": "Je dois prendre une douche."
   },
   {
     "eng": "At Marine's house",
@@ -3948,7 +4456,7 @@
     "fre": "Je vais commander le poulet"
   },
   {
-    "eng": "Did Pierre understand the English?",
+    "eng": "Did Pierre understand English?",
     "fre": "Pierre a-t-il compris l'anglais?"
   },
   {
@@ -4001,7 +4509,7 @@
   },
   {
     "eng": "Which one have they tried?",
-    "fre": "Quel ont-ils essayé?"
+    "fre": "Lequel ont-ils essayé?"
   },
   {
     "eng": "How have you paid?",
@@ -4173,7 +4681,7 @@
   },
   {
     "eng": "Which one has she bought?",
-    "fre": "Quel a-t-elle acheté?"
+    "fre": "Lequel a-t-elle acheté?"
   },
   {
     "eng": "Why have we hired a car?",
@@ -4193,7 +4701,7 @@
   },
   {
     "eng": "Which one have you seen?",
-    "fre": "Quel avez-vous vu? / Quel as-tu vu?"
+    "fre": "Lequel avez-vous vu? / Lequel as-tu vu?"
   },
   {
     "eng": "What did they eat today?",
@@ -4213,7 +4721,7 @@
   },
   {
     "eng": "Why did you say that?",
-    "fre": "Pourquoi as-tu dit Ça? / Pourquoi avez-vous dit ça?"
+    "fre": "Pourquoi as-tu dit ça? / Pourquoi avez-vous dit ça?"
   },
   {
     "eng": "Why have you said that?",
@@ -4265,7 +4773,7 @@
   },
   {
     "eng": "What time did you finish?",
-    "fre": "À quelle heures as-tu fini? / À quelle heures avez-vous fini?"
+    "fre": "À quelle heure as-tu fini? / À quelle heure avez-vous fini?"
   },
   {
     "eng": "How much did we buy?",
@@ -4273,11 +4781,11 @@
   },
   {
     "eng": "How many pizzas have we ordered?",
-    "fre": "Combien de pizzas avons-nous commandé?"
+    "fre": "Combien de pizzas avons-nous commandées?"
   },
   {
     "eng": "How many pizzas did we order?",
-    "fre": "Combien de pizzas avons-nous commandé?"
+    "fre": "Combien de pizzas avons-nous commandées?"
   },
   {
     "eng": "What did they make?",
@@ -4349,7 +4857,7 @@
   },
   {
     "eng": "Which ones did you have?",
-    "fre": "Quels as-tu eu? / Quels avez-vous eu?"
+    "fre": "Lesquels as-tu eus? / Lesquels avez-vous eus?"
   },
   {
     "eng": "Have I been stupid?",
@@ -4372,8 +4880,8 @@
     "fre": "As-tu bu le vin? / Avez-vous bu le vin?"
   },
   {
-    "eng": "Did you speak French in France",
-    "fre": "As-tu parlé français en France / Avez-vous parlé français en France"
+    "eng": "Did you speak French in France?",
+    "fre": "As-tu parlé français en France? / Avez-vous parlé français en France?"
   },
   {
     "eng": "How did they find the film?",
@@ -4433,7 +4941,7 @@
   },
   {
     "eng": "Which one did you take?",
-    "fre": "Quel as-tu pris? / Quel avez-vous pris?"
+    "fre": "Lequel as-tu pris? / Lequel avez-vous pris?"
   },
   {
     "eng": "What did they bring?",
@@ -4460,16 +4968,16 @@
     "fre": "Pourquoi a-t-elle pris ça?"
   },
   {
-    "eng": "Whom did he tell?",
-    "fre": "Qui a-t-il dit?"
+    "eng": "Whom did he tell it to?",
+    "fre": "À qui l'a-t-il dit?"
   },
   {
     "eng": "Whom did he see?",
     "fre": "Qui a-t-il vu?"
   },
   {
-    "eng": "Whom has he told?",
-    "fre": "Qui a-t-il dit?"
+    "eng": "Whom has he told it to?",
+    "fre": "À qui l'a-t-il dit?"
   },
   {
     "eng": "Did Sophie bring that?",
@@ -4541,7 +5049,7 @@
   },
   {
     "eng": "Which car did he hire?",
-    "fre": "Quelle voiture a-t-il loué?"
+    "fre": "Quelle voiture a-t-il louée?"
   },
   {
     "eng": "Whom did you see in Marseille?",
@@ -4569,7 +5077,7 @@
   },
   {
     "eng": "Which one did she try?",
-    "fre": "Quel a-t-elle essayé?"
+    "fre": "Lequel a-t-elle essayé?"
   },
   {
     "eng": "How much time did they spend at the supermarket?",
@@ -4581,7 +5089,7 @@
   },
   {
     "eng": "Did you eat breakfast at the hotel?",
-    "fre": "As-tu / Avez-vous mangé le petit-déjeuner à l'hôtel?"
+    "fre": "As-tu / Avez-vous pris le petit-déjeuner à l'hôtel?"
   },
   {
     "eng": "Why did you change the reservation?",
@@ -4617,7 +5125,7 @@
   },
   {
     "eng": "Did they speak a lot of French?",
-    "fre": "Ont-ils parlé beaucoup de français?"
+    "fre": "Ont-ils beaucoup parlé français?"
   },
   {
     "eng": "Yes, it's perfect, thank you",
@@ -4632,6 +5140,26 @@
     "fre": "Je voudrais du pain"
   },
   {
+    "eng": "The bread is very good.",
+    "fre": "Le pain est très bon."
+  },
+  {
+    "eng": "Would you like some bread?",
+    "fre": "Voudriez-vous du pain ?"
+  },
+  {
+    "eng": "Did you buy the bread?",
+    "fre": "Avez-vous acheté le pain ?"
+  },
+  {
+    "eng": "I would like some bread with the cheese.",
+    "fre": "Je voudrais du pain avec le fromage."
+  },
+  {
+    "eng": "We bought bread this morning.",
+    "fre": "Nous avons acheté du pain ce matin."
+  },
+  {
     "eng": "Is he very busy tomorrow?",
     "fre": "Est-il très occupé demain?"
   },
@@ -4640,8 +5168,44 @@
     "fre": "Je voudrais une télévision"
   },
   {
+    "eng": "The television is in the room.",
+    "fre": "La télévision est dans la chambre."
+  },
+  {
+    "eng": "The television doesn't work.",
+    "fre": "La télévision ne marche pas."
+  },
+  {
+    "eng": "Can I watch television?",
+    "fre": "Puis-je regarder la télévision ?"
+  },
+  {
+    "eng": "I watched television yesterday evening.",
+    "fre": "J'ai regardé la télévision hier soir."
+  },
+  {
+    "eng": "We are going to watch the film on television.",
+    "fre": "Nous allons regarder le film à la télévision."
+  },
+  {
     "eng": "What is she doing at university?",
     "fre": "Que fait-elle à l'université?"
+  },
+  {
+    "eng": "Marie is at university.",
+    "fre": "Marie est à l'université."
+  },
+  {
+    "eng": "Is Pierre at university today?",
+    "fre": "Pierre est-il à l'université aujourd'hui ?"
+  },
+  {
+    "eng": "She goes to university in Paris.",
+    "fre": "Elle va à l'université à Paris."
+  },
+  {
+    "eng": "She left university at five o'clock.",
+    "fre": "Elle est partie de l'université à cinq heures."
   },
   {
     "eng": "Is he Mr Blanc?",
@@ -4664,6 +5228,38 @@
     "fre": "Je voudrais une écharpe et un chapeau"
   },
   {
+    "eng": "The scarf is blue.",
+    "fre": "L'écharpe est bleue."
+  },
+  {
+    "eng": "The hat is black.",
+    "fre": "Le chapeau est noir."
+  },
+  {
+    "eng": "Which scarf do you prefer?",
+    "fre": "Quelle écharpe préférez-vous ?"
+  },
+  {
+    "eng": "Which hat do you prefer?",
+    "fre": "Quel chapeau préférez-vous ?"
+  },
+  {
+    "eng": "I bought a scarf in Paris.",
+    "fre": "J'ai acheté une écharpe à Paris."
+  },
+  {
+    "eng": "Marie bought a hat.",
+    "fre": "Marie a acheté un chapeau."
+  },
+  {
+    "eng": "The scarf is too expensive.",
+    "fre": "L'écharpe est trop chère."
+  },
+  {
+    "eng": "The hat is too big.",
+    "fre": "Le chapeau est trop grand."
+  },
+  {
     "eng": "What time do you want to have lunch?",
     "fre": "À quelle heure veux-tu prendre le déjeuner?"
   },
@@ -4682,6 +5278,26 @@
   {
     "eng": "The iron doesn't work",
     "fre": "Le fer à repasser ne marche pas"
+  },
+  {
+    "eng": "Where is the iron?",
+    "fre": "Où est le fer à repasser ?"
+  },
+  {
+    "eng": "Is there an iron in the room?",
+    "fre": "Y a-t-il un fer à repasser dans la chambre ?"
+  },
+  {
+    "eng": "Can I have an iron, please?",
+    "fre": "Puis-je avoir un fer à repasser, s'il vous plaît ?"
+  },
+  {
+    "eng": "The iron is in the room.",
+    "fre": "Le fer à repasser est dans la chambre."
+  },
+  {
+    "eng": "The iron is working now.",
+    "fre": "Le fer à repasser marche maintenant."
   },
   {
     "eng": "My lunch isn't bad",

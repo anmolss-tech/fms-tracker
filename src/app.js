@@ -107,6 +107,8 @@ app.get("/", (_req, res) => {
   res.json({
     ok: true,
     service: "French Made Simple tracker API",
+    version: "1.5.0",
+    node: process.version,
     hosting: process.env.VERCEL ? "vercel" : "node",
     syncPolicy: "weekly-summary-with-heart-checkpoints",
     contentManifest: "/content/manifest.json",
@@ -117,7 +119,7 @@ app.get("/health", async (_req, res) => {
   try {
     const { db } = await getMongo();
     await db.command({ ping: 1 });
-    res.json({ ok: true, database: DB_NAME, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
+    res.json({ ok: true, database: DB_NAME, version: "1.5.0", node: process.version, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
   } catch (error) {
     res.status(500).json({ ok: false, error: error.message });
   }
@@ -207,6 +209,18 @@ function normalizeWeek(week, identity) {
     matchConfidence: cleanText(call?.matchConfidence, 80),
   })).filter((call) => call.eventId && call.startedAt) : [];
 
+  const messages = Array.isArray(week?.messages) ? week.messages.slice(0, 1500).map((item) => ({
+    packageName: cleanText(item?.packageName, 220) || "unknown",
+    appName: cleanText(item?.appName, 220) || "Unknown app",
+    date: cleanText(item?.date, 20),
+    senderName: cleanText(item?.senderName, 220),
+    phoneNumber: cleanText(item?.phoneNumber, 80),
+    matchConfidence: cleanText(item?.matchConfidence, 80),
+    incomingCount: Math.max(0, Math.round(finite(item?.incomingCount))),
+    firstAt: safeDate(item?.firstAt),
+    lastAt: safeDate(item?.lastAt),
+  })).filter((item) => item.date && item.incomingCount > 0) : [];
+
   const frenchDays = Array.isArray(week?.french?.days) ? week.french.days.slice(0, 7).map((day) => ({
     date: cleanText(day?.date, 20),
     studySeconds: Math.max(0, Math.round(finite(day?.studySeconds))),
@@ -229,6 +243,7 @@ function normalizeWeek(week, identity) {
     apps,
     phoneCalls: calls,
     whatsappCalls,
+    messages,
     french: {
       studySeconds: Math.max(0, Math.round(finite(week?.french?.studySeconds))),
       cardsPracticed: Math.max(0, Math.round(finite(week?.french?.cardsPracticed))),

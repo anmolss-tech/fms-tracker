@@ -75,3 +75,8 @@ X-Device-Secret
 ```
 
 instead of asking the tester to type a shared API token.
+
+
+## Node.js 24
+
+This version pins Vercel to Node.js `24.x` through `package.json` → `engines.node`. If the Vercel dashboard has an older runtime selected, redeploy after pushing v1.5; the package setting takes precedence.
