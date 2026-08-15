@@ -21,23 +21,7 @@
   },
   {
     "eng": "That reminds me of a film that I saw last year.",
-    "fre": "Ça me rappelle un film que j'ai vu l'année dernière."
-  },
-  {
-    "eng": "This place reminds me of Paris.",
-    "fre": "Cet endroit me rappelle Paris."
-  },
-  {
-    "eng": "Does this song remind you of Marie?",
-    "fre": "Est-ce que cette chanson te rappelle Marie ? / Est-ce que cette chanson vous rappelle Marie ?"
-  },
-  {
-    "eng": "The hotel reminds me of our last holiday.",
-    "fre": "L'hôtel me rappelle nos dernières vacances."
-  },
-  {
-    "eng": "That smell reminds me of my grandmother's kitchen.",
-    "fre": "Cette odeur me rappelle la cuisine de ma grand-mère."
+    "fre": "Ça me rappelle un film que / j'ai vu l'année dernière."
   },
   {
     "eng": "to smell of",
@@ -50,22 +34,6 @@
   {
     "eng": "It smells of garlic here.",
     "fre": "Ça sent l'ail ici."
-  },
-  {
-    "eng": "The kitchen smells of garlic.",
-    "fre": "La cuisine sent l'ail."
-  },
-  {
-    "eng": "Your coat smells of smoke.",
-    "fre": "Ton manteau sent la fumée. / Votre manteau sent la fumée."
-  },
-  {
-    "eng": "The room smells of coffee.",
-    "fre": "La chambre sent le café."
-  },
-  {
-    "eng": "Does it smell of fish?",
-    "fre": "Est-ce que ça sent le poisson ?"
   },
   {
     "eng": "(to) want",
@@ -112,24 +80,8 @@
     "fre": "payer"
   },
   {
-    "eng": "I want to pay for the meal.",
-    "fre": "Je veux payer le repas."
-  },
-  {
-    "eng": "Can you pay for the tickets?",
-    "fre": "Peux-tu payer les billets ? / Pouvez-vous payer les billets ?"
-  },
-  {
-    "eng": "We paid for the hotel yesterday.",
-    "fre": "Nous avons payé l'hôtel hier."
-  },
-  {
-    "eng": "They haven't paid for the room yet.",
-    "fre": "Ils n'ont pas encore payé la chambre."
-  },
-  {
     "eng": "What did you want to do?",
-    "fre": "Que voulais-tu faire ? / Que vouliez-vous faire ?"
+    "fre": "Que voulais-tu / vouliez-vous faire? / est-ce que tu voulais / vous vouliez faire"
   },
   {
     "eng": "Marie smells of roses.",
@@ -141,27 +93,27 @@
   },
   {
     "eng": "You can go without us if you want.",
-    "fre": "Tu peux y aller sans nous si tu veux. / Vous pouvez y aller sans nous si vous voulez."
+    "fre": "Tu peux aller sans nous si tu veux. / Vous pouvez aller sans nous si vous voulez"
   },
   {
     "eng": "I don't know how to do it.",
-    "fre": "Je ne sais pas comment le faire."
+    "fre": "Je ne sais pas le faire."
   },
   {
     "eng": "What are you going to eat?",
-    "fre": "Que vas-tu manger ? / Qu'allez-vous manger ?"
+    "fre": "Que vas-tu manger? / Qu'allez-vous manger?"
   },
   {
     "eng": "We like going abroad on holiday.",
-    "fre": "Nous aimons aller à l'étranger en vacances."
+    "fre": "Nous aimons aller à l'étranger en vacances"
   },
   {
     "eng": "We love eating here because the food is always delicious.",
-    "fre": "Nous adorons manger ici parce que la nourriture est toujours délicieuse."
+    "fre": "Nous adorons manger ici parce que la / nourriture est toujours délicieuse."
   },
   {
-    "eng": "Which wine do you usually prefer to drink?",
-    "fre": "Quel vin préfères-tu boire d'habitude ? / Quel vin préférez-vous boire d'habitude ?"
+    "eng": "Which wine do you prefer to drink usually",
+    "fre": "Quel vin préfères-tu / préférez-vous / boire d'habitude?"
   },
   {
     "eng": "I'm not listening to the radio.",
@@ -177,15 +129,15 @@
   },
   {
     "eng": "I'm going to ask for some water for the table.",
-    "fre": "Je vais demander de l'eau pour la table."
+    "fre": "Je vais demander de l'eau pour la table"
   },
   {
     "eng": "What are you looking at?",
-    "fre": "Que regardes-tu ? / Que regardez-vous ? / Qu'est-ce que tu regardes ? / Qu'est-ce que vous regardez ?"
+    "fre": "Que regardes-tu? / Que regardez-vous? / Qu'est-ce que tu regardes? / Qu'est-ce que vous regardez?"
   },
   {
     "eng": "Can you look at this?",
-    "fre": "Peux-tu regarder ceci ? / Pouvez-vous regarder ceci ? / Est-ce que tu peux regarder ceci ? / Est-ce que vous pouvez regarder ceci ?"
+    "fre": "Peux-tu regarder ceci? / Pouvez-vous regarder ceci? / Est-ce que tu peux regarder ceci? / Est-ce que vous pouvez regarder ceci?"
   },
   {
     "eng": "We've already paid for the champagne.",
@@ -197,11 +149,11 @@
   },
   {
     "eng": "What are they listening to?",
-    "fre": "Qu'écoutent-ils ? / Qu'est-ce qu'ils écoutent ?"
+    "fre": "Qu'écoutent-ils? / Qu'est-ce qu'ils écoutent?"
   },
   {
-    "eng": "I'm looking for somewhere to leave my bag.",
-    "fre": "Je cherche un endroit où laisser mon sac."
+    "eng": "looking for somewhere to leave my be",
+    "fre": "cherche quelque part où laisser mon s."
   },
   {
     "eng": "from / of",
@@ -209,10 +161,10 @@
   },
   {
     "eng": "on",
-    "fre": "sur"
+    "fre": "SUI"
   },
   {
-    "eng": "in",
+    "eng": "In",
     "fre": "dans"
   },
   {
@@ -224,8 +176,8 @@
     "fre": "regarder"
   },
   {
-    "eng": "to ask somebody for something",
-    "fre": "demander quelque chose à quelqu'un"
+    "eng": "o ask somebody for somethin,",
+    "fre": "demander qch à qqn"
   },
   {
     "eng": "to listen to",
@@ -244,100 +196,84 @@
     "fre": "préférer"
   },
   {
-    "eng": "I know how to cook chicken.",
-    "fre": "Je sais cuisiner le poulet."
-  },
-  {
-    "eng": "Do you know how to get to the station?",
-    "fre": "Sais-tu comment aller à la gare ? / Savez-vous comment aller à la gare ?"
-  },
-  {
-    "eng": "She doesn't know how to drive.",
-    "fre": "Elle ne sait pas conduire."
-  },
-  {
-    "eng": "We prefer to travel by train.",
-    "fre": "Nous préférons voyager en train."
-  },
-  {
-    "eng": "Do they prefer to eat here?",
-    "fre": "Préfèrent-ils manger ici ?"
-  },
-  {
     "eng": "Do you prefer drinking red wine or white wine?",
-    "fre": "Préfères-tu boire du vin rouge ou du vin blanc ? / Préférez-vous boire du vin rouge ou du vin blanc ?"
+    "fre": "Préfères-tu / Préférez-vous boire le vin / rouge ou le vin blanc?"
   },
   {
-    "eng": "We love visiting the Eiffel Tower when we're in Paris.",
-    "fre": "Nous adorons visiter la tour Eiffel quand nous sommes à Paris."
+    "eng": "We love visiting the Eiffel Tower when were in Paris.",
+    "fre": "ous adorons visiter la Tour Eiffel quant / nous sommes à Paris."
   },
   {
     "eng": "What do you like doing in the evening?",
-    "fre": "Qu'aimes-tu faire le soir ? / Qu'aimez-vous faire le soir ?"
+    "fre": "Qu'aimes-tu faire le soir? / Qu'aimez-vous faire le soir?"
   },
   {
     "eng": "She's going to call us later.",
     "fre": "Elle va nous appeler plus tard."
   },
   {
-    "eng": "They don't know how to speak French, but they speak Spanish very well.",
-    "fre": "Ils ne savent pas parler français, mais ils parlent très bien espagnol."
+    "eng": "they speak Spanish very well.",
+    "fre": "Is ne savent pas parler français, mais il: / parlent très bien l'espagnol."
   },
   {
     "eng": "We can't leave until twelve o'clock, so don't eat too much now because there isn't much food.",
-    "fre": "Nous ne pouvons pas partir avant midi, donc ne mange pas trop maintenant parce qu'il n'y a pas beaucoup de nourriture. / Nous ne pouvons pas partir avant midi, donc ne mangez pas trop maintenant parce qu'il n'y a pas beaucoup de nourriture."
+    "fre": "Nous ne pouvons pas partir jusqu'à dou: / heures, donc ne mange / ne mangez pas trop maintenant parce qu'il n'y a pas / beaucoup de nourriture."
   },
   {
     "eng": "They wanted to stay here, but they're too young.",
-    "fre": "Ils voulaient rester ici, mais ils sont trop jeunes."
+    "fre": "Ils voulaient rester ici, mais ils sont / trop jeunes."
   },
   {
-    "eng": "I'm listening to something, so don't speak to me.",
-    "fre": "J'écoute quelque chose, donc ne me parle pas. / J'écoute quelque chose, donc ne me parlez pas."
+    "eng": "You remind me of my brother.",
+    "fre": "Tu me rappelles / Vous me rappelez / mon frère."
   },
   {
-    "eng": "Can you ask Sophie for some more cheese?",
-    "fre": "Peux-tu demander plus de fromage à Sophie ? / Pouvez-vous demander plus de fromage à Sophie ?"
+    "eng": "I'm listening to something, so don't",
+    "fre": "speak to me. / coute quelque chose, donc ne me par / pas / ne me parlez pas."
+  },
+  {
+    "eng": "Can you ask Sophie for",
+    "fre": "Peux-tu demander plus de / fromage à Sophie?"
   },
   {
     "eng": "What did they ask for?",
     "fre": "Qu'ont-ils demandé?"
   },
   {
-    "eng": "Pierre said he's looking for his keys, but I think he left them at Marie's.",
-    "fre": "Pierre a dit qu'il cherche ses clés, mais je pense qu'il les a laissées chez Marie."
+    "eng": "erre said he's looking for his keys, but f",
+    "fre": "ierre a dit qu'il cherche ses clés, mais / pense qu'il les a laissées chez Marie."
   },
   {
-    "eng": "Don't wait for Marie; she's very busy and she doesn't finish until 5 p.m.",
-    "fre": "N'attends pas Marie ; elle est très occupée et elle ne finit pas avant dix-sept heures. / N'attendez pas Marie ; elle est très occupée et elle ne finit pas avant dix-sept heures."
+    "eng": "Don't wait for Marie; she's very busy and she doesn't finish until 5pm.",
+    "fre": "attendez pas Marie; elle est très occupt / elle ne finit pas jusqu'à dix-sept heure"
   },
   {
     "eng": "Marie paid for the food, so what did Pierre pay for?",
-    "fre": "Marie a payé la nourriture, donc qu'est-ce que Pierre a payé ?"
+    "fre": "Marie a payé la nourriture, / donc que Pierre a-t-il payé?"
   },
   {
-    "eng": "They're looking at something, but I don't know what.",
-    "fre": "Ils regardent quelque chose, mais je ne sais pas quoi."
+    "eng": "They're looking at something but I don't know what.",
+    "fre": "Ils regardent quelque chose / mais je ne sais pas quoi."
   },
   {
-    "eng": "I'm sorry, but I don't know how to fix that.",
-    "fre": "Je suis désolé, mais je ne sais pas comment réparer ça."
+    "eng": "m sorry but I don't know how to fix that",
+    "fre": "suis désolé mais je ne sais pas réparer"
   },
   {
-    "eng": "He has a lot to do, but he wants to watch a film.",
-    "fre": "Il a beaucoup à faire, mais il veut regarder un film."
+    "eng": "He has a lot to do, but he",
+    "fre": "Il a beaucoup à faire, / mais il veut regarder un film."
   },
   {
-    "eng": "Can you tell me how to say \"tree\" in French?",
-    "fre": "Peux-tu me dire comment dire « tree » en français ? / Pouvez-vous me dire comment dire « tree » en français ?"
+    "eng": "n you tell me how to say \"tree\" in Frenc",
+    "fre": "eux-tu / Pouvez-vous me dire commer / dire \"tree\" en français?"
   },
   {
-    "eng": "Where is the sports centre?",
-    "fre": "Où est le centre sportif ?"
+    "eng": "Where is the sport stadium?",
+    "fre": "Où est le centre sportif?"
   },
   {
-    "eng": "Are they going to do it later?",
-    "fre": "Vont-ils le faire plus tard ? / Est-ce qu'ils vont le faire plus tard ?"
+    "eng": "Are they going to doit later?",
+    "fre": "Vont-ils le faire plus tard? / Est-ce qu'ils vont le faire plus tard?"
   },
   {
     "eng": "My dinner is perfect.",
@@ -345,15 +281,15 @@
   },
   {
     "eng": "Do you have any sugar?",
-    "fre": "As-tu du sucre ? / Avez-vous du sucre ?"
+    "fre": "As-tu / Avez-vous du sucre?"
   },
   {
     "eng": "The fridge doesn't work.",
     "fre": "Le frigo ne marche pas."
   },
   {
-    "eng": "After the restaurant, go straight on and then take the third road on the left.",
-    "fre": "Après le restaurant, allez tout droit, puis prenez la troisième rue à gauche."
+    "eng": "After the restaurant, go straight on anc then take the third road on the left.",
+    "fre": "orés le restaurant, allez tout droit et pu / prenez la troisieme rue a gauche."
   },
   {
     "eng": "I would like to buy this dress.",
@@ -361,15 +297,15 @@
   },
   {
     "eng": "How do I get to the city centre?",
-    "fre": "Comment aller au centre-ville ?"
+    "fre": "Pour aller au centre-ville?"
   },
   {
-    "eng": "Do you have a room available for tonight?",
-    "fre": "Avez-vous une chambre disponible pour ce soir ?"
+    "eng": "o you have a room available for tonigh",
+    "fre": "Avez-vous une chambre disponible / pour ce soir?"
   },
   {
     "eng": "I wonder if there is somebody here who speaks English.",
-    "fre": "Je me demande s'il y a quelqu'un ici qui parle anglais."
+    "fre": "Je me demande sil y a / quelqu'un ici qui parle anglais."
   },
   {
     "eng": "We have lost the card.",
@@ -377,11 +313,11 @@
   },
   {
     "eng": "The postman is here, but he doesn't have any letters for you.",
-    "fre": "Le facteur est ici, mais il n'a pas de lettres pour toi. / Le facteur est ici, mais il n'a pas de lettres pour vous."
+    "fre": "Le facteur est ici, mais il / n'a pas de lettrès pour toi."
   },
   {
     "eng": "What are you scared of?",
-    "fre": "De quoi as-tu peur ? / De quoi avez-vous peur ?"
+    "fre": "De quoi as-tu peur?"
   },
   {
     "eng": "They finish at seven o'clock.",
@@ -389,7 +325,7 @@
   },
   {
     "eng": "I think everybody here speaks English.",
-    "fre": "Je pense que tout le monde ici parle anglais."
+    "fre": "Jense que tout le monde ici parle angl."
   },
   {
     "eng": "What did you have to do?",
@@ -412,56 +348,60 @@
     "fre": "changer (de)"
   },
   {
-    "eng": "I'm going to change clothes.",
-    "fre": "Je vais changer de vêtements."
+    "eng": "I'm going to change clothes",
+    "fre": "je vais changer de vêtements"
   },
   {
-    "eng": "Are you going to change the reservation?",
-    "fre": "Vas-tu changer la réservation ? / Allez-vous changer la réservation ?"
+    "eng": "are you going to change the réservation?",
+    "fre": "vas-tu changer de réservation?"
   },
   {
-    "eng": "He's changed his opinion.",
-    "fre": "Il a changé d'opinion."
+    "eng": "he's changed his opinion (7",
+    "fre": "il a change d'opinion"
   },
   {
-    "eng": "I want to change cars.",
-    "fre": "Je veux changer de voiture."
+    "eng": "I want to change my car",
+    "fre": "je veux changer de voiture"
   },
   {
-    "eng": "I want to change my car.",
-    "fre": "Je veux changer ma voiture."
+    "eng": "I want to change cars / my car",
+    "fre": "je veux changer de voiture"
   },
   {
-    "eng": "He has changed his opinion.",
-    "fre": "Il a changé d'opinion."
+    "eng": "I want to change my car",
+    "fre": "je veux changer ma voiture"
   },
   {
-    "eng": "I want to change shoes.",
-    "fre": "Je veux changer de chaussures."
+    "eng": "he has changed his opinion",
+    "fre": "il a changé d'opinion"
   },
   {
-    "eng": "I want to change the shoes.",
-    "fre": "Je veux changer les chaussures."
+    "eng": "I want to change shoes (/ want to get a new pair)",
+    "fre": "je veux changer de chaussures"
   },
   {
-    "eng": "I want to change my hairstyle.",
-    "fre": "Je veux changer de coiffure."
+    "eng": "I want to change the shoes (/ want to alter them slightly - paint them Perron 7?",
+    "fre": "je veux changer les chaussures"
   },
   {
-    "eng": "I want to change my hair.",
-    "fre": "Je veux changer ma coiffure."
+    "eng": "I want to change my hairstyle (/ want to get it cut into a whole new style)",
+    "fre": "je veux changer de coiffure"
   },
   {
-    "eng": "I have to change the light bulb.",
-    "fre": "Je dois changer l'ampoule."
+    "eng": "I want to change my hair (/ want to put it up into a ponytail or something) >",
+    "fre": "je veux changer ma coiffure"
   },
   {
-    "eng": "I have to change to a different light bulb.",
-    "fre": "Je dois changer d'ampoule."
+    "eng": "I have to change the lightbulb (the same type of bulb, but one that works)",
+    "fre": "je dois changer l'ampoule"
+  },
+  {
+    "eng": "(the old one still works, but I'm going to get a different type - perhaps a brighter one) ( '",
+    "fre": "je dois changer d'ampoule"
   },
   {
     "eng": "Why did you change your coat?",
-    "fre": "Pourquoi as-tu changé de manteau ? / Pourquoi avez-vous changé de manteau ?"
+    "fre": "Pourquoi as-tu / avez-vous changé / de manteau?"
   },
   {
     "eng": "I think she's changed cars.",
@@ -469,47 +409,31 @@
   },
   {
     "eng": "I need to change this a bit.",
-    "fre": "J'ai besoin de changer ça un peu."
+    "fre": "J'ai besoin de changer ceci un peu."
   },
   {
     "eng": "I've changed the room a bit.",
-    "fre": "J'ai un peu changé la chambre."
+    "fre": "J'ai changé la chambre un peu."
   },
   {
     "eng": "I've changed rooms.",
     "fre": "J'ai changé de chambre."
   },
   {
-    "eng": "We changed hotels yesterday.",
-    "fre": "Nous avons changé d'hôtel hier."
-  },
-  {
-    "eng": "Do you want to change seats?",
-    "fre": "Veux-tu changer de place ? / Voulez-vous changer de place ?"
-  },
-  {
-    "eng": "She changed dresses before dinner.",
-    "fre": "Elle a changé de robe avant le dîner."
-  },
-  {
-    "eng": "I don't want to change my plans.",
-    "fre": "Je ne veux pas changer mes projets."
-  },
-  {
     "eng": "to decide (to)",
     "fre": "décider (de)"
   },
   {
-    "eng": "I've decided to eat here.",
-    "fre": "J'ai décidé de manger ici."
+    "eng": "I've decided to eat here",
+    "fre": "j'ai décidé de manger ici"
   },
   {
-    "eng": "I haven't decided yet.",
-    "fre": "Je n'ai pas encore décidé."
+    "eng": "I haven't decided yet",
+    "fre": "je n'ai pas encore décidé"
   },
   {
-    "eng": "Have you decided?",
-    "fre": "As-tu décidé ? / Avez-vous décidé ?"
+    "eng": "have you decided?",
+    "fre": "avez-vous décidé?"
   },
   {
     "eng": "I've decided to leave tomorrow.",
@@ -517,71 +441,55 @@
   },
   {
     "eng": "Have Marie and Pierre decided to come too?",
-    "fre": "Marie et Pierre ont-ils décidé de venir aussi ?"
+    "fre": "rie et Pierre ont-ils décidé de venir aus"
   },
   {
-    "eng": "Who decided to bring five bottles of wine?",
-    "fre": "Qui a décidé d'apporter cinq bouteilles de vin ?"
+    "eng": "ho decided to bring five bottles of wine",
+    "fre": "Qui a décidé d'apporter cinq / bouteilles de vin?"
   },
   {
-    "eng": "Marie has decided to wait for us outside.",
-    "fre": "Marie a décidé de nous attendre dehors."
+    "eng": "Aarie has decided to wait for us outside",
+    "fre": "NMarie a décidé de nous attendre dehor:"
   },
   {
-    "eng": "Pierre decided to leave the dog at home.",
-    "fre": "Pierre a décidé de laisser le chien à la maison."
+    "eng": "ierre decided to leave the dog at home",
+    "fre": "erre a décidé de laisser le chien chez"
   },
   {
     "eng": "Sophie needs to decide where she wants to eat.",
-    "fre": "Sophie doit décider où elle veut manger."
+    "fre": "Sophie a besoin de décider ou / elle veut manger."
   },
   {
     "eng": "Why haven't they decided yet?",
     "fre": "Pourquoi n'ont-ils pas encore décidé?"
   },
   {
-    "eng": "Have you decided what you want to do?",
-    "fre": "As-tu décidé ce que tu veux faire ? / Avez-vous décidé ce que vous voulez faire ?"
+    "eng": "lave you decided what you want to do",
+    "fre": "As-tu décidé ce que tu veux faire? / ez-vous décidé ce que vous voulez fair"
   },
   {
     "eng": "You must decide soon.",
-    "fre": "Tu dois décider bientôt. / Vous devez décider bientôt."
-  },
-  {
-    "eng": "I decided to stay at home.",
-    "fre": "J'ai décidé de rester à la maison."
-  },
-  {
-    "eng": "We haven't decided where to go yet.",
-    "fre": "Nous n'avons pas encore décidé où aller."
-  },
-  {
-    "eng": "Did Pierre decide to come?",
-    "fre": "Pierre a-t-il décidé de venir ?"
-  },
-  {
-    "eng": "She is going to decide tomorrow.",
-    "fre": "Elle va décider demain."
+    "fre": "Tu dois / Vous devez décider bientôt."
   },
   {
     "eng": "to choose (to)",
     "fre": "choisir (de)"
   },
   {
-    "eng": "I've chosen to eat here.",
-    "fre": "J'ai choisi de manger ici."
+    "eng": "I've chosen to eat here",
+    "fre": "j'ai choisi de manger ici"
   },
   {
-    "eng": "I haven't chosen yet.",
-    "fre": "Je n'ai pas encore choisi."
+    "eng": "I haven't chosen yet",
+    "fre": "je n'ai pas encore choisi"
   },
   {
-    "eng": "I chose the chicken.",
-    "fre": "J'ai choisi le poulet."
+    "eng": "I chose the chicken",
+    "fre": "j'ai choisi le poulet"
   },
   {
     "eng": "Why did you choose to eat here?",
-    "fre": "Pourquoi as-tu choisi de manger ici ? / Pourquoi avez-vous choisi de manger ici ?"
+    "fre": "Pourquoi as-tu / avez-vous / choisi de manger ici?"
   },
   {
     "eng": "Who chose to buy this?",
@@ -589,51 +497,35 @@
   },
   {
     "eng": "What are you choosing?",
-    "fre": "Que choisis-tu ? / Que choisissez-vous ?"
+    "fre": "Que choisis-tu? / Que choisissez-vous?"
   },
   {
     "eng": "I chose the turkey and Marie chose the chicken.",
-    "fre": "J'ai choisi la dinde et Marie a choisi le poulet."
-  },
-  {
-    "eng": "Have you chosen a hotel?",
-    "fre": "As-tu choisi un hôtel ? / Avez-vous choisi un hôtel ?"
-  },
-  {
-    "eng": "She chose the blue dress.",
-    "fre": "Elle a choisi la robe bleue."
-  },
-  {
-    "eng": "We are choosing a restaurant for tonight.",
-    "fre": "Nous choisissons un restaurant pour ce soir."
-  },
-  {
-    "eng": "Choose what you want.",
-    "fre": "Choisis ce que tu veux. / Choisissez ce que vous voulez."
+    "fre": "choisi la dinde et Marie a choisi le pou"
   },
   {
     "eng": "to try (to)",
     "fre": "essayer (de)"
   },
   {
-    "eng": "I tried to do it.",
-    "fre": "J'ai essayé de le faire."
+    "eng": "I tried to do it",
+    "fre": "j'ai essayé de le faire"
   },
   {
-    "eng": "I haven't tried it yet.",
-    "fre": "Je ne l'ai pas encore essayé."
+    "eng": "I haven't tried it yet",
+    "fre": "je n'ai pas encore essayé"
   },
   {
-    "eng": "I tried the chicken.",
-    "fre": "J'ai essayé le poulet."
+    "eng": "I tried the chicken",
+    "fre": "j'ai essayé le poulet"
   },
   {
     "eng": "Why didn't you try to speak English?",
-    "fre": "Pourquoi n'as-tu pas essayé de parler anglais ? / Pourquoi n'avez-vous pas essayé de parler anglais ?"
+    "fre": "Pourquoi n'as-tu pas essayé de / parler anglais? / Pourquoi n'avez-vous pas essayé de"
   },
   {
     "eng": "Why don't you try this?",
-    "fre": "Pourquoi n'essaies-tu pas ceci ? / Pourquoi n'essayez-vous pas ceci ?"
+    "fre": "Pourquoi n'essayes-tu pas ceci? / Pourquoi n'essayez-vous pas ceci?"
   },
   {
     "eng": "What did they try?",
@@ -641,39 +533,23 @@
   },
   {
     "eng": "I tried the turkey and Marie tried the chicken.",
-    "fre": "J'ai essayé la dinde et Marie a essayé le poulet."
-  },
-  {
-    "eng": "Try the wine; it's very good.",
-    "fre": "Essaie le vin ; il est très bon. / Essayez le vin ; il est très bon."
-  },
-  {
-    "eng": "I'm going to try to call Marie.",
-    "fre": "Je vais essayer d'appeler Marie."
-  },
-  {
-    "eng": "They tried to find the hotel.",
-    "fre": "Ils ont essayé de trouver l'hôtel."
-  },
-  {
-    "eng": "Have you tried this cheese?",
-    "fre": "As-tu essayé ce fromage ? / Avez-vous essayé ce fromage ?"
+    "fre": "J'ai essayé la dinde et Marie a / essayé le poulet."
   },
   {
     "eng": "The trains in France are very fast.",
     "fre": "Les trains en France sont très rapides."
   },
   {
-    "eng": "I forgot to do it.",
-    "fre": "J'ai oublié de le faire."
+    "eng": "I forgot to doit",
+    "fre": "j'ai oublié de le faire"
   },
   {
-    "eng": "I totally forgot.",
-    "fre": "J'ai complètement oublié."
+    "eng": "I totally forgot",
+    "fre": "j'ai totalement oublié"
   },
   {
-    "eng": "I forgot my money.",
-    "fre": "J'ai oublié mon argent."
+    "eng": "I forgot my money",
+    "fre": "j'ai oublié mon argent"
   },
   {
     "eng": "What did she forget to do?",
@@ -688,184 +564,136 @@
     "fre": "A-t-il oublié d'appeler Marie?"
   },
   {
-    "eng": "Did you forget to order my chicken?",
-    "fre": "As-tu oublié de commander mon poulet ? / Avez-vous oublié de commander mon poulet ?"
+    "eng": "did you forget to order my chicken",
+    "fre": "Comment as-tu / avez-vous oublié de / commander mon poulet?"
   },
   {
     "eng": "What did you forget?",
-    "fre": "Qu'as-tu oublié ? / Qu'avez-vous oublié ?"
+    "fre": "Qu'as-tu oublié? / Qu'avez-vous oublié?"
   },
   {
     "eng": "I totally forgot the documents.",
     "fre": "J'ai totalement oublié les documents."
   },
   {
-    "eng": "Don't forget your keys.",
-    "fre": "N'oublie pas tes clés. / N'oubliez pas vos clés."
+    "eng": "to talk / to Speak (about)",
+    "fre": "parler (de)"
   },
   {
-    "eng": "I always forget his name.",
-    "fre": "J'oublie toujours son nom."
-  },
-  {
-    "eng": "She forgot to bring the tickets.",
-    "fre": "Elle a oublié d'apporter les billets."
-  },
-  {
-    "eng": "We didn't forget the wine.",
-    "fre": "Nous n'avons pas oublié le vin."
-  },
-  {
-    "eng": "to talk / to speak about",
-    "fre": "parler de"
-  },
-  {
-    "eng": "Pierre spoke openly about what he did.",
-    "fre": "Pierre a parlé ouvertement de ce qu'il a fait."
+    "eng": "Pierre spoke openly about what he did",
+    "fre": "rre a parlé ouvertement de ce qu'il a fi"
   },
   {
     "eng": "Marie spoke a lot about you.",
-    "fre": "Marie a beaucoup parlé de toi. / Marie a beaucoup parlé de vous."
+    "fre": "Marie a parlé beaucoup de toi / vous."
   },
   {
     "eng": "What are you talking about?",
-    "fre": "De quoi parlez-vous ?"
+    "fre": "De quoi parlez-vous?"
   },
   {
     "eng": "What are you talking about?",
-    "fre": "De quoi parles-tu ? / De quoi parlez-vous ?"
+    "fre": "De quoi parles-tu? / De quoi parlez-vous?"
   },
   {
     "eng": "What did Pierre talk about?",
     "fre": "De quoi Pierre a-t-il parlé?"
   },
   {
-    "eng": "We're talking about our holiday.",
-    "fre": "Nous parlons de nos vacances."
+    "eng": "I need a coffee",
+    "fre": "j'ai besoin d'un café"
   },
   {
-    "eng": "She doesn't like talking about work.",
-    "fre": "Elle n'aime pas parler du travail."
+    "eng": "what do you need?",
+    "fre": "de quoi as-tu besoin?"
   },
   {
-    "eng": "Did you talk about the hotel?",
-    "fre": "As-tu parlé de l'hôtel ? / Avez-vous parlé de l'hôtel ?"
-  },
-  {
-    "eng": "They talked about the film all evening.",
-    "fre": "Ils ont parlé du film toute la soirée."
-  },
-  {
-    "eng": "I need a coffee.",
-    "fre": "J'ai besoin d'un café."
+    "eng": "What does Pierre need? (?",
+    "fre": "de quoi Pierre a-t-il besoin?"
   },
   {
     "eng": "What do you need?",
-    "fre": "De quoi as-tu besoin ?"
-  },
-  {
-    "eng": "What does Pierre need?",
-    "fre": "De quoi Pierre a-t-il besoin ?"
-  },
-  {
-    "eng": "What do you need?",
-    "fre": "De quoi as-tu besoin ? / De quoi avez-vous besoin ?"
+    "fre": "De quoi as-tu besoin? / De quoi avez-vous besoin?"
   },
   {
     "eng": "What do you need to do?",
-    "fre": "Qu'est-ce que tu dois faire ? / Qu'est-ce que vous devez faire ?"
+    "fre": "Qu'as-tu besoin de faire? / Qu'avez-vous besoin de faire?"
   },
   {
-    "eng": "I need some water.",
-    "fre": "J'ai besoin d'eau."
-  },
-  {
-    "eng": "Do you need a ticket?",
-    "fre": "As-tu besoin d'un billet ? / Avez-vous besoin d'un billet ?"
-  },
-  {
-    "eng": "We need to leave now.",
-    "fre": "Nous devons partir maintenant."
-  },
-  {
-    "eng": "Pierre doesn't need any help.",
-    "fre": "Pierre n'a pas besoin d'aide."
-  },
-  {
-    "eng": "We're not letting the children get up before 7 a.m.",
-    "fre": "Nous ne permettons pas aux enfants de se lever avant sept heures."
+    "eng": "We're not letting the children get up before 7am.",
+    "fre": "Nous ne permettons pas aux enfants / de se lever avant sept heures."
   },
   {
     "eng": "Why did they let Michel leave?",
-    "fre": "Pourquoi ont-ils permis à Michel de partir ?"
+    "fre": "urquoi ont-ils permis a Michel de parti"
   },
   {
     "eng": "They don't let the children eat upstairs.",
-    "fre": "Ils ne permettent pas aux enfants de manger à l'étage."
+    "fre": "Ils ne permettent pas aux enfants de / manger en haut / à l'étage."
   },
   {
-    "eng": "to continue / to carry on doing something",
-    "fre": "continuer à faire quelque chose"
+    "eng": "to continue / to carry on (-ing)",
+    "fre": "continuer (à/de)"
   },
   {
-    "eng": "to dream of",
-    "fre": "rêver de"
+    "eng": "to dream (of)",
+    "fre": "rêver (à/de)"
   },
   {
     "eng": "(to) ask somebody to do something",
     "fre": "demander à qqn de faire qch"
   },
   {
-    "eng": "to tell somebody to do something",
-    "fre": "dire à quelqu'un de faire quelque chose"
+    "eng": "tell somebody to do somethit",
+    "fre": "lire à qqn de faire qcl"
   },
   {
-    "eng": "to let somebody do something / to allow somebody to do something",
-    "fre": "permettre à quelqu'un de faire quelque chose"
+    "eng": "to let somebody do something o allow somebody to do",
+    "fre": "permettre à qqn de faire qch"
   },
   {
     "eng": "Did you dream of anything interesting?",
-    "fre": "As-tu rêvé de quelque chose d'intéressant ? / Avez-vous rêvé de quelque chose d'intéressant ?"
+    "fre": "As-tu / Avez-vous rêvé à / de / quelque chose d'intéressant?"
   },
   {
     "eng": "I'm going to carry on working here until next year.",
-    "fre": "Je vais continuer à travailler ici jusqu'à l'année prochaine."
+    "fre": "Je vais continuer à / de travailler ici / jusqu'à l'année prochaine."
   },
   {
-    "eng": "Can you ask somebody to help us find our suitcases?",
-    "fre": "Peux-tu demander à quelqu'un de nous aider à trouver nos valises ? / Pouvez-vous demander à quelqu'un de nous aider à trouver nos valises ?"
+    "eng": "Can you ask somebody to help US find our suitcases.",
+    "fre": "Peux-tu / Pouvez-vous demander à / quelqu'un de nous aider à trouver / nos valises. a"
   },
   {
-    "eng": "We told Marie to ask Sophie to come with us tomorrow.",
-    "fre": "Nous avons dit à Marie de demander à Sophie de venir avec nous demain."
+    "eng": "come with us tomorrow.",
+    "fre": "We told Marie to ask Sophie to"
   },
   {
     "eng": "I'm not letting the dog eat the chicken.",
-    "fre": "Je ne permets pas au chien de manger le poulet."
+    "fre": "Je ne permets pas au chien de / manger le poulet."
   },
   {
     "eng": "Do you want to carry on doing it now?",
-    "fre": "Veux-tu continuer à le faire maintenant ? / Voulez-vous continuer à le faire maintenant ?"
+    "fre": "Veux-tu / Voulez-vous continuer à / de / le faire maintenant?"
   },
   {
-    "eng": "Michel dreams of going to Italy one day.",
+    "eng": "Michel dreams of going to Italy one day",
     "fre": "Michel rêve d'aller en Italie un jour."
   },
   {
     "eng": "Pierre told everybody to do something useful instead of watching TV.",
-    "fre": "Pierre a dit à tout le monde de faire quelque chose d'utile au lieu de regarder la télévision."
+    "fre": "rre a dit à tout le monde de faire quelc / chose d'utile au lieu de regarder / la télévision. a"
   },
   {
     "eng": "Don't let the children eat too much chocolate.",
-    "fre": "Ne permets pas aux enfants de manger trop de chocolat. / Ne permettez pas aux enfants de manger trop de chocolat."
+    "fre": "Ne permets pas / Ne permettez pas au; / enfants de manger trop de chocolat."
   },
   {
     "eng": "Let me tell you something interesting.",
-    "fre": "Permets-moi de te dire quelque chose d'intéressant. / Permettez-moi de vous dire quelque chose d'intéressant."
+    "fre": "Permets-moi de te dire quelque / chose d'intéressant."
   },
   {
     "eng": "I asked the waiter to put a bottle of water on the table for us.",
-    "fre": "J'ai demandé au serveur de mettre une bouteille d'eau sur la table pour nous."
+    "fre": "'ai demandé au serveur de mettre une / bouteille d'eau sur la table pour nous."
   },
   {
     "eng": "What did you tell Pierre to do?",
@@ -873,75 +701,15 @@
   },
   {
     "eng": "Let everybody do what they want.",
-    "fre": "Permettez à tout le monde de faire ce qu'il veut."
-  },
-  {
-    "eng": "Ask Pierre to wait for us.",
-    "fre": "Demande à Pierre de nous attendre. / Demandez à Pierre de nous attendre."
-  },
-  {
-    "eng": "She asked me to help her.",
-    "fre": "Elle m'a demandé de l'aider."
-  },
-  {
-    "eng": "Did they ask you to bring anything?",
-    "fre": "T'ont-ils demandé d'apporter quelque chose ? / Vous ont-ils demandé d'apporter quelque chose ?"
-  },
-  {
-    "eng": "Tell Marie to call me.",
-    "fre": "Dis à Marie de m'appeler. / Dites à Marie de m'appeler."
-  },
-  {
-    "eng": "He told us to leave early.",
-    "fre": "Il nous a dit de partir tôt."
-  },
-  {
-    "eng": "Who told Pierre to wait outside?",
-    "fre": "Qui a dit à Pierre d'attendre dehors ?"
-  },
-  {
-    "eng": "They let the children watch the film.",
-    "fre": "Ils permettent aux enfants de regarder le film."
-  },
-  {
-    "eng": "My parents don't let me drive their car.",
-    "fre": "Mes parents ne me permettent pas de conduire leur voiture."
-  },
-  {
-    "eng": "Will you let us wait inside?",
-    "fre": "Allez-vous nous permettre d'attendre à l'intérieur ?"
+    "fre": "Permettez à tout le monde / de faire ce qu'ils veulent."
   },
   {
     "eng": "We can't carry on living here.",
-    "fre": "Nous ne pouvons pas continuer à habiter ici."
-  },
-  {
-    "eng": "Carry on speaking French.",
-    "fre": "Continue à parler français. / Continuez à parler français."
-  },
-  {
-    "eng": "She continued working after dinner.",
-    "fre": "Elle a continué à travailler après le dîner."
-  },
-  {
-    "eng": "Are you going to continue living here?",
-    "fre": "Vas-tu continuer à habiter ici ? / Allez-vous continuer à habiter ici ?"
-  },
-  {
-    "eng": "I dream of living near the sea.",
-    "fre": "Je rêve d'habiter près de la mer."
-  },
-  {
-    "eng": "He dreamed of Paris last night.",
-    "fre": "Il a rêvé de Paris la nuit dernière."
-  },
-  {
-    "eng": "What do you dream of doing one day?",
-    "fre": "Que rêves-tu de faire un jour ? / Que rêvez-vous de faire un jour ?"
+    "fre": "Nous ne pouvons pas continuer / à habiter ici."
   },
   {
     "eng": "We live in Paris.",
-    "fre": "On habite à Paris. / Nous habitons à Paris."
+    "fre": "On habite / Nous habitons à Paris."
   },
   {
     "eng": "What time can I go to the beach?",
@@ -949,39 +717,39 @@
   },
   {
     "eng": "Did you look for Pierre?",
-    "fre": "As-tu cherché Pierre ? / Avez-vous cherché Pierre ?"
+    "fre": "As-tu / Avez-vous cherché Pierre?"
   },
   {
     "eng": "We ate at the back of the restaurant yesterday, next to the toilets, and it was terrible.",
-    "fre": "Nous avons mangé au fond du restaurant hier, à côté des toilettes, et c'était terrible."
+    "fre": "ous avons mangé au fond du restaurar / er, à côté des toilettes, et c'était terribl"
   },
   {
     "eng": "London is in the south of England.",
-    "fre": "Londres est dans le sud de l'Angleterre."
+    "fre": "ondres est dans le sud de l'Angleterre"
   },
   {
     "eng": "I'm truly sorry, but I can't help you.",
-    "fre": "Je suis vraiment désolé, mais je ne peux pas t'aider. / Je suis vraiment désolé, mais je ne peux pas vous aider."
+    "fre": "suis vraiment désolé, mais je ne peux fF / t'aider / vous aider."
   },
   {
     "eng": "How long did you spend in Paris?",
-    "fre": "Combien de temps as-tu passé à Paris ? / Combien de temps avez-vous passé à Paris ?"
+    "fre": "Combien de temps as-tu / avez-vous / passé à Paris?"
   },
   {
     "eng": "Do you want to have dinner now?",
-    "fre": "Veux-tu dîner maintenant ? / Voulez-vous dîner maintenant ?"
+    "fre": "Veux-tu / Voulez-vous prendre le / dîner maintenant?"
   },
   {
-    "eng": "Can you see what's underneath the car?",
-    "fre": "Peux-tu voir ce qu'il y a sous la voiture ? / Pouvez-vous voir ce qu'il y a sous la voiture ?"
+    "eng": "\"an you see what's underneath the car",
+    "fre": "Peux-tu / Pouvez-vous voir ce qu'il y a / SOUS la voiture?"
   },
   {
     "eng": "We have to leave now because the supermarket will be closed soon.",
-    "fre": "Nous devons partir maintenant parce que le supermarché sera bientôt fermé."
+    "fre": "us devons partir maintenant parce que / supermarché sera fermé bientôt."
   },
   {
     "eng": "Last year, we went to Spain, and it was fantastic.",
-    "fre": "L'année dernière, nous sommes allés en Espagne, et c'était fantastique."
+    "fre": "'année dernière, nous sommes allés er / Espagne, et c'était fantastique."
   },
   {
     "eng": "How much is that?",
@@ -989,19 +757,19 @@
   },
   {
     "eng": "How do you get to the hospital?",
-    "fre": "Comment aller à l'hôpital ?"
+    "fre": "Pour aller à l'hôpital?"
   },
   {
     "eng": "Do you have a table available for six people?",
-    "fre": "Avez-vous une table disponible pour six personnes ?"
+    "fre": "Avez-vous une table / disponible pour six personnes."
   },
   {
     "eng": "He's going to try to find something in Paris for my birthday.",
-    "fre": "Il va essayer de trouver quelque chose à Paris pour mon anniversaire."
+    "fre": "Il va essayer de trouver quelque chose / à Paris pour mon anniversaire."
   },
   {
-    "eng": "He wanted to bring a bottle of wine with him, but we already have enough wine.",
-    "fre": "Il voulait apporter une bouteille de vin avec lui, mais nous avons déjà assez de vin."
+    "eng": "him, but we have enough wine already.",
+    "fre": "joulait apporter une bouteille de vin av / lui, mais nous avons déjà assez de vin. / Je wanted to bring a bottle of wine witt"
   },
   {
     "eng": "I like spending the holidays abroad.",
@@ -1009,39 +777,39 @@
   },
   {
     "eng": "I have a television in my room, but it doesn't work.",
-    "fre": "J'ai une télévision dans ma chambre, mais elle ne marche pas."
+    "fre": "J'ai une télévision dans ma chambre, / mais elle ne marche pas."
   },
   {
-    "eng": "I'm going to have breakfast at the hotel.",
-    "fre": "Je vais prendre le petit-déjeuner à l'hôtel."
+    "eng": "'m going to have breakfast at the hotel",
+    "fre": "> vais prendre le petit-déjeuner à l'hôte"
   },
   {
     "eng": "She didn't know what to eat.",
-    "fre": "Elle ne savait pas quoi manger."
+    "fre": "Elle ne sait pas quoi manger."
   },
   {
-    "eng": "to ask somebody to do something",
-    "fre": "demander à quelqu'un de faire quelque chose"
+    "eng": "ask somebody to do somethi",
+    "fre": "demander à qqn de / faire qch"
   },
   {
-    "eng": "to let somebody do something",
-    "fre": "permettre à quelqu'un de faire quelque chose"
+    "eng": "o let somebody do something",
+    "fre": "permettre à qqn de / faire qch"
   },
   {
     "eng": "to travel (by)",
     "fre": "voyager (en)"
   },
   {
-    "eng": "I'm travelling by train.",
-    "fre": "Je voyage en train."
+    "eng": "I'm travelling by train",
+    "fre": "je voyage en train"
   },
   {
-    "eng": "I'm going to travel by plane.",
-    "fre": "Je vais voyager en avion."
+    "eng": "I'm going to travel by plane",
+    "fre": "je vais voyager en avion"
   },
   {
-    "eng": "I like to travel by boat.",
-    "fre": "J'aime voyager en bateau."
+    "eng": "I like to travel by boat",
+    "fre": "jaime voyager en bateau"
   },
   {
     "eng": "She's travelling by boat.",
@@ -1061,63 +829,39 @@
   },
   {
     "eng": "She went to the supermarket by car.",
-    "fre": "Elle est allée au supermarché en voiture."
+    "fre": "lle est allée au supermarché en voiture"
   },
   {
     "eng": "They went by coach to London.",
     "fre": "Ils sont allés en car à Londres."
   },
   {
-    "eng": "I usually travel by train.",
-    "fre": "Je voyage d'habitude en train."
-  },
-  {
-    "eng": "Do you prefer travelling by car or by train?",
-    "fre": "Préfères-tu voyager en voiture ou en train ? / Préférez-vous voyager en voiture ou en train ?"
-  },
-  {
-    "eng": "We are going to travel by coach tomorrow.",
-    "fre": "Nous allons voyager en car demain."
-  },
-  {
-    "eng": "They travelled by boat because it was cheaper.",
-    "fre": "Ils ont voyagé en bateau parce que c'était moins cher."
-  },
-  {
-    "eng": "How do you usually travel to Paris?",
-    "fre": "Comment voyages-tu d'habitude jusqu'à Paris ? / Comment voyagez-vous d'habitude jusqu'à Paris ?"
-  },
-  {
-    "eng": "She doesn't like travelling by plane.",
-    "fre": "Elle n'aime pas voyager en avion."
-  },
-  {
     "eng": "to go in/to enter",
     "fre": "entrer dans"
   },
   {
-    "eng": "He went into the house. / He entered the house.",
-    "fre": "Il est entré dans la maison."
+    "eng": "> went into the house / he entered the hou:",
+    "fre": "il est entré dans la maison"
   },
   {
-    "eng": "I didn't go into the restaurant.",
-    "fre": "Je ne suis pas entré dans le restaurant."
+    "eng": "I didn't go in the restaurant",
+    "fre": "je ne suis pas entré dans le restaurant"
   },
   {
-    "eng": "Have they gone into the house?",
-    "fre": "Sont-ils entrés dans la maison ?"
+    "eng": "Have they gone in the house?",
+    "fre": "Sont-ils entrès dans la maison?"
   },
   {
-    "eng": "She hasn't gone into the restaurant yet.",
-    "fre": "Elle n'est pas encore entrée dans le restaurant."
+    "eng": "she hasn't gone into the restaurant yet",
+    "fre": "Elle n'est pas encore entrée dans / le restaurant."
   },
   {
-    "eng": "I think he has already gone into the shop.",
-    "fre": "Je pense qu'il est déjà entré dans le magasin."
+    "eng": "I think he has already gone in the shop",
+    "fre": "Je pense qu'il est déjà entré dans / le magasin."
   },
   {
-    "eng": "Go into the room.",
-    "fre": "Entre dans la chambre. / Entrez dans la chambre."
+    "eng": "Go in the room.",
+    "fre": "Vas dans la chambre. / Allez dans la chambre."
   },
   {
     "eng": "Marie hasn't gone in.",
@@ -1125,31 +869,11 @@
   },
   {
     "eng": "Pierre decided to go into the cinema without us.",
-    "fre": "Pierre a décidé d'entrer dans le cinéma sans nous."
+    "fre": "Pierre a décidé d'entrer dans le cinéma / sans nous."
   },
   {
-    "eng": "Sophie went in, but Marie waited outside.",
-    "fre": "Sophie est entrée, mais Marie a attendu dehors."
-  },
-  {
-    "eng": "Can we go into the museum now?",
-    "fre": "Pouvons-nous entrer dans le musée maintenant ?"
-  },
-  {
-    "eng": "They entered the hotel at eight o'clock.",
-    "fre": "Ils sont entrés dans l'hôtel à huit heures."
-  },
-  {
-    "eng": "Don't enter the room yet.",
-    "fre": "N'entre pas encore dans la chambre. / N'entrez pas encore dans la chambre."
-  },
-  {
-    "eng": "I saw Pierre go into the shop.",
-    "fre": "J'ai vu Pierre entrer dans le magasin."
-  },
-  {
-    "eng": "Has Marie entered the restaurant?",
-    "fre": "Marie est-elle entrée dans le restaurant ?"
+    "eng": "ophie went in but Marie waited outside",
+    "fre": "Sophie est entrée mais Marie a / attendu dehors."
   },
   {
     "eng": "to remind me of",
@@ -1176,7 +900,7 @@
     "fre": "adorer"
   },
   {
-    "eng": "to speak / to talk about",
+    "eng": "to speak / talk about",
     "fre": "parler de"
   },
   {
@@ -1188,52 +912,12 @@
     "fre": "se plaindre de"
   },
   {
-    "eng": "He always complains about the food.",
-    "fre": "Il se plaint toujours de la nourriture."
-  },
-  {
-    "eng": "Why are you complaining about the hotel?",
-    "fre": "Pourquoi te plains-tu de l'hôtel ? / Pourquoi vous plaignez-vous de l'hôtel ?"
-  },
-  {
-    "eng": "Marie complained about the room.",
-    "fre": "Marie s'est plainte de la chambre."
-  },
-  {
-    "eng": "We don't want to complain about the service.",
-    "fre": "Nous ne voulons pas nous plaindre du service."
-  },
-  {
-    "eng": "Did they complain about the price?",
-    "fre": "Se sont-ils plaints du prix ?"
-  },
-  {
     "eng": "to choose to",
     "fre": "choisir de"
   },
   {
-    "eng": "to stop doing something",
-    "fre": "s'arrêter de faire quelque chose"
-  },
-  {
-    "eng": "Stop talking for a moment.",
-    "fre": "Arrête de parler un moment. / Arrêtez de parler un moment."
-  },
-  {
-    "eng": "He stopped working at five o'clock.",
-    "fre": "Il s'est arrêté de travailler à cinq heures."
-  },
-  {
-    "eng": "Why did you stop eating?",
-    "fre": "Pourquoi t'es-tu arrêté de manger ? / Pourquoi vous êtes-vous arrêté de manger ?"
-  },
-  {
-    "eng": "They didn't stop talking.",
-    "fre": "Ils ne se sont pas arrêtés de parler."
-  },
-  {
-    "eng": "I'm going to stop drinking coffee.",
-    "fre": "Je vais arrêter de boire du café."
+    "eng": "to Stop -ing",
+    "fre": "s'arrêter de"
   },
   {
     "eng": "to forget to",
@@ -1252,26 +936,6 @@
     "fre": "partir de"
   },
   {
-    "eng": "We are leaving Paris tomorrow.",
-    "fre": "Nous partons de Paris demain."
-  },
-  {
-    "eng": "What time does the train leave London?",
-    "fre": "À quelle heure le train part-il de Londres ?"
-  },
-  {
-    "eng": "They left the hotel very early.",
-    "fre": "Ils sont partis de l'hôtel très tôt."
-  },
-  {
-    "eng": "I don't want to leave France yet.",
-    "fre": "Je ne veux pas encore partir de France."
-  },
-  {
-    "eng": "She left the restaurant at ten o'clock.",
-    "fre": "Elle est partie du restaurant à dix heures."
-  },
-  {
     "eng": "to help to",
     "fre": "aider à"
   },
@@ -1280,84 +944,36 @@
     "fre": "arriver à"
   },
   {
-    "eng": "Can you help me find my keys?",
-    "fre": "Peux-tu m'aider à trouver mes clés ? / Pouvez-vous m'aider à trouver mes clés ?"
-  },
-  {
-    "eng": "Marie helped Pierre to choose a hotel.",
-    "fre": "Marie a aidé Pierre à choisir un hôtel."
-  },
-  {
-    "eng": "We need somebody to help us.",
-    "fre": "Nous avons besoin de quelqu'un pour nous aider."
-  },
-  {
-    "eng": "I didn't manage to finish everything.",
-    "fre": "Je ne suis pas arrivé à tout finir."
-  },
-  {
-    "eng": "Did she manage to call the hotel?",
-    "fre": "Est-elle arrivée à appeler l'hôtel ?"
-  },
-  {
-    "eng": "They managed to find a table for six.",
-    "fre": "Ils sont arrivés à trouver une table pour six."
-  },
-  {
     "eng": "to be interested in",
     "fre": "s'intéresser à"
   },
   {
-    "eng": "I'm interested in French films.",
-    "fre": "Je m'intéresse aux films français."
-  },
-  {
-    "eng": "Are you interested in travelling?",
-    "fre": "T'intéresses-tu aux voyages ? / Vous intéressez-vous aux voyages ?"
-  },
-  {
-    "eng": "Pierre is interested in food and wine.",
-    "fre": "Pierre s'intéresse à la nourriture et au vin."
-  },
-  {
-    "eng": "She isn't interested in this job.",
-    "fre": "Elle ne s'intéresse pas à ce travail."
-  },
-  {
-    "eng": "to answer somebody / to answer something",
-    "fre": "répondre à quelqu'un / à quelque chose"
-  },
-  {
-    "eng": "Please answer my question.",
-    "fre": "Réponds à ma question, s'il te plaît. / Répondez à ma question, s'il vous plaît."
-  },
-  {
-    "eng": "Why didn't you answer Marie?",
-    "fre": "Pourquoi n'as-tu pas répondu à Marie ? / Pourquoi n'avez-vous pas répondu à Marie ?"
-  },
-  {
-    "eng": "He answered the letter yesterday.",
-    "fre": "Il a répondu à la lettre hier."
-  },
-  {
-    "eng": "I'm going to answer the email now.",
-    "fre": "Je vais répondre à l'e-mail maintenant."
+    "eng": "to answer somebody to answer something a,",
+    "fre": "répondre à qqn / qch"
   },
   {
     "eng": "to look like / to resemble",
     "fre": "ressembler à"
   },
   {
-    "eng": "Does Marie look like her mother?",
-    "fre": "Marie ressemble-t-elle à sa mère ?"
+    "eng": "to continue / to carry on -ing",
+    "fre": "continuer à / de"
   },
   {
-    "eng": "These two children look alike.",
-    "fre": "Ces deux enfants se ressemblent."
+    "eng": "to dream of",
+    "fre": "rêver à / de"
   },
   {
-    "eng": "You don't look like your brother.",
-    "fre": "Tu ne ressembles pas à ton frère. / Vous ne ressemblez pas à votre frère."
+    "eng": "to ask somebody; todosomething",
+    "fre": "demander à qqn de / faire qch"
+  },
+  {
+    "eng": "to tell somebody to do something a",
+    "fre": "lire à qqn de faire qcl"
+  },
+  {
+    "eng": "0 let somebody do something",
+    "fre": "permettre à qqn de / faire qch"
   },
   {
     "eng": "to travel by",
@@ -1368,24 +984,24 @@
     "fre": "aller en"
   },
   {
-    "eng": "to enter / to go in",
+    "eng": "to enter /to goin",
     "fre": "entrer dans"
   },
   {
     "eng": "We went to Paris last year, and we travelled by train.",
-    "fre": "Nous sommes allés à Paris l'année dernière et nous avons voyagé en train."
+    "fre": "us sommes allés à Paris l'année dernié / et nous avons voyagé en train."
   },
   {
-    "eng": "Why did they travel by plane? It's much less expensive to go by train.",
-    "fre": "Pourquoi ont-ils voyagé en avion ? C'est beaucoup moins cher d'aller en train."
+    "eng": "hy did they travel by plane? It's much le expensive to go by train.",
+    "fre": "Pourquoi ont-ils voyagé en avion? C'est / beaucoup moins cher aller en train."
   },
   {
-    "eng": "We went by bus, but it was a boring journey.",
-    "fre": "Nous sommes allés en bus, mais c'était un trajet ennuyeux."
+    "eng": "» went by bus, but it was a boring journ",
+    "fre": "ous sommes allés en bus, mais c'était t / trajet ennuyeux."
   },
   {
     "eng": "Why didn't you go into the restaurant?",
-    "fre": "Pourquoi n'es-tu pas entré dans le restaurant ? / Pourquoi n'êtes-vous pas entré dans le restaurant ?"
+    "fre": "ourquoi n'es-tu / n'êtes-vous pas entré / dans le restaurant?"
   },
   {
     "eng": "Can I go in the shop?",
@@ -1397,7 +1013,7 @@
   },
   {
     "eng": "I think I look a lot like Brad Pitt.",
-    "fre": "Je pense que je ressemble beaucoup à Brad Pitt."
+    "fre": "Je pense que je ressemble / beaucoup a Brad Pitt."
   },
   {
     "eng": "He doesn't look like you.",
@@ -1424,8 +1040,8 @@
     "fre": "ressembler à qqn"
   },
   {
-    "eng": "Can you help me to write a letter in French?",
-    "fre": "Peux-tu m'aider à écrire une lettre en français ? / Pouvez-vous m'aider à écrire une lettre en français ?"
+    "eng": "n you help me to write a letter in Frenc",
+    "fre": "J'Pouvez-vous à écrire ur / lettre en français?"
   },
   {
     "eng": "Did they manage to find the key?",
@@ -1433,23 +1049,23 @@
   },
   {
     "eng": "They started to learn English three weeks ago.",
-    "fre": "Ils ont commencé à apprendre l'anglais il y a trois semaines."
+    "fre": "Ils ont commencé a apprendre / l'anglais il y a trois semaines."
   },
   {
     "eng": "What is Pierre interested in?",
     "fre": "À quoi Pierre s'intéresse-t-il?"
   },
   {
-    "eng": "I don't know why they haven't answered Marie yet.",
-    "fre": "Je ne sais pas pourquoi ils n'ont pas encore répondu à Marie."
+    "eng": "I don't know why they haven't",
+    "fre": "answered Marie yet. / Je ne sais pas pourquoi ils n'ont pas / encore répondu à Marie."
   },
   {
     "eng": "We didn't manage to take the train because we woke up late.",
-    "fre": "Nous ne sommes pas arrivés à prendre le train parce que nous nous sommes réveillés tard."
+    "fre": "ous ne sommes pas arrivés à prendre / train parce que nous nous sommes / réveillés tard. 4"
   },
   {
     "eng": "When are they starting the diet?",
-    "fre": "Quand commencent-ils le régime ?"
+    "fre": "Quand commencent-ils le régime?"
   },
   {
     "eng": "Don't answer the question.",
@@ -1457,23 +1073,23 @@
   },
   {
     "eng": "Marie thinks I look like her brother, but I don't see it.",
-    "fre": "Marie pense que je ressemble à son frère, mais je ne le vois pas."
+    "fre": "Marie pense que je ressemble à son frèr / mais je ne le vois pas."
   },
   {
-    "eng": "I'm going to answer Sophie's letter now because it arrived a week ago.",
-    "fre": "Je vais répondre à la lettre de Sophie maintenant parce qu'elle est arrivée il y a une semaine."
+    "eng": "because it arrived a week ago.",
+    "fre": "Je vais répondre à la lettre de Sophie / maintenant parce qu'elle est arrivée / il ya une semaine. / I'm going to answer Sophie's letter now"
   },
   {
     "eng": "He needs to start listening better.",
-    "fre": "Il a besoin de commencer à mieux écouter."
+    "fre": "besoin de commencer à mieux écout"
   },
   {
     "eng": "I'm interested in learning Spanish.",
-    "fre": "Je m'intéresse à l'apprentissage de l'espagnol."
+    "fre": "Je m'intéresse à apprendre l'espagnol."
   },
   {
-    "eng": "My family isn't interested in going abroad, so we're spending the holidays in England.",
-    "fre": "Ma famille ne s'intéresse pas aux voyages à l'étranger, donc nous passons les vacances en Angleterre."
+    "eng": "vacances en Angleterre. family isn't interested iI'm going abroad, nere spending the holidays in England",
+    "fre": "Ma famille ne s'intéresse pas à aller à / l'étranger, donc nous passons les"
   },
   {
     "eng": "Did you manage to fix it?",
@@ -1489,11 +1105,11 @@
   },
   {
     "eng": "What are you drinking?",
-    "fre": "Que bois-tu ? / Que buvez-vous ?"
+    "fre": "Que bois-tu? / Que buvez-vous?"
   },
   {
     "eng": "What time are they going to Paris tomorrow?",
-    "fre": "À quelle heure vont-ils à Paris demain ?"
+    "fre": "À quelle heure vont-ils à Paris demain?"
   },
   {
     "eng": "He woke up very early this morning.",
@@ -1501,59 +1117,59 @@
   },
   {
     "eng": "What is there on the first floor?",
-    "fre": "Qu'y a-t-il au premier étage ? / Qu'est-ce qu'il y a au premier étage ?"
+    "fre": "Qu'y a-t-il au premier étage? / Qu'est-ce qu'il y a au premier étage?"
   },
   {
     "eng": "We were going to tell Marie to bring some food.",
-    "fre": "Nous allions dire à Marie d'apporter de la nourriture."
+    "fre": "Nous allions dire à Marie / d'apporter de la nourriture."
   },
   {
-    "eng": "Can I send you an email tomorrow?",
-    "fre": "Puis-je t'envoyer un e-mail demain ? / Puis-je vous envoyer un e-mail demain ?"
+    "eng": "Can / send you an email tomorrow?",
+    "fre": "Puis-je t'envoyer / vous envoyer un / email demain?"
   },
   {
     "eng": "What is there on the table?",
-    "fre": "Qu'y a-t-il sur la table ? / Qu'est-ce qu'il y a sur la table ?"
+    "fre": "Qu' a-t-il sur la table? / Qu'est-ce qu'il y a sur la table?"
   },
   {
     "eng": "How much is it for four tickets to the theatre?",
-    "fre": "C'est combien pour quatre billets de théâtre ?"
+    "fre": "C'est combien pour / quatre billets au théâtre?"
   },
   {
     "eng": "I need to find a garage for the car.",
-    "fre": "J'ai besoin de trouver un garage pour la voiture."
+    "fre": "J'ai besoin de trouver un garage pour / la voiture."
   },
   {
     "eng": "Can you put your coat downstairs?",
-    "fre": "Peux-tu mettre ton manteau en bas ? / Pouvez-vous mettre votre manteau en bas ?"
+    "fre": "Peux-tu mettre ton manteau en bas? / uvez-vous mettre votre manteau en be"
   },
   {
     "eng": "Frankly, I think this is terrible.",
-    "fre": "Franchement, je pense que c'est terrible."
+    "fre": "inchement, je pense que ceci est terrik"
   },
   {
-    "eng": "Why haven't they fallen asleep yet? It's very late.",
-    "fre": "Pourquoi ne se sont-ils pas encore endormis ? Il est très tard."
+    "eng": "Why haven't they fallen to sleep yet?",
+    "fre": "Pourquoi ne se sont-ils pas encore / endormis? Il est très tard."
   },
   {
-    "eng": "They must be very tired because they have spent a lot of time outside today.",
-    "fre": "Ils doivent être très fatigués parce qu'ils ont passé beaucoup de temps dehors aujourd'hui."
+    "eng": "dehors aujourd'hui. ley must be very tired because they ha spent a lot of time outside today.",
+    "fre": "doivent être très fatigués parce qu'ils c / passé beaucoup de temps"
   },
   {
     "eng": "Why did you go upstairs?",
     "fre": "Pourquoi es-tu monté à l'étage?"
   },
   {
-    "eng": "The shop is just on the left here.",
-    "fre": "Le magasin est juste à gauche ici."
+    "eng": "The shop just on the left here.",
+    "fre": "Le magasin'est juste à gauche ici."
   },
   {
-    "eng": "We're getting into bed now because we're very tired.",
-    "fre": "Nous nous mettons au lit maintenant parce que nous sommes très fatigués."
+    "eng": "We're getting into bed now because were very tired.",
+    "fre": "us nous mettons au lit maintenant par / que nous sommes très fatigués."
   },
   {
-    "eng": "I would like to know what time the train leaves.",
-    "fre": "Je voudrais savoir à quelle heure le train part."
+    "eng": "train part. I would like to know what time the",
+    "fre": "Je voudrais savoir à quelle heure le"
   },
   {
     "eng": "Have they posted it yet?",
@@ -1564,63 +1180,71 @@
     "fre": "ressembler à"
   },
   {
+    "eng": "to continue / carry on (-ing)",
+    "fre": "continuer (de/à)"
+  },
+  {
     "eng": "I can't carry on living here.",
-    "fre": "Je ne peux pas continuer à habiter ici."
+    "fre": "Je ne peux pas continuer / d'habiter / à habiter ici."
   },
   {
     "eng": "Pierre continued to speak in English.",
-    "fre": "Pierre a continué à parler en anglais."
+    "fre": "ierre a continué de/à parler en anglais"
   },
   {
     "eng": "I want to carry on living in France.",
-    "fre": "Je veux continuer à habiter en France."
+    "fre": "Je veux continuer d'habiter / à habiter en France."
   },
   {
     "eng": "They carried on driving.",
-    "fre": "Ils ont continué à conduire."
+    "fre": "Ils ont continué de/a conduire."
   },
   {
     "eng": "We continued to do everything without them.",
-    "fre": "Nous avons continué à tout faire sans eux."
+    "fre": "Nous avons continué de/à tout / faire sans eux."
   },
   {
     "eng": "Why did you carry on speaking?",
-    "fre": "Pourquoi as-tu continué à parler ? / Pourquoi avez-vous continué à parler ?"
+    "fre": "Pourquoi as-tu / avez-vous continué / à/de parler?"
   },
   {
     "eng": "I'm going to carry on staying here until 10 o'clock.",
-    "fre": "Je vais continuer à rester ici jusqu'à dix heures."
+    "fre": "Je vais continuer de/a rester ici jusqu'à / dix heures."
   },
   {
-    "eng": "to dream of / about",
-    "fre": "rêver de"
+    "eng": "to dream (of/about)",
+    "fre": "rêver (de/à)"
   },
   {
-    "eng": "I dreamt about a dog.",
-    "fre": "J'ai rêvé d'un chien."
+    "eng": "I dreamt about a dog",
+    "fre": "j'ai rêvé à un chien / j'ai rêvé d'un chien"
   },
   {
-    "eng": "I dream of doing a backflip.",
-    "fre": "Je rêve de faire un salto arrière."
+    "eng": "I dream of doing a backflip",
+    "fre": "je réve de faire un backflip"
   },
   {
-    "eng": "I dream of spending the holidays in France.",
-    "fre": "Je rêve de passer les vacances en France."
+    "eng": "ream of spending the holidays in Franc",
+    "fre": "rêve de passer les vacances en France"
   },
   {
     "eng": "I dreamt of you.",
-    "fre": "J'ai rêvé de toi. / J'ai rêvé de vous."
+    "fre": "J'ai rêvé de toi / vous. / J'ai rêvé à toi / vous."
   },
   {
     "eng": "What did you dream of?",
-    "fre": "De quoi as-tu rêvé ? / De quoi avez-vous rêvé ?"
+    "fre": "À / De quoi as-tu rêvé? / À / De quoi avez-vous rêvé?"
   },
   {
-    "eng": "to dream of / about while you're asleep",
-    "fre": "rêver de"
+    "eng": "to continue / Carry on (-ing)",
+    "fre": "continuer à / de"
   },
   {
-    "eng": "to dream of a future plan",
+    "eng": ") dream of (when you're asleel",
+    "fre": "rêver à / de"
+  },
+  {
+    "eng": "to dream of (future plans)",
     "fre": "rêver de"
   },
   {
@@ -1629,15 +1253,15 @@
   },
   {
     "eng": "She said she dreamed of us.",
-    "fre": "Elle a dit qu'elle avait rêvé de nous."
+    "fre": "Elle a dit qu'elle a rêvé de / à nous."
   },
   {
-    "eng": "I dream of getting into bed before 11 p.m.",
-    "fre": "Je rêve de me mettre au lit avant vingt-trois heures."
+    "eng": "dream of getting into bed before 11prr",
+    "fre": "Je rêve de me mettre au lit avant / vingt-trois heures."
   },
   {
     "eng": "I always dream of the same thing.",
-    "fre": "Je rêve toujours de la même chose."
+    "fre": "Je rêve toujours à / de la même chose."
   },
   {
     "eng": "He dreams of becoming an actor.",
@@ -1645,7 +1269,7 @@
   },
   {
     "eng": "Did you ask Marie to come with us?",
-    "fre": "As-tu demandé à Marie de venir avec nous ? / Avez-vous demandé à Marie de venir avec nous ?"
+    "fre": "tu demandé à Marie de venir avec nou: / Avez-vous demandé à Marie de venir / avec nous? a"
   },
   {
     "eng": "He asked me to leave.",
@@ -1653,23 +1277,27 @@
   },
   {
     "eng": "They asked Pierre to buy a souvenir.",
-    "fre": "Ils ont demandé à Pierre d'acheter un souvenir."
+    "fre": "Ils ont demandé à Pierre d'acheter / un souvenir."
   },
   {
     "eng": "Who asked you to do that?",
-    "fre": "Qui t'a demandé de faire ça ? / Qui vous a demandé de faire ça ?"
+    "fre": "Qui t'a / vous a demandé de faire cela?"
   },
   {
-    "eng": "I'm going to ask Sophie to bring some wine with her.",
-    "fre": "Je vais demander à Sophie d'apporter du vin avec elle."
+    "eng": ") dream of (when you're asleey",
+    "fre": "rêver à / de"
   },
   {
-    "eng": "They were going to ask me to do it, but luckily, I was too busy.",
-    "fre": "Ils allaient me demander de le faire, mais heureusement, j'étais trop occupé."
+    "eng": "wine with her.",
+    "fre": "I'm going to ask Sophie to bring some"
+  },
+  {
+    "eng": "They were going to ask me to doit, but luckily, I was too busy.",
+    "fre": "Ss allaient me demander de le faire, mai / heureusement, j'étais trop occupé."
   },
   {
     "eng": "We want to ask Pierre to come, but we can't find him.",
-    "fre": "Nous voulons demander à Pierre de venir, mais nous ne le trouvons pas."
+    "fre": "Nous voulons demander à Pierre de venir / mais nous ne le trouvons pas."
   },
   {
     "eng": "They told me to go to the shop.",
@@ -1677,59 +1305,59 @@
   },
   {
     "eng": "We told Marie to go to France.",
-    "fre": "Nous avons dit à Marie d'aller en France."
+    "fre": "Jous avons dit à Marie d'aller en France"
   },
   {
     "eng": "Did you tell Sophie to come with us?",
-    "fre": "As-tu dit à Sophie de venir avec nous ? / Avez-vous dit à Sophie de venir avec nous ?"
+    "fre": "As-tu / Avez-vous dit à Sophie de venir / avec nous?"
   },
   {
     "eng": "I told Pierre to buy something for you.",
-    "fre": "J'ai dit à Pierre d'acheter quelque chose pour toi. / J'ai dit à Pierre d'acheter quelque chose pour vous."
+    "fre": "'ai dit à Pierre d'acheter quelque chose / pour toi / vous."
   },
   {
     "eng": "I'm going to tell everybody to help us.",
-    "fre": "Je vais dire à tout le monde de nous aider."
+    "fre": "vais dire à tout le monde de nous aide"
   },
   {
     "eng": "Who told you to call me?",
-    "fre": "Qui t'a dit de m'appeler ? / Qui vous a dit de m'appeler ?"
+    "fre": "Qui t'a / vous a dit de m'appeler?"
   },
   {
-    "eng": "Can you tell the children to get into bed?",
-    "fre": "Peux-tu dire aux enfants de se mettre au lit ? / Pouvez-vous dire aux enfants de se mettre au lit ?"
+    "eng": "an you tell the children to get into bed",
+    "fre": "2uUx-tu / Pouvez-vous dire aux enfants « / se mettre au lit?"
   },
   {
     "eng": "She told Hugo to go downstairs.",
-    "fre": "Elle a dit à Hugo d'aller en bas."
+    "fre": "le a dit à Hugo de descendre l'escalier. / Elle a dit a Hugo d'aller en bas."
   },
   {
     "eng": "The waiter told us to wait here.",
     "fre": "Le serveur nous a dit d'attendre ici."
   },
   {
-    "eng": "Did you tell the children to go upstairs?",
-    "fre": "As-tu dit aux enfants de monter à l'étage ? / Avez-vous dit aux enfants de monter à l'étage ?"
+    "eng": "Did you tell the children to go upstairs:",
+    "fre": "As-tu / Avez-vous dit aux enfants de / monter à l'étage. / / As-tu / Avez-vous dit aux enfants / d'aller en haut? Æ"
   },
   {
-    "eng": "to allow somebody to do something / to let somebody do something",
-    "fre": "permettre à quelqu'un de faire quelque chose"
+    "eng": "to allow somebody to do something to let somebody do something",
+    "fre": "permettre à quelqu'un de faire / quelque chose"
   },
   {
     "eng": "Why don't you let me go with you?",
-    "fre": "Pourquoi ne me permets-tu pas d'aller avec toi ? / Pourquoi ne me permettez-vous pas d'aller avec vous ?"
+    "fre": "Pourquoi ne me permets-tu / pas d'aller avec toi? / Pourquoi ne me permettez-vous / pas d'aller avec vous? 4"
   },
   {
-    "eng": "I didn't let Pierre buy it because it was expensive.",
-    "fre": "Je n'ai pas permis à Pierre de l'acheter parce que c'était cher."
+    "eng": "I didn't let Pierre buy it, because it was expensive.",
+    "fre": "Je n'ai pas permis à Pierre de l'acheter, / parce que c'était cher."
   },
   {
     "eng": "She didn't let me speak English.",
-    "fre": "Elle ne m'a pas permis de parler anglais."
+    "fre": "Ile ne m'a pas permis de parler anglais"
   },
   {
     "eng": "She said she's going by coach, but I think the train is better.",
-    "fre": "Elle a dit qu'elle va en car, mais je pense que le train est mieux."
+    "fre": "Elle a dit qu'elle va en car, / mais je pense que le train'est meilleur."
   },
   {
     "eng": "They went by boat to Spain.",
@@ -1741,11 +1369,15 @@
   },
   {
     "eng": "We can go into the hotel and wait in the bar.",
-    "fre": "On peut entrer dans l'hôtel et attendre dans le bar."
+    "fre": "On peut entrer dans l'hôtel / et attendre dans le bar."
   },
   {
     "eng": "Don't go into the room.",
     "fre": "N'entrez pas dans la chambre."
+  },
+  {
+    "eng": "to enter / to go in",
+    "fre": "entrer dans"
   },
   {
     "eng": "the cheese smells good",
@@ -1768,8 +1400,8 @@
     "fre": "Tout sent très bon."
   },
   {
-    "eng": "Do you think this smells good?",
-    "fre": "Penses-tu que ça sent bon ? / Pensez-vous que ça sent bon ?"
+    "eng": "Do you I think this smells good?",
+    "fre": "nses-tu / Pensez-vous que ceci sent bc"
   },
   {
     "eng": "That doesn't smell good.",
@@ -1792,48 +1424,16 @@
     "fre": "sentir"
   },
   {
-    "eng": "The coffee smells good.",
-    "fre": "Le café sent bon."
-  },
-  {
-    "eng": "Does the food smell good?",
-    "fre": "Est-ce que la nourriture sent bon ?"
-  },
-  {
-    "eng": "The room doesn't smell good.",
-    "fre": "La chambre ne sent pas bon."
-  },
-  {
     "eng": "to feel",
     "fre": "se sentir"
   },
   {
-    "eng": "I feel well.",
-    "fre": "Je me sens bien."
+    "eng": "I feel well",
+    "fre": "je me sens bien"
   },
   {
-    "eng": "I felt well.",
-    "fre": "Je me suis senti bien."
-  },
-  {
-    "eng": "You felt well.",
-    "fre": "Tu t'es senti bien. / Vous vous êtes senti bien."
-  },
-  {
-    "eng": "He felt well.",
-    "fre": "Il s'est senti bien."
-  },
-  {
-    "eng": "She felt well.",
-    "fre": "Elle s'est sentie bien."
-  },
-  {
-    "eng": "We felt well.",
-    "fre": "Nous nous sommes sentis bien."
-  },
-  {
-    "eng": "They felt well.",
-    "fre": "Ils se sont sentis bien."
+    "eng": "tu t'es senti you felt",
+    "fre": "il s'est senti he felt / elle s'est sentie she felt / on s'est senti one felt / nous sommes sentis we felt / vous vous êtes senti you felt / ils Se sont sentis they felt?"
   },
   {
     "eng": "I feel very well.",
@@ -1841,31 +1441,15 @@
   },
   {
     "eng": "We don't feel very well today.",
-    "fre": "Nous ne nous sentons pas très bien aujourd'hui."
+    "fre": "Nous ne nous sentons pas très / bien aujourd'hui."
   },
   {
     "eng": "I've been feeling ill for a week.",
-    "fre": "Je me sens malade depuis une semaine."
+    "fre": "Je me sens malade depuis une semaine"
   },
   {
-    "eng": "How do you feel today?",
-    "fre": "Comment te sens-tu aujourd'hui ? / Comment vous sentez-vous aujourd'hui ?"
-  },
-  {
-    "eng": "She feels better today.",
-    "fre": "Elle se sent mieux aujourd'hui."
-  },
-  {
-    "eng": "I didn't feel well yesterday.",
-    "fre": "Je ne me suis pas senti bien hier."
-  },
-  {
-    "eng": "Do they feel tired?",
-    "fre": "Est-ce qu'ils se sentent fatigués ?"
-  },
-  {
-    "eng": "nothing / not anything",
-    "fre": "ne... rien"
+    "eng": "nothing 4",
+    "fre": "Pierre a acheté Pierre has bought / erre n'a pas acheté Pierre hasn't bougl / 2rre n'a rien acheté Pierre has bought"
   },
   {
     "eng": "I see nothing.",
@@ -1885,19 +1469,19 @@
   },
   {
     "eng": "The children have eaten nothing today.",
-    "fre": "Les enfants n'ont rien mangé aujourd'hui."
+    "fre": "es enfants n'ont rien mangé aujourd'he"
   },
   {
-    "eng": "I want nothing. / I don't want anything.",
-    "fre": "Je ne veux rien."
+    "eng": "I want nothing / I don't want anything",
+    "fre": "je ne veux rien"
   },
   {
-    "eng": "I see nothing. / I don't see anything.",
-    "fre": "Je ne vois rien."
+    "eng": "I see nothing / I don't see anything",
+    "fre": "je ne vois rien"
   },
   {
-    "eng": "I bought nothing. / I didn't buy anything.",
-    "fre": "Je n'ai rien acheté."
+    "eng": "I bought nothing / / didn't buy anything",
+    "fre": "je n'ai rien acheté"
   },
   {
     "eng": "I didn't say anything.",
@@ -1913,35 +1497,27 @@
   },
   {
     "eng": "There wasn't anything there.",
-    "fre": "Il n'y avait rien là."
+    "fre": "Il n'y avait rien la."
   },
   {
     "eng": "Why didn't you eat anything?",
-    "fre": "Pourquoi n'as-tu rien mangé ? / Pourquoi n'avez-vous rien mangé ?"
+    "fre": "Pourquoi n'as-tu rien mangé? / Pourquoi n'avez-vous rien mangé? / ourquoi est-ce que tu n'as rien mangé? / Pourquoi est-ce que vous n'avez rien. / mangé? (7"
   },
   {
-    "eng": "The children haven't eaten anything today.",
-    "fre": "Les enfants n'ont rien mangé aujourd'hui."
+    "eng": "1e children haven't eaten anything tode",
+    "fre": "es enfants n'ont rien mangé aujourd'he"
   },
   {
-    "eng": "There is nothing in the bag.",
-    "fre": "Il n'y a rien dans le sac."
-  },
-  {
-    "eng": "I heard nothing.",
-    "fre": "Je n'ai rien entendu."
-  },
-  {
-    "eng": "She knows nothing about it.",
-    "fre": "Elle ne sait rien à ce sujet."
+    "eng": "nothing",
+    "fre": "ne. . . rien"
   },
   {
     "eng": "It's like in England.",
     "fre": "C'est comme en Angleterre."
   },
   {
-    "eng": "It's like I said.",
-    "fre": "C'est comme j'ai dit."
+    "eng": "It's like / said.",
+    "fre": "C'est comme jai dit."
   },
   {
     "eng": "It was like a big car.",
@@ -1949,19 +1525,19 @@
   },
   {
     "eng": "Someone like you.",
-    "fre": "Quelqu'un comme toi. / Quelqu'un comme vous."
+    "fre": "Quelqu'un comme toi / vous."
   },
   {
     "eng": "You can't do it like me.",
-    "fre": "Tu ne peux pas le faire comme moi. / Vous ne pouvez pas le faire comme moi."
+    "fre": "Tu ne peux pas le faire comme moi. / [ous ne pouvez pas le faire comme mo"
   },
   {
     "eng": "You're starting to speak like me now.",
-    "fre": "Tu commences à parler comme moi maintenant. / Vous commencez à parler comme moi maintenant."
+    "fre": "Tu commences a parler comme moi / maintenant. / Vous commencez a parler comme moi / maintenant. \""
   },
   {
     "eng": "like that",
-    "fre": "comme ça"
+    "fre": "COMME Ça"
   },
   {
     "eng": "It's like that.",
@@ -1969,7 +1545,7 @@
   },
   {
     "eng": "I think he said it was like that.",
-    "fre": "Je pense qu'il a dit que c'était comme ça."
+    "fre": "2 pense qu'il a dit que c'était comme çe"
   },
   {
     "eng": "The car wasn't like that.",
@@ -1989,55 +1565,43 @@
   },
   {
     "eng": "Why does he speak like that?",
-    "fre": "Pourquoi parle-t-il comme ça ? / Pourquoi est-ce qu'il parle comme ça ?"
+    "fre": "Pourquoi parle-t-il comme ça? / Pourquoi est-ce qu'il parle comme ça?"
   },
   {
     "eng": "She doesn't dance like that.",
     "fre": "Elle ne danse pas comme ça."
   },
   {
-    "eng": "so-so",
-    "fre": "comme ci, comme ça"
+    "eng": "so-so I like this, like that",
+    "fre": "Comme Cl, COMME Cd"
   },
   {
-    "eng": "It's so-so.",
-    "fre": "C'est comme ci, comme ça."
+    "eng": "It's SO-SO.",
+    "fre": "C'est comme ci, comme Ça."
   },
   {
     "eng": "The film was so-so.",
     "fre": "Le film était comme ci, comme ça."
   },
   {
-    "eng": "How are you? So-so.",
-    "fre": "Ça va ? Comme ci, comme ça."
+    "eng": "How are you? SO-SO.",
+    "fre": "Ça va? / Comme ci, comme ça. (7"
   },
   {
     "eng": "it smells good",
-    "fre": "ça sent bon"
+    "fre": "Ça sent bon"
   },
   {
-    "eng": "like / as",
-    "fre": "comme"
-  },
-  {
-    "eng": "Do it like this.",
-    "fre": "Fais-le comme ça. / Faites-le comme ça."
-  },
-  {
-    "eng": "She speaks French like her mother.",
-    "fre": "Elle parle français comme sa mère."
-  },
-  {
-    "eng": "It's cold today, like yesterday.",
-    "fre": "Il fait froid aujourd'hui, comme hier."
+    "eng": "like",
+    "fre": "Comme"
   },
   {
     "eng": "Everything here smells very good.",
     "fre": "Tout ici sent très bon."
   },
   {
-    "eng": "I felt fine yesterday, but today I feel very ill.",
-    "fre": "Je me suis senti bien hier, mais aujourd'hui, je me sens très malade."
+    "eng": "elt fine yesterday, but today, / feel very",
+    "fre": "Je me suis senti bien hier, mais / aujourd'hui, je me sens très malade."
   },
   {
     "eng": "I don't want anything from the shop.",
@@ -2045,7 +1609,7 @@
   },
   {
     "eng": "It's not a cake, but it's like a cake.",
-    "fre": "Ce n'est pas un gâteau, mais c'est comme un gâteau."
+    "fre": "Ce n'est pas un gâteau, mais c'est / comme un gâteau."
   },
   {
     "eng": "I want it like that, please.",
@@ -2057,11 +1621,11 @@
   },
   {
     "eng": "He didn't eat anything yesterday, but he said he wasn't hungry.",
-    "fre": "Il n'a rien mangé hier, mais il a dit qu'il n'avait pas faim."
+    "fre": "Il n'a rien mangé hier, mais / il a dit qu'il n'avait pas faim."
   },
   {
     "eng": "I don't have anything to do today, but I'm very busy tomorrow.",
-    "fre": "Je n'ai rien à faire aujourd'hui, mais je suis très occupé demain."
+    "fre": "Je n'ai rien à faire aujourd'hui, / mais je suis très occupé demain."
   },
   {
     "eng": "Nothing is impossible.",
@@ -2069,22 +1633,22 @@
   },
   {
     "eng": "Why are you speaking like that? Are you ill?",
-    "fre": "Pourquoi parles-tu comme ça ? Es-tu malade ?"
+    "fre": "Pourquoi parles-tu comme ça? / Es-tu malade?"
   },
   {
-    "eng": "I don't like it like that; it was better before.",
-    "fre": "Je ne l'aime pas comme ça ; c'était mieux avant."
+    "eng": "don't like it like that, it was better befor",
+    "fre": "Je ne l'aime pas comme ça, / c'était meilleur avant."
   },
   {
     "eng": "Don't do it like that.",
     "fre": "Ne le fais pas comme ça."
   },
   {
-    "eng": "I found nothing upstairs, but I'm going to look downstairs now.",
-    "fre": "Je n'ai rien trouvé en haut, mais je vais chercher en bas maintenant."
+    "eng": "I found nothing upstairs, but",
+    "fre": "Je n'ai rien trouvé en haut, mais je vais / chercher en bas maintenant."
   },
   {
-    "eng": "It was so-so.",
+    "eng": "It Was SO-SO.",
     "fre": "C'était comme ci, comme ça."
   },
   {
@@ -2093,15 +1657,19 @@
   },
   {
     "eng": "It's very cold today, like in England.",
-    "fre": "Il fait très froid aujourd'hui, comme en Angleterre."
+    "fre": "Il fait très froid aujourd'hui, / comme en Angleterre."
   },
   {
-    "eng": "I like it in red, but I prefer the yellow coat.",
-    "fre": "Je l'aime en rouge, mais je préfère le manteau jaune."
+    "eng": "like it in red, but I prefer the yellow coa",
+    "fre": "Je l'aime en rouge, mais je préfère / le manteau jaune."
   },
   {
     "eng": "Everything is more interesting here.",
     "fre": "Tout est plus intéressant ici."
+  },
+  {
+    "eng": "I'm truly sorry, but I can't help you.",
+    "fre": "Je suis vraiment désolé, mais / je ne peux pas t'aider / vous aider."
   },
   {
     "eng": "I'm in a hurry.",
@@ -2113,35 +1681,35 @@
   },
   {
     "eng": "He put the food on the table.",
-    "fre": "Il a mis la nourriture sur la table."
+    "fre": "lla mis la nourriture sur la table."
   },
   {
-    "eng": "I'm going on holiday tomorrow, but I haven't packed my suitcases.",
-    "fre": "Je vais en vacances demain, mais je n'ai pas fait mes valises."
+    "eng": "I'm going on holiday tomorrow, but / haven't packed my suitcases.",
+    "fre": "Je vais en vacances demain, / mais je n'ai pas fait mes valises."
   },
   {
     "eng": "I want to go to the beach, but of course, it's too cold.",
-    "fre": "Je veux aller à la plage, mais bien sûr, il fait trop froid."
+    "fre": "Je veux aller à la plage, mais / bien sûr, il fait trop froid."
   },
   {
-    "eng": "I'm going to pay for everything next week.",
-    "fre": "Je vais tout payer la semaine prochaine."
+    "eng": "I'm going to pay for everything next wee",
+    "fre": "Je vais tout payer la semaine prochaine"
   },
   {
     "eng": "What do you want to eat tonight?",
-    "fre": "Que veux-tu manger ce soir ? / Que voulez-vous manger ce soir ?"
+    "fre": "ue veux-tu / voulez-vous manger ce so"
   },
   {
     "eng": "Why are they leaving?",
     "fre": "Pourquoi partent-ils?"
   },
   {
-    "eng": "They said they're getting up at 7 o'clock tomorrow because breakfast is at 7:30.",
-    "fre": "Ils ont dit qu'ils se lèvent à sept heures demain parce que le petit-déjeuner est à sept heures et demie."
+    "eng": "They said they're getting up at 7 o'clock tomorrow because breakfast is at 7: 30.",
+    "fre": "Ils ont dit qu'ils se lèvent à sept heures / emain parce que le petit-déjeuner est / sept heures et demie."
   },
   {
-    "eng": "I don't have an envelope, but I can go to the shop for you if you want.",
-    "fre": "Je n'ai pas d'enveloppe, mais je peux aller au magasin pour toi si tu veux. / Je n'ai pas d'enveloppe, mais je peux aller au magasin pour vous si vous voulez."
+    "eng": "I don't have an envelope, but I can go to the shop for you, if you want.",
+    "fre": "Je n'ai pas d'enveloppe, mais je peux / aller au magasin pour toi, si tu veux."
   },
   {
     "eng": "May I have some cheese?",
@@ -2164,7 +1732,7 @@
     "fre": "Je voudrais aller à la mer."
   },
   {
-    "eng": "We're going to visit the city on horseback.",
+    "eng": "We're going to visit the town the city on horseback.",
     "fre": "Nous allons visiter la ville à cheval."
   },
   {
@@ -2181,43 +1749,43 @@
   },
   {
     "eng": "Where do you work?",
-    "fre": "Où travailles-tu ? / Où travaillez-vous ?"
+    "fre": "Où travailles-tu? / Où travaillez-vous?"
   },
   {
     "eng": "I worked here eight years ago.",
-    "fre": "J'ai travaillé ici il y a huit ans."
+    "fre": "Jai travaillé ici il y a huit ans."
   },
   {
     "eng": "Marie has decided to work here until next Monday.",
-    "fre": "Marie a décidé de travailler ici jusqu'à lundi prochain."
+    "fre": "Marie a décidé de travailler ici jusqu'à / lundi prochain."
   },
   {
-    "eng": "I've been working here for three years.",
-    "fre": "Je travaille ici depuis trois ans."
+    "eng": "I've been working here for three years (/ work here since three years)",
+    "fre": "je travaille ici depuis trois ans"
   },
   {
-    "eng": "I've been working here since 2002.",
-    "fre": "Je travaille ici depuis 2002."
+    "eng": "I've been working here since 2002 (/ work here since 2002) 4",
+    "fre": "je travaille ici depuis 2002"
   },
   {
-    "eng": "I've been living here for ten years.",
-    "fre": "J'habite ici depuis dix ans."
+    "eng": "I've been living here for ten years (I live here since ten years)",
+    "fre": "j'habite ici depuis dix ans"
   },
   {
-    "eng": "Pierre has been here for two hours.",
-    "fre": "Pierre est ici depuis deux heures."
+    "eng": "Pierre has been here for two hours (Pierre is here since two hours) cr",
+    "fre": "Pierre est ici depuis deux heures"
   },
   {
     "eng": "I've been in France for two weeks.",
-    "fre": "Je suis en France depuis deux semaines."
+    "fre": "2 suis en France depuis deux semaines"
   },
   {
     "eng": "Pierre has been living in England for six months.",
-    "fre": "Pierre habite en Angleterre depuis six mois."
+    "fre": "rre habite en Angleterre depuis six mc"
   },
   {
-    "eng": "Jane has been working in France for two years.",
-    "fre": "Jane travaille en France depuis deux ans."
+    "eng": "Jane has been working in France for tWo years.",
+    "fre": "ane travaille en France depuis deux ans"
   },
   {
     "eng": "to like",
@@ -2229,11 +1797,11 @@
   },
   {
     "eng": "Do you like living here?",
-    "fre": "Aimes-tu habiter ici ? / Aimez-vous habiter ici ?"
+    "fre": "Aimes-tu habiter ici? / Aimez-vous habiter ici?"
   },
   {
     "eng": "Marie and Pierre don't like it here.",
-    "fre": "Marie et Pierre n'aiment pas être ici."
+    "fre": "Marie et Pierre ne l'aiment pas ici."
   },
   {
     "eng": "Which wine do they like?",
@@ -2248,16 +1816,16 @@
     "fre": "adorer"
   },
   {
-    "eng": "I don't just like this place; I love it!",
-    "fre": "Je n'aime pas seulement cet endroit ; je l'adore !"
+    "eng": "I don't like it here; I love it!",
+    "fre": "Je ne l'aime pas ici; je l'adore."
   },
   {
     "eng": "I love the wine here.",
     "fre": "J'adore le vin ici."
   },
   {
-    "eng": "I love the chicken, but I prefer the turkey.",
-    "fre": "J'adore le poulet, mais je préfère la dinde."
+    "eng": "love the chicken, but I prefer the turke",
+    "fre": "adore le poulet, mais je préfère la dinde"
   },
   {
     "eng": "I love everything here.",
@@ -2281,7 +1849,7 @@
   },
   {
     "eng": "I liked it a lot.",
-    "fre": "Je l'ai beaucoup aimé."
+    "fre": "Je l'ai aimé beaucoup."
   },
   {
     "eng": "to hate",
@@ -2297,27 +1865,27 @@
   },
   {
     "eng": "Did you hate it?",
-    "fre": "L'as-tu détesté ? / L'avez-vous détesté ?"
+    "fre": "L'as-tu détesté? / L'avez-vous détesté?"
   },
   {
-    "eng": "I think everybody hates me, but I don't know why.",
-    "fre": "Je pense que tout le monde me déteste, mais je ne sais pas pourquoi."
+    "eng": "I think everybody hates me, but don't know why.",
+    "fre": "2 pense que tout le monde me déteste / mais je ne sais pas pourquoi."
   },
   {
-    "eng": "If he hates French food, he isn't going to like this.",
-    "fre": "S'il déteste la nourriture française, il ne va pas aimer ça."
+    "eng": "he isn't going to like this.",
+    "fre": "S'il déteste la nourriture française, / il ne va pas aimer ceci."
   },
   {
-    "eng": "I love you.",
-    "fre": "Je t'aime."
+    "eng": "I love you",
+    "fre": "je t'aime"
   },
   {
     "eng": "Why do you hate Sophie?",
-    "fre": "Pourquoi détestes-tu Sophie ? / Pourquoi détestez-vous Sophie ?"
+    "fre": "Pourquoi détestes-tu Sophie? / Pourquoi détestez-vous Sophie?"
   },
   {
-    "eng": "I don't hate it, but I wouldn't like to order it in a restaurant.",
-    "fre": "Je ne le déteste pas, mais je ne voudrais pas le commander dans un restaurant."
+    "eng": "I don't hate it, but / wouldn't like to order it in a restaurant.",
+    "fre": "Je ne le déteste pas, mais je ne voudrai: / pas le commander dans un restaurant."
   },
   {
     "eng": "I love my job.",
@@ -2325,7 +1893,7 @@
   },
   {
     "eng": "Pierre isn't interested in finding a job.",
-    "fre": "Pierre ne s'intéresse pas à trouver un travail."
+    "fre": "rre ne s'intéresse pas à trouver un trav"
   },
   {
     "eng": "I hate my job.",
@@ -2333,39 +1901,39 @@
   },
   {
     "eng": "Marie thinks her job is fantastic, but I think it's boring.",
-    "fre": "Marie pense que son travail est fantastique, mais je pense qu'il est ennuyeux."
+    "fre": "rie pense que son travail est / mais je pense qu'il est ennuyeux."
   },
   {
     "eng": "I like working here, but I would like to find a better job.",
-    "fre": "J'aime travailler ici, mais je voudrais trouver un meilleur travail."
+    "fre": "J'aime travailler ici, mais je / voudrais trouver un meilleur travail."
   },
   {
     "eng": "Pierre has a good job.",
     "fre": "Pierre a un bon travail."
   },
   {
-    "eng": "My job is boring, but I really like the money.",
-    "fre": "Mon travail est ennuyeux, mais j'aime vraiment l'argent."
+    "eng": "y job is boring, but / really like the mone",
+    "fre": "Mon travail est ennuyeux, mais j'aime / vraiment l'argent."
   },
   {
     "eng": "Do you have a job?",
-    "fre": "As-tu un travail ? / Avez-vous un travail ?"
+    "fre": "As-tu un travail? / Avez-vous un travail?"
   },
   {
     "eng": "We need a better job.",
-    "fre": "Nous avons besoin d'un meilleur travail."
+    "fre": "Nous avons besoin d'un meilleur travail"
   },
   {
     "eng": "What is your job?",
-    "fre": "Quel est ton travail ? / Quel est votre travail ?"
+    "fre": "Quel est ton travail? / Quel est votre travail?"
   },
   {
-    "eng": "I work here, but the pay is terrible, so I need a better job.",
-    "fre": "Je travaille ici, mais le salaire est terrible, donc j'ai besoin d'un meilleur travail."
+    "eng": "I work here, but the money is terrible, so I need a better job.",
+    "fre": "Je travaille ici, mais l'argent est terrible, / donc jai besoin d'un meilleur travail."
   },
   {
     "eng": "Do you like spending the holidays in England?",
-    "fre": "Aimes-tu passer les vacances en Angleterre ? / Aimez-vous passer les vacances en Angleterre ?"
+    "fre": "Aimes-tu / Aimez-vous passer / les vacances en Angleterre?"
   },
   {
     "eng": "I love you.",
@@ -2373,51 +1941,51 @@
   },
   {
     "eng": "I hate you.",
-    "fre": "Je te déteste. / Je vous déteste."
+    "fre": "Je te déteste / Je vous déteste."
   },
   {
     "eng": "Why do you hate being in Paris?",
-    "fre": "Pourquoi détestes-tu être à Paris ? / Pourquoi détestez-vous être à Paris ?"
+    "fre": "Pourquoi détestes-tu / détestez-vous être à Paris?"
   },
   {
-    "eng": "I need a job because I have no money.",
-    "fre": "J'ai besoin d'un travail parce que je n'ai pas d'argent."
+    "eng": "need a job because I have no money.",
+    "fre": "J'ai besoin d'un travail parce que je / n'ai pas d'argent."
   },
   {
     "eng": "What do you like doing when you go on holiday?",
-    "fre": "Qu'aimes-tu faire quand tu vas en vacances ? / Qu'aimez-vous faire quand vous allez en vacances ?"
+    "fre": "'aimes-tu faire quand tu vas en vacanc / / Qu'aimez-vous faire quand vous allez / en vacances? 4"
   },
   {
-    "eng": "How long have they been working here?",
-    "fre": "Depuis quand travaillent-ils ici ?"
+    "eng": "tow long have they been working here",
+    "fre": "Depuis quand travaillent-ils ici?"
   },
   {
-    "eng": "Where did he work last week? He wasn't here.",
-    "fre": "Où a-t-il travaillé la semaine dernière ? Il n'était pas ici."
+    "eng": "Where did he work last week because he wasn't here?",
+    "fre": "Où a-t-il travaillé la semaine dernière / parce qu'il n'était pas ici?"
   },
   {
-    "eng": "Marie hopes to find a job abroad one day because she wants to live near the beach like Pierre.",
-    "fre": "Marie espère trouver un travail à l'étranger un jour, car elle veut habiter près de la plage comme Pierre."
+    "eng": "arie hopes to find a job abroad one da as She wants to live near the",
+    "fre": "Marie espère trouver un travail a l'étrang / un jour, car elle veut habiter près de la / plage comme Pierre."
   },
   {
     "eng": "Pierre loves chocolate and he eats it every day.",
-    "fre": "Pierre adore le chocolat et il en mange tous les jours."
+    "fre": "Pierre adore le chocolat et il le mange / tous les jours."
   },
   {
-    "eng": "What do you like the most: wine or chocolate?",
-    "fre": "Qu'aimes-tu le plus : le vin ou le chocolat ? / Qu'aimez-vous le plus : le vin ou le chocolat ?"
+    "eng": "What do you like the most: wine",
+    "fre": "Ju'aimes-tu le plus: le vin ou le chocolat"
   },
   {
-    "eng": "We love going to the cinema, but it's so expensive.",
-    "fre": "Nous adorons aller au cinéma, mais c'est tellement cher."
+    "eng": "We love going to the cinema, but",
+    "fre": "Nous adorons aller au cinéma, mais / c'est si cher."
   },
   {
-    "eng": "My job is good, but it can be a bit boring.",
-    "fre": "Mon travail est bien, mais il peut être un peu ennuyeux."
+    "eng": "Ay job is good, but it can be a bit borings",
+    "fre": "Mon travail est bon, mais il peut être / un peu ennuyeux."
   },
   {
-    "eng": "Sometimes I like going to work, but I don't like getting up in the morning.",
-    "fre": "Quelquefois, j'aime aller au travail, mais je n'aime pas me lever le matin."
+    "eng": "Jmetimes, I like going to work, but / dor like getting up in the morning.",
+    "fre": "uelquefois, j'aime aller au travail, mais / n'aime pas me lever le matin."
   },
   {
     "eng": "I don't hate anything.",
@@ -2436,16 +2004,16 @@
     "fre": "On a détesté ce film."
   },
   {
-    "eng": "Are you going to order the chicken again?",
-    "fre": "Vas-tu commander encore le poulet ? / Allez-vous commander encore le poulet ?"
+    "eng": "re you going to order the chicken agair",
+    "fre": "Vas-tu / Allez-vous commander / encore le poulet?"
   },
   {
     "eng": "Pierre is loud, but Marie is the loudest.",
-    "fre": "Pierre est bruyant, mais Marie est la plus bruyante."
+    "fre": "Pierre est bruyant, mais Marie est / la plus bruyante."
   },
   {
-    "eng": "My breakfast today is better than my breakfast yesterday.",
-    "fre": "Mon petit-déjeuner aujourd'hui est meilleur que mon petit-déjeuner d'hier."
+    "eng": "My breakfast today is better than my breakfast yesterday,",
+    "fre": "nn petit-déjeuner aujourd'hui est meille / que mon petit-déjeuner hier."
   },
   {
     "eng": "Haven't they finished yet?",
@@ -2456,20 +2024,20 @@
     "fre": "A-t-elle déjà essayé le vin?"
   },
   {
-    "eng": "They knew what to do, but they didn't do it, and I don't know why.",
-    "fre": "Ils savaient quoi faire, mais ils ne l'ont pas fait, et je ne sais pas pourquoi."
+    "eng": "ey knew what to do, but they didn't do and I don't know why.",
+    "fre": "5 Savaient quoi faire, mais ils ne l'ont pe / fait, et je ne sais pas pourquoi."
   },
   {
     "eng": "It's ninety euros for two nights.",
-    "fre": "C'est quatre-vingt-dix euros pour deux nuits."
+    "fre": "st quatre-vingt-dix euros pour deux nu"
   },
   {
     "eng": "I'm going to pay it today.",
     "fre": "Je vais le payer aujourd'hui."
   },
   {
-    "eng": "What are you taking with you on holiday?",
-    "fre": "Qu'est-ce que tu prends avec toi en vacances ? / Qu'est-ce que vous prenez avec vous en vacances ?"
+    "eng": "Vhat are you taking with you on holiday",
+    "fre": "Je prends-tu avec toi en vacances? / Qt / prenez-vous avec vous en vacances?"
   },
   {
     "eng": "Where is she going next week?",
@@ -2477,7 +2045,7 @@
   },
   {
     "eng": "How much money did we spend?",
-    "fre": "Combien d'argent avons-nous dépensé ?"
+    "fre": "-ombien d'argent avons-nous dépensé"
   },
   {
     "eng": "The car is twenty euros per day.",
@@ -2485,23 +2053,23 @@
   },
   {
     "eng": "Are you available tomorrow?",
-    "fre": "Êtes-vous disponible demain ?"
+    "fre": "Êtes-vous disponibles demain?"
   },
   {
-    "eng": "I'm going to have a shower and then I'm going out.",
-    "fre": "Je vais me doucher et puis je vais sortir."
+    "eng": "I'm going to have a shower and",
+    "fre": "Je vais me doucher et puis je sors."
   },
   {
     "eng": "You're drinking a lot of wine tonight.",
     "fre": "Tu bois beaucoup de vin ce soir."
   },
   {
-    "eng": "It was warm outside yesterday, but it's cold today.",
-    "fre": "Il faisait chaud dehors hier, mais il fait froid aujourd'hui."
+    "eng": "froid aujourd'hui. It was warm out yesterday, but it's",
+    "fre": "Il faisait chaud hier, mais il fait"
   },
   {
-    "eng": "I wasn't wrong; it's very warm today.",
-    "fre": "Je n'avais pas tort ; il fait très chaud aujourd'hui."
+    "eng": "chaud aujourd'hui.",
+    "fre": "Je n'avais pas tort; il fait très"
   },
   {
     "eng": "What is your job?",
@@ -2516,8 +2084,8 @@
     "fre": "Aimes-tu ton travail?"
   },
   {
-    "eng": "How long have you been a teacher?",
-    "fre": "Depuis quand es-tu professeur ?"
+    "eng": "How long have you been a teacher? ?",
+    "fre": "Depuis quand es-tu professeur?"
   },
   {
     "eng": "What do you do at work?",
@@ -2532,8 +2100,8 @@
     "fre": "Quels jours travailles-tu?"
   },
   {
-    "eng": "Do you work on weekends?",
-    "fre": "Travailles-tu le week-end ?"
+    "eng": "Do you work on weekends? ?",
+    "fre": "Travailles-tu les weekends?"
   },
   {
     "eng": "What time do you start?",
@@ -2576,8 +2144,8 @@
     "fre": "Quels jours travaillez-vous?"
   },
   {
-    "eng": "Do you work on weekends?",
-    "fre": "Travaillez-vous le week-end ?"
+    "eng": "Do you work on weekends? ?",
+    "fre": "Travaillez-vous les weekends?"
   },
   {
     "eng": "What time do you start?",
@@ -2592,196 +2160,40 @@
     "fre": "Aimez-vous vos collègues?"
   },
   {
-    "eng": "I've been working as a teacher for almost eighteen years.",
-    "fre": "Je travaille comme professeur depuis presque dix-huit ans."
+    "eng": "dix-huit ans maintenant",
+    "fre": "Depuis quand es-tu professeur? / Je travaille comme professeur depuis presque"
   },
   {
-    "eng": "almost",
-    "fre": "presque"
+    "eng": "everywhere all over the world (EE NS each day presque almost / work for myself",
+    "fre": "professeur / prof"
   },
   {
-    "eng": "all over the world",
-    "fre": "partout dans le monde"
-  },
-  {
-    "eng": "every day",
-    "fre": "chaque jour"
-  },
-  {
-    "eng": "I work for myself.",
-    "fre": "Je travaille à mon compte."
-  },
-  {
-    "eng": "to teach",
-    "fre": "enseigner"
-  },
-  {
-    "eng": "of all ages",
-    "fre": "de tous âges"
-  },
-  {
-    "eng": "between",
-    "fre": "entre"
-  },
-  {
-    "eng": "a day off",
-    "fre": "un jour de congé"
+    "eng": "to teach CROIS of all ages",
+    "fre": "Su between / un jour de congé à day off"
   },
   {
     "eng": "pupils / students",
-    "fre": "des élèves"
+    "fre": "je mentends avec / get along with"
   },
   {
-    "eng": "to get along with",
-    "fre": "s'entendre avec"
+    "eng": "l'espagnol, l'allemand,",
+    "fre": "Quel est ton trava / Je suis professeur de langues / et j'enseigne le français"
   },
   {
-    "eng": "What is your job? I am a language teacher and I teach French, Spanish and German.",
-    "fre": "Quel est ton travail ? Je suis professeur de langues et j'enseigne le français, l'espagnol et l'allemand."
-  },
-  {
-    "eng": "I am a language teacher.",
-    "fre": "Je suis professeur de langues."
-  },
-  {
-    "eng": "I teach French.",
-    "fre": "J'enseigne le français."
-  },
-  {
-    "eng": "She teaches English in Paris.",
-    "fre": "Elle enseigne l'anglais à Paris."
-  },
-  {
-    "eng": "Do you teach children or adults?",
-    "fre": "Enseignes-tu aux enfants ou aux adultes ? / Enseignez-vous aux enfants ou aux adultes ?"
-  },
-  {
-    "eng": "He teaches pupils of all ages.",
-    "fre": "Il enseigne à des élèves de tous âges."
-  },
-  {
-    "eng": "I work with pupils every day.",
-    "fre": "Je travaille avec des élèves chaque jour."
-  },
-  {
-    "eng": "Do you get along with your students?",
-    "fre": "Est-ce que tu t'entends bien avec tes élèves ? / Est-ce que vous vous entendez bien avec vos élèves ?"
-  },
-  {
-    "eng": "I get along very well with my colleagues.",
-    "fre": "Je m'entends très bien avec mes collègues."
-  },
-  {
-    "eng": "Marie doesn't get along with one of her colleagues.",
-    "fre": "Marie ne s'entend pas avec l'un de ses collègues."
-  },
-  {
-    "eng": "I have a day off tomorrow.",
-    "fre": "J'ai un jour de congé demain."
-  },
-  {
-    "eng": "Which day is your day off?",
-    "fre": "Quel jour est ton jour de congé ? / Quel jour est votre jour de congé ?"
-  },
-  {
-    "eng": "I don't work on my day off.",
-    "fre": "Je ne travaille pas pendant mon jour de congé."
-  },
-  {
-    "eng": "Pierre works for himself and works from home.",
-    "fre": "Pierre travaille à son compte et travaille chez lui."
-  },
-  {
-    "eng": "Would you like to work for yourself?",
-    "fre": "Voudrais-tu travailler à ton compte ? / Voudriez-vous travailler à votre compte ?"
-  },
-  {
-    "eng": "She has taught all over the world.",
-    "fre": "Elle a enseigné partout dans le monde."
-  },
-  {
-    "eng": "We travel all over the world for work.",
-    "fre": "Nous voyageons partout dans le monde pour le travail."
-  },
-  {
-    "eng": "He works almost every day.",
-    "fre": "Il travaille presque tous les jours."
-  },
-  {
-    "eng": "I've been here for almost two years.",
-    "fre": "Je suis ici depuis presque deux ans."
-  },
-  {
-    "eng": "The school is between the hotel and the museum.",
-    "fre": "L'école est entre l'hôtel et le musée."
+    "eng": "dix-huit ans maintenant.",
+    "fre": "Je travaille comme professeur depuis presque"
   },
   {
     "eng": "to have black hair",
-    "fre": "avoir les cheveux noirs"
+    "fre": "voir les cheveux noir."
   },
   {
-    "eng": "black",
-    "fre": "noir / noirs"
+    "eng": "noirs black bruns brown",
+    "fre": "auburn auburn / châtains chestnut"
   },
   {
-    "eng": "brown",
-    "fre": "brun / bruns"
-  },
-  {
-    "eng": "chestnut",
-    "fre": "châtain / châtains"
-  },
-  {
-    "eng": "auburn",
-    "fre": "auburn"
-  },
-  {
-    "eng": "ginger / red",
-    "fre": "roux / rousse"
-  },
-  {
-    "eng": "blond",
-    "fre": "blond / blonde"
-  },
-  {
-    "eng": "I have black hair.",
-    "fre": "J'ai les cheveux noirs."
-  },
-  {
-    "eng": "My brother has brown hair.",
-    "fre": "Mon frère a les cheveux bruns."
-  },
-  {
-    "eng": "Does Marie have blond hair?",
-    "fre": "Marie a-t-elle les cheveux blonds ?"
-  },
-  {
-    "eng": "Her hair is naturally chestnut.",
-    "fre": "Elle a naturellement les cheveux châtains."
-  },
-  {
-    "eng": "Pierre had black hair when he was young.",
-    "fre": "Pierre avait les cheveux noirs quand il était jeune."
-  },
-  {
-    "eng": "She has ginger hair like her sister.",
-    "fre": "Elle a les cheveux roux comme sa sœur."
-  },
-  {
-    "eng": "My father has grey hair now.",
-    "fre": "Mon père a les cheveux gris maintenant."
-  },
-  {
-    "eng": "Do you prefer blond hair or brown hair?",
-    "fre": "Préfères-tu les cheveux blonds ou bruns ? / Préférez-vous les cheveux blonds ou bruns ?"
-  },
-  {
-    "eng": "His hair was brown, but now it is grey.",
-    "fre": "Il avait les cheveux bruns, mais maintenant il a les cheveux gris."
-  },
-  {
-    "eng": "Nobody in my family has black hair.",
-    "fre": "Personne dans ma famille n'a les cheveux noirs."
+    "eng": "roux ginger / red",
+    "fre": "blonds blond"
   },
   {
     "eng": "I have blond hair.",
@@ -2796,16 +2208,16 @@
     "fre": "Marie a les cheveux gris."
   },
   {
-    "eng": "I don't have blond hair; I have brown hair.",
-    "fre": "Je n'ai pas les cheveux blonds ; j'ai les cheveux bruns."
+    "eng": "don't have blond hair; I have brown hai",
+    "fre": "Je n'ai pas les cheveux blonds; j'ai les / cheveux bruns."
   },
   {
     "eng": "We have blond hair.",
     "fre": "Nous avons les cheveux blonds."
   },
   {
-    "eng": "I think she has ginger hair, but I'm not sure.",
-    "fre": "Je pense qu'elle a les cheveux roux, mais je ne suis pas sûr."
+    "eng": "rink she has ginger hair, but I'm not sui",
+    "fre": "pense qu'elle a les cheveux roux, mais / ne suis pas sûr."
   },
   {
     "eng": "He said he had grey hair.",
@@ -2816,8 +2228,8 @@
     "fre": "chauve"
   },
   {
-    "eng": "I'm not bald, but I don't have much hair.",
-    "fre": "Je ne suis pas chauve, mais je n'ai pas beaucoup de cheveux."
+    "eng": "m not bald, but I don't have much hair",
+    "fre": "Je ne suis pas chauve, mais je n'ai pas / beaucoup de cheveux."
   },
   {
     "eng": "He is completely bald.",
@@ -2825,99 +2237,31 @@
   },
   {
     "eng": "Is Marie bald?",
-    "fre": "Marie est-elle chauve ? / Est-ce que Marie est chauve ?"
+    "fre": "Marie est-elle chauve? / Est-ce que Marie est chauve?"
   },
   {
-    "eng": "I am a teacher.",
-    "fre": "Je suis professeur."
+    "eng": "I am a teacher",
+    "fre": "je suis professeur"
+  },
+  {
+    "eng": "to have black hair",
+    "fre": "voir les cheveux noir"
+  },
+  {
+    "eng": "I have Short hair",
+    "fre": "'ai les cheveux courts"
+  },
+  {
+    "eng": "mi-longs medium length",
+    "fre": "courts short"
+  },
+  {
+    "eng": "raides straight",
+    "fre": "longs long"
   },
   {
     "eng": "I have short hair.",
     "fre": "J'ai les cheveux courts."
-  },
-  {
-    "eng": "short",
-    "fre": "court / courts"
-  },
-  {
-    "eng": "medium-length",
-    "fre": "mi-long / mi-longs"
-  },
-  {
-    "eng": "straight",
-    "fre": "raide / raides"
-  },
-  {
-    "eng": "long",
-    "fre": "long / longs"
-  },
-  {
-    "eng": "wavy",
-    "fre": "ondulé / ondulés"
-  },
-  {
-    "eng": "curly",
-    "fre": "bouclé / bouclés"
-  },
-  {
-    "eng": "My hair is short and straight.",
-    "fre": "J'ai les cheveux courts et raides."
-  },
-  {
-    "eng": "She has medium-length hair.",
-    "fre": "Elle a les cheveux mi-longs."
-  },
-  {
-    "eng": "His hair is long and wavy.",
-    "fre": "Il a les cheveux longs et ondulés."
-  },
-  {
-    "eng": "Do you have curly hair?",
-    "fre": "As-tu les cheveux bouclés ? / Avez-vous les cheveux bouclés ?"
-  },
-  {
-    "eng": "I prefer short hair.",
-    "fre": "Je préfère les cheveux courts."
-  },
-  {
-    "eng": "Marie would like straight hair.",
-    "fre": "Marie voudrait avoir les cheveux raides."
-  },
-  {
-    "eng": "Pierre used to have long hair.",
-    "fre": "Pierre avait les cheveux longs."
-  },
-  {
-    "eng": "My daughter has short curly hair.",
-    "fre": "Ma fille a les cheveux courts et bouclés."
-  },
-  {
-    "eng": "Her hair is longer than mine.",
-    "fre": "Elle a les cheveux plus longs que les miens."
-  },
-  {
-    "eng": "I want shorter hair.",
-    "fre": "Je veux les cheveux plus courts."
-  },
-  {
-    "eng": "Long hair is difficult for my job.",
-    "fre": "Les cheveux longs sont difficiles pour mon travail."
-  },
-  {
-    "eng": "His hair is naturally very straight.",
-    "fre": "Il a naturellement les cheveux très raides."
-  },
-  {
-    "eng": "She has long wavy blond hair.",
-    "fre": "Elle a les cheveux longs, blonds et ondulés."
-  },
-  {
-    "eng": "He has short curly black hair.",
-    "fre": "Il a les cheveux courts, noirs et bouclés."
-  },
-  {
-    "eng": "What kind of hair does Pierre have?",
-    "fre": "Comment sont les cheveux de Pierre ?"
   },
   {
     "eng": "Pierre has long hair.",
@@ -2929,35 +2273,35 @@
   },
   {
     "eng": "Do you like long hair?",
-    "fre": "Aimes-tu les cheveux longs ? / Aimez-vous les cheveux longs ?"
+    "fre": "Aimes-tu les cheveux longs? / Aimez-vous les cheveux longs?"
   },
   {
     "eng": "I would like longer hair, but it's too difficult when you have children.",
-    "fre": "Je voudrais avoir les cheveux plus longs, mais c'est trop difficile quand on a des enfants."
+    "fre": "Je voudrais les cheveux plus longs, mais / est trop difficile quand on a des enfant"
   },
   {
-    "eng": "Does Marie have straight hair or curly hair?",
-    "fre": "Marie a-t-elle les cheveux raides ou bouclés ?"
+    "eng": "es Marie have straight hair or curly ha",
+    "fre": "Marie a-t-elle les cheveux raides / ou bouclés?"
   },
   {
-    "eng": "I think Pierre has quite wavy hair naturally, but he usually has short hair for his job.",
-    "fre": "Je pense que Pierre a les cheveux assez ondulés naturellement, mais d'habitude, il a les cheveux courts pour son travail."
+    "eng": "I think Pierre has quite wavy hair natural but usually, he has short hair for his job",
+    "fre": "Je pense que Pierre a les cheveux assez ondulés naturellement, mais d'habitude, / les cheveux courts pour son travail"
   },
   {
     "eng": "I have medium length hair.",
     "fre": "J'ai les cheveux mi-longs."
   },
   {
-    "eng": "I would like long hair, but unfortunately I'm bald.",
-    "fre": "Je voudrais avoir les cheveux longs, mais malheureusement, je suis chauve."
+    "eng": "would like long hair, but unfortunately I'm bald.",
+    "fre": "Je voudrais les cheveux longs, mais / malheureusement, je suis chauve."
   },
   {
-    "eng": "I have short, straight, black hair.",
-    "fre": "J'ai les cheveux noirs, courts et raides."
+    "eng": "I have black, short (and) straight hair",
+    "fre": "j'ai les cheveux noirs, courts et raides"
   },
   {
-    "eng": "Marie has long blond hair.",
-    "fre": "Marie a les cheveux longs et blonds."
+    "eng": "Marie has long (and) blond hair \"",
+    "fre": "Marie a les cheveux longs et blonds"
   },
   {
     "eng": "I have short, grey hair.",
@@ -2969,87 +2313,31 @@
   },
   {
     "eng": "Marie has long, blond, straight hair.",
-    "fre": "Marie a les cheveux longs, blonds et raides."
+    "fre": "rie a les cheveux longs, blonds et raid"
   },
   {
     "eng": "What colour is your hair?",
-    "fre": "De quelle couleur sont tes cheveux ? / De quelle couleur sont vos cheveux ?"
+    "fre": "De quelle couleur sont tes / vos cheveux"
   },
   {
-    "eng": "I have green eyes.",
-    "fre": "J'ai les yeux verts."
+    "eng": "I have green eyes",
+    "fre": "j'ai les yeux verts"
   },
   {
-    "eng": "green",
-    "fre": "vert / verts"
+    "eng": "verts green",
+    "fre": "bleus blue"
   },
   {
-    "eng": "blue",
-    "fre": "bleu / bleus"
+    "eng": "gris grey",
+    "fre": "noisette hazel"
   },
   {
-    "eng": "grey",
-    "fre": "gris"
+    "eng": "noirs black a",
+    "fre": "marrons brown"
   },
   {
-    "eng": "hazel",
-    "fre": "noisette"
-  },
-  {
-    "eng": "brown",
-    "fre": "marron / marrons"
-  },
-  {
-    "eng": "My mother has blue eyes.",
-    "fre": "Ma mère a les yeux bleus."
-  },
-  {
-    "eng": "My father has brown eyes.",
-    "fre": "Mon père a les yeux marrons."
-  },
-  {
-    "eng": "Do you have green eyes?",
-    "fre": "As-tu les yeux verts ? / Avez-vous les yeux verts ?"
-  },
-  {
-    "eng": "She has beautiful grey eyes.",
-    "fre": "Elle a de beaux yeux gris."
-  },
-  {
-    "eng": "His eyes are hazel.",
-    "fre": "Il a les yeux noisette."
-  },
-  {
-    "eng": "Nobody in my family has green eyes.",
-    "fre": "Personne dans ma famille n'a les yeux verts."
-  },
-  {
-    "eng": "Pierre had blue eyes when he was a child.",
-    "fre": "Pierre avait les yeux bleus quand il était enfant."
-  },
-  {
-    "eng": "My two sisters both have brown eyes.",
-    "fre": "Mes deux sœurs ont toutes les deux les yeux marrons."
-  },
-  {
-    "eng": "Her eyes are the same colour as mine.",
-    "fre": "Ses yeux sont de la même couleur que les miens."
-  },
-  {
-    "eng": "Does your oldest son have blue eyes?",
-    "fre": "Ton fils aîné a-t-il les yeux bleus ? / Votre fils aîné a-t-il les yeux bleus ?"
-  },
-  {
-    "eng": "I like green eyes, but mine are hazel.",
-    "fre": "J'aime les yeux verts, mais les miens sont noisette."
-  },
-  {
-    "eng": "He has dark brown eyes.",
-    "fre": "Il a les yeux marron foncé."
-  },
-  {
-    "eng": "He has one blue eye and one green eye.",
-    "fre": "Il a un œil bleu et un œil vert."
+    "eng": "1e has one blue eye and one green eye",
+    "fre": "il a un œil bleu et un œil vert"
   },
   {
     "eng": "I have blue eyes.",
@@ -3064,12 +2352,12 @@
     "fre": "Marie a les yeux marrons."
   },
   {
-    "eng": "Marie has one blue eye and one green eye.",
-    "fre": "Marie a un œil bleu et un œil vert."
+    "eng": "arie has one blue eye and one green e\\",
+    "fre": "Marie a un œil bleu et un ceil vert."
   },
   {
-    "eng": "I don't have brown eyes; I have hazel eyes.",
-    "fre": "Je n'ai pas les yeux marrons ; j'ai les yeux noisette."
+    "eng": "Jon't have brown eyes; I have hazel eye",
+    "fre": "Je n'ai pas les yeux marrons; jai / les yeux noisette."
   },
   {
     "eng": "Who here has grey eyes?",
@@ -3077,11 +2365,11 @@
   },
   {
     "eng": "What colour are your eyes?",
-    "fre": "De quelle couleur sont tes yeux ? / De quelle couleur sont vos yeux ?"
+    "fre": "De quelle couleur sont tes / vos yeux?"
   },
   {
     "eng": "What colour are Hugo's eyes?",
-    "fre": "De quelle couleur sont les yeux de Hugo ?"
+    "fre": "De quelle couleur sont les yeux de Hugo"
   },
   {
     "eng": "the eyes",
@@ -3089,14 +2377,14 @@
   },
   {
     "eng": "the eldest / the oldest",
-    "fre": "l'aîné / l'aînée"
+    "fre": "l'aîné"
   },
   {
     "eng": "I have two sisters, but I am the eldest.",
     "fre": "J'ai deux sœurs, mais je suis l'aîné."
   },
   {
-    "eng": "Alphonse was the eldest of eight children.",
+    "eng": "phonse was the eldest of eight childre",
     "fre": "Alphonse était l'aîné de huit enfants."
   },
   {
@@ -3105,22 +2393,22 @@
   },
   {
     "eng": "Where is your oldest son?",
-    "fre": "Où est ton fils aîné ? / Où est votre fils aîné ?"
+    "fre": "Où est ton fils aîné? / Où est votre fils aîné?"
   },
   {
     "eng": "This is for your oldest sister.",
-    "fre": "Ceci est pour ta sœur aînée. / Ceci est pour votre sœur aînée."
+    "fre": "Ceci est pour ta / votre sœur aînée."
   },
   {
     "eng": "the youngest",
     "fre": "le cadet"
   },
   {
-    "eng": "I have two sisters, but I am the youngest.",
+    "eng": "have two sisters, but I am the younges",
     "fre": "J'ai deux sœurs, mais je suis le cadet."
   },
   {
-    "eng": "Michel was the youngest of seven children.",
+    "eng": "ichel was the youngest of seven childre",
     "fre": "Michel était le cadet de sept enfants."
   },
   {
@@ -3129,79 +2417,47 @@
   },
   {
     "eng": "Where is your youngest son?",
-    "fre": "Où est ton fils cadet ? / Où est votre fils cadet ?"
+    "fre": "Où est ton fils cadet? / Ou est votre fils cadet?"
   },
   {
     "eng": "This is for your youngest sister.",
-    "fre": "Ceci est pour ta sœur cadette. / Ceci est pour votre sœur cadette."
+    "fre": "Ceci est pour ta / votre sœur cadette."
   },
   {
-    "eng": "My eldest lives in Paris, and my youngest lives in London.",
-    "fre": "Mon aîné habite à Paris et mon cadet habite à Londres."
+    "eng": "Ny oldest lives in Paris, and my younges lives in London.",
+    "fre": "Mon ainé habite a Paris, et mon cadet / habite a Londres."
   },
   {
     "eng": "Michelle is the oldest and Sophie is the youngest.",
-    "fre": "Michelle est l'aînée et Sophie est la cadette."
+    "fre": "chelle est l'aînée et Sophie est la cadet"
   },
   {
-    "eng": "My youngest daughter has short blond hair.",
-    "fre": "Ma fille cadette a les cheveux courts et blonds."
+    "eng": "I youngest daughter has short blond hi",
+    "fre": "Ma fille cadette a les cheveux / courts et blonds."
   },
   {
-    "eng": "My oldest brother has blue eyes, like me.",
-    "fre": "Mon frère aîné a les yeux bleus, comme moi."
+    "eng": "Ay oldest brother has blue eyes, like me",
+    "fre": "Mon frère aîné a les yeux bleus, / comme moi."
   },
   {
     "eng": "an eye",
     "fre": "un œil"
   },
   {
-    "eng": "oldest / eldest",
-    "fre": "aîné / aînée"
+    "eng": "oldest",
+    "fre": "ainé"
   },
   {
     "eng": "youngest",
-    "fre": "cadet / cadette"
+    "fre": "cadet"
   },
   {
-    "eng": "My eldest sister lives in France.",
-    "fre": "Ma sœur aînée habite en France."
-  },
-  {
-    "eng": "My youngest brother is still at school.",
-    "fre": "Mon frère cadet est encore à l'école."
-  },
-  {
-    "eng": "Is Pierre your oldest brother?",
-    "fre": "Pierre est-il ton frère aîné ? / Pierre est-il votre frère aîné ?"
-  },
-  {
-    "eng": "Her youngest daughter has green eyes.",
-    "fre": "Sa fille cadette a les yeux verts."
-  },
-  {
-    "eng": "The eldest is twenty years old.",
-    "fre": "L'aîné a vingt ans."
-  },
-  {
-    "eng": "The youngest is only ten.",
-    "fre": "Le cadet n'a que dix ans."
-  },
-  {
-    "eng": "My oldest child has curly hair.",
-    "fre": "Mon enfant aîné a les cheveux bouclés."
-  },
-  {
-    "eng": "My youngest child looks like me.",
-    "fre": "Mon enfant cadet me ressemble."
-  },
-  {
-    "eng": "I am an engineer, but I also work as a teacher sometimes.",
-    "fre": "Je suis ingénieur, mais je travaille aussi comme professeur quelquefois."
+    "eng": "I a…m an engineer, but / also work as a teacher sometimes.",
+    "fre": "Je suis ingénieur, mais je travaille aussi / comme professeur quelquefois."
   },
   {
     "eng": "Marie has blond hair and green eyes.",
-    "fre": "Marie a les cheveux blonds et les yeux verts."
+    "fre": "rie a les cheveux blonds et les yeux ve:"
   },
   {
     "eng": "Pierre has been bald for ten years.",
@@ -3209,75 +2465,79 @@
   },
   {
     "eng": "He had short hair and brown eyes.",
-    "fre": "Il avait les cheveux courts et les yeux marrons."
+    "fre": "Il avait les cheveux courts et les / yeux marrons."
   },
   {
-    "eng": "Sophie has one blue eye and one brown eye, like David Bowie.",
-    "fre": "Sophie a un œil bleu et un œil marron, comme David Bowie."
+    "eng": "Oophie has one blue eye and one browr eye, like David Bowie.",
+    "fre": "Sophie a un ceil bleu et un ceil marron, / comme David Bowie."
   },
   {
     "eng": "I have hazel eyes, but I would like to have blue eyes.",
-    "fre": "J'ai les yeux noisette, mais je voudrais avoir les yeux bleus."
+    "fre": "J'ai les yeux noisette, mais je voudrais / avoir les yeux bleus."
   },
   {
     "eng": "Who is the eldest?",
     "fre": "Qui est l'aîné?"
   },
   {
-    "eng": "What colour are your oldest sister's eyes?",
-    "fre": "De quelle couleur sont les yeux de ta sœur aînée ? / De quelle couleur sont les yeux de votre sœur aînée ?"
+    "eng": "I nat colour are your oldest sister's eyes",
+    "fre": "De quelle couleur sont les yeux de ta / votre sœur aînée?"
   },
   {
-    "eng": "What colour is your youngest child's hair?",
-    "fre": "De quelle couleur sont les cheveux de ton enfant cadet ? / De quelle couleur sont les cheveux de votre enfant cadet ?"
+    "eng": "I nat colour is your youngest child's hair",
+    "fre": "De quelle couleur sont les cheveux / de ton / votre enfant cadet?"
+  },
+  {
+    "eng": "I hat colour is your youngest child's hair",
+    "fre": "De quelle couleur sont les cheveux / de ton / votre enfant cadet?"
   },
   {
     "eng": "Are you bald?",
-    "fre": "Es-tu chauve ? / Êtes-vous chauve ?"
+    "fre": "Es-tu / Etes-vous chauve?"
   },
   {
     "eng": "Is there anybody here with black hair?",
-    "fre": "Y a-t-il quelqu'un ici qui a les cheveux noirs ?"
+    "fre": "quelqu'un ici avec les cheveux noir"
   },
   {
-    "eng": "How many people here have blond hair?",
-    "fre": "Combien de personnes ici ont les cheveux blonds ?"
+    "eng": "1ow many people here have blond hair",
+    "fre": "Combien de personnes ici ont les / cheveux blonds?"
   },
   {
     "eng": "I don't have blue eyes; I have grey eyes.",
-    "fre": "Je n'ai pas les yeux bleus ; j'ai les yeux gris."
+    "fre": "n'ai pas les yeux bleus; j'ai les yeux gri:"
   },
   {
-    "eng": "Sophie says she has blond hair, but I think she has brown hair naturally.",
-    "fre": "Sophie dit qu'elle a les cheveux blonds, mais je pense qu'elle a les cheveux bruns naturellement."
+    "eng": "bruns naturellement. >Jphie says she has blond hair, but / thir she has brown hair naturally.",
+    "fre": "phie dit qu'elle a les cheveux blonds, m / je pense qu'elle a les cheveux"
   },
   {
     "eng": "She has curly hair, but she prefers straight hair.",
-    "fre": "Elle a les cheveux bouclés, mais elle préfère les cheveux raides."
+    "fre": "2 a les cheveux bouclés, mais elle préfe / les cheveux raides."
   },
   {
     "eng": "I have long wavy hair.",
     "fre": "J'ai les cheveux longs et ondulés."
   },
   {
-    "eng": "My hair is normally very wavy.",
-    "fre": "Mes cheveux sont normalement très ondulés."
+    "eng": "normalement. My hair is very wavy normally.",
+    "fre": "Mes cheveux sont très ondulés"
   },
   {
     "eng": "Short straight hair is easier than long curly hair.",
-    "fre": "Les cheveux courts et raides sont plus faciles que les cheveux longs et bouclés."
+    "fre": "Les cheveux courts et raides sont plus / aciles que les cheveux longs et bouclés"
   },
   {
     "eng": "Do you have long hair or short hair?",
-    "fre": "Avez-vous les cheveux longs ou les cheveux courts ?"
+    "fre": "Avez-vous les cheveux longs ou les / cheveux courts?"
   },
   {
     "eng": "He has grey hair naturally, but today he has brown hair.",
-    "fre": "Il a les cheveux gris naturellement, mais aujourd'hui il a les cheveux bruns."
+    "fre": "J'a les cheveux gris naturellement, mai: / aujourd'hui il a les cheveux bruns."
   },
   {
-    "eng": "I didn't go to the restaurant, but I went to the cinema with Marie and Sophie.",
-    "fre": "Je ne suis pas allé au restaurant, mais je suis allé au cinéma avec Marie et Sophie."
+    "eng": "didn't go to the restaurant, but I went t the cinema with Marie and Sophie.",
+    "fre": "1e suis pas allé au restaurant, mais je s / allé au cinéma avec Marie et Sophie."
   },
   {
     "eng": "No, I'm not busy tomorrow.",
@@ -3285,43 +2545,47 @@
   },
   {
     "eng": "I would like some raisins, please.",
-    "fre": "Je voudrais des raisins secs, s'il vous plaît."
+    "fre": "voudrais des raisins secs, s'il vous pla"
   },
   {
-    "eng": "I was on holiday with my family last week.",
-    "fre": "J'étais en vacances avec ma famille la semaine dernière."
+    "eng": "was on holiday with my family last weel",
+    "fre": "J'étais en vacances avec ma famille la / semaine dernière,"
   },
   {
     "eng": "They're asking us to bring some wine to the restaurant.",
-    "fre": "Ils nous demandent d'apporter du vin au restaurant."
+    "fre": "Ils nous demandent d'apporter du / vin au restaurant."
   },
   {
     "eng": "I'm ready to leave when you want.",
-    "fre": "Je suis prêt à partir quand tu veux. / Je suis prêt à partir quand vous voulez."
+    "fre": "Je suis prêt à partir quand tu / veux / vous voulez."
   },
   {
     "eng": "Whom did you call?",
-    "fre": "Qui as-tu appelé ? / Qui avez-vous appelé ?"
+    "fre": "Qui as-tu / avez-vous appelé?"
   },
   {
-    "eng": "It was windy outside, but we went to the beach.",
-    "fre": "Il y avait du vent dehors, mais nous sommes allés à la plage."
+    "eng": "nas windy out, but we went to the beac",
+    "fre": "Il y avait du vent, mais nous sommes / allés à la plage."
   },
   {
     "eng": "You have arrived too early, so the shop is still closed.",
-    "fre": "Tu es arrivé trop tôt, donc le magasin est toujours fermé. / Vous êtes arrivé trop tôt, donc le magasin est toujours fermé."
+    "fre": "u es / Vous êtes arrivé trop tôt, donc le / magasin'est toujours fermé."
+  },
+  {
+    "eng": "he postman is here, but he doesn't hav any letters for you.",
+    "fre": "Le facteur est ici, mais il n'a pas de / lettrès pour toi / vous."
   },
   {
     "eng": "I like going on holiday abroad, but I prefer to stay in England.",
-    "fre": "J'aime aller en vacances à l'étranger, mais je préfère rester en Angleterre."
+    "fre": "J'aime aller en vacances à l'étranger, / mais je préfère rester en Angleterre."
   },
   {
     "eng": "I've heard that this is the worst film of the year.",
-    "fre": "On m'a dit que c'était le pire film de l'année."
+    "fre": "On m'a dit que ceci est le pire / film de l'année."
   },
   {
-    "eng": "Were you born in 1950 or 1940?",
-    "fre": "Es-tu né en mille neuf cent cinquante ou en mille neuf cent quarante ? / Êtes-vous né en mille neuf cent cinquante ou en mille neuf cent quarante ?"
+    "eng": "mille neuf cent quarante? Were you born in 1950 or 1940?",
+    "fre": "s-tu né en mille neuf cent cinquante o"
   },
   {
     "eng": "I don't lie.",
@@ -3333,19 +2597,23 @@
   },
   {
     "eng": "That isn't like you.",
-    "fre": "Ce n'est pas comme toi. / Ce n'est pas comme vous."
+    "fre": "Ça ce n'est pas comme vous."
   },
   {
     "eng": "Who decided to do that?",
     "fre": "Qui a décidé de faire ça?"
   },
   {
-    "eng": "It was my birthday yesterday, and now I'm forty-seven years old.",
-    "fre": "C'était mon anniversaire hier et maintenant j'ai quarante-sept ans."
+    "eng": "It was my birthday yesterday and,",
+    "fre": "C'était mon anniversaire hier et, / maintenant, j'ai quarante-sept ans."
   },
   {
-    "eng": "to be ... years older than",
-    "fre": "avoir ... ans de plus que"
+    "eng": "I have Short hair",
+    "fre": "lai les cheveux courts"
+  },
+  {
+    "eng": "to be. . . years older than",
+    "fre": "voir. . . ans de plus qu"
   },
   {
     "eng": "Pierre is three years older than me.",
@@ -3353,7 +2621,7 @@
   },
   {
     "eng": "I think that Marie is two years older than Pierre.",
-    "fre": "Je pense que Marie a deux ans de plus que Pierre."
+    "fre": "Je pense que Marie a deux ans de / plus que Pierre."
   },
   {
     "eng": "I am ten years older than him.",
@@ -3361,147 +2629,99 @@
   },
   {
     "eng": "I'm five years older than you.",
-    "fre": "J'ai cinq ans de plus que toi. / J'ai cinq ans de plus que vous."
+    "fre": "J'ai cinq ans de plus que toi / vous."
   },
   {
     "eng": "My youngest son is a year older than her eldest son.",
-    "fre": "Mon fils cadet a un an de plus que son fils aîné."
+    "fre": "Mon fils cadet a un an de plus que / son fils aîné."
   },
   {
     "eng": "You're ten years older than me.",
-    "fre": "Tu as dix ans de plus que moi. / Vous avez dix ans de plus que moi."
+    "fre": "1 as / Vous avez dix ans de plus que mc"
   },
   {
-    "eng": "His wife is fourteen years older than him.",
-    "fre": "Sa femme a quatorze ans de plus que lui."
+    "eng": "lis wife is fourteen years older than hin",
+    "fre": "à femme à quatorze ans de plus que It"
   },
   {
-    "eng": "to be ... years younger than",
-    "fre": "avoir ... ans de moins que"
+    "eng": "to be. . . years younger than",
+    "fre": "voir … ans de moins qu"
   },
   {
     "eng": "Pierre is three years younger than me.",
     "fre": "Pierre a trois ans de moins que moi."
   },
   {
-    "eng": "I think that Marie is two years younger than Pierre.",
-    "fre": "Je pense que Marie a deux ans de moins que Pierre."
+    "eng": "I think that Marie is two years younger",
+    "fre": "than Pierre. / Je pense que Marie a deux ans de / moins que Pierre."
   },
   {
     "eng": "I'm five years younger than you.",
-    "fre": "J'ai cinq ans de moins que toi. / J'ai cinq ans de moins que vous."
+    "fre": "J'ai cinq ans de moins que toi / vous."
   },
   {
-    "eng": "My youngest son is a year younger than her eldest son.",
-    "fre": "Mon fils cadet a un an de moins que son fils aîné."
+    "eng": "My youngest son is a year younger thar her eldest son.",
+    "fre": "Mon fils cadet a un an de moins que / son fils aîné."
   },
   {
     "eng": "You're ten years younger than me.",
-    "fre": "Tu as dix ans de moins que moi. / Vous avez dix ans de moins que moi."
+    "fre": "as / Vous avez dix ans de moins que rr"
   },
   {
-    "eng": "His wife is fourteen years younger than him.",
-    "fre": "Sa femme a quatorze ans de moins que lui."
+    "eng": "Wife is fourteen years younger than hi",
+    "fre": "femme a quatorze ans de moins que"
   },
   {
-    "eng": "Marie is one year older than Sophie.",
-    "fre": "Marie a un an de plus que Sophie."
+    "eng": "masculine singular",
+    "fre": "JAITICaUu"
   },
   {
-    "eng": "My brother is six years younger than me.",
-    "fre": "Mon frère a six ans de moins que moi."
+    "eng": "feminine singular",
+    "fre": "jumelle"
   },
   {
-    "eng": "How many years older is Pierre than you?",
-    "fre": "Pierre a combien d'années de plus que toi ? / Pierre a combien d'années de plus que vous ?"
-  },
-  {
-    "eng": "She is three years younger than her husband.",
-    "fre": "Elle a trois ans de moins que son mari."
-  },
-  {
-    "eng": "My eldest sister is twelve years older than my youngest brother.",
-    "fre": "Ma sœur aînée a douze ans de plus que mon frère cadet."
-  },
-  {
-    "eng": "Their son is two years younger than our daughter.",
-    "fre": "Leur fils a deux ans de moins que notre fille."
-  },
-  {
-    "eng": "a twin (masculine singular)",
-    "fre": "un jumeau"
-  },
-  {
-    "eng": "a twin (feminine singular)",
-    "fre": "une jumelle"
-  },
-  {
-    "eng": "twins (masculine or mixed plural)",
-    "fre": "des jumeaux"
-  },
-  {
-    "eng": "two female twins",
-    "fre": "deux jumelles"
-  },
-  {
-    "eng": "Marie and Sophie are twin sisters.",
-    "fre": "Marie et Sophie sont sœurs jumelles."
-  },
-  {
-    "eng": "Pierre has a twin brother.",
-    "fre": "Pierre a un frère jumeau."
-  },
-  {
-    "eng": "The twins have the same colour eyes.",
-    "fre": "Les jumeaux ont les yeux de la même couleur."
-  },
-  {
-    "eng": "The twins don't have the same hair colour.",
-    "fre": "Les jumeaux n'ont pas les cheveux de la même couleur."
-  },
-  {
-    "eng": "Are they twins?",
-    "fre": "Sont-ils jumeaux ? / Sont-elles jumelles ?"
-  },
-  {
-    "eng": "My twin is younger than me by ten minutes.",
-    "fre": "Mon jumeau a dix minutes de moins que moi."
+    "eng": "masculine plural",
+    "fre": "jumeaux"
   },
   {
     "eng": "Pierre and Jean are twins.",
     "fre": "Pierre et Jean sont jumeaux."
   },
   {
-    "eng": "Alice and Sophie are twins, but they don't look like each other.",
-    "fre": "Alice et Sophie sont jumelles, mais elles ne se ressemblent pas."
+    "eng": "lice and Sophie are twins, but they don look like each other.",
+    "fre": "ice et Sophie sont jumelles, mais elles 1 / se ressemblent pas."
   },
   {
-    "eng": "You look a lot like Pierre. Are you his twin?",
-    "fre": "Tu ressembles beaucoup à Pierre. Es-tu son jumeau ? / Vous ressemblez beaucoup à Pierre. Êtes-vous son jumeau ?"
+    "eng": "Du look a lot like Pierre, are you his twir",
+    "fre": "Fu ressembles beaucoup à Pierre, es-tt / son jumeau? / Nous ressemblez beaucoup à Pierre, ête / VOUS son jumeau? 'a"
   },
   {
-    "eng": "Sophie is my older sister, not my twin, but we do look a lot like each other.",
-    "fre": "Sophie est ma sœur aînée, pas ma jumelle, mais nous nous ressemblons beaucoup."
+    "eng": "ophie is my older sister, not my twin, bt we do look like each other a lot.",
+    "fre": "sophie est ma sœur aînée, non pas me / jumelle, mais nous nous ressemblons / beaucoup. 4"
+  },
+  {
+    "eng": "to be. . . years younger than",
+    "fre": "voir. . . ans de moins qu"
   },
   {
     "eng": "to get on with",
     "fre": "s'entendre avec"
   },
   {
-    "eng": "I get on well.",
-    "fre": "Je m'entends bien."
+    "eng": "LINILINLUI\\L to get on",
+    "fre": "je m'entends / get on"
   },
   {
     "eng": "I get on with Marie.",
     "fre": "Je m'entends avec Marie."
   },
   {
-    "eng": "My best friend is ten years older than me, but we get on very well.",
-    "fre": "Mon meilleur ami a dix ans de plus que moi, mais nous nous entendons très bien."
+    "eng": "My best friend is ten years older than me but we get on very well.",
+    "fre": "Mon meilleur ami a dix ans de plus que moi / mais nous nous entendons très bien."
   },
   {
-    "eng": "Usually, Marie gets on quite well with Pierre.",
-    "fre": "D'habitude, Marie s'entend assez bien avec Pierre."
+    "eng": "ually, Marie gets on quite well with Pier",
+    "fre": "D'habitude, Marie s'entend assez / bien avec Pierre."
   },
   {
     "eng": "We don't get on.",
@@ -3516,26 +2736,6 @@
     "fre": "Qui s'entend avec Hugo?"
   },
   {
-    "eng": "I get on well with my colleagues.",
-    "fre": "Je m'entends bien avec mes collègues."
-  },
-  {
-    "eng": "Do you get on with your sister?",
-    "fre": "T'entends-tu bien avec ta sœur ? / Vous entendez-vous bien avec votre sœur ?"
-  },
-  {
-    "eng": "They don't get on very well.",
-    "fre": "Ils ne s'entendent pas très bien."
-  },
-  {
-    "eng": "We got on well when we worked together.",
-    "fre": "Nous nous entendions bien quand nous travaillions ensemble."
-  },
-  {
-    "eng": "She gets on better with Pierre than with Marie.",
-    "fre": "Elle s'entend mieux avec Pierre qu'avec Marie."
-  },
-  {
     "eng": "to annoy",
     "fre": "énerver"
   },
@@ -3545,43 +2745,23 @@
   },
   {
     "eng": "Pierre didn't annoy me; it was Marie.",
-    "fre": "Pierre ne m'a pas énervé ; c'était Marie."
+    "fre": "Pierre ne ma pas énervé; c'était Marie."
   },
   {
     "eng": "Who annoyed you?",
-    "fre": "Qui t'a énervé ? / Qui vous a énervé ?"
+    "fre": "Qui t'a énervé? / Qui vous a énervé?"
   },
   {
     "eng": "Did I annoy you last week?",
-    "fre": "Est-ce que je t'ai énervé la semaine dernière ? / Est-ce que je vous ai énervé la semaine dernière ?"
+    "fre": "Est-ce que je t'ai énervé la semaine / derniére? / FSt-ce que je vous ai énervé la semaine / derniére? a"
   },
   {
-    "eng": "I'm very sorry if my children annoyed you.",
-    "fre": "Je suis très désolé si mes enfants t'ont énervé. / Je suis très désolé si mes enfants vous ont énervé."
+    "eng": "I'm very sorry if my children annoyed yot",
+    "fre": "Je suis très désolé si mes enfants / t'ont énervé. / vous ont énervé. a"
   },
   {
     "eng": "They didn't annoy me.",
     "fre": "Ils ne m'ont pas énervé."
-  },
-  {
-    "eng": "Loud people annoy me.",
-    "fre": "Les gens bruyants m'énervent."
-  },
-  {
-    "eng": "Does the noise annoy you?",
-    "fre": "Est-ce que le bruit t'énerve ? / Est-ce que le bruit vous énerve ?"
-  },
-  {
-    "eng": "The children are annoying Pierre.",
-    "fre": "Les enfants énervent Pierre."
-  },
-  {
-    "eng": "Don't annoy your sister.",
-    "fre": "N'énerve pas ta sœur. / N'énervez pas votre sœur."
-  },
-  {
-    "eng": "He annoys me when he talks like that.",
-    "fre": "Il m'énerve quand il parle comme ça."
   },
   {
     "eng": "to get married",
@@ -3593,7 +2773,7 @@
   },
   {
     "eng": "Whom did you marry?",
-    "fre": "Avec qui t'es-tu marié ? / Avec qui vous êtes-vous marié ?"
+    "fre": "Avec qui t'es-tu marié? / Avec qui vous êtes-vous marié?"
   },
   {
     "eng": "They don't want to get married.",
@@ -3601,35 +2781,11 @@
   },
   {
     "eng": "Why doesn't she want to marry Pierre?",
-    "fre": "Pourquoi ne veut-elle pas se marier avec Pierre ?"
+    "fre": "Pourquoi ne veut-elle pas se marier / avec Pierre?"
   },
   {
-    "eng": "Marie got married last year, and her husband is twenty years older than her.",
+    "eng": "Marie got married last year and her husband is twenty years older than her",
     "fre": "Marie s'est mariée l'année dernière et son mari a vingt ans de plus qu'elle."
-  },
-  {
-    "eng": "Are you going to get married?",
-    "fre": "Vas-tu te marier ? / Allez-vous vous marier ?"
-  },
-  {
-    "eng": "They got married in France.",
-    "fre": "Ils se sont mariés en France."
-  },
-  {
-    "eng": "When did Pierre get married?",
-    "fre": "Quand Pierre s'est-il marié ?"
-  },
-  {
-    "eng": "She wants to get married next year.",
-    "fre": "Elle veut se marier l'année prochaine."
-  },
-  {
-    "eng": "My sister got married ten years ago.",
-    "fre": "Ma sœur s'est mariée il y a dix ans."
-  },
-  {
-    "eng": "They decided not to get married.",
-    "fre": "Ils ont décidé de ne pas se marier."
   },
   {
     "eng": "single",
@@ -3645,11 +2801,11 @@
   },
   {
     "eng": "Do you like being single?",
-    "fre": "Aimes-tu être célibataire ? / Aimez-vous être célibataire ?"
+    "fre": "Aimes-tu être célibataire? / Aimez-vous être célibataire?"
   },
   {
-    "eng": "I don't know if Pierre is single.",
-    "fre": "Je ne sais pas si Pierre est célibataire."
+    "eng": "I'm not sure if Pierre is single.",
+    "fre": "Je ne suis pas sûr si Pierre est célibataire"
   },
   {
     "eng": "I've been single for two years.",
@@ -3657,31 +2813,7 @@
   },
   {
     "eng": "I don't have any single friends; everybody has got married.",
-    "fre": "Je n'ai pas d'amis célibataires ; tout le monde s'est marié."
-  },
-  {
-    "eng": "Is your brother single?",
-    "fre": "Ton frère est-il célibataire ? / Votre frère est-il célibataire ?"
-  },
-  {
-    "eng": "She was single last year.",
-    "fre": "Elle était célibataire l'année dernière."
-  },
-  {
-    "eng": "Pierre doesn't want to be single.",
-    "fre": "Pierre ne veut pas être célibataire."
-  },
-  {
-    "eng": "My oldest sister is single.",
-    "fre": "Ma sœur aînée est célibataire."
-  },
-  {
-    "eng": "Are all your friends single?",
-    "fre": "Tous tes amis sont-ils célibataires ? / Tous vos amis sont-ils célibataires ?"
-  },
-  {
-    "eng": "He has been single since last year.",
-    "fre": "Il est célibataire depuis l'année dernière."
+    "fre": "Je n'ai pas d'amis célibataires; / tout le monde s'est marié."
   },
   {
     "eng": "Sophie is five years older than Marie.",
@@ -3689,38 +2821,38 @@
   },
   {
     "eng": "Pierre and Michel are two years younger than me.",
-    "fre": "Pierre et Michel ont deux ans de moins que moi."
+    "fre": "Pierre et Michel ont deux ans de / moins que moi."
   },
   {
     "eng": "Does Pierre have a twin?",
-    "fre": "Pierre a-t-il un jumeau ? / Est-ce que Pierre a un jumeau ?"
+    "fre": "Pierre a-t-il un jumeau? / Est-ce que Pierre a un jumeau?"
   },
   {
     "eng": "I saw Michelle with a woman who looked like her twin.",
-    "fre": "J'ai vu Michelle avec une femme qui ressemblait à sa jumelle."
+    "fre": "J'ai vu Michelle avec une femme qui a / ressemblé à sa jumelle."
   },
   {
     "eng": "I get on well with my brother, but he is ten years older than me.",
-    "fre": "Je m'entends bien avec mon frère, mais il a dix ans de plus que moi."
+    "fre": "Je m'entends bien avec mon frère, / mais il a dix ans de plus que moi."
   },
   {
     "eng": "Sophie annoys me a lot, but I get on with her twin sister.",
-    "fre": "Sophie m'énerve beaucoup, mais je m'entends avec sa sœur jumelle."
+    "fre": "Sophie m'énerve beaucoup, mais / je m'entends avec sa sœur jumelle."
   },
   {
     "eng": "Do I annoy you?",
-    "fre": "Est-ce que je t'énerve ? / Est-ce que je vous énerve ?"
+    "fre": "Est-ce que je t'énerve? / Est-ce que je vous énerve?"
   },
   {
     "eng": "I prefer being single because I like doing what I want when I want.",
-    "fre": "Je préfère être célibataire parce que j'aime faire ce que je veux quand je veux."
+    "fre": "Je préfère être célibataire parce que j'aime faire ce que je veux quand je veux"
   },
   {
     "eng": "I think Marie got married last year.",
-    "fre": "Je pense que Marie s'est mariée l'année dernière."
+    "fre": "Je pense que Marie s'est / mariée l'année dernière."
   },
   {
     "eng": "I think we get on very well.",
-    "fre": "Je pense que nous nous entendons très bien."
+    "fre": "Je pense que nous nous / entendons très bien."
   }
 ]
