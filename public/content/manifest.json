@@ -385,23 +385,8 @@
     }
   ],
   "sections": [
-    {
-      "id": "test",
-      "title": "testing",
-      "icon": "🏗️",
-      "description": "testing123",
-      "type": "folder",
-      "children": [
-        {
-          "id": "test-1",
-          "title": "Test Structure 1",
-          "type": "song",
-          "version": 1,
-          "cardCount": 50,
-          "url": "/content/test/test.json"
-        }
-      ]
-   }
+  
+    
 
   ]
 }
