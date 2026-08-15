@@ -384,5 +384,15 @@
       "url": "/content/songs/song_jusqua_mon_dernier_souffle_pronunciation_cards.json"
     }
   ],
+  "test": [
+    {
+      "id": "test_song",
+      "type": "song",
+      "title": "test",
+      "version": 1,
+      "cardCount": 56,
+      "url": "/content/test/test.json"
+    }
+  ],
   "sections": []
 }
